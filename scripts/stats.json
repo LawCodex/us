@@ -1,0 +1,582 @@
+{
+ "01": {
+  "bytes": 134259,
+  "chapters": 3,
+  "dir": "title-01-general-provisions",
+  "files": 4,
+  "heading": "Title 1\u2014GENERAL PROVISIONS",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 39
+ },
+ "02": {
+  "bytes": 4002885,
+  "chapters": 54,
+  "dir": "title-02-the-congress",
+  "files": 55,
+  "heading": "Title 2\u2014THE CONGRESS",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 1612
+ },
+ "03": {
+  "bytes": 467222,
+  "chapters": 5,
+  "dir": "title-03-the-president",
+  "files": 6,
+  "heading": "Title 3\u2014THE PRESIDENT",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 64
+ },
+ "04": {
+  "bytes": 130446,
+  "chapters": 5,
+  "dir": "title-04-flag-and-seal-seat-of-government-and-the-states",
+  "files": 6,
+  "heading": "Title 4\u2014FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 47
+ },
+ "05": {
+  "bytes": 8909961,
+  "chapters": 63,
+  "dir": "title-05-government-organization-and-employees",
+  "files": 64,
+  "heading": "Title 5\u2014GOVERNMENT ORGANIZATION AND EMPLOYEES",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 1163
+ },
+ "05a": {
+  "bytes": 1230251,
+  "chapters": 4,
+  "dir": "title-05a-appendix",
+  "files": 5,
+  "heading": "Title 5\u2014APPENDIX FEDERAL ADVISORY COMMITTEE ACT",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 19
+ },
+ "06": {
+  "bytes": 2955947,
+  "chapters": 6,
+  "dir": "title-06-domestic-security",
+  "files": 7,
+  "heading": "Title 6\u2014DOMESTIC SECURITY",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 569
+ },
+ "07": {
+  "bytes": 13713687,
+  "chapters": 130,
+  "dir": "title-07-agriculture",
+  "files": 131,
+  "heading": "Title 7\u2014AGRICULTURE",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 2926
+ },
+ "08": {
+  "bytes": 4004368,
+  "chapters": 16,
+  "dir": "title-08-aliens-and-nationality",
+  "files": 17,
+  "heading": "Title 8\u2014ALIENS AND NATIONALITY",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 376
+ },
+ "09": {
+  "bytes": 44029,
+  "chapters": 4,
+  "dir": "title-09-arbitration",
+  "files": 5,
+  "heading": "Title 9\u2014ARBITRATION",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 33
+ },
+ "10": {
+  "bytes": 26611313,
+  "chapters": 350,
+  "dir": "title-10-armed-forces",
+  "files": 351,
+  "heading": "Title 10\u2014ARMED FORCES",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 4033
+ },
+ "11": {
+  "bytes": 2246310,
+  "chapters": 9,
+  "dir": "title-11-bankruptcy",
+  "files": 10,
+  "heading": "Title 11\u2014BANKRUPTCY",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 280
+ },
+ "11a": {
+  "bytes": 1247647,
+  "chapters": 1,
+  "dir": "title-11a-appendix",
+  "files": 2,
+  "heading": "Title 11\u2014APPENDIX BANKRUPTCY RULES",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 0
+ },
+ "12": {
+  "bytes": 12427938,
+  "chapters": 62,
+  "dir": "title-12-banks-and-banking",
+  "files": 63,
+  "heading": "Title 12\u2014BANKS AND BANKING",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 1996
+ },
+ "13": {
+  "bytes": 248217,
+  "chapters": 6,
+  "dir": "title-13-census",
+  "files": 7,
+  "heading": "Title 13\u2014CENSUS",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 70
+ },
+ "14": {
+  "bytes": 1729262,
+  "chapters": 17,
+  "dir": "title-14-coast-guard",
+  "files": 18,
+  "heading": "Title 14\u2014COAST GUARD",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 449
+ },
+ "15": {
+  "bytes": 15659587,
+  "chapters": 153,
+  "dir": "title-15-commerce-and-trade",
+  "files": 154,
+  "heading": "Title 15\u2014COMMERCE AND TRADE",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 2701
+ },
+ "16": {
+  "bytes": 16391200,
+  "chapters": 153,
+  "dir": "title-16-conservation",
+  "files": 154,
+  "heading": "Title 16\u2014CONSERVATION",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 5095
+ },
+ "17": {
+  "bytes": 1640147,
+  "chapters": 15,
+  "dir": "title-17-copyrights",
+  "files": 16,
+  "heading": "Title 17\u2014COPYRIGHTS",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 153
+ },
+ "18": {
+  "bytes": 6128122,
+  "chapters": 141,
+  "dir": "title-18-crimes-and-criminal-procedure",
+  "files": 142,
+  "heading": "Title 18\u2014CRIMES AND CRIMINAL PROCEDURE",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 1399
+ },
+ "18a": {
+  "bytes": 1484815,
+  "chapters": 4,
+  "dir": "title-18a-appendix",
+  "files": 5,
+  "heading": "Title 18\u2014APPENDIX UNLAWFUL POSSESSION OR RECEIPT OF FIREARMS",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 27
+ },
+ "19": {
+  "bytes": 7392434,
+  "chapters": 30,
+  "dir": "title-19-customs-duties",
+  "files": 31,
+  "heading": "Title 19\u2014CUSTOMS DUTIES",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 1111
+ },
+ "20": {
+  "bytes": 10706519,
+  "chapters": 86,
+  "dir": "title-20-education",
+  "files": 87,
+  "heading": "Title 20\u2014EDUCATION",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 2029
+ },
+ "21": {
+  "bytes": 6370676,
+  "chapters": 31,
+  "dir": "title-21-food-and-drugs",
+  "files": 32,
+  "heading": "Title 21\u2014FOOD AND DRUGS",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 757
+ },
+ "22": {
+  "bytes": 14674057,
+  "chapters": 128,
+  "dir": "title-22-foreign-relations-and-intercourse",
+  "files": 129,
+  "heading": "Title 22\u2014FOREIGN RELATIONS AND INTERCOURSE",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 3485
+ },
+ "23": {
+  "bytes": 3256689,
+  "chapters": 6,
+  "dir": "title-23-highways",
+  "files": 7,
+  "heading": "Title 23\u2014HIGHWAYS",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 172
+ },
+ "24": {
+  "bytes": 296253,
+  "chapters": 11,
+  "dir": "title-24-hospitals-and-asylums",
+  "files": 12,
+  "heading": "Title 24\u2014HOSPITALS AND ASYLUMS",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 162
+ },
+ "25": {
+  "bytes": 4537539,
+  "chapters": 58,
+  "dir": "title-25-indians",
+  "files": 59,
+  "heading": "Title 25\u2014INDIANS",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 2400
+ },
+ "26": {
+  "bytes": 26752219,
+  "chapters": 72,
+  "dir": "title-26-internal-revenue-code",
+  "files": 99,
+  "heading": "Title 26\u2014INTERNAL REVENUE CODE",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 2161
+ },
+ "27": {
+  "bytes": 126630,
+  "chapters": 10,
+  "dir": "title-27-intoxicating-liquors",
+  "files": 11,
+  "heading": "Title 27\u2014INTOXICATING LIQUORS",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 45
+ },
+ "28": {
+  "bytes": 4259107,
+  "chapters": 79,
+  "dir": "title-28-judiciary-and-judicial-procedure",
+  "files": 80,
+  "heading": "Title 28\u2014JUDICIARY AND JUDICIAL PROCEDURE",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 806
+ },
+ "28a": {
+  "bytes": 3365312,
+  "chapters": 5,
+  "dir": "title-28a-appendix",
+  "files": 6,
+  "heading": "Title 28\u2014APPENDIX JUDICIAL PERSONNEL FINANCIAL DISCLOSURE REQUIREMENTS",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 0
+ },
+ "29": {
+  "bytes": 5820596,
+  "chapters": 36,
+  "dir": "title-29-labor",
+  "files": 37,
+  "heading": "Title 29\u2014LABOR",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 844
+ },
+ "30": {
+  "bytes": 2362515,
+  "chapters": 34,
+  "dir": "title-30-mineral-lands-and-mining",
+  "files": 35,
+  "heading": "Title 30\u2014MINERAL LANDS AND MINING",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 626
+ },
+ "31": {
+  "bytes": 3874405,
+  "chapters": 31,
+  "dir": "title-31-money-and-finance",
+  "files": 32,
+  "heading": "Title 31\u2014MONEY AND FINANCE",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 498
+ },
+ "32": {
+  "bytes": 381906,
+  "chapters": 5,
+  "dir": "title-32-national-guard",
+  "files": 6,
+  "heading": "Title 32\u2014NATIONAL GUARD",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 78
+ },
+ "33": {
+  "bytes": 6229476,
+  "chapters": 57,
+  "dir": "title-33-navigation-and-navigable-waters",
+  "files": 58,
+  "heading": "Title 33\u2014NAVIGATION AND NAVIGABLE WATERS",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 1569
+ },
+ "34": {
+  "bytes": 3998914,
+  "chapters": 36,
+  "dir": "title-34-crime-control-and-law-enforcement",
+  "files": 37,
+  "heading": "Title 34\u2014CRIME CONTROL AND LAW ENFORCEMENT",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 795
+ },
+ "35": {
+  "bytes": 972475,
+  "chapters": 25,
+  "dir": "title-35-patents",
+  "files": 26,
+  "heading": "Title 35\u2014PATENTS",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 175
+ },
+ "36": {
+  "bytes": 1993261,
+  "chapters": 132,
+  "dir": "title-36-patriotic-and-national-observances-ceremonies-and",
+  "files": 133,
+  "heading": "Title 36\u2014PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS",
+  "positive_law": true,
+  "release_point": "119-36",
+  "sections": 1173
+ },
+ "37": {
+  "bytes": 1712125,
+  "chapters": 12,
+  "dir": "title-37-pay-and-allowances-of-the-uniformed-services",
+  "files": 13,
+  "heading": "Title 37\u2014PAY AND ALLOWANCES OF THE UNIFORMED SERVICES",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 234
+ },
+ "38": {
+  "bytes": 9279922,
+  "chapters": 47,
+  "dir": "title-38-veterans-benefits",
+  "files": 48,
+  "heading": "Title 38\u2014VETERANS\u2019 BENEFITS",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 1198
+ },
+ "39": {
+  "bytes": 850652,
+  "chapters": 22,
+  "dir": "title-39-postal-service",
+  "files": 23,
+  "heading": "Title 39\u2014POSTAL SERVICE",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 181
+ },
+ "40": {
+  "bytes": 1800096,
+  "chapters": 45,
+  "dir": "title-40-public-buildings-property-and-works",
+  "files": 46,
+  "heading": "Title 40\u2014PUBLIC BUILDINGS, PROPERTY, AND WORKS",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 459
+ },
+ "41": {
+  "bytes": 1338974,
+  "chapters": 27,
+  "dir": "title-41-public-contracts",
+  "files": 28,
+  "heading": "Title 41\u2014PUBLIC CONTRACTS",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 241
+ },
+ "42": {
+  "bytes": 57343946,
+  "chapters": 195,
+  "dir": "title-42-the-public-health-and-welfare",
+  "files": 255,
+  "heading": "Title 42\u2014THE PUBLIC HEALTH AND WELFARE",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 8465
+ },
+ "43": {
+  "bytes": 4046555,
+  "chapters": 59,
+  "dir": "title-43-public-lands",
+  "files": 60,
+  "heading": "Title 43\u2014PUBLIC LANDS",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 1464
+ },
+ "44": {
+  "bytes": 1395656,
+  "chapters": 23,
+  "dir": "title-44-public-printing-and-documents",
+  "files": 24,
+  "heading": "Title 44\u2014PUBLIC PRINTING AND DOCUMENTS",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 356
+ },
+ "45": {
+  "bytes": 1757423,
+  "chapters": 22,
+  "dir": "title-45-railroads",
+  "files": 23,
+  "heading": "Title 45\u2014RAILROADS",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 294
+ },
+ "46": {
+  "bytes": 3790391,
+  "chapters": 108,
+  "dir": "title-46-shipping",
+  "files": 109,
+  "heading": "Title 46\u2014SHIPPING",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 1032
+ },
+ "47": {
+  "bytes": 3049530,
+  "chapters": 16,
+  "dir": "title-47-telecommunications",
+  "files": 17,
+  "heading": "Title 47\u2014TELECOMMUNICATIONS",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 432
+ },
+ "48": {
+  "bytes": 2506597,
+  "chapters": 21,
+  "dir": "title-48-territories-and-insular-possessions",
+  "files": 22,
+  "heading": "Title 48\u2014TERRITORIES AND INSULAR POSSESSIONS",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 661
+ },
+ "49": {
+  "bytes": 11911973,
+  "chapters": 114,
+  "dir": "title-49-transportation",
+  "files": 115,
+  "heading": "Title 49\u2014TRANSPORTATION",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 1371
+ },
+ "50": {
+  "bytes": 7625213,
+  "chapters": 62,
+  "dir": "title-50-war-and-national-defense",
+  "files": 63,
+  "heading": "Title 50\u2014WAR AND NATIONAL DEFENSE",
+  "positive_law": false,
+  "release_point": "119-59",
+  "sections": 1425
+ },
+ "50a": {
+  "bytes": 944,
+  "chapters": 0,
+  "dir": "title-50a-appendix",
+  "files": 1,
+  "heading": "Title 50\u2014APPENDIX WAR AND NATIONAL DEFENSE [ELIMINATED] Current through 114\u201386u1",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 0
+ },
+ "51": {
+  "bytes": 1216334,
+  "chapters": 35,
+  "dir": "title-51-national-and-commercial-space-programs",
+  "files": 36,
+  "heading": "Title 51\u2014NATIONAL AND COMMERCIAL SPACE PROGRAMS",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 249
+ },
+ "52": {
+  "bytes": 842998,
+  "chapters": 10,
+  "dir": "title-52-voting-and-elections",
+  "files": 11,
+  "heading": "Title 52\u2014VOTING AND ELECTIONS",
+  "positive_law": false,
+  "release_point": "119-102not101",
+  "sections": 171
+ },
+ "54": {
+  "bytes": 1112857,
+  "chapters": 56,
+  "dir": "title-54-national-park-service-and-related-programs",
+  "files": 57,
+  "heading": "Title 54\u2014NATIONAL PARK SERVICE AND RELATED PROGRAMS",
+  "positive_law": true,
+  "release_point": "119-102not101",
+  "sections": 366
+ }
+}
