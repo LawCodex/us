@@ -1,0 +1,836 @@
+---
+title: "Title 54—NATIONAL PARK SERVICE AND RELATED PROGRAMS"
+identifier: "/us/usc/t54"
+type: code
+jurisdiction: us
+language: en
+status: in_force
+positive_law: true
+release_point: "119-102not101"
+source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54&edition=prelim"
+retrieved: 2026-10-11
+---
+
+# Title 54—NATIONAL PARK SERVICE AND RELATED PROGRAMS
+
+This title was enacted by Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3094
+
+Current through 119-102not101
+
+**Editorial Notes**
+
+**Amendments**
+
+2023—Pub. L. 117–339, § 2(d), Jan. 5, 2023, 136 Stat. 6163, which directed amendment of the analysis for subtitle I of this title by adding item for division C and chapter 1201, was executed to this analysis to reflect the probable intent of Congress.
+
+2022—Pub. L. 117–328, div. DD, title VI, § 643(b), Dec. 29, 2022, 136 Stat. 5614, added item for chapter 3086.
+
+2020—Pub. L. 116–152, § 2(b), Aug. 4, 2020, 134 Stat. 685, which directed amendment of the analysis for subtitle II of this title by adding item for chapter 2004, was executed to this analysis to reflect the probable intent of Congress.
+
+2019—Pub. L. 116–9, title II, § 2407(b), Mar. 12, 2019, 133 Stat. 750, substituted “African American Civil Rights Network” for “U.S. Civil Rights Network” in item for chapter 3084.
+
+2018—Pub. L. 115–104, § 3(b), Jan. 8, 2018, 131 Stat. 2261, added item for chapter 3084.
+
+2016—Pub. L. 114–289, title I, § 101(b), title III, § 301(b), Dec. 16, 2016, 130 Stat. 1484, 1487, added items for chapters 1008 and 1035.
+
+**Disposition Table**
+
+| Former United States Code Section | Disposition |
+|---|---|
+| 16 U.S.C. 1 (1st sentence words before 1st comma) | 54 U.S.C. 100301 |
+| 16 U.S.C. 1 (1st sentence words after 1st comma, 2d through 5th sentences) | 54 U.S.C. 100302 |
+| 16 U.S.C. 1 (last sentence) | 54 U.S.C. 100101 |
+| 16 U.S.C. 1a | Previously repealed. |
+| 16 U.S.C. 1a–1 | 54 U.S.C. 100101 |
+| 16 U.S.C. 1a–2 (matter before (a)) | 54 U.S.C. 100751, 100901, 100906, 101302, 101702, 101703, 102102 |
+| 16 U.S.C. 1a–2(a) | 54 U.S.C. 101302 |
+| 16 U.S.C. 1a–2(b) | 54 U.S.C. 101302 |
+| 16 U.S.C. 1a–2(c) | 54 U.S.C. 100906 |
+| 16 U.S.C. 1a–2(d) | 54 U.S.C. 101302 |
+| 16 U.S.C. 1a–2(e) | 54 U.S.C. 100901 |
+| 16 U.S.C. 1a–2(f) | 54 U.S.C. 100901 |
+| 16 U.S.C. 1a–2(g) | 54 U.S.C. 101702 |
+| 16 U.S.C. 1a–2(h) | 54 U.S.C. 100751 |
+| 16 U.S.C. 1a–2(i) | 54 U.S.C. 101302 |
+| 16 U.S.C. 1a–2(j) | 54 U.S.C. 101702 |
+| 16 U.S.C. 1a–2(k) | 54 U.S.C. 102102 |
+| 16 U.S.C. 1a–2*(l* ) | 54 U.S.C. 101703 |
+| 16 U.S.C. 1a–3 | 54 U.S.C. 100754 |
+| 16 U.S.C. 1a–4 | Repealed as obsolete. Provided that the uniform allowance for uniformed employees of the National Park Service may be up to $400 annually. Superseded by 5 U.S.C. 5901(a), which provides a uniform allowance of $400 for employees of each agency. |
+| 16 U.S.C. 1a–5 | 54 U.S.C. 100507 |
+| 16 U.S.C. 1a–6 | 54 U.S.C. 102701 |
+| 16 U.S.C. 1a–7(a) | Repealed as obsolete. Required the Secretary of the Interior to transmit to the Committee on Energy and National Resources of the Senate and the Committee on Natural Resources of the House of Representatives a detailed program for the development of facilities, structures, or buildings for each unit of the National Park System consistent with general management plans. Repealed as obsolete because of the termination of the reporting requirement with respect to Congress, effective May 15, 2000. See section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (Pub. L. 104–66, 31 U.S.C. 1113 note) and page 110 of House Document No. 103–7. |
+| 16 U.S.C. 1a–7(b) | 54 U.S.C. 100502 |
+| 16 U.S.C. 1a–7a | 54 U.S.C. 102702 |
+| 16 U.S.C. 1a–7b (relating to National Park System) | 54 U.S.C. 104906 |
+| 16 U.S.C. 1a–7b (relating to National Wildlife Refuge System) | See § 4(d) of bill. |
+| 16 U.S.C. 1a–8(a) | 54 U.S.C. 101301 |
+| 16 U.S.C. 1a–8(b) | Previously repealed. |
+| 16 U.S.C. 1a–9 through 1a–11 | 54 U.S.C. 100505 |
+| 16 U.S.C. 1a–12, 1a–13 | 54 U.S.C. 100506 |
+| 16 U.S.C. 1a–14 | 54 U.S.C. 100906 |
+| 16 U.S.C. 1b (matter before (1)) | 54 U.S.C. 100901, 101901, 102711 |
+| 16 U.S.C. 1b(1) | 54 U.S.C. 102711 |
+| 16 U.S.C. 1b(2) | 54 U.S.C. 100901 |
+| 16 U.S.C. 1b(3) | Not repealed but omitted from the text of title 54. Provides for transportation of employees of Carlsbad Caverns National Park. |
+| 16 U.S.C. 1b(4) | 54 U.S.C. 101901 |
+| 16 U.S.C. 1b(5) through (8) | 54 U.S.C. 100901 |
+| 16 U.S.C. 1c(a) | 54 U.S.C. 100501 |
+| 16 U.S.C. 1c(b) | 54 U.S.C. 100755 |
+| 16 U.S.C. 1d | 54 U.S.C. 103102 |
+| 16 U.S.C. 1e | 54 U.S.C. 102302 |
+| 16 U.S.C. 1f | 54 U.S.C. 101701 |
+| 16 U.S.C. 1g | 54 U.S.C. 101702 |
+| 16 U.S.C. 1h | 54 U.S.C. 103103 |
+| 16 U.S.C. 1i | 54 U.S.C. 101704 |
+| 16 U.S.C. 1j(a) through (c) | 54 U.S.C. 101702 |
+| 16 U.S.C. 1j(d) | Repealed as unnecessary. Authorized to be appropriated sums necessary to carry out this section. |
+| 16 U.S.C. 2 | 54 U.S.C. 100302 |
+| 16 U.S.C. 3 (1st sentence words before “and any violation”) | 54 U.S.C. 100751 |
+| 16 U.S.C. 3 (1st sentence words after “National Park Service”) | See § 4(a)(1) of bill. |
+| 16 U.S.C. 3 (2d sentence) | 54 U.S.C. 100753 |
+| 16 U.S.C. 3 (3d sentence) | 54 U.S.C. 100752 |
+| 16 U.S.C. 3 (last sentence) | 54 U.S.C. 102101 |
+| 16 U.S.C. 3a | 54 U.S.C. 103104 |
+| 16 U.S.C. 3b | Repealed as obsolete. Provided that privileges, leases, and permits granted by the Secretary to use land to accommodate park visitors could have provided for the maintenance and repair of Government improvements by the grantee. The grant authority was repealed in 1998. |
+| 16 U.S.C. 4 | 54 U.S.C. 100303 |
+| 16 U.S.C. 5 | 100902 |
+| 16 U.S.C. 6 | 54 U.S.C. 101101 |
+| 16 U.S.C. 6a | Previously repealed. |
+| 16 U.S.C. 7 | Previously repealed. |
+| 16 U.S.C. 7a through 7e | 54 U.S.C. 101501 |
+| 16 U.S.C. 8 | 54 U.S.C. 101511 |
+| 16 U.S.C. 8–1 | Previously repealed. |
+| 16 U.S.C. 8a through 8c | 54 U.S.C. 101511 |
+| 16 U.S.C. 8d | Repealed as unnecessary. National monuments are included in the term “System unit”. |
+| 16 U.S.C. 8e, 8f | 54 U.S.C. 101512 |
+| 16 U.S.C. 9 | Previously repealed. |
+| 16 U.S.C. 9a | Repealed as unnecessary. Under 16 U.S.C. 3 (1st sentence), restated as section 100751(a) of the new title, the Secretary of the Interior may make such regulations as the Secretary considers necessary or proper for the use and management of System units and a criminal penalty is provided for a violation of those regulations. |
+| 16 U.S.C. 10 | Previously repealed. |
+| 16 U.S.C. 10a | Previously repealed. |
+| 16 U.S.C. 11 | 54 U.S.C. 101303 |
+| 16 U.S.C. 12 | 54 U.S.C. 102712 |
+| 16 U.S.C. 13 | 54 U.S.C. 101303 |
+| 16 U.S.C. 14 | Previously repealed. |
+| 16 U.S.C. 14a | Repealed as obsolete and unnecessary. Made appropriations available for the printing of cloth information and directional signs. |
+| 16 U.S.C. 14b through 14e | 54 U.S.C. 103101 |
+| 16 U.S.C. 15 | 54 U.S.C. 103101 |
+| 16 U.S.C. 16 | 54 U.S.C. 104901 |
+| 16 U.S.C. 17 | 54 U.S.C. 101304 |
+| 16 U.S.C. 17a | Previously repealed. |
+| 16 U.S.C. 17b | 54 U.S.C. 104902 |
+| 16 U.S.C. 17b–1 | Previously repealed. |
+| 16 U.S.C. 17c | 54 U.S.C. 102712 |
+| 16 U.S.C. 17d | Repealed as obsolete. Provided that section 543 of former title 31 should not be construed to prohibit the acceptance of traveler’s checks and other forms of money equivalent in payment of automobile license fees, etc. charged at national parks. Section 543 was repealed by section 5(b) of Public Law 97–258. |
+| 16 U.S.C. 17e | 54 U.S.C. 104903 |
+| 16 U.S.C. 17f through 17h | 54 U.S.C. 101304 |
+| 16 U.S.C. 17i | 54 U.S.C. 104904 |
+| 16 U.S.C. 17j | 54 U.S.C. 101305 |
+| 16 U.S.C. 17j–1 | Repealed as obsolete. Provision relating to travel expenses for attendance of National Park Service field employees at authorized meetings was last enacted as section 1 (proviso in paragraph headed “General expenses” under heading “NATIONAL PARK SERVICE”) of the Interior Department Appropriations Act, 1941 (ch. 395, 54 Stat. 445) and was not repeated in subsequent appropriation acts. |
+| 16 U.S.C. 17j–2(a) | Not repealed but omitted from the text of title 54. Authorizes appropriations for necessary protection of various system units. |
+| 16 U.S.C. 17j–2(b) through (g) | 54 U.S.C. 103102 |
+| 16 U.S.C. 17j–2(h) | Not repealed but omitted from the text of title 54. Authorizes appropriations for acquisition of rights-of-way and maintenance of a water supply line outside the boundaries of Mesa Verde National Park. |
+| 16 U.S.C. 17j–2(i), (j) | 54 U.S.C. 103102 |
+| 16 U.S.C. 17k through 17n | 54 U.S.C. 100504 |
+| 16 U.S.C. 17*o* (1) | Not repealed but omitted from the text of title 54. Provides purposes of this section. |
+| 16 U.S.C. 17*o* (2) | 54 U.S.C. 101332 |
+| 16 U.S.C. 17*o* (3) | 54 U.S.C. 101333 |
+| 16 U.S.C. 17*o* (4) | Repealed as obsolete. Required that a report detailing the results of revisions of housing criteria be submitted to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than 180 days after November 12, 1996. |
+| 16 U.S.C. 17*o* (5) | Repealed as obsolete. Provided that the Secretary undertake a review of existing Government-owned housing provided to employees of the National Park Service. |
+| 16 U.S.C. 17*o* (6) | 54 U.S.C. 101334 |
+| 16 U.S.C. 17*o* (7), (8) | 54 U.S.C. 101335 |
+| 16 U.S.C. 17*o* (9) | 54 U.S.C. 101332 |
+| 16 U.S.C. 17*o* (10) | 54 U.S.C. 101336 |
+| 16 U.S.C. 17*o* (11) | 54 U.S.C. 101337 |
+| 16 U.S.C. 17*o* (12) | 54 U.S.C. 101339 |
+| 16 U.S.C. 17*o* (13), (14) | 54 U.S.C. 101340 |
+| 16 U.S.C. 17*o* (15) | Repealed as obsolete. Provided that within 12 months after November 12, 1996, the Secretary shall conduct a study to determine the feasibility of providing eligible employees of the National Park Service with housing allowances rather than Government housing. |
+| 16 U.S.C. 17*o* (16) | Repealed as obsolete. Provided that within 18 months after November 12, 1996, the Secretary complete a study of the sale of Government quarters to a cooperative consisting of field employees. |
+| 16 U.S.C. 17*o* (17)(A), (B) | 54 U.S.C. 101332 |
+| 16 U.S.C. 17*o* (17)(C) | 54 U.S.C. 101338 |
+| 16 U.S.C. 17*o* (18) | 54 U.S.C. 101338 |
+| 16 U.S.C. 17*o* (19) | 54 U.S.C. 101331 |
+| 16 U.S.C. 18 | Transfer to 15 U.S.C. 1544 |
+| 16 U.S.C. 18a | Transfer to 15 U.S.C. 1545 |
+| 16 U.S.C. 18b | Transfer to 15 U.S.C. 1546 |
+| 16 U.S.C. 18c | Transfer to 15 U.S.C. 1547 |
+| 16 U.S.C. 18d | Transfer to 15 U.S.C. 1548 |
+| 16 U.S.C. 18e | Previously repealed. |
+| 16 U.S.C. 18f (1st sentence) | 54 U.S.C. 102501 |
+| 16 U.S.C. 18f (less 1st sentence) | 54 U.S.C. 102503 |
+| 16 U.S.C. 18f–1 | Not repealed but omitted from text of title 54. Provides that the Secretary may exercise the authorities granted in 16 U.S.C. 18f in administration of the Department of the Interior Museum and may dispose of unnecessary or duplicate museum objects. |
+| 16 U.S.C. 18f–2(a) | 54 U.S.C. 102503 |
+| 16 U.S.C. 18f–2(b) | 54 U.S.C. 102504 |
+| 16 U.S.C. 18f–3(a) | Repealed as obsolete. Provided that authorities were available to the Secretary with regard to museum objects and collections under the administrative jurisdiction of the Secretary before November 12, 1996, as well as those acquired on or after November 12, 1996. |
+| 16 U.S.C. 18f–3(b) | 54 U.S.C. 102502 |
+| 16 U.S.C. 18g through 18j | 54 U.S.C. 102301 |
+| 16 U.S.C. 19 through 19c | Previously repealed. |
+| 16 U.S.C. 19d | Previously repealed. |
+| 16 U.S.C. 19e | 54 U.S.C. 101111 |
+| 16 U.S.C. 19f | 54 U.S.C. 101112 |
+| 16 U.S.C. 19g | 54 U.S.C. 101113 |
+| 16 U.S.C. 19h | 54 U.S.C. 101114 |
+| 16 U.S.C. 19i | 54 U.S.C. 101115 |
+| 16 U.S.C. 19j | 54 U.S.C. 101116 |
+| 16 U.S.C. 19k | 54 U.S.C. 101117 |
+| 16 U.S.C. 19*l* | 54 U.S.C. 101118 |
+| 16 U.S.C. 19m | 54 U.S.C. 101119 |
+| 16 U.S.C. 19n | Repealed as obsolete. Required the National Park Foundation to transmit to Congress an annual report of its proceedings and activities. Repealed as obsolete because of the termination of the reporting requirement with respect to Congress, effective May 15, 2000. See section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (Pub. L. 104–66, 31 U.S.C. 1113 note) and page 204 of House Document No. 103–7. |
+| 16 U.S.C. 19*o* | 54 U.S.C. 101120 |
+| 16 U.S.C. 19aa through 19gg | Previously repealed. |
+| 16 U.S.C. 19jj | 54 U.S.C. 100721 |
+| 16 U.S.C. 19jj–1 | 54 U.S.C. 100722 |
+| 16 U.S.C. 19jj–2 | 54 U.S.C. 100723 |
+| 16 U.S.C. 19jj–3 | 54 U.S.C. 100724 |
+| 16 U.S.C. 19jj–4 | 54 U.S.C. 100725 |
+| 16 U.S.C. 20 through 20g | Previously repealed. |
+| 16 U.S.C. 79 | 54 U.S.C. 100902 |
+| 16 U.S.C. 411 | 54 U.S.C. 103301 |
+| 16 U.S.C. 412 | 54 U.S.C. 103302 |
+| 16 U.S.C. 413 | See § 4(a)(1) of bill. |
+| 16 U.S.C. 414 | See § 4(a)(1) of bill. |
+| 16 U.S.C. 415 | Previously repealed. |
+| 16 U.S.C. 416 | 54 U.S.C. 103304 |
+| 16 U.S.C. 417 | Repealed as obsolete. Authorized acceptance of donations of land for road or other purposes. It is considered obsolete by the Judge Advocate General. See J.A.G. 601.1, June 27, 1935. |
+| 16 U.S.C. 418 | Previously repealed. |
+| 16 U.S.C. 419 | Previously transferred to 16 U.S.C. 79. |
+| 16 U.S.C. 420 | Not repealed but omitted from the text of title 54. |
+| 16 U.S.C. 421 | 54 U.S.C. 103303 |
+| 16 U.S.C. 431 | 54 U.S.C. 320301 |
+| 16 U.S.C. 431a | 54 U.S.C. 320301 |
+| 16 U.S.C. 432 (1st sentence) | 54 U.S.C. 320302 |
+| 16 U.S.C. 432 (last sentence) | 54 U.S.C. 320303 |
+| 16 U.S.C. 433 | See § 4(a)(1) of bill. |
+| 16 U.S.C. 451 | Previously repealed. |
+| 16 U.S.C. 451a | 54 U.S.C. 104907 |
+| 16 U.S.C. 452 | Repealed as unnecessary. Provided that all revenues of the national parks be covered into the Treasury to the credit of miscellaneous receipts. Unnecessary because 31 U.S.C. 3302(b) provides that an official or agent of the Government receiving money for the Government shall deposit the money in the Treasury. |
+| 16 U.S.C. 452a | 54 U.S.C. 101102 |
+| 16 U.S.C. 453 | Not repealed but omitted from the text of title 54. Provides for the acceptance for park purposes of land and rights-of-way near or adjacent to the Government national forest in western North Carolina. |
+| 16 U.S.C. 454 | Previously repealed. |
+| 16 U.S.C. 455 through 455c | 54 U.S.C. 103306 |
+| 16 U.S.C. 456 | Repealed as unnecessary because appropriations made for the administration, protection, and maintenance of national parks and national monuments include the authority that the appropriations shall be available for the expense of depositing public money, as required under 31 U.S.C. 3302(b). |
+| 16 U.S.C. 456a | 54 U.S.C. 103101 |
+| 16 U.S.C. 457 | See § 4(b)(1) of bill. |
+| 16 U.S.C. 458 | 54 U.S.C. 103305 |
+| 16 U.S.C. 458a | 54 U.S.C. 104908 |
+| 16 U.S.C. 460*l* | 54 U.S.C. 200101 |
+| 16 U.S.C. 460*l*–1 | 54 U.S.C. 200103 |
+| 16 U.S.C. 460*l*–2 | 54 U.S.C. 200104 |
+| 16 U.S.C. 460*l*–3 | 54 U.S.C. 200102 |
+| 16 U.S.C. 460*l*–4 | Not repealed but omitted from the text of title 54. Provides purposes of this part. |
+| 16 U.S.C. 460*l*–5 | 54 U.S.C. 200302 |
+| 16 U.S.C. 460*l*–5a | Previously repealed. |
+| 16 U.S.C. 460*l*–6 | 54 U.S.C. 200303 |
+| 16 U.S.C. 460*l*–6a(a) through (g) | Previously repealed. |
+| 16 U.S.C. 460*l*–6a(h) | Previously repealed. |
+| 16 U.S.C. 460*l*–6a(i)(1)(A), (B) | Previously repealed. |
+| 16 U.S.C. 460*l*–6a(i)(1)(C) | 54 U.S.C. 100904 |
+| 16 U.S.C. 460*l*–6a(i)(2) through (4) | Previously repealed. |
+| 16 U.S.C. 460*l*–6a(j) through (n) | 54 U.S.C. 100904 |
+| 16 U.S.C. 460*l*–6b | Previously repealed. |
+| 16 U.S.C. 460*l*–6c | Outside scope of this codification. Authorizes the Secretary of Agriculture to charge admission or entrance fees at national monuments, national volcanic monuments, national scenic areas, and areas of concentrated public use administered by the Secretary and recreation fees at land administered by the Secretary in connection with the use of specialized outdoor recreation sites, equipment, services, and facilities. |
+| 16 U.S.C. 460*l*–6d (relating to the National Park Service) | 54 U.S.C. 100905 |
+| 16 U.S.C. 460*l*–6d (less National Park Service) | See §4(c) of bill. |
+| 16 U.S.C. 460*l*–7 | 54 U.S.C. 200304 |
+| 16 U.S.C. 460*l*–8(b)(5) (last sentence) | 54 U.S.C. 200301 |
+| 16 U.S.C. 460*l*–8 (less (b)(5) (last sentence)) | 54 U.S.C. 200305 |
+| 16 U.S.C. 460*l*–9(a), (b) | 54 U.S.C. 200306 |
+| 16 U.S.C. 460*l*–9(c) | 54 U.S.C. 100506 |
+| 16 U.S.C. 460*l*–10 | 54 U.S.C. 200307 |
+| 16 U.S.C. 460*l*–10a | 54 U.S.C. 200308 |
+| 16 U.S.C. 460*l*–10b | 54 U.S.C. 200309 |
+| 16 U.S.C. 460*l*–10c | Repealed as obsolete. Repealed provisions of law that prohibited collection of recreation fees or user charges or that restricted the expenditure of funds if the fees or charges were collected. |
+| 16 U.S.C. 460*l*–10d | Repealed as obsolete. Required the Secretary, within 1 year after September 28, 1976, to submit a report to the Committees on Interior and Insular Affairs of the Senate and House of Representatives on the needs, problems, and opportunities associated with urban recreation in highly populated areas. |
+| 16 U.S.C. 460*l*–10e | Repealed as obsolete. Created an advisory committee to review the opportunities for enhanced opportunities for water-based recreation, which was to submit a report to the President, the Committee on Energy and Natural Resources of the Senate, and the Committee on Transportation and Infrastructure and the Committee on Resources of the House of Representatives within 1 year from November 12, 1996. |
+| 16 U.S.C. 460*l*–11 | 54 U.S.C. 200310 |
+| 16 U.S.C. 460*l*–22(a), (b) | 54 U.S.C. 102901 |
+| 16 U.S.C. 460*l*–22(c) | 54 U.S.C. 100903 |
+| 16 U.S.C. 460*l*–22(d) | 54 U.S.C. 102901 |
+| 16 U.S.C. 461 | 54 U.S.C. 320101 |
+| 16 U.S.C. 462(a) through (k) (1st sentence) | 54 U.S.C. 320102 |
+| 16 U.S.C. 462(k) (last sentence) | See § 4(a)(1) of bill. |
+| 16 U.S.C. 463(a) through (f) | 54 U.S.C. 102303 |
+| 16 U.S.C. 463(g) | 54 U.S.C. 102304 |
+| 16 U.S.C. 464 | 54 U.S.C. 320103 |
+| 16 U.S.C. 465 | 54 U.S.C. 320104 |
+| 16 U.S.C. 466(a) | 54 U.S.C. 320106 |
+| 16 U.S.C. 466(b) | Repealed as obsolete. Provided that nothing in 16 U.S.C. 466 prohibited or limited the expenditure or obligation of funds appropriated prior to January 1, 1993. |
+| 16 U.S.C. 466(c) | Repealed as unnecessary. Authorized to be appropriated sums necessary to carry out sections 461 to 467. |
+| 16 U.S.C. 467 | Repealed as obsolete and unnecessary. Provided that the provisions of 16 U.S.C. 461 to 467 control if there is a conflict with another Act. The section only applied to laws enacted before August 21, 1935. In addition, it is a general rule that a later enacted law controls if there is a conflict. |
+| 16 U.S.C. 467a, 467a–1 | Previously repealed. |
+| 16 U.S.C. 467b(a) through (c) | 54 U.S.C. 309101 |
+| 16 U.S.C. 467b(d) | Repealed as unnecessary. Authorized to be appropriated sums necessary to carry out this section. |
+| 16 U.S.C. 468 | 54 U.S.C. 312102 |
+| 16 U.S.C. 468a | 54 U.S.C. 312103 |
+| 16 U.S.C. 468b | 54 U.S.C. 312104 |
+| 16 U.S.C. 468c | 54 U.S.C. 312105 |
+| 16 U.S.C. 468d | 54 U.S.C. 312106. |
+| 16 U.S.C. 468e | Previously repealed. |
+| 16 U.S.C. 469 | Not repealed but omitted from the text of title 54. Provides purpose of 16 U.S.C. 469 to 469c–1. |
+| 16 U.S.C. 469a | 54 U.S.C. 312505 |
+| 16 U.S.C. 469a–1 | 54 U.S.C. 312502 |
+| 16 U.S.C. 469a–2 | 54 U.S.C. 312503 |
+| 16 U.S.C. 469a–3 | 54 U.S.C. 312504 |
+| 16 U.S.C. 469b | 54 U.S.C. 312506 |
+| 16 U.S.C. 469c | 54 U.S.C. 312507 |
+| 16 U.S.C. 469c–1 | 54 U.S.C. 312501 |
+| 16 U.S.C. 469c–2 | 54 U.S.C. 312508 |
+| 16 U.S.C. 469j(a) | 54 U.S.C. 312302 |
+| 16 U.S.C. 469j(b) | 54 U.S.C. 312303 |
+| 16 U.S.C. 469j(c) | 54 U.S.C. 312304 |
+| 16 U.S.C. 469j(d) through (f) | 54 U.S.C. 312303 |
+| 16 U.S.C. 469j(g) | 54 U.S.C. 312304 |
+| 16 U.S.C. 469j(h) | 54 U.S.C. 312305 |
+| 16 U.S.C. 469k | Previously repealed. |
+| 16 U.S.C. 469k–1(a) | Not repealed but omitted from the text of title 54. Provides purpose of this section. |
+| 16 U.S.C. 469k–1(b) | 54 U.S.C. 308102 |
+| 16 U.S.C. 469k–1(c)(1)(A) through (C) | 54 U.S.C. 308103 |
+| 16 U.S.C. 469k–1(c)(1)(D) | 54 U.S.C. 308101 |
+| 16 U.S.C. 469k–1(c)(2) through (6) | 54 U.S.C. 308103 |
+| 16 U.S.C. 469*l* (a) | Not repealed but omitted from the text of title 54. Provides findings for 16 U.S.C. 469*l* to 469*l*–3. |
+| 16 U.S.C. 469*l* (b) | Not repealed but omitted from the text of title 54. Provides purposes of 16 U.S.C. 469*l* to 469*l*–3. |
+| 16 U.S.C. 469*l*–1 | 54 U.S.C. 308302 |
+| 16 U.S.C. 469*l*–2 | 54 U.S.C. 308303 |
+| 16 U.S.C. 469*l*–3 | 54 U.S.C. 308304 |
+| 16 U.S.C. 469m(a) | Outside the scope of this codification. Section 7111(a) of the Omnibus Public Land Management Act of 2009 (Public Law 111–11, 123 Stat. 1199), which established the Votes for Women’s History Trail Route, is classified to 16 U.S.C. 410*ll*–1. |
+| 16 U.S.C. 469m(b) | 54 U.S.C. 308501 |
+| 16 U.S.C. 469m(c) | 54 U.S.C. 308502 |
+| 16 U.S.C. 469n(a) | Not repealed but omitted from the text of title 54. Provides purpose of this section. |
+| 16 U.S.C. 469n(b) | 54 U.S.C. 311101 |
+| 16 U.S.C. 469n(c) | 54 U.S.C. 311102 |
+| 16 U.S.C. 469n(d) | 54 U.S.C. 311103 |
+| 16 U.S.C. 469n(e) | 54 U.S.C. 311104 |
+| 16 U.S.C. 469n(f) | 54 U.S.C. 311105 |
+| 16 U.S.C. 469*o* (a) | 54 U.S.C. 308902 |
+| 16 U.S.C. 469*o* (b) | 54 U.S.C. 308901 |
+| 16 U.S.C. 469*o* (c)(1) | 54 U.S.C. 308902 |
+| 16 U.S.C. 469*o* (c)(2) through (7) | 54 U.S.C. 308903 |
+| 16 U.S.C. 469*o* (d) | 54 U.S.C. 308904 |
+| 16 U.S.C. 469*o* (e) | 54 U.S.C. 308905 |
+| 16 U.S.C. 470(a) | Not repealed but omitted from the text of title 54. Provides short title of this subchapter. |
+| 16 U.S.C. 470(b) | Not repealed but omitted from the text of title 54. Provides findings for this subchapter. |
+| 16 U.S.C. 470–1 | 54 U.S.C. 300101 |
+| 16 U.S.C. 470a(a)(1)(A) (1st sentence) | 54 U.S.C. 302101 |
+| 16 U.S.C. 470a(a)(1)(A) (last sentence) | 54 U.S.C. 302106 |
+| 16 U.S.C. 470a(a)(1)(B) | 54 U.S.C. 302102 |
+| 16 U.S.C. 470a(a)(2) | 54 U.S.C. 302103 |
+| 16 U.S.C. 470a(a)(3) through (5) | 54 U.S.C. 302104 |
+| 16 U.S.C. 470a(a)(6) | 54 U.S.C. 302105 |
+| 16 U.S.C. 470a(a)(7) | 54 U.S.C. 302107 |
+| 16 U.S.C. 470a(a)(8) | 54 U.S.C. 302108 |
+| 16 U.S.C. 470a(b)(1) | 54 U.S.C. 302301 |
+| 16 U.S.C. 470a(b)(2) | 54 U.S.C. 302302 |
+| 16 U.S.C. 470a(b)(3) | 54 U.S.C. 302303 |
+| 16 U.S.C. 470a(b)(4) | 54 U.S.C. 302304 |
+| 16 U.S.C. 470a(b)(5) | Repealed as obsolete. Provided that any State historic preservation program in effect under prior authority of law could be treated as an approved program for purposes of 16 U.S.C. 470a(b) until the earlier of the date on which the Secretary approved a program submitted by the State under 16 U.S.C. 470a(b) or 3 years after December 12, 1992. |
+| 16 U.S.C. 470a(b)(6) | 54 U.S.C. 302304 |
+| 16 U.S.C. 470a(c)(1) (1st sentence) | 54 U.S.C. 302502 |
+| 16 U.S.C. 470a(c)(1) (2d, last sentences) | 54 U.S.C. 302503 |
+| 16 U.S.C. 470a(c)(2) | 54 U.S.C. 302504 |
+| 16 U.S.C. 470a(c)(3) | 54 U.S.C. 302505 |
+| 16 U.S.C. 470a(c)(4) | 54 U.S.C. 302501 |
+| 16 U.S.C. 470a(d)(1) | 54 U.S.C. 302701 |
+| 16 U.S.C. 470a(d)(2) | 54 U.S.C. 302702 |
+| 16 U.S.C. 470a(d)(3) | 54 U.S.C. 302703 |
+| 16 U.S.C. 470a(d)(4) | 54 U.S.C. 302704 |
+| 16 U.S.C. 470a(d)(5) | 54 U.S.C. 302705 |
+| 16 U.S.C. 470a(d)(6) | 54 U.S.C. 302706 |
+| 16 U.S.C. 470a(e)(1) | 54 U.S.C. 302902 |
+| 16 U.S.C. 470a(e)(2) | 54 U.S.C. 302903 |
+| 16 U.S.C. 470a(e)(3)(A) | 54 U.S.C. 302904 |
+| 16 U.S.C. 470a(e)(3)(B) | 54 U.S.C. 302906 |
+| 16 U.S.C. 470a(e)(3)(C) | 54 U.S.C. 302904 |
+| 16 U.S.C. 470a(e)(4) | 54 U.S.C. 302905 |
+| 16 U.S.C. 470a(e)(5) | 54 U.S.C. 302907 |
+| 16 U.S.C. 470a(e)(6) | 54 U.S.C. 302908 |
+| 16 U.S.C. 470a(f) | 54 U.S.C. 302909 |
+| 16 U.S.C. 470a(g), (h) | 54 U.S.C. 306101 |
+| 16 U.S.C. 470a(i) | 54 U.S.C. 303902 |
+| 16 U.S.C. 470a(j) | 54 U.S.C. 303903 |
+| 16 U.S.C. 470a–1 | 54 U.S.C. 307101 |
+| 16 U.S.C. 470a–2 | 54 U.S.C. 307101 |
+| 16 U.S.C. 470b(a) (1st sentence paragraph (1)) | 54 U.S.C. 302901 |
+| 16 U.S.C. 470b(a) (1st sentence paragraphs (2) through (6)) | 54 U.S.C. 302902 |
+| 16 U.S.C. 470b(a) (2d sentence) | 54 U.S.C. 302902 |
+| 16 U.S.C. 470b(a) (last sentence) | 54 U.S.C. 302901 |
+| 16 U.S.C. 470b(b) | 54 U.S.C. 302902 |
+| 16 U.S.C. 470b(c) | Previously repealed. |
+| 16 U.S.C. 470b(d) (relating to remaining cost of project) | 54 U.S.C. 302902 |
+| 16 U.S.C. 470b(d) (relating to availability) | 54 U.S.C. 302901 |
+| 16 U.S.C. 470b(e) | 54 U.S.C. 302902 |
+| 16 U.S.C. 470b–1 | 54 U.S.C. 302903 |
+| 16 U.S.C. 470c | 54 U.S.C. 302902 |
+| 16 U.S.C. 470d | 54 U.S.C. 303901 |
+| 16 U.S.C. 470e | 54 U.S.C. 302910 |
+| 16 U.S.C. 470f | 54 U.S.C. 306108 |
+| 16 U.S.C. 470g | 54 U.S.C. 307104 |
+| 16 U.S.C. 470h (1st paragraph) | 54 U.S.C. 303101 |
+| 16 U.S.C. 470h (last paragraph 1st sentence) | 54 U.S.C. 303102 |
+| 16 U.S.C. 470h (last paragraph last sentence) | 54 U.S.C. 303103 |
+| 16 U.S.C. 470h–1 | 54 U.S.C. 307108 |
+| 16 U.S.C. 470h–2(a)(1) | 54 U.S.C. 306101 |
+| 16 U.S.C. 470h–2(a)(2) | 54 U.S.C. 306102 |
+| 16 U.S.C. 470h–2(b) | 54 U.S.C. 306103 |
+| 16 U.S.C. 470h–2(c) | 54 U.S.C. 306104 |
+| 16 U.S.C. 470h–2(d) | 54 U.S.C. 306105 |
+| 16 U.S.C. 470h–2(e) | 54 U.S.C. 306106 |
+| 16 U.S.C. 470h–2(f) | 54 U.S.C. 306107 |
+| 16 U.S.C. 470h–2(g) | 54 U.S.C. 306109 |
+| 16 U.S.C. 470h–2(h) | 54 U.S.C. 306110 |
+| 16 U.S.C. 470h–2(i) | 54 U.S.C. 306111 |
+| 16 U.S.C. 470h–2(j) | 54 U.S.C. 306112 |
+| 16 U.S.C. 470h–2(k) | 54 U.S.C. 306113 |
+| 16 U.S.C. 470h–2(*l* ) | 54 U.S.C. 306114 |
+| 16 U.S.C. 470h–3(a), (b) | 54 U.S.C. 306121 |
+| 16 U.S.C. 470h–3(c) | 54 U.S.C. 306122 |
+| 16 U.S.C. 470h–4 | 54 U.S.C. 306131 |
+| 16 U.S.C. 470h–5 | Repealed as obsolete. Provided that the Secretary study the suitability and feasibility of alternatives for controlling illegal interstate and international traffic in antiquities and not later than 18 months after October 30, 1992, submit to Congress a report detailing the Secretary’s findings and recommendations from the study. |
+| 16 U.S.C. 470i | 54 U.S.C. 304101 |
+| 16 U.S.C. 470j | 54 U.S.C. 304102 |
+| 16 U.S.C. 470k | 54 U.S.C. 304103 |
+| 16 U.S.C. 470*l* | 54 U.S.C. 304104 |
+| 16 U.S.C. 470m | 54 U.S.C. 304105 |
+| 16 U.S.C. 470n | 54 U.S.C. 304106 |
+| 16 U.S.C. 470*o* | Repealed as obsolete. Provided that personnel, property, records, and unexpended balances of funds be transferred by the Department of the Interior to the Advisory Council on Historic Preservation within 60 days of the effective date of Public Law 94–422, which was approved on September 28, 1976. |
+| 16 U.S.C. 470p | 54 U.S.C. 304105 |
+| 16 U.S.C. 470q | 54 U.S.C. 304105 |
+| 16 U.S.C. 470r | 54 U.S.C. 304107 |
+| 16 U.S.C. 470s | 54 U.S.C. 304108 |
+| 16 U.S.C. 470t(a) (1st sentence) | 54 U.S.C. 304109 |
+| 16 U.S.C. 470t(a) (last sentence) | Repealed as unnecessary. Authorized to be appropriated amounts necessary to carry out this part. |
+| 16 U.S.C. 470t(b) | 54 U.S.C. 304109 |
+| 16 U.S.C. 470u | 54 U.S.C. 304110 |
+| 16 U.S.C. 470v | 54 U.S.C. 304108 |
+| 16 U.S.C. 470v–1 | 54 U.S.C. 304111 |
+| 16 U.S.C. 470v–2 | 54 U.S.C. 304112 |
+| 16 U.S.C. 470w(1) | 54 U.S.C. 300301 |
+| 16 U.S.C. 470w(2) | 54 U.S.C. 300317 |
+| 16 U.S.C. 470w(3) | 54 U.S.C. 300310 |
+| 16 U.S.C. 470w(4) | 54 U.S.C. 300309 |
+| 16 U.S.C. 470w(5) | 54 U.S.C. 300308 |
+| 16 U.S.C. 470w(6) | 54 U.S.C. 300311 |
+| 16 U.S.C. 470w(7) | 54 U.S.C. 300320 |
+| 16 U.S.C. 470w(8) | 54 U.S.C. 300315 |
+| 16 U.S.C. 470w(9) | 54 U.S.C. 300304 |
+| 16 U.S.C. 470w(10) | 54 U.S.C. 300305 |
+| 16 U.S.C. 470w(11) | 54 U.S.C. 300316 |
+| 16 U.S.C. 470w(12) | 54 U.S.C. 300318 |
+| 16 U.S.C. 470w(13) | 54 U.S.C. 300307 |
+| 16 U.S.C. 470w(14) | 54 U.S.C. 300319 |
+| 16 U.S.C. 470w(15) | 54 U.S.C. 300302 |
+| 16 U.S.C. 470w(16) | 54 U.S.C. 300303 |
+| 16 U.S.C. 470w(17) | 54 U.S.C. 300313 |
+| 16 U.S.C. 470w(18) | 54 U.S.C. 300314 |
+| 16 U.S.C. 470w–1 | 54 U.S.C. 307106 |
+| 16 U.S.C. 470w–2 | 54 U.S.C. 307107 |
+| 16 U.S.C. 470w–3 | 54 U.S.C. 307103 |
+| 16 U.S.C. 470w–4 | 54 U.S.C. 307105 |
+| 16 U.S.C. 470w–5(a) (1st sentence) | 54 U.S.C. 305502 |
+| 16 U.S.C. 470w–5(a) (last sentence) | 54 U.S.C. 305503 |
+| 16 U.S.C. 470w–5(b) | 54 U.S.C. 305502 |
+| 16 U.S.C. 470w–5(c) | 54 U.S.C. 305504 |
+| 16 U.S.C. 470w–5(d) | Repealed as obsolete. Provided for the renovation of the site on which the National Museum for the Building Arts is located. |
+| 16 U.S.C. 470w–5(e) | 54 U.S.C. 305505 |
+| 16 U.S.C. 470w–5(f) | 54 U.S.C. 305501 |
+| 16 U.S.C. 470w–6 | 54 U.S.C. 307102 |
+| 16 U.S.C. 470w–7(a) | 54 U.S.C. 305102 |
+| 16 U.S.C. 470w–7(b) | 54 U.S.C. 305103 |
+| 16 U.S.C. 470w–7(c) | 54 U.S.C. 305104 |
+| 16 U.S.C. 470w–7(d) | 54 U.S.C. 305105 |
+| 16 U.S.C. 470w–7(e) | 54 U.S.C. 305101 |
+| 16 U.S.C. 470w–8 | 54 U.S.C. 305106 |
+| 16 U.S.C. 470x | Not repealed but omitted from the text of title 54. Provides findings for this part. |
+| 16 U.S.C. 470x–1 | 54 U.S.C. 305301 |
+| 16 U.S.C. 470x–2 | 54 U.S.C. 305302 |
+| 16 U.S.C. 470x–3 | 54 U.S.C. 305303 |
+| 16 U.S.C. 470x–4 | 54 U.S.C. 305304 |
+| 16 U.S.C. 470x–5 | 54 U.S.C. 305305 |
+| 16 U.S.C. 470x–6 | 54 U.S.C. 305306 |
+| 16 U.S.C. 523 | Not repealed but omitted from the text of title 54. |
+| 16 U.S.C. 1901 | 54 U.S.C. 100731 |
+| 16 U.S.C. 1902 | 54 U.S.C. 100732 |
+| 16 U.S.C. 1903 | Repealed as obsolete. Provided for a 4-year cessation of certain mining operations within the boundaries of Death Valley National Monument, Mount McKinley National Park, and Organ Pipe Cactus National Monument, subject to exceptions. |
+| 16 U.S.C. 1904 | Repealed as obsolete. Provided for the inapplicability of requirements for annual expenditures on mining claims to mining operations during the 4-year period under 16 U.S.C. 1903. |
+| 16 U.S.C. 1905 | Repealed as obsolete. Provided that within 2 years the Secretary of the Interior determine the validity of unpatented mining claims within Glacier Bay National Monument, Death Valley and Organ Pipe Cactus National Monuments, and Mount McKinley National Park, submit to Congress recommendations for acquisition of valid claims, and study and submit to Congress recommendations for modifications of the existing boundaries of Death Valley National Monument and Glacier Bay National Monument. |
+| 16 U.S.C. 1906 | Repealed as obsolete. Provided that within 4 years the Secretary determine the validity of unpatented mining claims within Crater Lake National Park, Coronado National Memorial, and Glacier Bay National Monument and submit to Congress recommendations for acquisition of valid claims. |
+| 16 U.S.C. 1907 | 54 U.S.C. 100733 |
+| 16 U.S.C. 1908(a) | 54 U.S.C. 100734 |
+| 16 U.S.C. 1908(b) | Repealed as obsolete. Provided that within 2 years the Advisory Council on Historic Preservation report to Congress on effects of surface mining activities on natural and historical landmarks, including recommendations for protective legislation. |
+| 16 U.S.C. 1909 | Repealed as unnecessary. Provisions are severable unless otherwise stated. |
+| 16 U.S.C. 1910 | 54 U.S.C. 100735 |
+| 16 U.S.C. 1911 | 54 U.S.C. 100736 |
+| 16 U.S.C. 1912(a) through (c) | 54 U.S.C. 100737 |
+| 16 U.S.C. 1912(d) | See § 4(a)(1) of bill. |
+| 16 U.S.C. 2301 | Not repealed but omitted from the text of title 54. Provides findings for and purposes of this chapter. |
+| 16 U.S.C. 2302 | 54 U.S.C. 101521 |
+| 16 U.S.C. 2303 | 54 U.S.C. 101522 |
+| 16 U.S.C. 2304 | 54 U.S.C. 101523 |
+| 16 U.S.C. 2305 | Repealed as obsolete. Required the Secretary to submit to Congress, within 3 years after August 15, 1978, a report on the preservation of natural resource values within units of the National Park System through access alternatives and on transportation projects for units of the System. |
+| 16 U.S.C. 2306 | Repealed as obsolete. Authorized appropriations for fiscal years 1979 to 1981. |
+| 16 U.S.C. 2501 | Not repealed but omitted from the text of title 54. Provides findings for this chapter. |
+| 16 U.S.C. 2502 | Not repealed but omitted from the text of title 54. Provides purpose of this chapter. |
+| 16 U.S.C. 2503 | 54 U.S.C. 200501 |
+| 16 U.S.C. 2504 | 54 U.S.C. 200502 |
+| 16 U.S.C. 2505 | 54 U.S.C. 200503 |
+| 16 U.S.C. 2506 | 54 U.S.C. 200504 |
+| 16 U.S.C. 2507 | 54 U.S.C. 200505 |
+| 16 U.S.C. 2508 | 54 U.S.C. 200506 |
+| 16 U.S.C. 2509 | 54 U.S.C. 200507 |
+| 16 U.S.C. 2510 | 54 U.S.C. 200508 |
+| 16 U.S.C. 2511 | 54 U.S.C. 200509 |
+| 16 U.S.C. 2512(a) (1st paragraph) | 54 U.S.C. 200511 |
+| 16 U.S.C. 2512(a) (last paragraph) | 54 U.S.C. 200510 |
+| 16 U.S.C. 2512(b) | 54 U.S.C. 200511 |
+| 16 U.S.C. 2513 | 54 U.S.C. 200511 |
+| 16 U.S.C. 2514 | Repealed as obsolete. Provided that within 90 days of the expiration of this authority, the Secretary report to Congress on the overall impact of the program. The program originally was to run for 5 years and be a short-term project but the limitations were removed in 1994. |
+| 16 U.S.C. 5401 | Not repealed but omitted from the text of title 54. Provides findings for the National Maritime Heritage Act of 1994 (Pub. L. 103–451, 108 Stat. 4769). |
+| 16 U.S.C. 5402 | 54 U.S.C. 308701 |
+| 16 U.S.C. 5403 | 54 U.S.C. 308703 |
+| 16 U.S.C. 5404 | Repealed as obsolete. Established a National Maritime Heritage Grants Advisory Committee. The Committee terminated on September 30, 2000. |
+| 16 U.S.C. 5405 | 54 U.S.C. 308704 |
+| 16 U.S.C. 5406 | 54 U.S.C. 308702 |
+| 16 U.S.C. 5407 | 54 U.S.C. 308706 |
+| 16 U.S.C. 5408 | 54 U.S.C. 308707 |
+| 16 U.S.C. 5409 | 54 U.S.C. 308705 |
+| 16 U.S.C. 5901 | Repealed as unnecessary. Provided definition of “Secretary”. Unnecessary because of the definition of “Secretary” in section 100102 of the new title. |
+| 16 U.S.C. 5911 | 54 U.S.C. 100701 |
+| 16 U.S.C. 5912 | 54 U.S.C. 101321 |
+| 16 U.S.C. 5913 | 54 U.S.C. 101322 |
+| 16 U.S.C. 5914 | 54 U.S.C. 100503 |
+| 16 U.S.C. 5931 | Not repealed but omitted from the text of title 54. Provides purposes of this subchapter. |
+| 16 U.S.C. 5932 | 54 U.S.C. 100702 |
+| 16 U.S.C. 5933(a) | 54 U.S.C. 100703 |
+| 16 U.S.C. 5953(b) | Repealed as obsolete. Provided that within one year after November 13, 1998, the Secretary report on progress in the establishment of a comprehensive network of such college- and university-based cooperative study units as will provide full geographic and topical coverage for research on the resources contained in System units and their larger regions. |
+| 16 U.S.C. 5934 | 54 U.S.C. 100704 |
+| 16 U.S.C. 5935 | 54 U.S.C. 100705 |
+| 16 U.S.C. 5936 | 54 U.S.C. 100706 |
+| 16 U.S.C. 5937 | 54 U.S.C. 100707 |
+| 16 U.S.C. 5951 | 54 U.S.C. 101912 |
+| 16 U.S.C. 5952(1) through (7)(B) | 54 U.S.C. 101913 |
+| 16 U.S.C. 5952(7)(C) | 54 U.S.C. 101911 |
+| 16 U.S.C. 5952(7)(D) through (11) | 54 U.S.C. 101913 |
+| 16 U.S.C. 5953 | 54 U.S.C. 101914 |
+| 16 U.S.C. 5954(a) through (e) | 54 U.S.C. 101915 |
+| 16 U.S.C. 5954(f) | Repealed as obsolete. Provided that not later than 7 years after November 13, 1998, the Secretary submit a report on the concession program. |
+| 16 U.S.C. 5954 note | 54 U.S.C. 101915 |
+| 16 U.S.C. 5955 | 54 U.S.C. 101916 |
+| 16 U.S.C. 5956 | 54 U.S.C. 101917 |
+| 16 U.S.C. 5957 | 54 U.S.C. 101918 |
+| 16 U.S.C. 5958 | 54 U.S.C. 101919 |
+| 16 U.S.C. 5959 | 54 U.S.C. 101920 |
+| 16 U.S.C. 5960 | 54 U.S.C. 101921 |
+| 16 U.S.C. 5961(a) | 54 U.S.C. 101524 |
+| 16 U.S.C. 5961(b) | Repealed as obsolete. Provided that with respect to a service contract for the provision solely of transportation services at Zion National Park, the Secretary could obligate the expenditure of fees received in fiscal year 2002 under 16 U.S.C. 5981 before the fees were received. |
+| 16 U.S.C. 5962 | 54 U.S.C. 101922 |
+| 16 U.S.C. 5963 | 54 U.S.C. 101923 |
+| 16 U.S.C. 5964 | 54 U.S.C. 101924 |
+| 16 U.S.C. 5965 | 54 U.S.C. 101926 |
+| 16 U.S.C. 5966 | 54 U.S.C. 101925 |
+| 16 U.S.C. 5981 | 54 U.S.C. 101531 |
+| 16 U.S.C. 5982 | Previously repealed. |
+| 16 U.S.C. 5991 through 5995 | Previously repealed. |
+| 16 U.S.C. 6011 | Repealed as obsolete. Required the Secretary to submit to the Committees on Energy and Natural Resources and Appropriations of the Senate and the Committees on Resources and Appropriations of the House of Representatives, not later than one year after November 13, 1998, a report on law enforcement programs of the National Park Service. |
+
+**Statutory Notes and Related Subsidiaries**
+
+**Enactment of Title**
+
+Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3094, provided in part that: “Title 54, United States Code, ‘National Park Service and Related Programs’, is enacted as follows”.
+
+**Purpose; Conformity With Original Intent**
+
+Pub. L. 113–287, § 2, Dec. 19, 2014, 128 Stat. 3094, provided that:
+
+> **“(a) Purpose.—** The purpose of this Act [see Tables for classification] is to codify certain existing laws relating to the National Park System as title 54, United States Code, ‘National Park Service and Related Programs’.
+
+> **“(b) Conformity With Original Intent.—** In the codification of laws by this Act, the intent is to conform to the understood policy, intent, and purpose of Congress in the original enactments, with such amendments and corrections as will remove ambiguities, contradictions, and other imperfections, in accordance with section 205(c)(1) of House Resolution No. 988, 93d Congress, as enacted into law by Public Law 93–554 (2 U.S.C. 285b(1)).”
+
+**Transitional and Savings Provisions**
+
+Pub. L. 113–287, § 6, Dec. 19, 2014, 128 Stat. 3272, provided that:
+
+> **“(a) Definitions.—** In this section:
+
+> **“(1) Source provision.—** The term ‘source provision’ means a provision of law that is replaced by a title 54 provision.
+
+> **“(2) Title 54 provision.—** The term ‘title 54 provision’ means a provision of title 54, United States Code, that is enacted by section 3.
+
+> **“(b) Cutoff Date.—** The title 54 provisions replace certain provisions of law enacted on or before January 15, 2013. If a law enacted after that date amends or repeals a source provision, that law is deemed to amend or repeal, as the case may be, the corresponding title 54 provision. If a law enacted after that date is otherwise inconsistent with a title 54 provision or a provision of this Act [see Tables for classification], that law supersedes the title 54 provision or provision of this Act to the extent of the inconsistency.
+
+> **“(c) Original Date of Enactment Unchanged.—** For purposes of determining whether one provision of law supersedes another based on enactment later in time, a title 54 provision is deemed to have been enacted on the date of enactment of the source provision that the title 54 provision replaces.
+
+> **“(d) References to Title 54 Provisions.—** A reference to a title 54 provision is deemed to refer to the corresponding source provision.
+
+> **“(e) References to Source Provisions.—** A reference to a source provision, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding title 54 provision.
+
+> **“(f) Regulations, Orders, and Other Administrative Actions.—** A regulation, order, or other administrative action in effect under a source provision continues in effect under the corresponding title 54 provision.
+
+> **“(g) Actions Taken and Offenses Committed.—** An action taken or an offense committed under a source provision is deemed to have been taken or committed under the corresponding title 54 provision.”
+
+**Repeals**
+
+Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272, repealed specified laws relating to the National Park System, except with respect to rights and duties that matured, penalties that were incurred, or proceedings that were begun before Dec. 19, 2014.
+
+## Subtitle I—National Park System
+
+### DIVISION A—ESTABLISHMENT AND GENERAL ADMINISTRATION
+
+- [CHAPTER 1001—GENERAL PROVISIONS](chapter-1001-general-provisions.md)
+
+- [CHAPTER 1003—ESTABLISHMENT, DIRECTORS, AND OTHER EMPLOYEES](chapter-1003-establishment-directors-and-other-employees.md)
+
+- [CHAPTER 1005—AREAS OF NATIONAL PARK SYSTEM](chapter-1005-areas-of-national-park-system.md)
+
+- [CHAPTER 1007—RESOURCE MANAGEMENT](chapter-1007-resource-management.md)
+
+- [CHAPTER 1008—EDUCATION AND INTERPRETATION](chapter-1008-education-and-interpretation.md)
+
+- [CHAPTER 1009—ADMINISTRATION](chapter-1009-administration.md)
+
+- [CHAPTER 1011—DONATIONS](chapter-1011-donations.md)
+
+- [CHAPTER 1013—EMPLOYEES](chapter-1013-employees.md)
+
+- [CHAPTER 1015—TRANSPORTATION](chapter-1015-transportation.md)
+
+- [CHAPTER 1017—FINANCIAL AGREEMENTS](chapter-1017-financial-agreements.md)
+
+- [CHAPTER 1019—CONCESSIONS AND COMMERCIAL USE AUTHORIZATIONS](chapter-1019-concessions-and-commercial-use-authorizations.md)
+
+- [CHAPTER 1021—PRIVILEGES AND LEASES](chapter-1021-privileges-and-leases.md)
+
+- [CHAPTER 1023—PROGRAMS AND ORGANIZATIONS](chapter-1023-programs-and-organizations.md)
+
+- [CHAPTER 1025—MUSEUMS](chapter-1025-museums.md)
+
+- [CHAPTER 1027—LAW ENFORCEMENT AND EMERGENCY ASSISTANCE](chapter-1027-law-enforcement-and-emergency-assistance.md)
+
+- [CHAPTER 1029—LAND TRANSFERS](chapter-1029-land-transfers.md)
+
+- [CHAPTER 1031—APPROPRIATIONS AND ACCOUNTING](chapter-1031-appropriations-and-accounting.md)
+
+- [CHAPTER 1033—NATIONAL MILITARY PARKS](chapter-1033-national-military-parks.md)
+
+- [CHAPTER 1035—NATIONAL PARK CENTENNIAL CHALLENGE FUND](chapter-1035-national-park-centennial-challenge-fund.md)
+
+- [CHAPTERS 1035 1 [footnote: 1 So in original. Chapter 1035 added by Pub. L. 114–289 without corresponding amendment of heading for reserved chapters.] THROUGH 1047—RESERVED](chapter-s10351footnote1soinoriginalchapter1035addedbypubl114289withoutcorrespondingamendmentofheadin.md)
+
+- [CHAPTER 1049—MISCELLANEOUS](chapter-1049-miscellaneous.md)
+
+### DIVISION B—SYSTEM UNITS AND RELATED AREAS—RESERVED
+
+### DIVISION C—NATIONAL HERITAGE AREAS
+
+- [CHAPTER 1201—NATIONAL HERITAGE AREA SYSTEM](chapter-1201-national-heritage-area-system.md)
+
+## Subtitle II—Outdoor Recreation Programs
+
+- [CHAPTER 2001—COORDINATION OF PROGRAMS](chapter-2001-coordination-of-programs.md)
+
+- [CHAPTER 2003—LAND AND WATER CONSERVATION FUND](chapter-2003-land-and-water-conservation-fund.md)
+
+- [CHAPTER 2004—NATIONAL PARKS AND PUBLIC LAND LEGACY RESTORATION FUND](chapter-2004-national-parks-and-public-land-legacy-restoration-fund.md)
+
+- [CHAPTER 2005—URBAN PARK AND RECREATION RECOVERY PROGRAM](chapter-2005-urban-park-and-recreation-recovery-program.md)
+
+## Subtitle III—National Preservation Programs
+
+### DIVISION A—HISTORIC PRESERVATION
+
+#### Subdivision 1—General Provisions
+
+- [CHAPTER 3001—POLICY](chapter-3001-policy.md)
+
+- [CHAPTER 3003—DEFINITIONS](chapter-3003-definitions.md)
+
+#### Subdivision 2—Historic Preservation Program
+
+- [CHAPTER 3021—NATIONAL REGISTER OF HISTORIC PLACES](chapter-3021-national-register-of-historic-places.md)
+
+- [CHAPTER 3023—STATE HISTORIC PRESERVATION PROGRAMS](chapter-3023-state-historic-preservation-programs.md)
+
+- [CHAPTER 3025—CERTIFICATION OF LOCAL GOVERNMENTS](chapter-3025-certification-of-local-governments.md)
+
+- [CHAPTER 3027—HISTORIC PRESERVATION PROGRAMS AND AUTHORITIES FOR INDIAN TRIBES AND NATIVE HAWAIIAN ORGANIZATIONS](chapter-3027-historic-preservation-programs-and-authorities-for-indian.md)
+
+- [CHAPTER 3029—GRANTS](chapter-3029-grants.md)
+
+- [CHAPTER 3031—HISTORIC PRESERVATION FUND](chapter-3031-historic-preservation-fund.md)
+
+- [CHAPTERS 3033 THROUGH 3037—RESERVED](chapter-s3033through3037-reserved.md)
+
+- [CHAPTER 3039—MISCELLANEOUS](chapter-3039-miscellaneous.md)
+
+#### Subdivision 3—Advisory Council on Historic Preservation
+
+- [CHAPTER 3041—ADVISORY COUNCIL ON HISTORIC PRESERVATION](chapter-3041-advisory-council-on-historic-preservation.md)
+
+#### Subdivision 4—Other Organizations and Programs
+
+- [CHAPTER 3051—HISTORIC LIGHT STATION PRESERVATION](chapter-3051-historic-light-station-preservation.md)
+
+- [CHAPTER 3053—NATIONAL CENTER FOR PRESERVATION TECHNOLOGY AND TRAINING](chapter-3053-national-center-for-preservation-technology-and-training.md)
+
+- [CHAPTER 3055—NATIONAL BUILDING MUSEUM](chapter-3055-national-building-museum.md)
+
+#### Subdivision 5—Federal Agency Historic Preservation Responsibilities
+
+- [CHAPTER 3061—PROGRAM RESPONSIBILITIES AND AUTHORITIES](chapter-3061-program-responsibilities-and-authorities.md)
+
+#### Subdivision 6—Miscellaneous
+
+- [CHAPTER 3071—MISCELLANEOUS](chapter-3071-miscellaneous.md)
+
+### DIVISION B—ORGANIZATIONS AND PROGRAMS
+
+#### Subdivision 1—Administered by National Park Service
+
+**Statutory Notes and Related Subsidiaries**
+
+**Japanese American World War II History Network**
+
+Pub. L. 117–328, div. DD, title VI, § 645, Dec. 29, 2022, 136 Stat. 5615, provided that:
+
+> **“(a) Establishment.—** The Secretary [of the Interior] shall establish, within the National Park Service, a program to be known as the ‘Japanese American World War II History Network’ (referred to in this section as the ‘Network’).
+
+> **“(b) Duties of Secretary.—** In carrying out the Network, the Secretary shall—
+
+> **“(1)** review studies and reports to complement and not duplicate studies of Japanese American World War II history and Japanese American experiences during World War II, including studies related to relocation centers and confinement sites, that are underway or completed;
+
+> **“(2)** produce and disseminate appropriate educational materials, such as handbooks, maps, interpretive guides, or electronic information relating to Japanese American World War II history and Japanese American experiences during the war, including relocation centers and confinement sites;
+
+> **“(3)** enter into appropriate cooperative agreements and memoranda of understanding to provide technical assistance under subsection (d); and
+
+> **“(4)**
+
+> **(A)** create and adopt an official, uniform symbol or device for the Network; and
+
+> **“(B)** issue regulations for the use of the symbol or device adopted under subparagraph (A).
+
+> **“(c) Elements.—** The Network shall encompass the following elements:
+
+> **“(1)** All units and programs of the National Park Service that are determined by the Secretary to relate to Japanese American World War II history and Japanese American experiences during the war, including relocation centers and confinement sites.
+
+> **“(2)** With the consent of the property owner, other Federal, State, local, Tribal, and privately owned properties that—
+
+> **“(A)** relate to Japanese American World War II history and Japanese experiences during the war, including relocation centers and confinement sites;
+
+> **“(B)** have a verifiable connection to Japanese American World War II history and Japanese experiences during the war, including relocation and confinement sites; and
+
+> **“(C)** are included in, or determined by the Secretary to be eligible for inclusion in, the National Register of Historic Places.
+
+> **“(3)** Other governmental and nongovernmental facilities and programs of an educational, research, or interpretive nature that are directly related to Japanese American World War II history and the experiences of Japanese Americans during the war, including relocation centers and confinement sites.
+
+> **“(d) Cooperative Agreements and Memoranda of Understanding.—** To achieve the purposes of this section and to ensure effective coordination of the Federal and non-Federal elements of the Network described in subsection (c) with units of the National Park System and programs of the National Park Service, including the Japanese American Confinement Sites Program, the Secretary may enter into cooperative agreements and memoranda of understanding with, and provide technical assistance to, the heads of other Federal agencies, States, units of local government, Indian Tribes, regional governmental bodies, and private entities.
+
+> **“(e) Sunset.—** The authority of the Secretary under this section shall expire 7 years after the date of enactment of this Act [Dec. 29, 2022].”
+
+**Historic Confinement Sites**
+
+Pub. L. 109–441, Dec. 21, 2006, 120 Stat. 3288, as amended by Pub. L. 111–88, div. A, title I, §119, Oct. 30, 2009, 123 Stat. 2929; Pub. L. 117–328, div. DD, title VI, § 644, Dec. 29, 2022, 136 Stat. 5614, provided that:
+
+> **“SECTION. 1. PRESERVATION OF HISTORIC CONFINEMENT SITES.**
+
+> **“(a) Preservation Program.—** The Secretary shall create a program within the National Park Service to encourage, support, recognize, and work in partnership with citizens, Federal agencies, State, local, and tribal governments, other public entities, educational institutions, and private nonprofit organizations for the purpose of identifying, researching, evaluating, interpreting, protecting, restoring, repairing, and acquiring historic confinement sites in order that present and future generations may learn and gain inspiration from these sites and that these sites will demonstrate the Nation’s commitment to equal justice under the law.
+
+> **“(b) Grants.—**
+
+> **“(1) Criteria.—** The Secretary, after consultation with State, local, and tribal governments, other public entities, educational institutions, and private nonprofit organizations (including organizations involved in the preservation of historic confinement sites), shall develop criteria for making grants under paragraph (2) to assist in carrying out subsection (a).
+
+> **“(2) Provision of grants.—** Not later than 180 days after the date on which funds are made available to carry out this Act, the Secretary shall, subject to the availability of appropriations, make grants to the entities described in paragraph (1) only in accordance with the criteria developed under that paragraph.
+
+> **“(c) Property Acquisition.—**
+
+> **“(1) Authority.—** Federal funds made available under this section may be used to acquire non-Federal property for the purposes of this section, in accordance with section 3, only if that property is within the areas described in paragraph (2).
+
+> **“(2) Property descriptions.—** The property referred to in paragraph (2) [probably should be “(1)”] is the following:
+
+> **“(A)** Jerome, depicted in Figure 7.1 of the Site Document.
+
+> **“(B)** Rohwer, depicted in Figure 11.2 of the Site Document.
+
+> **“(C)** Topaz, depicted in Figure 12.2 of the Site Document.
+
+> **“(D)** Honouliuli, located on the southern part of the Island of Oahu, Hawaii, and within the land area bounded by H1 to the south, Route 750 (Kunia Road) to the east, the Honouliuli Forest Reserve to the west, and Kunia town and Schofield Barracks to the north.
+
+> **“(E)** Heart Mountain, depicted in Figure 6.3 of the Site Document.
+
+> **“(3) No effect on private property.—** The authority granted in this subsection shall not constitute a Federal designation or have any effect on private property ownership.
+
+> **“(d) Matching Fund Requirement.—** The Secretary shall require a 50 percent non-Federal match for funds provided under this section.
+
+> **“(e) Sunset of Authority.—** This Act shall have no force or effect on and after the date that is 2 years after the disbursement to grantees under this section of the total amount of funds authorized to be appropriated under section 4.
+
+> **“SEC. 2. DEFINITIONS.**
+
+> “For purposes of this Act the following definitions apply:
+
+> **“(1) Historic confinement sites.—**
+
+> **(A)** The term ‘historic confinement sites’ means the 10 internment camp sites referred to as Gila River, Granada, Heart Mountain, Jerome, Manzanar, Minidoka, Poston, Rohwer, Topaz, and Tule Lake and depicted in Figures 4.1, 5.1, 6.1, 7.1, 8.4, 9.2, 10.6, 11.2, 12.2, and 13.2, respectively, of the Site Document; and
+
+> **“(B)** other historically significant locations, as determined by the Secretary, where Japanese Americans were detained during World War II.
+
+> **“(2) Secretary.—** The term ‘Secretary’ means the Secretary of the Interior.
+
+> **“(3) Site document.—** The term ‘Site Document’ means the document titled ‘Confinement and Ethnicity: An Overview of World War II Japanese American Relocation Sites’, published by the Western Archeological and Conservation Center, National Park Service, in 1999.
+
+> **“(4) Japanese american confinement education grants.—** The term ‘Japanese American Confinement Education Grants’ means competitive grants, awarded through the Japanese American Confinement Sites Program, for Japanese American organizations to educate individuals, including through the use of digital resources, in the United States on the historical importance of Japanese American confinement during World War II, so that present and future generations may learn from Japanese American confinement and the commitment of the United States to equal justice under the law.
+
+> **“(5) Japanese american organization.—** The term ‘Japanese American organization’ means a private nonprofit organization within the United States established to promote the understanding and appreciation of the ethnic and cultural diversity of the United States by illustrating the Japanese American experience throughout the history of the United States.
+
+> **“SEC. 3. PRIVATE PROPERTY PROTECTION.**
+
+> “No Federal funds made available to carry out this Act may be used to acquire any real property or any interest in any real property without the written consent of the owner or owners of that property or interest in property.
+
+> **“SEC. 4. AUTHORIZATION OF APPROPRIATIONS.**
+
+> **“(a) In General.—** There are authorized to be appropriated to the Secretary $80,000,000 to carry out this Act. Such sums shall remain available until expended.
+
+> **“(b) Japanese American Confinement Education Grants.—**
+
+> **“(1) In general.—** Of the amounts made available under this section, not more than $10,000,000 shall be awarded as Japanese American Confinement Education Grants to Japanese American organizations. Such competitive grants shall be in an amount not less than $750,000 and the Secretary shall give priority consideration to Japanese American organizations with fewer than 100 employees.
+
+> **“(2) Matching requirement.—**
+
+> **“(A) Fifty percent.—** Except as provided in subparagraph (B), for funds awarded under this subsection, the Secretary shall require a 50 percent match with non-Federal assets from non-Federal sources, which may include cash or durable goods and materials fairly valued, as determined by the Secretary.
+
+> **“(B) Waiver.—** The Secretary may waive all or part of the matching requirement under subparagraph (A), if the Secretary determines that—
+
+> **“(i)** no reasonable means are available through which an applicant can meet the matching requirement; and
+
+> **“(ii)** the probable benefit of the project funded outweighs the public interest in the matching requirement.”
+
+- [CHAPTER 3081—AMERICAN BATTLEFIELD PROTECTION PROGRAM](chapter-3081-american-battlefield-protection-program.md)
+
+- [CHAPTER 3083—NATIONAL UNDERGROUND RAILROAD NETWORK TO FREEDOM](chapter-3083-national-underground-railroad-network-to-freedom.md)
+
+- [CHAPTER 3084—AFRICAN AMERICAN CIVIL RIGHTS NETWORK](chapter-3084-african-american-civil-rights-network.md)
+
+- [CHAPTER 3085—NATIONAL WOMEN’S RIGHTS HISTORY PROJECT](chapter-3085-national-womens-rights-history-project.md)
+
+- [CHAPTER 3086—UNITED STATES AFRICAN-AMERICAN BURIAL GROUNDS PRESERVATION PROGRAM](chapter-3086-united-states-african-american-burial-grounds-preservation.md)
+
+- [CHAPTER 3087—NATIONAL MARITIME HERITAGE](chapter-3087-national-maritime-heritage.md)
+
+- [CHAPTER 3089—SAVE AMERICA’S TREASURES PROGRAM](chapter-3089-save-americas-treasures-program.md)
+
+- [CHAPTER 3091—COMMEMORATION OF FORMER PRESIDENTS](chapter-3091-commemoration-of-former-presidents.md)
+
+#### Subdivision 2—Administered Jointly With National Park Service
+
+- [CHAPTER 3111—PRESERVE AMERICA PROGRAM](chapter-3111-preserve-america-program.md)
+
+#### Subdivision 3—Administered by Other Than National Park Service
+
+- [CHAPTER 3121—NATIONAL TRUST FOR HISTORIC PRESERVATION IN THE UNITED STATES](chapter-3121-national-trust-for-historic-preservation-in-the-united.md)
+
+- [CHAPTER 3123—COMMISSION FOR THE PRESERVATION OF AMERICA’S HERITAGE ABROAD](chapter-3123-commission-for-the-preservation-of-americas-heritage-abroad.md)
+
+- [CHAPTER 3125—PRESERVATION OF HISTORICAL AND ARCHEOLOGICAL DATA](chapter-3125-preservation-of-historical-and-archeological-data.md)
+
+### DIVISION C—AMERICAN ANTIQUITIES
+
+- [CHAPTER 3201—POLICY AND ADMINISTRATIVE PROVISIONS](chapter-3201-policy-and-administrative-provisions.md)
+
+- [CHAPTER 3203—MONUMENTS, RUINS, SITES, AND OBJECTS OF ANTIQUITY](chapter-3203-monuments-ruins-sites-and-objects-of-antiquity.md)
