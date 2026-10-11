@@ -1,0 +1,34 @@
+---
+title: "Title 20—EDUCATION / CHAPTER 7—INSTRUCTION AS TO NATURE AND EFFECT OF ALCOHOLIC DRINKS AND NARCOTICS"
+identifier: "/us/usc/t20/ch7"
+type: code
+jurisdiction: us
+language: en
+status: in_force
+positive_law: false
+release_point: "119-102not101"
+source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-chapter7&edition=prelim"
+retrieved: 2026-10-11
+---
+
+*Title 20—EDUCATION*
+
+# CHAPTER 7—INSTRUCTION AS TO NATURE AND EFFECT OF ALCOHOLIC DRINKS AND NARCOTICS
+
+## § 111. Study in certain schools of effect of alcoholic drinks and narcotics
+
+The nature of alcoholic drinks and narcotics, and special instruction as to their effects upon the human system, in connection with the several divisions of the subject of physiology and hygiene, shall be included in the branches of study taught in the common or public schools, and in the military and naval schools, and shall be studied and taught as thoroughly and in the same manner as other like required branches are in said schools, by the use of textbooks in the hands of pupils where other branches are thus studied in said schools, and by all pupils in all said schools throughout the Territories, in the Military and Naval Academies of the United States, and in the District of Columbia, and in all Indian and colored schools in the Territories of the United States.
+
+(May 20, 1886, ch. 362, § 1, 24 Stat. 69.)
+
+## § 112. Enforcement of section 111
+
+It shall be the duty of the proper officers in control of any school described in section 111 of this title to enforce the provisions of this chapter; and any such officer, school director, committee, superintendent, or teacher who shall refuse or neglect to comply with the requirements of this chapter, or shall neglect or fail to make proper provisions for the instruction required and in the manner specified by section 111 of this title, for all pupils in each and every school under his jurisdiction, shall be removed from office, and the vacancy filled as in other cases.
+
+(May 20, 1886, ch. 362, § 2, 24 Stat. 69.)
+
+## § 113. Teachers’ certificates dependent on passing examination on effect of alcoholic drinks and narcotics
+
+No certificate shall be granted to any person to teach in the public schools of the District of Columbia or Territories who has not passed a satisfactory examination in physiology and hygiene, with special reference to the nature and the effects of alcoholic drinks and other narcotics upon the human system.
+
+(May 20, 1886, ch. 362, § 3, 24 Stat. 69.)
