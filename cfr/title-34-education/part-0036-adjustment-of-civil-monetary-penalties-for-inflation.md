@@ -1,0 +1,46 @@
+---
+title: "34 CFR Part 36 — ADJUSTMENT OF CIVIL MONETARY PENALTIES FOR INFLATION"
+identifier: "34 CFR Part 36"
+type: regulation
+jurisdiction: us
+language: en
+last_amended: 2026-10-08  # latest amendment date of the CFR title
+status: in_force
+source: "https://www.ecfr.gov/current/title-34/part-36"
+retrieved: 2026-10-11
+ecfr_bulk_modified: "09-Oct-2026 20:44"
+---
+
+*Title 34—Education › Subtitle A—Office of the Secretary, Department of Education*
+
+# PART 36—ADJUSTMENT OF CIVIL MONETARY PENALTIES FOR INFLATION
+
+**Authority:** 20 U.S.C. 1221e-3 and 3474; 28 U.S.C. 2461 note, as amended by § 701 of Pub. Law 114-74, unless otherwise noted.
+
+**Source:** 67 FR 69655, Nov. 18, 2002, unless otherwise noted.
+
+## § 36.1 Purpose.
+
+The purpose of this part is to make inflation adjustments to the civil monetary penalties within the jurisdiction of the Department of Education. These penalties are subject to review and adjustment as necessary at least once every 4 years in accordance with the Federal Civil Penalties Inflation Adjustment Act of 1990, as amended.
+
+(Authority: 20 U.S.C. 1221e-3 and 3474; 28 U.S.C. 2461 note, as amended by § 701 of Pub. Law 114-74.)
+
+[67 FR 69655, Nov. 18, 2002, as amended at 77 FR 60049, Oct. 2, 2012; 81 FR 50323, Aug. 1, 2016]
+
+## § 36.2 Penalty adjustment.
+
+The citations for the adjusted penalty provisions, a brief description of the penalty, and the adjusted maximum (and minimum, if applicable) penalty amounts are listed in Table 1 of this section.
+
+Table 1 to § 36.2—Civil Monetary Penalty Inflation Adjustments
+
+| Statute | Description | New maximum (and minimum, if applicable) penalty amount |
+|---|---|---|
+| 20 U.S.C. 1015(c)(5) (section 131(c)(5) of the Higher Education Act of 1965 (HEA)) | Provides for a fine, as set by Congress in 1998, of up to $25,000 for failure by an institution of higher education (IHE) to provide information on the cost of higher education to the Commissioner of Education Statistics | $48,119. |
+| 20 U.S.C. 1022d(a)(3) (section 205(a)(3) of the HEA) | Provides for a fine, as set by Congress in 2008, of up to $27,500 for failure by an IHE to provide information to the State and the public regarding its teacher-preparation programs | $40,080. |
+| 20 U.S.C. 1082(g) (section 432(g) of the HEA) | Provides for a civil penalty, as set by Congress in 1986, of up to $25,000 for violations by lenders and guaranty agencies of title IV of the HEA, which authorizes the Federal Family Education Loan Program | $71,545. |
+| 20 U.S.C. 1094(c)(3)(B) (section 487(c)(3)(B) of the HEA) | Provides for a civil penalty, as set by Congress in 1986, of up to $25,000 for an IHE's violation of title IV of the HEA, which authorizes various programs of student financial assistance | $71,545. |
+| 20 U.S.C. 1228c(c)(2)(E) (section 429 of the General Education Provisions Act) | Provides for a civil penalty, as set by Congress in 1994, of up to $1,000 for an educational organization's failure to disclose certain information to minor students and their parents | $2,111. |
+| 31 U.S.C. 1352(c)(1) and (c)(2)(A) | Provides for a civil penalty, as set by Congress in 1989, of $10,000 to $100,000 for recipients of Government grants, contracts, etc. that improperly lobby Congress or the executive branch with respect to the award of Government grants and contracts | $25,132 to $251,322. |
+| 31 U.S.C. 3802(a)(1) and (a)(2) | Provides for a civil penalty, as set by Congress in 1986, of up to $5,000 for false claims and statements made to the Government | $14,308. |
+
+[67 FR 69655, Nov. 18, 2002, as amended at 70 FR 298, Jan. 4, 2005; 77 FR 60049, Oct. 2, 2012; 81 FR 50323, Aug. 1, 2016; 82 FR 18562, Apr. 20, 2017; 83 FR 2064, Jan. 16, 2018; 84 FR 974, Feb. 1, 2019; 85 FR 2036, Jan. 14, 2020; 86 FR 7977, Feb. 3, 2021; 87 FR 23452, Apr. 20, 2022; 88 FR 5787, Jan. 30, 2023; 89 FR 4832, Jan. 25, 2024; 90 FR 6808, Jan. 21, 2025]

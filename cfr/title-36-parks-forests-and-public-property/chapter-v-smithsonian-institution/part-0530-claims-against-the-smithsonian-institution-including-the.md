@@ -1,0 +1,32 @@
+---
+title: "36 CFR Part 530 — CLAIMS AGAINST THE SMITHSONIAN INSTITUTION INCLUDING THE NATIONAL GALLERY OF ART, THE JOHN F. KENNEDY CENTER FOR THE PERFORMING ARTS AND THE WOODROW WILSON INTERNATIONAL CENTER FOR SCHOLARS"
+identifier: "36 CFR Part 530"
+type: regulation
+jurisdiction: us
+language: en
+last_amended: 2026-10-07  # latest amendment date of the CFR title
+status: in_force
+source: "https://www.ecfr.gov/current/title-36/part-530"
+retrieved: 2026-10-11
+ecfr_bulk_modified: "08-Oct-2026 20:28"
+---
+
+*Title 36—Parks, Forests, and Public Property › CHAPTER V—SMITHSONIAN INSTITUTION*
+
+# PART 530—CLAIMS AGAINST THE SMITHSONIAN INSTITUTION INCLUDING THE NATIONAL GALLERY OF ART, THE JOHN F. KENNEDY CENTER FOR THE PERFORMING ARTS AND THE WOODROW WILSON INTERNATIONAL CENTER FOR SCHOLARS
+
+**Authority:** 20 U.S.C. 41, *et seq.*
+
+## § 530.1 Tort claims.
+
+The Smithsonian Institution (which encompasses the National Gallery of Art, the John F. Kennedy Center for the Performing Arts and the Woodrow Wilson International Center for Scholars) falls within the purview of the Federal Tort Claims Act. Internal procedures for implementing the Act follow the current general guidance issued by the U.S. Department of Justice in 28 CFR part 14. Information on specific claims procedures can be obtained as follows:
+
+(a) Smithsonian Institution: Office of the General Counsel, Smithsonian Institution, Washington, DC 20560.
+
+(b) National Gallery of Art: Administrator, National Gallery of Art, Washington, DC 20565.
+
+(c) John F. Kennedy Center for the Performing Arts: Director of Operations, John F. Kennedy Center for the Performing Arts, Washington, DC 20566.
+
+(d) Woodrow Wilson International Center for Scholars: Assistant Director for Administration, Woodrow Wilson International Center for Scholars, Smithsonian Institution, Washington, DC 20560.
+
+[49 FR 9421, Mar. 13, 1984]

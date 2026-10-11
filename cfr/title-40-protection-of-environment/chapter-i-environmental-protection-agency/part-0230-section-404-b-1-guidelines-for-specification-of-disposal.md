@@ -1,0 +1,1250 @@
+---
+title: "40 CFR Part 230 — SECTION 404(b)(1) GUIDELINES FOR SPECIFICATION OF DISPOSAL SITES FOR DREDGED OR FILL MATERIAL"
+identifier: "40 CFR Part 230"
+type: regulation
+jurisdiction: us
+language: en
+last_amended: 2026-10-02  # latest amendment date of the CFR title
+status: in_force
+source: "https://www.ecfr.gov/current/title-40/part-230"
+retrieved: 2026-10-11
+ecfr_bulk_modified: "06-Oct-2026 22:48"
+---
+
+*Title 40—Protection of Environment › CHAPTER I—ENVIRONMENTAL PROTECTION AGENCY (CONTINUED) › SUBCHAPTER H—OCEAN DUMPING*
+
+# PART 230—SECTION 404(b)(1) GUIDELINES FOR SPECIFICATION OF DISPOSAL SITES FOR DREDGED OR FILL MATERIAL
+
+**Authority:** 33 U.S.C. 1251 *et seq.*
+
+**Source:** 45 FR 85344, Dec. 24, 1980, unless otherwise noted.
+
+## Subpart A—General
+
+### § 230.1 Purpose and policy.
+
+(a) The purpose of these Guidelines is to restore and maintain the chemical, physical, and biological integrity of waters of the United States through the control of discharges of dredged or fill material.
+
+(b) Congress has expressed a number of policies in the Clean Water Act. These Guidelines are intended to be consistent with and to implement those policies.
+
+(c) Fundamental to these Guidelines is the precept that dredged or fill material should not be discharged into the aquatic ecosystem, unless it can be demonstrated that such a discharge will not have an unacceptable adverse impact either individually or in combination with known and/or probable impacts of other activities affecting the ecosystems of concern.
+
+(d) From a national perspective, the degradation or destruction of special aquatic sites, such as filling operations in wetlands, is considered to be among the most severe environmental impacts covered by these Guidelines. The guiding principle should be that degradation or destruction of special sites may represent an irreversible loss of valuable aquatic resources.
+
+### § 230.2 Applicability.
+
+(a) These Guidelines have been developed by the Administrator of the Environmental Protection Agency in conjunction with the Secretary of the Army acting through the Chief of Engineers under section 404(b)(1) of the Clean Water Act (33 U.S.C. 1344). The Guidelines are applicable to the specification of disposal sites for discharges of dredged or fill material into waters of the United States. Sites may be specified through:
+
+(1) The regulatory program of the U.S. Army Corps of Engineers under sections 404(a) and (e) of the Act (see 33 CFR Parts 320, 323 and 325);
+
+(2) The civil works program of the U.S. Army Corps of Engineers (see 33 CFR 209.145 and section 150 of Pub. L. 94-587, Water Resources Development Act of 1976);
+
+(3) Permit programs of States approved by the Administrator of the Environmental Protection Agency in accordance with section 404(g) and (h) of the Act (see 40 CFR parts 122, 123 and 124);
+
+(4) Statewide dredged or fill material regulatory programs with best management practices approved under section 208(b)(4)(B) and (C) of the Act (see 40 CFR 35.1560);
+
+(5) Federal construction projects which meet criteria specified in section 404(r) of the Act.
+
+(b) These Guidelines will be applied in the review of proposed discharges of dredged or fill material into navigable waters which lie inside the baseline from which the territorial sea is measured, and the discharge of fill material into the territorial sea, pursuant to the procedures referred to in paragraphs (a)(1) and (2) of this section. The discharge of dredged material into the territorial sea is governed by the Marine Protection, Research, and Sanctuaries Act of 1972, Pub. L. 92-532, and regulations and criteria issued pursuant thereto (40 CFR parts 220 through 228).
+
+(c) Guidance on interpreting and implementing these Guidelines may be prepared jointly by EPA and the Corps at the national or regional level from time to time. No modifications to the basic application, meaning, or intent of these Guidelines will be made without rulemaking by the Administrator under the Administrative Procedure Act (5 U.S.C. 551 *et seq.*).
+
+### § 230.3 Definitions.
+
+For purposes of this part, the following terms shall have the meanings indicated:
+
+(a) The term *Act* means the Clean Water Act (also known as the Federal Water Pollution Control Act or FWPCA) Pub. L. 92-500, as amended by Pub. L. 95-217, 33 U.S.C. 1251, *et seq.*
+
+(b) The terms *aquatic environment* and *aquatic ecosystem* mean waters of the United States, including wetlands, that serve as habitat for interrelated and interacting communities and populations of plants and animals.
+
+(c) The term *carrier of contaminant* means dredged or fill material that contains contaminants.
+
+(d) The term *contaminant* means a chemical or biological substance in a form that can be incorporated into, onto or be ingested by and that harms aquatic organisms, consumers of aquatic organisms, or users of the aquatic environment, and includes but is not limited to the substances on the 307(a)(1) list of toxic pollutants promulgated on January 31, 1978 (43 FR 4109).
+
+(e) The term *discharge point* means the point within the disposal site at which the dredged or fill material is released.
+
+(f) The term *disposal site* means that portion of the “waters of the United States” where specific disposal activities are permitted and consist of a bottom surface area and any overlying volume of water. In the case of wetlands on which surface water is not present, the disposal site consists of the wetland surface area.
+
+(g) The term *extraction site* means the place from which the dredged or fill material proposed for discharge is to be removed.
+
+(h) The term *mixing zone* means a limited volume of water serving as a zone of initial dilution in the immediate vicinity of a discharge point where receiving water quality may not meet quality standards or other requirements otherwise applicable to the receiving water. The mixing zone should be considered as a place where wastes and water mix and not as a place where effluents are treated.
+
+(i) The term *permitting authority* means the District Engineer of the U.S. Army Corps of Engineers or such other individual as may be designated by the Secretary of the Army to issue or deny permits under section 404 of the Act; or the State Director of a permit program approved by EPA under section 404(g) and section 404(h) or his delegated representative.
+
+(j) The term *pollutant* means dredged spoil, solid waste, incinerator residue, sewage, garbage, sewage sludge, munitions, chemical wastes, biological materials, radioactive materials not covered by the Atomic Energy Act, heat, wrecked or discarded equipment, rock, sand, cellar dirt, and industrial, municipal, and agricultural waste discharged into water. The legislative history of the Act reflects that “radioactive materials” as included within the definition of “pollutant” in section 502 of the Act means only radioactive materials which are not encompassed in the definition of source, byproduct, or special nuclear materials as defined by the Atomic Energy Act of 1954, as amended, and regulated under the Atomic Energy Act. Examples of radioactive materials not covered by the Atomic Energy Act and, therefore, included within the term “pollutant”, are radium and accelerator produced isotopes. See *Train* v. *Colorado Public Interest Research Group, Inc.,* 426 U.S. 1 (1976).
+
+(k) The term *pollution* means the man-made or man-induced alteration of the chemical, physical, biological or radiological integrity of an aquatic ecosystem.
+
+(l) The term *practicable* means available and capable of being done after taking into consideration cost, existing technology, and logistics in light of overall project purposes.
+
+(m) *Special aquatic sites* means those sites identified in subpart E. They are geographic areas, large or small, possessing special ecological characteristics of productivity, habitat, wildlife protection, or other important and easily disrupted ecological values. These areas are generally recognized as significantly influencing or positively contributing to the general overall environmental health or vitality of the entire ecosystem of a region. (See § 230.10(a)(3))
+
+(n) The term *territorial sea* means the belt of the sea measured from the baseline as determined in accordance with the Convention on the Territorial Sea and the Contiguous Zone and extending seaward a distance of three miles.
+
+(o) *Waters of the United States* means the term as it is defined in § 120.2 of this chapter.
+
+[45 FR 85344, Dec. 24, 1980, as amended at 58 FR 45037, Aug. 25, 1993; 80 FR 37115, June 29, 2015; 83 FR 5208, Feb. 6, 2018; 84 FR 56669, Oct. 22, 2019; 85 FR 22341, Apr. 21, 2020]
+
+### § 230.4 Organization.
+
+The Guidelines are divided into eight subparts. Subpart A presents those provisions of general applicability, such as purpose and definitions. Subpart B establishes the four conditions which must be satisfied in order to make a finding that a proposed discharge of dredged or fill material complies with the Guidelines. Section 230.11 of subpart B, sets forth factual determinations which are to be considered in determining whether or not a proposed discharge satisfies the subpart B conditions of compliance. Subpart C describes the physical and chemical components of a site and provides guidance as to how proposed discharges of dredged or fill material may affect these components. Subparts D through F detail the special characteristics of particular aquatic ecosystems in terms of their values, and the possible loss of these values due to discharges of dredged or fill material. Subpart G prescribes a number of physical, chemical, and biological evaluations and testing procedures to be used in reaching the required factual determinations. Subpart H details the means to prevent or mimimize adverse effects. Subpart I concerns advanced identification of disposal areas.
+
+### § 230.5 General procedures to be followed.
+
+In evaluating whether a particular discharge site may be specified, the permitting authority should use these Guidelines in the following sequence:
+
+(a) In order to obtain an overview of the principal regulatory provisions of the Guidelines, review the restrictions on discharge in § 230.10(a) through (d), the measures to mimimize adverse impact of subpart H, and the required factual determinations of § 230.11.
+
+(b) Determine if a General permit (§ 230.7) is applicable; if so, the applicant needs merely to comply with its terms, and no further action by the permitting authority is necessary. Special conditions for evaluation of proposed General permits are contained in § 230.7. If the discharge is not covered by a General permit:
+
+(c) Examine practicable alternatives to the proposed discharge, that is, not discharging into the waters of the U.S. or discharging into an alternative aquatic site with potentially less damaging consequences (§ 230.10(a)).
+
+(d) Delineate the candidate disposal site consistent with the criteria and evaluations of § 230.11(f).
+
+(e) Evaluate the various physical and chemical components which characterize the non-living environment of the candidate site, the substrate and the water including its dynamic characteristics (subpart C).
+
+(f) Identify and evaluate any special or critical characteristics of the candidate disposal site, and surrounding areas which might be affected by use of such site, related to their living communities or human uses (subparts D, E, and F).
+
+(g) Review Factual Determinations in § 230.11 to determine whether the information in the project file is sufficient to provide the documentation required by § 230.11 or to perform the pre-testing evaluation described in § 230.60, or other information is necessary.
+
+(h) Evaluate the material to be discharged to determine the possibility of chemical contamination or physical incompatibility of the material to be discharged (§ 230.60).
+
+(i) If there is a reasonable probability of chemical contamination, conduct the appropriate tests according to the section on Evaluation and Testing (§ 230.61).
+
+(j) Identify appropriate and practicable changes to the project plan to minimize the environmental impact of the discharge, based upon the specialized methods of minimization of impacts in subpart H.
+
+(k) Make and document Factual Determinations in § 230.11.
+
+(l) Make and document Findings of Compliance (§ 230.12) by comparing Factual Determinations with the requirements for discharge of § 230.10.
+
+This outline of the steps to follow in using the Guidelines is simplified for purposes of illustration. The actual process followed may be iterative, with the results of one step leading to a reexamination of previous steps. The permitting authority must address all of the relevant provisions of the Guidelines in reaching a Finding of Compliance in an individual case.
+
+### § 230.6 Adaptability.
+
+(a) The manner in which these Guidelines are used depends on the physical, biological, and chemical nature of the proposed extraction site, the material to be discharged, and the candidate disposal site, including any other important components of the ecosystem being evaluated. Documentation to demonstrate knowledge about the extraction site, materials to be extracted, and the candidate disposal site is an essential component of guideline application. These Guidelines allow evaluation and documentation for a variety of activities, ranging from those with large, complex impacts on the aquatic environment to those for which the impact is likely to be innocuous. It is unlikely that the Guidelines will apply in their entirety to any one activity, no matter how complex. It is anticipated that substantial numbers of permit applications will be for minor, routine activities that have little, if any, potential for significant degradation of the aquatic environment. It generally is not intended or expected that extensive testing, evaluation or analysis will be needed to make findings of compliance in such routine cases. Where the conditions for General permits are met, and where numerous applications for similar activities are likely, the use of General permits will eliminate repetitive evaluation and documentation for individual discharges.
+
+(b) The Guidelines user, including the agency or agencies responsible for implementing the Guidelines, must recognize the different levels of effort that should be associated with varying degrees of impact and require or prepare commensurate documentation. The level of documentation should reflect the significance and complexity of the discharge activity.
+
+(c) An essential part of the evaluation process involves making determinations as to the relevance of any portion(s) of the Guidelines and conducting further evaluation only as needed. However, where portions of the Guidelines review procedure are “short form” evaluations, there still must be sufficient information (including consideration of both individual and cumulative impacts) to support the decision of whether to specify the site for disposal of dredged or fill material and to support the decision to curtail or abbreviate the evaluation process. The presumption against the discharge in § 230.1 applies to this decision-making.
+
+(d) In the case of activities covered by General permits or section 208(b)(4)(B) and (C) Best Management Practices, the analysis and documentation required by the Guidelines will be performed at the time of General permit issuance or section 208(b)(4)(B) and (C) Best Management Practices promulgation and will not be repeated when activities are conducted under a General permit or section 208(b)(4)(B) and (C) Best Management Practices control. These Guidelines do not require reporting or formal written communication at the time individual activities are initiated under a General permit or section 208(b)(4)(B) and (C) Best Management Practices. However, a particular General permit may require appropriate reporting.
+
+### § 230.7 General permits.
+
+(a) *Conditions for the issuance of General permits.* A General permit for a category of activities involving the discharge of dredged or fill material complies with the Guidelines if it meets the applicable restrictions on the discharge in § 230.10 and if the permitting authority determines that:
+
+(1) The activities in such category are similar in nature and similar in their impact upon water quality and the aquatic environment;
+
+(2) The activities in such category will have only minimal adverse effects when performed separately; and
+
+(3) The activities in such category will have only minimal cumulative adverse effects on water quality and the aquatic environment.
+
+(b) *Evaluation process.* To reach the determinations required in paragraph (a) of this section, the permitting authority shall set forth in writing an evaluation of the potential individual and cumulative impacts of the category of activities to be regulated under the General permit. While some of the information necessary for this evaluation can be obtained from potential permittees and others through the proposal of General permits for public review, the evaluation must be completed before any General permit is issued, and the results must be published with the final permit.
+
+(1) This evaluation shall be based upon consideration of the prohibitions listed in § 230.10(b) and the factors listed in § 230.10(c), and shall include documented information supporting each factual determination in § 230.11 of the Guidelines (consideration of alternatives in § 230.10(a) are not directly applicable to General permits);
+
+(2) The evaluation shall include a precise description of the activities to be permitted under the General permit, explaining why they are sufficiently similar in nature and in environmental impact to warrant regulation under a single General permit based on subparts C through F of the Guidelines. Allowable differences between activities which will be regulated under the same General permit shall be specified. Activities otherwise similar in nature may differ in environmental impact due to their location in or near ecologically sensitive areas, areas with unique chemical or physical characteristics, areas containing concentrations of toxic substances, or areas regulated for specific human uses or by specific land or water management plans (e.g., areas regulated under an approved Coastal Zone Management Plan). If there are specific geographic areas within the purview of a proposed General permit (called a draft General permit under a State 404 program), which are more appropriately regulated by individual permit due to the considerations cited in this paragraph, they shall be clearly delineated in the evaluation and excluded from the permit. In addition, the permitting authority may require an individual permit for any proposed activity under a General permit where the nature or location of the activity makes an individual permit more appropriate.
+
+(3) To predict cumulative effects, the evaluation shall include the number of individual discharge activities likely to be regulated under a General permit until its expiration, including repetitions of individual discharge activities at a single location.
+
+## Subpart B—Compliance With the Guidelines
+
+### § 230.10 Restrictions on discharge.
+
+**Note:**
+
+Because other laws may apply to particular discharges and because the Corps of Engineers or State 404 agency may have additional procedural and substantive requirements, a discharge complying with the requirement of these Guidelines will not automatically receive a permit.
+
+Although all requirements in § 230.10 must be met, the compliance evaluation procedures will vary to reflect the seriousness of the potential for adverse impacts on the aquatic ecosystems posed by specific dredged or fill material discharge activities.
+
+(a) Except as provided under section 404(b)(2), no discharge of dredged or fill material shall be permitted if there is a practicable alternative to the proposed discharge which would have less adverse impact on the aquatic ecosystem, so long as the alternative does not have other significant adverse environmental consequences.
+
+(1) For the purpose of this requirement, practicable alternatives include, but are not limited to:
+
+(i) Activities which do not involve a discharge of dredged or fill material into the waters of the United States or ocean waters;
+
+(ii) Discharges of dredged or fill material at other locations in waters of the United States or ocean waters;
+
+(2) An alternative is practicable if it is available and capable of being done after taking into consideration cost, existing technology, and logistics in light of overall project purposes. If it is otherwise a practicable alternative, an area not presently owned by the applicant which could reasonably be obtained, utilized, expanded or managed in order to fulfill the basic purpose of the proposed activity may be considered.
+
+(3) Where the activity associated with a discharge which is proposed for a special aquatic site (as defined in subpart E) does not require access or proximity to or siting within the special aquatic site in question to fulfill its basic purpose (*i.e.*, is not “water dependent”), practicable alternatives that do not involve special aquatic sites are presumed to be available, unless clearly demonstrated otherwise. In addition, where a discharge is proposed for a special aquatic site, all practicable alternatives to the proposed discharge which do not involve a discharge into a special aquatic site are presumed to have less adverse impact on the aquatic ecosystem, unless clearly demonstrated otherwise.
+
+(4) For actions subject to NEPA, where the Corps of Engineers is the permitting agency, the analysis of alternatives required for NEPA environmental documents, including supplemental Corps NEPA documents, will in most cases provide the information for the evaluation of alternatives under these Guidelines. On occasion, these NEPA documents may address a broader range of alternatives than required to be considered under this paragraph or may not have considered the alternatives in sufficient detail to respond to the requirements of these Guidelines. In the latter case, it may be necessary to supplement these NEPA documents with this additional information.
+
+(5) To the extent that practicable alternatives have been identified and evaluated under a Coastal Zone Management program, a section 208 program, or other planning process, such evaluation shall be considered by the permitting authority as part of the consideration of alternatives under the Guidelines. Where such evaluation is less complete than that contemplated under this subsection, it must be supplemented accordingly.
+
+(b) No discharge of dredged or fill material shall be permitted if it:
+
+(1) Causes or contributes, after consideration of disposal site dilution and dispersion, to violations of any applicable State water quality standard;
+
+(2) Violates any applicable toxic effluent standard or prohibition under section 307 of the Act;
+
+(3) Jeopardizes the continued existence of species listed as endangered or threatened under the Endangered Species Act of 1973, as amended, or results in likelihood of the destruction or adverse modification of a habitat which is determined by the Secretary of Interior or Commerce, as appropriate, to be a critical habitat under the Endangered Species Act of 1973, as amended. If an exemption has been granted by the Endangered Species Committee, the terms of such exemption shall apply in lieu of this subparagraph;
+
+(4) Violates any requirement imposed by the Secretary of Commerce to protect any marine sanctuary designated under title III of the Marine Protection, Research, and Sanctuaries Act of 1972.
+
+(c) Except as provided under section 404(b)(2), no discharge of dredged or fill material shall be permitted which will cause or contribute to significant degradation of the waters of the United States. Findings of significant degradation related to the proposed discharge shall be based upon appropriate factual determinations, evaluations, and tests required by subparts B and G, after consideration of subparts C through F, with special emphasis on the persistence and permanence of the effects outlined in those subparts. Under these Guidelines, effects contributing to significant degradation considered individually or collectively, include:
+
+(1) Significantly adverse effects of the discharge of pollutants on human health or welfare, including but not limited to effects on municipal water supplies, plankton, fish, shellfish, wildlife, and special aquatic sites.
+
+(2) Significantly adverse effects of the discharge of pollutants on life stages of aquatic life and other wildlife dependent on aquatic ecosystems, including the transfer, concentration, and spread of pollutants or their byproducts outside of the disposal site through biological, physical, and chemical processes;
+
+(3) Significantly adverse effects of the discharge of pollutants on aquatic ecosystem diversity, productivity, and stability. Such effects may include, but are not limited to, loss of fish and wildlife habitat or loss of the capacity of a wetland to assimilate nutrients, purify water, or reduce wave energy; or
+
+(4) Significantly adverse effects of discharge of pollutants on recreational, aesthetic, and economic values.
+
+(d) Except as provided under section 404(b)(2), no discharge of dredged or fill material shall be permitted unless appropriate and practicable steps have been taken which will minimize potential adverse impacts of the discharge on the aquatic ecosystem. Subpart H identifies such possible steps.
+
+### § 230.11 Factual determinations.
+
+The permitting authority shall determine in writing the potential short-term or long-term effects of a proposed discharge of dredged or fill material on the physical, chemical, and biological components of the aquatic environment in light of subparts C through F. Such factual determinations shall be used in § 230.12 in making findings of compliance or non-compliance with the restrictions on discharge in § 230.10. The evaluation and testing procedures described in § 230.60 and § 230.61 of subpart G shall be used as necessary to make, and shall be described in, such determination. The determinations of effects of each proposed discharge shall include the following:
+
+(a) *Physical substrate determinations.* Determine the nature and degree of effect that the proposed discharge will have, individually and cumulatively, on the characteristics of the substrate at the proposed disposal site. Consideration shall be given to the similarity in particle size, shape, and degree of compaction of the material proposed for discharge and the material constituting the substrate at the disposal site, and any potential changes in substrate elevation and bottom contours, including changes outside of the disposal site which may occur as a result of erosion, slumpage, or other movement of the discharged material. The duration and physical extent of substrate changes shall also be considered. The possible loss of environmental values (§ 230.20) and actions to minimize impact (subpart H) shall also be considered in making these determinations. Potential changes in substrate elevation and bottom contours shall be predicted on the basis of the proposed method, volume, location, and rate of discharge, as well as on the individual and combined effects of current patterns, water circulation, wind and wave action, and other physical factors that may affect the movement of the discharged material.
+
+(b) *Water circulation, fluctuation, and salinity determinations.* Determine the nature and degree of effect that the proposed discharge will have individually and cumulatively on water, current patterns, circulation including downstream flows, and normal water fluctuation. Consideration shall be given to water chemistry, salinity, clarity, color, odor, taste, dissolved gas levels, temperature, nutrients, and eutrophication plus other appropriate characteristics. Consideration shall also be given to the potential diversion or obstruction of flow, alterations of bottom contours, or other significant changes in the hydrologic regime. Additional consideration of the possible loss of environmental values (§§ 230.23 through 230.25) and actions to minimize impacts (subpart H), shall be used in making these determinations. Potential significant effects on the current patterns, water circulation, normal water fluctuation and salinity shall be evaluated on the basis of the proposed method, volume, location, and rate of discharge.
+
+(c) *Suspended particulate/turbidity determinations.* Determine the nature and degree of effect that the proposed discharge will have, individually and cumulatively, in terms of potential changes in the kinds and concentrations of suspended particulate/turbidity in the vicinity of the disposal site. Consideration shall be given to the grain size of the material proposed for discharge, the shape and size of the plume of suspended particulates, the duration of the discharge and resulting plume and whether or not the potential changes will cause violations of applicable water quality standards. Consideration should also be given to the possible loss of environmental values (§ 230.21) and to actions for minimizing impacts (subpart H). Consideration shall include the proposed method, volume, location, and rate of discharge, as well as the individual and combined effects of current patterns, water circulation and fluctuations, wind and wave action, and other physical factors on the movement of suspended particulates.
+
+(d) *Contaminant determinations.* Determine the degree to which the material proposed for discharge will introduce, relocate, or increase contaminants. This determination shall consider the material to be discharged, the aquatic environment at the proposed disposal site, and the availability of contaminants.
+
+(e) *Aquatic ecosystem and organism determinations.* Determine the nature and degree of effect that the proposed discharge will have, both individually and cumulatively, on the structure and function of the aquatic ecosystem and organisms. Consideration shall be given to the effect at the proposed disposal site of potential changes in substrate characteristics and elevation, water or substrate chemistry, nutrients, currents, circulation, fluctuation, and salinity, on the recolonization and existence of indigenous aquatic organisms or communities. Possible loss of environmental values (§ 230.31), and actions to minimize impacts (subpart H) shall be examined. Tests as described in § 230.61 (Evaluation and Testing), may be required to provide information on the effect of the discharge material on communities or populations of organisms expected to be exposed to it.
+
+(f) *Proposed disposal site determinations.* (1) Each disposal site shall be specified through the application of these Guidelines. The mixing zone shall be confined to the smallest practicable zone within each specified disposal site that is consistent with the type of dispersion determined to be appropriate by the application of these Guidelines. In a few special cases under unique environmental conditions, where there is adequate justification to show that widespread dispersion by natural means will result in no significantly adverse environmental effects, the discharged material may be intended to be spread naturally in a very thin layer over a large area of the substrate rather than be contained within the disposal site.
+
+(2) The permitting authority and the Regional Administrator shall consider the following factors in determining the acceptability of a proposed mixing zone:
+
+(i) Depth of water at the disposal site;
+
+(ii) Current velocity, direction, and variability at the disposal site;
+
+(iii) Degree of turbulence;
+
+(iv) Stratification attributable to causes such as obstructions, salinity or density profiles at the disposal site;
+
+(v) Discharge vessel speed and direction, if appropriate;
+
+(vi) Rate of discharge;
+
+(vii) Ambient concentration of constituents of interest;
+
+(viii) Dredged material characteristics, particularly concentrations of constituents, amount of material, type of material (sand, silt, clay, etc.) and settling velocities;
+
+(ix) Number of discharge actions per unit of time;
+
+(x) Other factors of the disposal site that affect the rates and patterns of mixing.
+
+(g) *Determination of cumulative effects on the aquatic ecosystem.* (1) Cumulative impacts are the changes in an aquatic ecosystem that are attributable to the collective effect of a number of individual discharges of dredged or fill material. Although the impact of a particular discharge may constitute a minor change in itself, the cumulative effect of numerous such piecemeal changes can result in a major impairment of the water resources and interfere with the productivity and water quality of existing aquatic ecosystems.
+
+(2) Cumulative effects attributable to the discharge of dredged or fill material in waters of the United States should be predicted to the extent reasonable and practical. The permitting authority shall collect information and solicit information from other sources about the cumulative impacts on the aquatic ecosystem. This information shall be documented and considered during the decision-making process concerning the evaluation of individual permit applications, the issuance of a General permit, and monitoring and enforcement of existing permits.
+
+(h) *Determination of secondary effects on the aquatic ecosystem.* (1) Secondary effects are effects on an aquatic ecosystem that are associated with a discharge of dredged or fill materials, but do not result from the actual placement of the dredged or fill material. Information about secondary effects on aquatic ecosystems shall be considered prior to the time final section 404 action is taken by permitting authorities.
+
+(2) Some examples of secondary effects on an aquatic ecosystem are fluctuating water levels in an impoundment and downstream associated with the operation of a dam, septic tank leaching and surface runoff from residential or commercial developments on fill, and leachate and runoff from a sanitary landfill located in waters of the U.S. Activities to be conducted on fast land created by the discharge of dredged or fill material in waters of the United States may have secondary impacts within those waters which should be considered in evaluating the impact of creating those fast lands.
+
+### § 230.12 Findings of compliance or non-compliance with the restrictions on discharge.
+
+(a) On the basis of these Guidelines (subparts C through G) the proposed disposal sites for the discharge of dredged or fill material must be:
+
+(1) Specified as complying with the requirements of these Guidelines; or
+
+(2) Specified as complying with the requirements of these Guidelines with the inclusion of appropriate and practicable discharge conditions (see subparts H and J) to minimize pollution or adverse effects to the affected aquatic ecosystems; or
+
+(3) Specified as failing to comply with the requirements of these Guidelines where:
+
+(i) There is a practicable alternative to the proposed discharge that would have less adverse effect on the aquatic ecosystem, so long as such alternative does not have other significant adverse environmental consequences; or
+
+(ii) The proposed discharge will result in significant degradation of the aquatic ecosystem under § 230.10(b) or (c); or
+
+(iii) The proposed discharge does not include all appropriate and practicable measures to minimize potential harm to the aquatic ecosystem; or
+
+(iv) There does not exist sufficient information to make a reasonable judgment as to whether the proposed discharge will comply with these Guidelines.
+
+(b) Findings under this section shall be set forth in writing by the permitting authority for each proposed discharge and made available to the permit applicant. These findings shall include the factual determinations required by § 230.11, and a brief explanation of any adaptation of these Guidelines to the activity under consideration. In the case of a General permit, such findings shall be prepared at the time of issuance of that permit rather than for each subsequent discharge under the authority of that permit.
+
+## Subpart C—Potential Impacts on Physical and Chemical Characteristics of the Aquatic Ecosystem
+
+**Note:**
+
+The effects described in this subpart should be considered in making the factual determinations and the findings of compliance or non-compliance in subpart B.
+
+[45 FR 85344, Dec. 24, 1980, as amended at 73 FR 19687, Apr. 10, 2008]
+
+### § 230.20 Substrate.
+
+(a) The substrate of the aquatic ecosystem underlies open waters of the United States and constitutes the surface of wetlands. It consists of organic and inorganic solid materials and includes water and other liquids or gases that fill the spaces between solid particles.
+
+(b) Possible loss of environmental characteristics and values: The discharge of dredged or fill material can result in varying degrees of change in the complex physical, chemical, and biological characteristics of the substrate. Discharges which alter substrate elevation or contours can result in changes in water circulation, depth, current pattern, water fluctuation and water temperature. Discharges may adversely affect bottom-dwelling organisms at the site by smothering immobile forms or forcing mobile forms to migrate. Benthic forms present prior to a discharge are unlikely to recolonize on the discharged material if it is very dissimilar from that of the discharge site. Erosion, slumping, or lateral displacement of surrounding bottom of such deposits can adversely affect areas of the substrate outside the perimeters of the disposal site by changing or destroying habitat. The bulk and composition of the discharged material and the location, method, and timing of discharges may all influence the degree of impact on the substrate.
+
+### § 230.21 Suspended particulates/turbidity.
+
+(a) Suspended particulates in the aquatic ecosystem consist of fine-grained mineral particles, usually smaller than silt, and organic particles. Suspended particulates may enter water bodies as a result of land runoff, flooding, vegetative and planktonic breakdown, resuspension of bottom sediments, and man's activities including dredging and filling. Particulates may remain suspended in the water column for variable periods of time as a result of such factors as agitation of the water mass, particulate specific gravity, particle shape, and physical and chemical properties of particle surfaces.
+
+(b) Possible loss of environmental characteristics and values: The discharge of dredged or fill material can result in greatly elevated levels of suspended particulates in the water column for varying lengths of time. These new levels may reduce light penetration and lower the rate of photosynthesis and the primary productivity of an aquatic area if they last long enough. Sight-dependent species may suffer reduced feeding ability leading to limited growth and lowered resistance to disease if high levels of suspended particulates persist. The biological and the chemical content of the suspended material may react with the dissolved oxygen in the water, which can result in oxygen depletion. Toxic metals and organics, pathogens, and viruses absorbed or adsorbed to fine-grained particulates in the material may become biologically available to organisms either in the water column or on the substrate. Significant increases in suspended particulate levels create turbid plumes which are highly visible and aesthetically displeasing. The extent and persistence of these adverse impacts caused by discharges depend upon the relative increase in suspended particulates above the amount occurring naturally, the duration of the higher levels, the current patterns, water level, and fluctuations present when such discharges occur, the volume, rate, and duration of the discharge, particulate deposition, and the seasonal timing of the discharge.
+
+### § 230.22 Water.
+
+(a) Water is the part of the aquatic ecosystem in which organic and inorganic constituents are dissolved and suspended. It constitutes part of the liquid phase and is contained by the substrate. Water forms part of a dynamic aquatic life-supporting system. Water clarity, nutrients and chemical content, physical and biological content, dissolved gas levels, pH, and temperature contribute to its life-sustaining capabilities.
+
+(b) Possible loss of environmental characteristics and values: The discharge of dredged or fill material can change the chemistry and the physical characteristics of the receiving water at a disposal site through the introduction of chemical constituents in suspended or dissolved form. Changes in the clarity, color, odor, and taste of water and the addition of contaminants can reduce or eliminate the suitability of water bodies for populations of aquatic organisms, and for human consumption, recreation, and aesthetics. The introduction of nutrients or organic material to the water column as a result of the discharge can lead to a high biochemical oxygen demand (BOD), which in turn can lead to reduced dissolved oxygen, thereby potentially affecting the survival of many aquatic organisms. Increases in nutrients can favor one group of organisms such as algae to the detriment of other more desirable types such as submerged aquatic vegetation, potentially causing adverse health effects, objectionable tastes and odors, and other problems.
+
+### § 230.23 Current patterns and water circulation.
+
+(a) Current patterns and water circulation are the physical movements of water in the aquatic ecosystem. Currents and circulation respond to natural forces as modified by basin shape and cover, physical and chemical characteristics of water strata and masses, and energy dissipating factors.
+
+(b) Possible loss of environmental characteristics and values: The discharge of dredged or fill material can modify current patterns and water circulation by obstructing flow, changing the direction or velocity of water flow, changing the direction or velocity of water flow and circulation, or otherwise changing the dimensions of a water body. As a result, adverse changes can occur in: Location, structure, and dynamics of aquatic communities; shoreline and substrate erosion and depositIon rates; the deposition of suspended particulates; the rate and extent of mixing of dissolved and suspended components of the water body; and water stratification.
+
+### § 230.24 Normal water fluctuations.
+
+(a) Normal water fluctuations in a natural aquatic system consist of daily, seasonal, and annual tidal and flood fluctuations in water level. Biological and physical components of such a system are either attuned to or characterized by these periodic water fluctuations.
+
+(b) Possible loss of environmental characteristics and values: The discharge of dredged or fill material can alter the normal water-level fluctuation pattern of an area, resulting in prolonged periods of inundation, exaggerated extremes of high and low water, or a static, nonfluctuating water level. Such water level modifications may change salinity patterns, alter erosion or sedimentation rates, aggravate water temperature extremes, and upset the nutrient and dissolved oxygen balance of the aquatic ecosystem. In addition, these modifications can alter or destroy communities and populations of aquatic animals and vegetation, induce populations of nuisance organisms, modify habitat, reduce food supplies, restrict movement of aquatic fauna, destroy spawning areas, and change adjacent, upstream, and downstream areas.
+
+### § 230.25 Salinity gradients.
+
+(a) Salinity gradients form where salt water from the ocean meets and mixes with fresh water from land.
+
+(b) Possible loss of environmental characteristics and values: Obstructions which divert or restrict flow of either fresh or salt water may change existing salinity gradients. For example, partial blocking of the entrance to an estuary or river mouth that significantly restricts the movement of the salt water into and out of that area can effectively lower the volume of salt water available for mixing within that estuary. The downstream migration of the salinity gradient can occur, displacing the maximum sedimentation zone and requiring salinity-dependent aquatic biota to adjust to the new conditions, move to new locations if possible, or perish. In the freshwater zone, discharge operations in the upstream regions can have equally adverse impacts. A significant reduction in the volume of fresh water moving into an estuary below that which is considered normal can affect the location and type of mixing thereby changing the characteristic salinity patterns. The resulting changed circulation pattern can cause the upstream migration of the salinity gradient displacing the maximim sedimentation zone. This migration may affect those organisms that are adapted to freshwater environments. It may also affect municipal water supplies.
+
+**Note:**
+
+Possible actions to minimize adverse impacts regarding site characteristics can be found in subpart H.
+
+## Subpart D—Potential Impacts on Biological Characteristics of the Aquatic Ecosystem
+
+**Note:**
+
+The impacts described in this subpart should be considered in making the factual determinations and the findings of compliance or non-compliance in subpart B.
+
+### § 230.30 Threatened and endangered species.
+
+(a) An endangered species is a plant or animal in danger of extinction throughout all or a significant portion of its range. A threatened species is one in danger of becoming an endangered species in the foreseeable future throughout all or a significant portion of its range. Listings of threatened and endangered species as well as critical habitats are maintained by some individual States and by the U.S. Fish and Wildlife Service of the Department of the Interior (codified annually at 50 CFR 17.11). The Department of Commerce has authority over some threatened and endangered marine mammals, fish and reptiles.
+
+(b) Possible loss of values: The major potential impacts on threatened or endangered species from the discharge of dredged or fill material include:
+
+(1) Covering or otherwise directly killing species;
+
+(2) The impairment or destruction of habitat to which these species are limited. Elements of the aquatic habitat which are particularly crucial to the continued survival of some threatened or endangered species include adequate good quality water, spawning and maturation areas, nesting areas, protective cover, adequate and reliable food supply, and resting areas for migratory species. Each of these elements can be adversely affected by changes in either the normal water conditions for clarity, chemical content, nutrient balance, dissolved oxygen, pH, temperature, salinity, current patterns, circulation and fluctuation, or the physical removal of habitat; and
+
+(3) Facilitating incompatible activities.
+
+(c) Where consultation with the Secretary of the Interior occurs under section 7 of the Endangered Species Act, the conclusions of the Secretary concerning the impact(s) of the discharge on threatened and endangered species and their habitat shall be considered final.
+
+### § 230.31 Fish, crustaceans, mollusks, and other aquatic organisms in the food web.
+
+(a) Aquatic organisms in the food web include, but are not limited to, finfish, crustaceans, mollusks, insects, annelids, planktonic organisms, and the plants and animals on which they feed and depend upon for their needs. All forms and life stages of an organism, throughout its geographic range, are included in this category.
+
+(b) Possible loss of values: The discharge of dredged or fill material can variously affect populations of fish, crustaceans, mollusks and other food web organisms through the release of contaminants which adversely affect adults, juveniles, larvae, or eggs, or result in the establishment or proliferation of an undesirable competitive species of plant or animal at the expense of the desired resident species. Suspended particulates settling on attached or buried eggs can smother the eggs by limiting or sealing off their exposure to oxygenated water. Discharge of dredged and fill material may result in the debilitation or death of sedentary organisms by smothering, exposure to chemical contaminants in dissolved or suspended form, exposure to high levels of suspended particulates, reduction in food supply, or alteration of the substrate upon which they are dependent. Mollusks are particularly sensitive to the discharge of material during periods of reproduction and growth and development due primarily to their limited mobility. They can be rendered unfit for human consumption by tainting, by production and accumulation of toxins, or by ingestion and retention of pathogenic organisms, viruses, heavy metals or persistent synthetic organic chemicals. The discharge of dredged or fill material can redirect, delay, or stop the reproductive and feeding movements of some species of fish and crustacea, thus preventing their aggregation in accustomed places such as spawning or nursery grounds and potentially leading to reduced populations. Reduction of detrital feeding species or other representatives of lower trophic levels can impair the flow of energy from primary consumers to higher trophic levels. The reduction or potential elimination of food chain organism populations decreases the overall productivity and nutrient export capability of the ecosystem.
+
+### § 230.32 Other wildlife.
+
+(a) Wildlife associated with aquatic ecosystems are resident and transient mammals, birds, reptiles, and amphibians.
+
+(b) Possible loss of values: The discharge of dredged or fill material can result in the loss or change of breeding and nesting areas, escape cover, travel corridors, and preferred food sources for resident and transient wildlife species associated with the aquatic ecosystem. These adverse impacts upon wildlife habitat may result from changes in water levels, water flow and circulation, salinity, chemical content, and substrate characteristics and elevation. Increased water turbidity can adversely affect wildlife species which rely upon sight to feed, and disrupt the respiration and feeding of certain aquatic wildlife and food chain organisms. The availability of contaminants from the discharge of dredged or fill material may lead to the bioaccumulation of such contaminants in wildlife. Changes in such physical and chemical factors of the environment may favor the introduction of undesirable plant and animal species at the expense of resident species and communities. In some aquatic environments lowering plant and animal species diversity may disrupt the normal functions of the ecosystem and lead to reductions in overall biological productivity.
+
+**Note:**
+
+Possible actions to minimize adverse impacts regarding characteristics of biological components of the aquatic ecosystem can be found in subpart H.
+
+## Subpart E—Potential Impacts on Special Aquatic Sites
+
+**Note:**
+
+The impacts described in this subpart should be considered in making the factual determinations and the findings of compliance or non-compliance in subpart B. The definition of special aquatic sites is found in § 230.3(q-1).
+
+### § 230.40 Sanctuaries and refuges.
+
+(a) Sanctuaries and refuges consist of areas designated under State and Federal laws or local ordinances to be managed principally for the preservation and use of fish and wildlife resources.
+
+(b) Possible loss of values: Sanctuaries and refuges may be affected by discharges of dredged or fill material which will:
+
+(1) Disrupt the breeding, spawning, migratory movements or other critical life requirements of resident or transient fish and wildlife resources;
+
+(2) Create unplanned, easy and incompatible human access to remote aquatic areas;
+
+(3) Create the need for frequent maintenance activity;
+
+(4) Result in the establishment of undesirable competitive species of plants and animals;
+
+(5) Change the balance of water and land areas needed to provide cover, food, and other fish and wildlife habitat requirements in a way that modifies sanctuary or refuge management practices;
+
+(6) Result in any of the other adverse impacts discussed in subparts C and D as they relate to a particular sanctuary or refuge.
+
+### § 230.41 Wetlands.
+
+(a)(1) Wetlands consist of areas that are inundated or saturated by surface or ground water at a frequency and duration sufficient to support, and that under normal circumstances do support, a prevalence of vegetation typically adapted for life in saturated soil conditions.
+
+(2) Where wetlands are adjacent to open water, they generally constitute the transition to upland. The margin between wetland and open water can best be established by specialists familiar with the local environment, particularly where emergent vegetation merges with submerged vegetation over a broad area in such places as the lateral margins of open water, headwaters, rainwater catch basins, and groundwater seeps. The landward margin of wetlands also can best be identified by specialists familiar with the local environment when vegetation from the two regions merges over a broad area.
+
+(3) Wetland vegetation consists of plants that require saturated soils to survive (obligate wetland plants) as well as plants, including certain trees, that gain a competitive advantage over others because they can tolerate prolonged wet soil conditions and their competitors cannot. In addition to plant populations and communities, wetlands are delimited by hydrological and physical characteristics of the environment. These characteristics should be considered when information about them is needed to supplement information available about vegetation, or where wetland vegetation has been removed or is dormant.
+
+(b) Possible loss of values: The discharge of dredged or fill material in wetlands is likely to damage or destroy habitat and adversely affect the biological productivity of wetlands ecosystems by smothering, by dewatering, by permanently flooding, or by altering substrate elevation or periodicity of water movement. The addition of dredged or fill material may destroy wetland vegetation or result in advancement of succession to dry land species. It may reduce or eliminate nutrient exchange by a reduction of the system's productivity, or by altering current patterns and velocities. Disruption or elimination of the wetland system can degrade water quality by obstructing circulation patterns that flush large expanses of wetland systems, by interfering with the filtration function of wetlands, or by changing the aquifer recharge capability of a wetland. Discharges can also change the wetland habitat value for fish and wildlife as discussed in subpart D. When disruptions in flow and circulation patterns occur, apparently minor loss of wetland acreage may result in major losses through secondary impacts. Discharging fill material in wetlands as part of municipal, industrial or recreational development may modify the capacity of wetlands to retain and store floodwaters and to serve as a buffer zone shielding upland areas from wave actions, storm damage and erosion.
+
+### § 230.42 Mud flats.
+
+(a) Mud flats are broad flat areas along the sea coast and in coastal rivers to the head of tidal influence and in inland lakes, ponds, and riverine systems. When mud flats are inundated, wind and wave action may resuspend bottom sediments. Coastal mud flats are exposed at extremely low tides and inundated at high tides with the water table at or near the surface of the substrate. The substrate of mud flats contains organic material and particles smaller in size than sand. They are either unvegetated or vegetated only by algal mats.
+
+(b) Possible loss of values: The discharge of dredged or fill material can cause changes in water circulation patterns which may permanently flood or dewater the mud flat or disrupt periodic inundation, resulting in an increase in the rate of erosion or accretion. Such changes can deplete or eliminate mud flat biota, foraging areas, and nursery areas. Changes in inundation patterns can affect the chemical and biological exchange and decomposition process occurring on the mud flat and change the deposition of suspended material affecting the productivity of the area. Changes may reduce the mud flat's capacity to dissipate storm surge runoff.
+
+### § 230.43 Vegetated shallows.
+
+(a) Vegetated shallows are permanently inundated areas that under normal circumstances support communities of rooted aquatic vegetation, such as turtle grass and eelgrass in estuarine or marine systems as well as a number of freshwater species in rivers and lakes.
+
+(b) Possible loss of values: The discharge of dredged or fill material can smother vegetation and benthic organisms. It may also create unsuitable conditions for their continued vigor by: (1) Changing water circulation patterns; (2) releasing nutrients that increase undesirable algal populations; (3) releasing chemicals that adversely affect plants and animals; (4) increasing turbidity levels, thereby reducing light penetration and hence photosynthesis; and (5) changing the capacity of a vegetated shallow to stabilize bottom materials and decrease channel shoaling. The discharge of dredged or fill material may reduce the value of vegetated shallows as nesting, spawning, nursery, cover, and forage areas, as well as their value in protecting shorelines from erosion and wave actions. It may also encourage the growth of nuisance vegetation.
+
+### § 230.44 Coral reefs.
+
+(a) Coral reefs consist of the skeletal deposit, usually of calcareous or silicaceous materials, produced by the vital activities of anthozoan polyps or other invertebrate organisms present in growing portions of the reef.
+
+(b) Possible loss of values: The discharge of dredged or fill material can adversely affect colonies of reef building organisms by burying them, by releasing contaminants such as hydrocarbons into the water column, by reducing light penetration through the water, and by increasing the level of suspended particulates. Coral organisms are extremely sensitive to even slight reductions in light penetration or increases in suspended particulates. These adverse effects will cause a loss of productive colonies which in turn provide habitat for many species of highly specialized aquatic organisms.
+
+### § 230.45 Riffle and pool complexes.
+
+(a) Steep gradient sections of streams are sometimes characterized by riffle and pool complexes. Such stream sections are recognizable by their hydraulic characteristics. The rapid movement of water over a coarse substrate in riffles results in a rough flow, a turbulent surface, and high dissolved oxygen levels in the water. Pools are deeper areas associated with riffles. Pools are characterized by a slower stream velocity, a steaming flow, a smooth surface, and a finer substrate. Riffle and pool complexes are particularly valuable habitat for fish and wildlife.
+
+(b) Possible loss of values: Discharge of dredged or fill material can eliminate riffle and pool areas by displacement, hydrologic modification, or sedimentation. Activities which affect riffle and pool areas and especially riffle/pool ratios, may reduce the aeration and filtration capabilities at the discharge site and downstream, may reduce stream habitat diversity, and may retard repopulation of the disposal site and downstream waters through sedimentation and the creation of unsuitable habitat. The discharge of dredged or fill material which alters stream hydrology may cause scouring or sedimentation of riffles and pools. Sedimentation induced through hydrological modification or as a direct result of the deposition of unconsolidated dredged or fill material may clog riffle and pool areas, destroy habitats, and create anaerobic conditions. Eliminating pools and meanders by the discharge of dredged or fill material can reduce water holding capacity of streams and cause rapid runoff from a watershed. Rapid runoff can deliver large quantities of flood water in a short time to downstream areas resulting in the destruction of natural habitat, high property loss, and the need for further hydraulic modification.
+
+**Note:**
+
+Possible actions to minimize adverse impacts on site or material characteristics can be found in subpart H.
+
+## Subpart F—Potential Effects on Human Use Characteristics
+
+**Note:**
+
+The effects described in this subpart should be considered in making the factual determinations and the findings of compliance or non-compliance in subpart B.
+
+### § 230.50 Municipal and private water supplies.
+
+(a) Municipal and private water supplies consist of surface water or ground water which is directed to the intake of a municipal or private water supply system.
+
+(b) Possible loss of values: Discharges can affect the quality of water supplies with respect to color, taste, odor, chemical content and suspended particulate concentration, in such a way as to reduce the fitness of the water for consumption. Water can be rendered unpalatable or unhealthy by the addition of suspended particulates, viruses and pathogenic organisms, and dissolved materials. The expense of removing such substances before the water is delivered for consumption can be high. Discharges may also affect the quantity of water available for municipal and private water supplies. In addition, certain commonly used water treatment chemicals have the potential for combining with some suspended or dissolved substances from dredged or fill material to form other products that can have a toxic effect on consumers.
+
+### § 230.51 Recreational and commercial fisheries.
+
+(a) Recreational and commercial fisheries consist of harvestable fish, crustaceans, shellfish, and other aquatic organisms used by man.
+
+(b) Possible loss of values: The discharge of dredged or fill materials can affect the suitability of recreational and commercial fishing grounds as habitat for populations of consumable aquatic organisms. Discharges can result in the chemical contamination of recreational or commercial fisheries. They may also interfere with the reproductive success of recreational and commercially important aquatic species through disruption of migration and spawning areas. The introduction of pollutants at critical times in their life cycle may directly reduce populations of commercially important aquatic organisms or indirectly reduce them by reducing organisms upon which they depend for food. Any of these impacts can be of short duration or prolonged, depending upon the physical and chemical impacts of the discharge and the biological availability of contaminants to aquatic organisms.
+
+### § 230.52 Water-related recreation.
+
+(a) Water-related recreation encompasses activities undertaken for amusement and relaxation. Activities encompass two broad categories of use: consumptive, e.g., harvesting resources by hunting and fishing; and non-comsumptive, e.g. canoeing and sight-seeing.
+
+(b) Possible loss of values: One of the more important direct impacts of dredged or fill disposal is to impair or destroy the resources which support recreation activities. The disposal of dredged or fill material may adversely modify or destroy water use for recreation by changing turbidity, suspended particulates, temperature, dissolved oxygen, dissolved materials, toxic materials, pathogenic organisms, quality of habitat, and the aesthetic qualities of sight, taste, odor, and color.
+
+### § 230.53 Aesthetics.
+
+(a) Aesthetics associated with the aquatic ecosystem consist of the perception of beauty by one or a combination of the senses of sight, hearing, touch, and smell. Aesthetics of aquatic ecosystems apply to the quality of life enjoyed by the general public and property owners.
+
+(b) Possible loss of values: The discharge of dredged or fill material can mar the beauty of natural aquatic ecosystems by degrading water quality, creating distracting disposal sites, inducing inappropriate development, encouraging unplanned and incompatible human access, and by destroying vital elements that contribute to the compositional harmony or unity, visual distinctiveness, or diversity of an area. The discharge of dredged or fill material can adversely affect the particular features, traits, or characteristics of an aquatic area which make it valuable to property owners. Activities which degrade water quality, disrupt natural substrate and vegetational characteristics, deny access to or visibility of the resource, or result in changes in odor, air quality, or noise levels may reduce the value of an aquatic area to private property owners.
+
+### § 230.54 Parks, national and historical monuments, national seashores, wilderness areas, research sites, and similar preserves.
+
+(a) These preserves consist of areas designated under Federal and State laws or local ordinances to be managed for their aesthetic, educational, historical, recreational, or scientific value.
+
+(b) Possible loss of values: The discharge of dredged or fill material into such areas may modify the aesthetic, educational, historical, recreational and/or scientific qualities thereby reducing or eliminating the uses for which such sites are set aside and managed.
+
+**Note:**
+
+Possible actions to minimize adverse impacts regarding site or material characteristics can be found in subpart H.
+
+## Subpart G—Evaluation and Testing
+
+### § 230.60 General evaluation of dredged or fill material.
+
+The purpose of these evaluation procedures and the chemical and biological testing sequence outlined in § 230.61 is to provide information to reach the determinations required by § 230.11. Where the results of prior evaluations, chemical and biological tests, scientific research, and experience can provide information helpful in making a determination, these should be used. Such prior results may make new testing unnecessary. The information used shall be documented. Where the same information applies to more than one determination, it may be documented once and referenced in later determinations.
+
+(a) If the evaluation under paragraph (b) indicates the dredged or fill material is not a carrier of contaminants, then the required determinations pertaining to the presence and effects of contaminants can be made without testing. Dredged or fill material is most likely to be free from chemical, biological, or other pollutants where it is composed primarily of sand, gravel, or other naturally occurring inert material. Dredged material so composed is generally found in areas of high current or wave energy such as streams with large bed loads or coastal areas with shifting bars and channels. However, when such material is discolored or contains other indications that contaminants may be present, further inquiry should be made.
+
+(b) The extraction site shall be examined in order to assess whether it is sufficiently removed from sources of pollution to provide reasonable assurance that the proposed discharge material is not a carrier of contaminants. Factors to be considered include but are not limited to:
+
+(1) Potential routes of contaminants or contaminated sediments to the extraction site, based on hydrographic or other maps, aerial photography, or other materials that show watercourses, surface relief, proximity to tidal movement, private and public roads, location of buildings, municipal and industrial areas, and agricultural or forest lands.
+
+(2) Pertinent results from tests previously carried out on the material at the extraction site, or carried out on similar material for other permitted projects in the vicinity. Materials shall be considered similar if the sources of contamination, the physical configuration of the sites and the sediment composition of the materials are comparable, in light of water circulation and stratification, sediment accumulation and general sediment characteristics. Tests from other sites may be relied on only if no changes have occurred at the extraction sites to render the results irrelevant.
+
+(3) Any potential for significant introduction of persistent pesticides from land runoff or percolation;
+
+(4) Any records of spills or disposal of petroleum products or substances designated as hazardous under section 311 of the Clean Water Act (See 40 CFR part 116);
+
+(5) Information in Federal, State and local records indicating significant introduction of pollutants from industries, municipalities, or other sources, including types and amounts of waste materials discharged along the potential routes of contaminants to the extraction site; and
+
+(6) Any possibility of the presence of substantial natural deposits of minerals or other substances which could be released to the aquatic environment in harmful quantities by man-induced discharge activities.
+
+(c) To reach the determinations in § 230.11 involving potential effects of the discharge on the characteristics of the disposal site, the narrative guidance in subparts C through F shall be used along with the general evaluation procedure in § 230.60 and, if necessary, the chemical and biological testing sequence in § 230.61. Where the discharge site is adjacent to the extraction site and subject to the same sources of contaminants, and materials at the two sites are substantially similar, the fact that the material to be discharged may be a carrier of contaminants is not likely to result in degradation of the disposal site. In such circumstances, when dissolved material and suspended particulates can be controlled to prevent carrying pollutants to less contaminated areas, testing will not be required.
+
+(d) Even if the § 230.60(b) evaluation (previous tests, the presence of polluting industries and information about their discharge or runoff into waters of the U.S., bioinventories, etc.) leads to the conclusion that there is a high probability that the material proposed for discharge is a carrier of contaminants, testing may not be necessary if constraints are available to reduce contamination to acceptable levels within the disposal site and to prevent contaminants from being transported beyond the boundaries of the disposal site, if such constraints are acceptable to the permitting authority and the Regional Administrator, and if the potential discharger is willing and able to implement such constraints. However, even if tests are not performed, the permitting authority must still determine the probable impact of the operation on the receiving aquatic ecosystem. Any decision not to test must be explained in the determinations made under § 230.11.
+
+### § 230.61 Chemical, biological, and physical evaluation and testing.
+
+**Note:**
+
+The Agency is today proposing revised testing guidelines. The evaluation and testing procedures in this section are based on the 1975 section 404(b)(1) interim final Guidelines and shall remain in effect until the revised testing guidelines are published as final regulations.
+
+(a) No single test or approach can be applied in all cases to evaluate the effects of proposed discharges of dredged or fill materials. This section provides some guidance in determining which test and/or evaluation procedures are appropriate in a given case. Interim guidance to applicants concerning the applicability of specific approaches or procedures will be furnished by the permitting authority.
+
+(b) *Chemical-biological interactive effects.* The principal concerns of discharge of dredged or fill material that contain contaminants are the potential effects on the water column and on communities of aquatic organisms.
+
+(1) *Evaluation of chemical-biological interactive effects.* Dredged or fill material may be excluded from the evaluation procedures specified in paragraphs (b) (2) and (3) of this section if it is determined, on the basis of the evaluation in § 230.60, that the likelihood of contamination by contaminants is acceptably low, unless the permitting authority, after evaluating and considering any comments received from the Regional Administrator, determines that these procedures are necessary. The Regional Administrator may require, on a case-by-case basis, testing approaches and procedures by stating what additional information is needed through further analyses and how the results of the analyses will be of value in evaluating potential environmental effects.
+
+If the General Evaluation indicates the presence of a sufficiently large number of chemicals to render impractical the identification of all contaminants by chemical testing, information may be obtained from bioassays in lieu of chemical tests.
+
+(2) *Water column effects.* (i) Sediments normally contain constituents that exist in various chemical forms and in various concentrations in several locations within the sediment. An elutriate test may be used to predict the effect on water quality due to release of contaminants from the sediment to the water column. However, in the case of fill material originating on land which may be a carrier of contaminants, a water leachate test is appropriate.
+
+(ii) Major constituents to be analyzed in the elutriate are those deemed critical by the permitting authority, after evaluating and considering any comments received from the Regional Administrator, and considering results of the evaluation in § 230.60. Elutriate concentrations should be compared to concentrations of the same constituents in water from the disposal site. Results should be evaluated in light of the volume and rate of the intended discharge, the type of discharge, the hydrodynamic regime at the disposal site, and other information relevant to the impact on water quality. The permitting authority should consider the mixing zone in evaluating water column effects. The permitting authority may specify bioassays when such procedures will be of value.
+
+(3) *Effects on benthos.* The permitting authority may use an appropriate benthic bioassay (including bioaccumulation tests) when such procedures will be of value in assessing ecological effects and in establishing discharge conditions.
+
+(c) Procedure for comparison of sites.
+
+(1) When an inventory of the total concentration of contaminants would be of value in comparing sediment at the dredging site with sediment at the disposal site, the permitting authority may require a sediment chemical analysis. Markedly different concentrations of contaminants between the excavation and disposal sites may aid in making an environmental assessment of the proposed disposal operation. Such differences should be interpreted in terms of the potential for harm as supported by any pertinent scientific literature.
+
+(2) When an analysis of biological community structure will be of value to assess the potential for adverse environmental impact at the proposed disposal site, a comparison of the biological characteristics between the excavation and disposal sites may be required by the permitting authority. Biological indicator species may be useful in evaluating the existing degree of stress at both sites. Sensitive species representing community components colonizing various substrate types within the sites should be identified as possible bioassay organisms if tests for toxicity are required. Community structure studies should be performed only when they will be of value in determining discharge conditions. This is particularly applicable to large quantities of dredged material known to contain adverse quantities of toxic materials. Community studies should include benthic organisms such as microbiota and harvestable shellfish and finfish. Abundance, diversity, and distribution should be documented and correlated with substrate type and other appropriate physical and chemical environmental characteristics.
+
+(d) Physical tests and evaluation. The effect of a discharge of dredged or fill material on physical substrate characteristics at the disposal site, as well as on the water circulation, fluctuation, salinity, and suspended particulates content there, is important in making factual determinations in § 230.11. Where information on such effects is not otherwise available to make these factual determinations, the permitting authority shall require appropriate physical tests and evaluations as are justified and deemed necessary. Such tests may include sieve tests, settleability tests, compaction tests, mixing zone and suspended particulate plume determinations, and site assessments of water flow, circulation, and salinity characteristics.
+
+## Subpart H—Actions To Minimize Adverse Effects
+
+**Note:**
+
+There are many actions which can be undertaken in response to § 203.10(d) to minimize the adverse effects of discharges of dredged or fill material. Some of these, grouped by type of activity, are listed in this subpart. Additional criteria for compensation measures are provided in subpart J of this part.
+
+### § 230.70 Actions concerning the location of the discharge.
+
+The effects of the discharge can be minimized by the choice of the disposal site. Some of the ways to accomplish this are by:
+
+(a) Locating and confining the discharge to minimize smothering of organisms;
+
+(b) Designing the discharge to avoid a disruption of periodic water inundation patterns;
+
+(c) Selecting a disposal site that has been used previously for dredged material discharge;
+
+(d) Selecting a disposal site at which the substrate is composed of material similar to that being discharged, such as discharging sand on sand or mud on mud;
+
+(e) Selecting the disposal site, the discharge point, and the method of discharge to minimize the extent of any plume;
+
+(f) Designing the discharge of dredged or fill material to minimize or prevent the creation of standing bodies of water in areas of normally fluctuating water levels, and minimize or prevent the drainage of areas subject to such fluctuations.
+
+### § 230.71 Actions concerning the material to be discharged.
+
+The effects of a discharge can be minimized by treatment of, or limitations on the material itself, such as:
+
+(a) Disposal of dredged material in such a manner that physiochemical conditions are maintained and the potency and availability of pollutants are reduced.
+
+(b) Limiting the solid, liquid, and gaseous components of material to be discharged at a particular site;
+
+(c) Adding treatment substances to the discharge material;
+
+(d) Utilizing chemical flocculants to enhance the deposition of suspended particulates in diked disposal areas.
+
+### § 230.72 Actions controlling the material after discharge.
+
+The effects of the dredged or fill material after discharge may be controlled by:
+
+(a) Selecting discharge methods and disposal sites where the potential for erosion, slumping or leaching of materials into the surrounding aquatic ecosystem will be reduced. These sites or methods include, but are not limited to:
+
+(1) Using containment levees, sediment basins, and cover crops to reduce erosion;
+
+(2) Using lined containment areas to reduce leaching where leaching of chemical constituents from the discharged material is expected to be a problem;
+
+(b) Capping in-place contaminated material with clean material or selectively discharging the most contaminated material first to be capped with the remaining material;
+
+(c) Maintaining and containing discharged material properly to prevent point and nonpoint sources of pollution;
+
+(d) Timing the discharge to minimize impact, for instance during periods of unusual high water flows, wind, wave, and tidal actions.
+
+### § 230.73 Actions affecting the method of dispersion.
+
+The effects of a discharge can be minimized by the manner in which it is dispersed, such as:
+
+(a) Where environmentally desirable, distributing the dredged material widely in a thin layer at the disposal site to maintain natural substrate contours and elevation;
+
+(b) Orienting a dredged or fill material mound to minimize undesirable obstruction to the water current or circulation pattern, and utilizing natural bottom contours to minimize the size of the mound;
+
+(c) Using silt screens or other appropriate methods to confine suspended particulate/turbidity to a small area where settling or removal can occur;
+
+(d) Making use of currents and circulation patterns to mix, disperse and dilute the discharge;
+
+(e) Minimizing water column turbidity by using a submerged diffuser system. A similar effect can be accomplished by submerging pipeline discharges or otherwise releasing materials near the bottom;
+
+(f) Selecting sites or managing discharges to confine and minimize the release of suspended particulates to give decreased turbidity levels and to maintain light penetration for organisms;
+
+(g) Setting limitations on the amount of material to be discharged per unit of time or volume of receiving water.
+
+### § 230.74 Actions related to technology.
+
+Discharge technology should be adapted to the needs of each site. In determining whether the discharge operation sufficiently minimizes adverse environmental impacts, the applicant should consider:
+
+(a) Using appropriate equipment or machinery, including protective devices, and the use of such equipment or machinery in activities related to the discharge of dredged or fill material;
+
+(b) Employing appropriate maintenance and operation on equipment or machinery, including adequate training, staffing, and working procedures;
+
+(c) Using machinery and techniques that are especially designed to reduce damage to wetlands. This may include machines equipped with devices that scatter rather than mound excavated materials, machines with specially designed wheels or tracks, and the use of mats under heavy machines to reduce wetland surface compaction and rutting;
+
+(d) Designing access roads and channel spanning structures using culverts, open channels, and diversions that will pass both low and high water flows, accommodate fluctuating water levels, and maintain circulation and faunal movement;
+
+(e) Employing appropriate machinery and methods of transport of the material for discharge.
+
+### § 230.75 Actions affecting plant and animal populations.
+
+Minimization of adverse effects on populations of plants and animals can be achieved by:
+
+(a) Avoiding changes in water current and circulation patterns which would interfere with the movement of animals;
+
+(b) Selecting sites or managing discharges to prevent or avoid creating habitat conducive to the development of undesirable predators or species which have a competitive edge ecologically over indigenous plants or animals;
+
+(c) Avoiding sites having unique habitat or other value, including habitat of threatened or endangered species;
+
+(d) Using planning and construction practices to institute habitat development and restoration to produce a new or modified environmental state of higher ecological value by displacement of some or all of the existing environmental characteristics. Habitat development and restoration techniques can be used to minimize adverse impacts and to compensate for destroyed habitat. Additional criteria for compensation measures are provided in subpart J of this part. Use techniques that have been demonstrated to be effective in circumstances similar to those under consideration wherever possible. Where proposed development and restoration techniques have not yet advanced to the pilot demonstration stage, initiate their use on a small scale to allow corrective action if unanticipated adverse impacts occur;
+
+(e) Timing discharge to avoid spawning or migration seasons and other biologically critical time periods;
+
+(f) Avoiding the destruction of remnant natural sites within areas already affected by development.
+
+[45 FR 85344, Dec. 24, 1980, as amended at 73 FR 19687, Apr. 10, 2008]
+
+### § 230.76 Actions affecting human use.
+
+Minimization of adverse effects on human use potential may be achieved by:
+
+(a) Selecting discharge sites and following discharge procedures to prevent or minimize any potential damage to the aesthetically pleasing features of the aquatic site (e.g. viewscapes), particularly with respect to water quality;
+
+(b) Selecting disposal sites which are not valuable as natural aquatic areas;
+
+(c) Timing the discharge to avoid the seasons or periods when human recreational activity associated with the aquatic site is most important;
+
+(d) Following discharge procedures which avoid or minimize the disturbance of aesthetic features of an aquatic site or ecosystem;
+
+(e) Selecting sites that will not be detrimental or increase incompatible human activity, or require the need for frequent dredge or fill maintenance activity in remote fish and wildlife areas;
+
+(f) Locating the disposal site outside of the vicinity of a public water supply intake.
+
+### § 230.77 Other actions.
+
+(a) In the case of fills, controlling runoff and other discharges from activities to be conducted on the fill;
+
+(b) In the case of dams, designing water releases to accommodate the needs of fish and wildlife;
+
+(c) In dredging projects funded by Federal agencies other than the Corps of Engineers, maintain desired water quality of the return discharge through agreement with the Federal funding authority on scientifically defensible pollutant concentration levels in addition to any applicable water quality standards;
+
+(d) When a significant ecological change in the aquatic environment is proposed by the discharge of dredged or fill material, the permitting authority should consider the ecosystem that will be lost as well as the environmental benefits of the new system.
+
+## Subpart I—Planning To Shorten Permit Processing Time
+
+### § 230.80 Advanced identification of disposal areas.
+
+(a) Consistent with these Guidelines, EPA and the permitting authority, on their own initiative or at the request of any other party and after consultation with any affected State that is not the permitting authority, may identify sites which will be considered as:
+
+(1) Possible future disposal sites, including existing disposal sites and non-sensitive areas; or
+
+(2) Areas generally unsuitable for disposal site specification;
+
+(b) The identification of any area as a possible future disposal site should not be deemed to constitute a permit for the discharge of dredged or fill material within such area or a specification of a disposal site. The identification of areas that generally will not be available for disposal site specification should not be deemed as prohibiting applications for permits to discharge dredged or fill material in such areas. Either type of identification constitutes information to facilitate individual or General permit application and processing.
+
+(c) An appropriate public notice of the proposed identification of such areas shall be issued;
+
+(d) To provide the basis for advanced identification of disposal areas, and areas unsuitable for disposal, EPA and the permitting authority shall consider the likelihood that use of the area in question for dredged or fill material disposal will comply with these Guidelines. To facilitate this analysis, EPA and the permitting authority should review available water resources management data including data available from the public, other Federal and State agencies, and information from approved Coastal Zone Management programs and River Basin Plans;
+
+(e) The permitting authority should maintain a public record of the identified areas and a written statement of the basis for identification.
+
+## Subpart J—Compensatory Mitigation for Losses of Aquatic Resources
+
+**Source:** 73 FR 19687, Apr. 10, 2008, unless otherwise noted.
+
+### § 230.91 Purpose and general considerations.
+
+(a) *Purpose.* (1) The purpose of this subpart is to establish standards and criteria for the use of all types of compensatory mitigation, including on-site and off-site permittee-responsible mitigation, mitigation banks, and in-lieu fee mitigation to offset unavoidable impacts to waters of the United States authorized through the issuance of permits by the U.S. Army Corps of Engineers (Corps) pursuant to section 404 of the Clean Water Act (33 U.S.C. 1344). This subpart implements section 314(b) of the 2004 National Defense Authorization Act (Pub. L. 108-136), which directs that the standards and criteria shall, to the maximum extent practicable, maximize available credits and opportunities for mitigation, provide for regional variations in wetland conditions, functions, and values, and apply equivalent standards and criteria to each type of compensatory mitigation. This subpart is intended to further clarify mitigation requirements established under the Corps and EPA regulations at 33 CFR part 320 and this part, respectively.
+
+(2) This subpart has been jointly developed by the Secretary of the Army, acting through the Chief of Engineers, and the Administrator of the Environmental Protection Agency. From time to time guidance on interpreting and implementing this subpart may be prepared jointly by EPA and the Corps at the national or regional level. No modifications to the basic application, meaning, or intent of this subpart will be made without further joint rulemaking by the Secretary of the Army, acting through the Chief of Engineers and the Administrator of the Environmental Protection Agency, pursuant to the Administrative Procedure Act (5 U.S.C. 551 *et seq.*).
+
+(b) *Applicability.* This subpart does not alter the circumstances under which compensatory mitigation is required or the definition of “waters of the United States,” which is provided at § 230.3(s). Use of resources as compensatory mitigation that are not otherwise subject to regulation under section 404 of the Clean Water Act does not in and of itself make them subject to such regulation.
+
+(c) *Sequencing.* (1) Nothing in this section affects the requirement that all DA permits subject to section 404 of the Clean Water Act comply with applicable provisions of this part.
+
+(2) Pursuant to these requirements, the district engineer will issue an individual section 404 permit only upon a determination that the proposed discharge complies with applicable provisions of 40 CFR part 230, including those which require the permit applicant to take all appropriate and practicable steps to avoid and minimize adverse impacts to waters of the United States. Practicable means available and capable of being done after taking into consideration cost, existing technology, and logistics in light of overall project purposes. Compensatory mitigation for unavoidable impacts may be required to ensure that an activity requiring a section 404 permit complies with the Section 404(b)(1) Guidelines.
+
+(3) Compensatory mitigation for unavoidable impacts may be required to ensure that an activity requiring a section 404 permit complies with the Section 404(b)(1) Guidelines. During the 404(b)(1) Guidelines compliance analysis, the district engineer may determine that a DA permit for the proposed activity cannot be issued because of the lack of appropriate and practicable compensatory mitigation options.
+
+(d) *Accounting for regional variations.* Where appropriate, district engineers shall account for regional characteristics of aquatic resource types, functions and services when determining performance standards and monitoring requirements for compensatory mitigation projects.
+
+(e) *Relationship to other guidance documents.* (1) This subpart applies instead of the “Federal Guidance for the Establishment, Use, and Operation of Mitigation Banks,” which was issued on November 28, 1995, the “Federal Guidance on the Use of In-Lieu Fee Arrangements for Compensatory Mitigation Under Section 404 of the Clean Water Act and Section 10 of the Rivers and Harbors Act,” which was issued on November 7, 2000, and Regulatory Guidance Letter 02-02, “Guidance on Compensatory Mitigation Projects for Aquatic Resource Impacts Under the Corps Regulatory Program Pursuant to Section 404 of the Clean Water Act and Section 10 of the Rivers and Harbors Act of 1899” which was issued on December 24, 2002. These guidance documents are no longer to be used as compensatory mitigation policy in the Corps Regulatory Program.
+
+(2) In addition, this subpart also applies instead of the provisions relating to the amount, type, and location of compensatory mitigation projects, including the use of preservation, in the February 6, 1990, Memorandum of Agreement (MOA) between the Department of the Army and the Environmental Protection Agency on the Determination of Mitigation Under the Clean Water Act Section 404(b)(1) Guidelines. All other provisions of this MOA remain in effect.
+
+### § 230.92 Definitions.
+
+For the purposes of this subpart, the following terms are defined:
+
+*Adaptive management* means the development of a management strategy that anticipates likely challenges associated with compensatory mitigation projects and provides for the implementation of actions to address those challenges, as well as unforeseen changes to those projects. It requires consideration of the risk, uncertainty, and dynamic nature of compensatory mitigation projects and guides modification of those projects to optimize performance. It includes the selection of appropriate measures that will ensure that the aquatic resource functions are provided and involves analysis of monitoring results to identify potential problems of a compensatory mitigation project and the identification and implementation of measures to rectify those problems.
+
+*Advance credits* means any credits of an approved in-lieu fee program that are available for sale prior to being fulfilled in accordance with an approved mitigation project plan. Advance credit sales require an approved in-lieu fee program instrument that meets all applicable requirements including a specific allocation of advance credits, by service area where applicable. The instrument must also contain a schedule for fulfillment of advance credit sales.
+
+*Buffer* means an upland, wetland, and/or riparian area that protects and/or enhances aquatic resource functions associated with wetlands, rivers, streams, lakes, marine, and estuarine systems from disturbances associated with adjacent land uses.
+
+*Compensatory mitigation* means the restoration (re-establishment or rehabilitation), establishment (creation), enhancement, and/or in certain circumstances preservation of aquatic resources for the purposes of offsetting unavoidable adverse impacts which remain after all appropriate and practicable avoidance and minimization has been achieved.
+
+*Compensatory mitigation project* means compensatory mitigation implemented by the permittee as a requirement of a DA permit (*i.e.*, permittee-responsible mitigation), or by a mitigation bank or an in-lieu fee program.
+
+*Condition* means the relative ability of an aquatic resource to support and maintain a community of organisms having a species composition, diversity, and functional organization comparable to reference aquatic resources in the region.
+
+*Credit* means a unit of measure (e.g., a functional or areal measure or other suitable metric) representing the accrual or attainment of aquatic functions at a compensatory mitigation site. The measure of aquatic functions is based on the resources restored, established, enhanced, or preserved.
+
+*DA* means Department of the Army.
+
+*Days* means calendar days.
+
+*Debit* means a unit of measure (e.g., a functional or areal measure or other suitable metric) representing the loss of aquatic functions at an impact or project site. The measure of aquatic functions is based on the resources impacted by the authorized activity.
+
+*Enhancement* means the manipulation of the physical, chemical, or biological characteristics of an aquatic resource to heighten, intensify, or improve a specific aquatic resource function(s). Enhancement results in the gain of selected aquatic resource function(s), but may also lead to a decline in other aquatic resource function(s). Enhancement does not result in a gain in aquatic resource area.
+
+*Establishment* (creation) means the manipulation of the physical, chemical, or biological characteristics present to develop an aquatic resource that did not previously exist at an upland site. Establishment results in a gain in aquatic resource area and functions.
+
+*Fulfillment of advance credit sales of an in-lieu fee program* means application of credits released in accordance with a credit release schedule in an approved mitigation project plan to satisfy the mitigation requirements represented by the advance credits. Only after any advance credit sales within a service area have been fulfilled through the application of released credits from an in-lieu fee project (in accordance with the credit release schedule for an approved mitigation project plan), may additional released credits from that project be sold or transferred to permittees. When advance credits are fulfilled, an equal number of new advance credits is restored to the program sponsor for sale or transfer to permit applicants.
+
+*Functional capacity* means the degree to which an area of aquatic resource performs a specific function.
+
+*Functions* means the physical, chemical, and biological processes that occur in ecosystems.
+
+*Impact* means adverse effect.
+
+*In-kind* means a resource of a similar structural and functional type to the impacted resource.
+
+*In-lieu fee program* means a program involving the restoration, establishment, enhancement, and/or preservation of aquatic resources through funds paid to a governmental or non-profit natural resources management entity to satisfy compensatory mitigation requirements for DA permits. Similar to a mitigation bank, an in-lieu fee program sells compensatory mitigation credits to permittees whose obligation to provide compensatory mitigation is then transferred to the in-lieu program sponsor. However, the rules governing the operation and use of in-lieu fee programs are somewhat different from the rules governing operation and use of mitigation banks. The operation and use of an in-lieu fee program are governed by an in-lieu fee program instrument.
+
+*In-lieu fee program instrument* means the legal document for the establishment, operation, and use of an in-lieu fee program.
+
+*Instrument* means mitigation banking instrument or in-lieu fee program instrument.
+
+*Interagency Review Team* (IRT) means an interagency group of federal, tribal, state, and/or local regulatory and resource agency representatives that reviews documentation for, and advises the district engineer on, the establishment and management of a mitigation bank or an in-lieu fee program.
+
+*Mitigation bank* means a site, or suite of sites, where resources (e.g., wetlands, streams, riparian areas) are restored, established, enhanced, and/or preserved for the purpose of providing compensatory mitigation for impacts authorized by DA permits. In general, a mitigation bank sells compensatory mitigation credits to permittees whose obligation to provide compensatory mitigation is then transferred to the mitigation bank sponsor. The operation and use of a mitigation bank are governed by a mitigation banking instrument.
+
+*Mitigation banking instrument* means the legal document for the establishment, operation, and use of a mitigation bank.
+
+*Off-site* means an area that is neither located on the same parcel of land as the impact site, nor on a parcel of land contiguous to the parcel containing the impact site.
+
+*On-site* means an area located on the same parcel of land as the impact site, or on a parcel of land contiguous to the impact site.
+
+*Out-of-kind* means a resource of a different structural and functional type from the impacted resource.
+
+*Performance standards* are observable or measurable physical (including hydrological), chemical and/or biological attributes that are used to determine if a compensatory mitigation project meets its objectives.
+
+*Permittee-responsible mitigation* means an aquatic resource restoration, establishment, enhancement, and/or preservation activity undertaken by the permittee (or an authorized agent or contractor) to provide compensatory mitigation for which the permittee retains full responsibility.
+
+*Preservation* means the removal of a threat to, or preventing the decline of, aquatic resources by an action in or near those aquatic resources. This term includes activities commonly associated with the protection and maintenance of aquatic resources through the implementation of appropriate legal and physical mechanisms. Preservation does not result in a gain of aquatic resource area or functions.
+
+*Re-establishment* means the manipulation of the physical, chemical, or biological characteristics of a site with the goal of returning natural/historic functions to a former aquatic resource. Re-establishment results in rebuilding a former aquatic resource and results in a gain in aquatic resource area and functions.
+
+*Reference aquatic resources* are a set of aquatic resources that represent the full range of variability exhibited by a regional class of aquatic resources as a result of natural processes and anthropogenic disturbances.
+
+*Rehabilitation* means the manipulation of the physical, chemical, or biological characteristics of a site with the goal of repairing natural/historic functions to a degraded aquatic resource. Rehabilitation results in a gain in aquatic resource function, but does not result in a gain in aquatic resource area.
+
+*Release of credits* means a determination by the district engineer, in consultation with the IRT, that credits associated with an approved mitigation plan are available for sale or transfer, or in the case of an in-lieu fee program, for fulfillment of advance credit sales. A proportion of projected credits for a specific mitigation bank or in-lieu fee project may be released upon approval of the mitigation plan, with additional credits released as milestones specified in the credit release schedule are achieved.
+
+*Restoration* means the manipulation of the physical, chemical, or biological characteristics of a site with the goal of returning natural/historic functions to a former or degraded aquatic resource. For the purpose of tracking net gains in aquatic resource area, restoration is divided into two categories: re-establishment and rehabilitation.
+
+*Riparian areas* are lands adjacent to streams, rivers, lakes, and estuarine-marine shorelines. Riparian areas provide a variety of ecological functions and services and help improve or maintain local water quality.
+
+*Service area* means the geographic area within which impacts can be mitigated at a specific mitigation bank or an in-lieu fee program, as designated in its instrument.
+
+*Services* mean the benefits that human populations receive from functions that occur in ecosystems.
+
+*Sponsor* means any public or private entity responsible for establishing, and in most circumstances, operating a mitigation bank or in-lieu fee program.
+
+*Standard permit* means a standard, individual permit issued under the authority of section 404 of the Clean Water Act.
+
+*Temporal loss* is the time lag between the loss of aquatic resource functions caused by the permitted impacts and the replacement of aquatic resource functions at the compensatory mitigation site. Higher compensation ratios may be required to compensate for temporal loss. When the compensatory mitigation project is initiated prior to, or concurrent with, the permitted impacts, the district engineer may determine that compensation for temporal loss is not necessary, unless the resource has a long development time.
+
+*Watershed* means a land area that drains to a common waterway, such as a stream, lake, estuary, wetland, or ultimately the ocean.
+
+*Watershed approach* means an analytical process for making compensatory mitigation decisions that support the sustainability or improvement of aquatic resources in a watershed. It involves consideration of watershed needs, and how locations and types of compensatory mitigation projects address those needs. A landscape perspective is used to identify the types and locations of compensatory mitigation projects that will benefit the watershed and offset losses of aquatic resource functions and services caused by activities authorized by DA permits. The watershed approach may involve consideration of landscape scale, historic and potential aquatic resource conditions, past and projected aquatic resource impacts in the watershed, and terrestrial connections between aquatic resources when determining compensatory mitigation requirements for DA permits.
+
+*Watershed plan* means a plan developed by federal, tribal, state, and/or local government agencies or appropriate non-governmental organizations, in consultation with relevant stakeholders, for the specific goal of aquatic resource restoration, establishment, enhancement, and preservation. A watershed plan addresses aquatic resource conditions in the watershed, multiple stakeholder interests, and land uses. Watershed plans may also identify priority sites for aquatic resource restoration and protection. Examples of watershed plans include special area management plans, advance identification programs, and wetland management plans.
+
+### § 230.93 General compensatory mitigation requirements.
+
+(a) *General considerations.* (1) The fundamental objective of compensatory mitigation is to offset environmental losses resulting from unavoidable impacts to waters of the United States authorized by DA permits. The district engineer must determine the compensatory mitigation to be required in a DA permit, based on what is practicable and capable of compensating for the aquatic resource functions that will be lost as a result of the permitted activity. When evaluating compensatory mitigation options, the district engineer will consider what would be environmentally preferable. In making this determination, the district engineer must assess the likelihood for ecological success and sustainability, the location of the compensation site relative to the impact site and their significance within the watershed, and the costs of the compensatory mitigation project. In many cases, the environmentally preferable compensatory mitigation may be provided through mitigation banks or in-lieu fee programs because they usually involve consolidating compensatory mitigation projects where ecologically appropriate, consolidating resources, providing financial planning and scientific expertise (which often is not practical for permittee-responsible compensatory mitigation projects), reducing temporal losses of functions, and reducing uncertainty over project success. Compensatory mitigation requirements must be commensurate with the amount and type of impact that is associated with a particular DA permit. Permit applicants are responsible for proposing an appropriate compensatory mitigation option to offset unavoidable impacts.
+
+(2) Compensatory mitigation may be performed using the methods of restoration, enhancement, establishment, and in certain circumstances preservation. Restoration should generally be the first option considered because the likelihood of success is greater and the impacts to potentially ecologically important uplands are reduced compared to establishment, and the potential gains in terms of aquatic resource functions are greater, compared to enhancement and preservation.
+
+(3) Compensatory mitigation projects may be sited on public or private lands. Credits for compensatory mitigation projects on public land must be based solely on aquatic resource functions provided by the compensatory mitigation project, over and above those provided by public programs already planned or in place. All compensatory mitigation projects must comply with the standards in this part, if they are to be used to provide compensatory mitigation for activities authorized by DA permits, regardless of whether they are sited on public or private lands and whether the sponsor is a governmental or private entity.
+
+(b) *Type and location of compensatory mitigation.* (1) When considering options for successfully providing the required compensatory mitigation, the district engineer shall consider the type and location options in the order presented in paragraphs (b)(2) through (b)(6) of this section. In general, the required compensatory mitigation should be located within the same watershed as the impact site, and should be located where it is most likely to successfully replace lost functions and services, taking into account such watershed scale features as aquatic habitat diversity, habitat connectivity, relationships to hydrologic sources (including the availability of water rights), trends in land use, ecological benefits, and compatibility with adjacent land uses. When compensating for impacts to marine resources, the location of the compensatory mitigation site should be chosen to replace lost functions and services within the same marine ecological system (e.g., reef complex, littoral drift cell). Compensation for impacts to aquatic resources in coastal watersheds (watersheds that include a tidal water body) should also be located in a coastal watershed where practicable. Compensatory mitigation projects should not be located where they will increase risks to aviation by attracting wildlife to areas where aircraft-wildlife strikes may occur (e.g., near airports).
+
+(2) *Mitigation bank credits.* When permitted impacts are located within the service area of an approved mitigation bank, and the bank has the appropriate number and resource type of credits available, the permittee's compensatory mitigation requirements may be met by securing those credits from the sponsor. Since an approved instrument (including an approved mitigation plan and appropriate real estate and financial assurances) for a mitigation bank is required to be in place before its credits can begin to be used to compensate for authorized impacts, use of a mitigation bank can help reduce risk and uncertainty, as well as temporal loss of resource functions and services. Mitigation bank credits are not released for debiting until specific milestones associated with the mitigation bank site's protection and development are achieved, thus use of mitigation bank credits can also help reduce risk that mitigation will not be fully successful. Mitigation banks typically involve larger, more ecologically valuable parcels, and more rigorous scientific and technical analysis, planning and implementation than permittee-responsible mitigation. Also, development of a mitigation bank requires site identification in advance, project-specific planning, and significant investment of financial resources that is often not practicable for many in-lieu fee programs. For these reasons, the district engineer should give preference to the use of mitigation bank credits when these considerations are applicable. However, these same considerations may also be used to override this preference, where appropriate, as, for example, where an in-lieu fee program has released credits available from a specific approved in-lieu fee project, or a permittee-responsible project will restore an outstanding resource based on rigorous scientific and technical analysis.
+
+(3) *In-lieu fee program credits.* Where permitted impacts are located within the service area of an approved in-lieu fee program, and the sponsor has the appropriate number and resource type of credits available, the permittee's compensatory mitigation requirements may be met by securing those credits from the sponsor. Where permitted impacts are not located in the service area of an approved mitigation bank, or the approved mitigation bank does not have the appropriate number and resource type of credits available to offset those impacts, in-lieu fee mitigation, if available, is generally preferable to permittee-responsible mitigation. In-lieu fee projects typically involve larger, more ecologically valuable parcels, and more rigorous scientific and technical analysis, planning and implementation than permittee-responsible mitigation. They also devote significant resources to identifying and addressing high-priority resource needs on a watershed scale, as reflected in their compensation planning framework. For these reasons, the district engineer should give preference to in-lieu fee program credits over permittee-responsible mitigation, where these considerations are applicable. However, as with the preference for mitigation bank credits, these same considerations may be used to override this preference where appropriate. Additionally, in cases where permittee-responsible mitigation is likely to successfully meet performance standards before advance credits secured from an in-lieu fee program are fulfilled, the district engineer should also give consideration to this factor in deciding between in-lieu fee mitigation and permittee-responsible mitigation.
+
+(4) *Permittee-responsible mitigation under a watershed approach.* Where permitted impacts are not in the service area of an approved mitigation bank or in-lieu fee program that has the appropriate number and resource type of credits available, permittee-responsible mitigation is the only option. Where practicable and likely to be successful and sustainable, the resource type and location for the required permittee-responsible compensatory mitigation should be determined using the principles of a watershed approach as outlined in paragraph (c) of this section.
+
+(5) *Permittee-responsible mitigation through on-site and in-kind mitigation.* In cases where a watershed approach is not practicable, the district engineer should consider opportunities to offset anticipated aquatic resource impacts by requiring on-site and in-kind compensatory mitigation. The district engineer must also consider the practicability of on-site compensatory mitigation and its compatibility with the proposed project.
+
+(6) *Permittee-responsible mitigation through off-site and/or out-of-kind mitigation.* If, after considering opportunities for on-site, in-kind compensatory mitigation as provided in paragraph (b)(5) of this section, the district engineer determines that these compensatory mitigation opportunities are not practicable, are unlikely to compensate for the permitted impacts, or will be incompatible with the proposed project, and an alternative, practicable off-site and/or out-of-kind mitigation opportunity is identified that has a greater likelihood of offsetting the permitted impacts or is environmentally preferable to on-site or in-kind mitigation, the district engineer should require that this alternative compensatory mitigation be provided.
+
+(c) *Watershed approach to compensatory mitigation.* (1) The district engineer must use a watershed approach to establish compensatory mitigation requirements in DA permits to the extent appropriate and practicable. Where a watershed plan is available, the district engineer will determine whether the plan is appropriate for use in the watershed approach for compensatory mitigation. In cases where the district engineer determines that an appropriate watershed plan is available, the watershed approach should be based on that plan. Where no such plan is available, the watershed approach should be based on information provided by the project sponsor or available from other sources. The ultimate goal of a watershed approach is to maintain and improve the quality and quantity of aquatic resources within watersheds through strategic selection of compensatory mitigation sites.
+
+(2) *Considerations.* (i) A watershed approach to compensatory mitigation considers the importance of landscape position and resource type of compensatory mitigation projects for the sustainability of aquatic resource functions within the watershed. Such an approach considers how the types and locations of compensatory mitigation projects will provide the desired aquatic resource functions, and will continue to function over time in a changing landscape. It also considers the habitat requirements of important species, habitat loss or conversion trends, sources of watershed impairment, and current development trends, as well as the requirements of other regulatory and non-regulatory programs that affect the watershed, such as storm water management or habitat conservation programs. It includes the protection and maintenance of terrestrial resources, such as non-wetland riparian areas and uplands, when those resources contribute to or improve the overall ecological functioning of aquatic resources in the watershed. Compensatory mitigation requirements determined through the watershed approach should not focus exclusively on specific functions (e.g., water quality or habitat for certain species), but should provide, where practicable, the suite of functions typically provided by the affected aquatic resource.
+
+(ii) Locational factors (e.g., hydrology, surrounding land use) are important to the success of compensatory mitigation for impacted habitat functions and may lead to siting of such mitigation away from the project area. However, consideration should also be given to functions and services (e.g., water quality, flood control, shoreline protection) that will likely need to be addressed at or near the areas impacted by the permitted impacts.
+
+(iii) A watershed approach may include on-site compensatory mitigation, off-site compensatory mitigation (including mitigation banks or in-lieu fee programs), or a combination of on-site and off-site compensatory mitigation.
+
+(iv) A watershed approach to compensatory mitigation should include, to the extent practicable, inventories of historic and existing aquatic resources, including identification of degraded aquatic resources, and identification of immediate and long-term aquatic resource needs within watersheds that can be met through permittee-responsible mitigation projects, mitigation banks, or in-lieu fee programs. Planning efforts should identify and prioritize aquatic resource restoration, establishment, and enhancement activities, and preservation of existing aquatic resources that are important for maintaining or improving ecological functions of the watershed. The identification and prioritization of resource needs should be as specific as possible, to enhance the usefulness of the approach in determining compensatory mitigation requirements.
+
+(v) A watershed approach is not appropriate in areas where watershed boundaries do not exist, such as marine areas. In such cases, an appropriate spatial scale should be used to replace lost functions and services within the same ecological system (e.g., reef complex, littoral drift cell).
+
+(3) *Information Needs.* (i) In the absence of a watershed plan determined by the district engineer under paragraph (c)(1) of this section to be appropriate for use in the watershed approach, the district engineer will use a watershed approach based on analysis of information regarding watershed conditions and needs, including potential sites for aquatic resource restoration activities and priorities for aquatic resource restoration and preservation. Such information includes: Current trends in habitat loss or conversion; cumulative impacts of past development activities, current development trends, the presence and needs of sensitive species; site conditions that favor or hinder the success of compensatory mitigation projects; and chronic environmental problems such as flooding or poor water quality.
+
+(ii) This information may be available from sources such as wetland maps; soil surveys; U.S. Geological Survey topographic and hydrologic maps; aerial photographs; information on rare, endangered and threatened species and critical habitat; local ecological reports or studies; and other information sources that could be used to identify locations for suitable compensatory mitigation projects in the watershed.
+
+(iii) The level of information and analysis needed to support a watershed approach must be commensurate with the scope and scale of the proposed impacts requiring a DA permit, as well as the functions lost as a result of those impacts.
+
+(4) *Watershed Scale.* The size of watershed addressed using a watershed approach should not be larger than is appropriate to ensure that the aquatic resources provided through compensation activities will effectively compensate for adverse environmental impacts resulting from activities authorized by DA permits. The district engineer should consider relevant environmental factors and appropriate locally-developed standards and criteria when determining the appropriate watershed scale in guiding compensation activities.
+
+(d) *Site selection.* (1) The compensatory mitigation project site must be ecologically suitable for providing the desired aquatic resource functions. In determining the ecological suitability of the compensatory mitigation project site, the district engineer must consider, to the extent practicable, the following factors:
+
+(i) Hydrological conditions, soil characteristics, and other physical and chemical characteristics;
+
+(ii) Watershed-scale features, such as aquatic habitat diversity, habitat connectivity, and other landscape scale functions;
+
+(iii) The size and location of the compensatory mitigation site relative to hydrologic sources (including the availability of water rights) and other ecological features;
+
+(iv) Compatibility with adjacent land uses and watershed management plans;
+
+(v) Reasonably foreseeable effects the compensatory mitigation project will have on ecologically important aquatic or terrestrial resources (e.g., shallow sub-tidal habitat, mature forests), cultural sites, or habitat for federally- or state-listed threatened and endangered species; and
+
+(vi) Other relevant factors including, but not limited to, development trends, anticipated land use changes, habitat status and trends, the relative locations of the impact and mitigation sites in the stream network, local or regional goals for the restoration or protection of particular habitat types or functions (e.g., re-establishment of habitat corridors or habitat for species of concern), water quality goals, floodplain management goals, and the relative potential for chemical contamination of the aquatic resources.
+
+(2) District engineers may require on-site, off-site, or a combination of on-site and off-site compensatory mitigation to replace permitted losses of aquatic resource functions and services.
+
+(3) Applicants should propose compensation sites adjacent to existing aquatic resources or where aquatic resources previously existed.
+
+(e) *Mitigation type.* (1) In general, in-kind mitigation is preferable to out-of-kind mitigation because it is most likely to compensate for the functions and services lost at the impact site. For example, tidal wetland compensatory mitigation projects are most likely to compensate for unavoidable impacts to tidal wetlands, while perennial stream compensatory mitigation projects are most likely to compensate for unavoidable impacts to perennial streams. Thus, except as provided in paragraph (e)(2) of this section, the required compensatory mitigation shall be of a similar type to the affected aquatic resource.
+
+(2) If the district engineer determines, using the watershed approach in accordance with paragraph (c) of this section that out-of-kind compensatory mitigation will serve the aquatic resource needs of the watershed, the district engineer may authorize the use of such out-of-kind compensatory mitigation. The basis for authorization of out-of-kind compensatory mitigation must be documented in the administrative record for the permit action.
+
+(3) For difficult-to-replace resources (e.g., bogs, fens, springs, streams, Atlantic white cedar swamps) if further avoidance and minimization is not practicable, the required compensation should be provided, if practicable, through in-kind rehabilitation, enhancement, or preservation since there is greater certainty that these methods of compensation will successfully offset permitted impacts.
+
+(f) *Amount of compensatory mitigation.* (1) If the district engineer determines that compensatory mitigation is necessary to offset unavoidable impacts to aquatic resources, the amount of required compensatory mitigation must be, to the extent practicable, sufficient to replace lost aquatic resource functions. In cases where appropriate functional or condition assessment methods or other suitable metrics are available, these methods should be used where practicable to determine how much compensatory mitigation is required. If a functional or condition assessment or other suitable metric is not used, a minimum one-to-one acreage or linear foot compensation ratio must be used.
+
+(2) The district engineer must require a mitigation ratio greater than one-to-one where necessary to account for the method of compensatory mitigation (e.g., preservation), the likelihood of success, differences between the functions lost at the impact site and the functions expected to be produced by the compensatory mitigation project, temporal losses of aquatic resource functions, the difficulty of restoring or establishing the desired aquatic resource type and functions, and/or the distance between the affected aquatic resource and the compensation site. The rationale for the required replacement ratio must be documented in the administrative record for the permit action.
+
+(3) If an in-lieu fee program will be used to provide the required compensatory mitigation, and the appropriate number and resource type of released credits are not available, the district engineer must require sufficient compensation to account for the risk and uncertainty associated with in-lieu fee projects that have not been implemented before the permitted impacts have occurred.
+
+(g) *Use of mitigation banks and in-lieu fee programs.* Mitigation banks and in-lieu fee programs may be used to compensate for impacts to aquatic resources authorized by general permits and individual permits, including after-the-fact permits, in accordance with the preference hierarchy in paragraph (b) of this section. Mitigation banks and in-lieu fee programs may also be used to satisfy requirements arising out of an enforcement action, such as supplemental environmental projects.
+
+(h) *Preservation.* (1) Preservation may be used to provide compensatory mitigation for activities authorized by DA permits when all the following criteria are met:
+
+(i) The resources to be preserved provide important physical, chemical, or biological functions for the watershed;
+
+(ii) The resources to be preserved contribute significantly to the ecological sustainability of the watershed. In determining the contribution of those resources to the ecological sustainability of the watershed, the district engineer must use appropriate quantitative assessment tools, where available;
+
+(iii) Preservation is determined by the district engineer to be appropriate and practicable;
+
+(iv) The resources are under threat of destruction or adverse modifications; and
+
+(v) The preserved site will be permanently protected through an appropriate real estate or other legal instrument (e.g., easement, title transfer to state resource agency or land trust).
+
+(2) Where preservation is used to provide compensatory mitigation, to the extent appropriate and practicable the preservation shall be done in conjunction with aquatic resource restoration, establishment, and/or enhancement activities. This requirement may be waived by the district engineer where preservation has been identified as a high priority using a watershed approach described in paragraph (c) of this section, but compensation ratios shall be higher.
+
+(i) *Buffers.* District engineers may require the restoration, establishment, enhancement, and preservation, as well as the maintenance, of riparian areas and/or buffers around aquatic resources where necessary to ensure the long-term viability of those resources. Buffers may also provide habitat or corridors necessary for the ecological functioning of aquatic resources. If buffers are required by the district engineer as part of the compensatory mitigation project, compensatory mitigation credit will be provided for those buffers.
+
+(j) *Relationship to other federal, tribal, state, and local programs.* (1) Compensatory mitigation projects for DA permits may also be used to satisfy the environmental requirements of other programs, such as tribal, state, or local wetlands regulatory programs, other federal programs such as the Surface Mining Control and Reclamation Act, Corps civil works projects, and Department of Defense military construction projects, consistent with the terms and requirements of these programs and subject to the following considerations:
+
+(i) The compensatory mitigation project must include appropriate compensation required by the DA permit for unavoidable impacts to aquatic resources authorized by that permit.
+
+(ii) Under no circumstances may the same credits be used to provide mitigation for more than one permitted activity. However, where appropriate, compensatory mitigation projects, including mitigation banks and in-lieu fee projects, may be designed to holistically address requirements under multiple programs and authorities for the same activity.
+
+(2) Except for projects undertaken by federal agencies, or where federal funding is specifically authorized to provide compensatory mitigation, federally-funded aquatic resource restoration or conservation projects undertaken for purposes other than compensatory mitigation, such as the Wetlands Reserve Program, Conservation Reserve Program, and Partners for Wildlife Program activities, cannot be used for the purpose of generating compensatory mitigation credits for activities authorized by DA permits. However, compensatory mitigation credits may be generated by activities undertaken in conjunction with, but supplemental to, such programs in order to maximize the overall ecological benefits of the restoration or conservation project.
+
+(3) Compensatory mitigation projects may also be used to provide compensatory mitigation under the Endangered Species Act or for Habitat Conservation Plans, as long as they comply with the requirements of paragraph (j)(1) of this section.
+
+(k) *Permit conditions.* (1) The compensatory mitigation requirements for a DA permit, including the amount and type of compensatory mitigation, must be clearly stated in the special conditions of the individual permit or general permit verification (see 33 CFR 325.4 and 330.6(a)). The special conditions must be enforceable.
+
+(2) For an individual permit that requires permittee-responsible mitigation, the special conditions must:
+
+(i) Identify the party responsible for providing the compensatory mitigation;
+
+(ii) Incorporate, by reference, the final mitigation plan approved by the district engineer;
+
+(iii) State the objectives, performance standards, and monitoring required for the compensatory mitigation project, unless they are provided in the approved final mitigation plan; and
+
+(iv) Describe any required financial assurances or long-term management provisions for the compensatory mitigation project, unless they are specified in the approved final mitigation plan.
+
+(3) For a general permit activity that requires permittee-responsible compensatory mitigation, the special conditions must describe the compensatory mitigation proposal, which may be either conceptual or detailed. The general permit verification must also include a special condition that states that the permittee cannot commence work in waters of the United States until the district engineer approves the final mitigation plan, unless the district engineer determines that such a special condition is not practicable and not necessary to ensure timely completion of the required compensatory mitigation. To the extent appropriate and practicable, special conditions of the general permit verification should also address the requirements of paragraph (k)(2) of this section.
+
+(4) If a mitigation bank or in-lieu fee program is used to provide the required compensatory mitigation, the special conditions must indicate whether a mitigation bank or in-lieu fee program will be used, and specify the number and resource type of credits the permittee is required to secure. In the case of an individual permit, the special condition must also identify the specific mitigation bank or in-lieu fee program that will be used. For general permit verifications, the special conditions may either identify the specific mitigation bank or in-lieu fee program, or state that the specific mitigation bank or in-lieu fee program used to provide the required compensatory mitigation must be approved by the district engineer before the credits are secured.
+
+(l) *Party responsible for compensatory mitigation.* (1) For permittee-responsible mitigation, the special conditions of the DA permit must clearly indicate the party or parties responsible for the implementation, performance, and long-term management of the compensatory mitigation project.
+
+(2) For mitigation banks and in-lieu fee programs, the instrument must clearly indicate the party or parties responsible for the implementation, performance, and long-term management of the compensatory mitigation project(s). The instrument must also contain a provision expressing the sponsor's agreement to assume responsibility for a permittee's compensatory mitigation requirements, once that permittee has secured the appropriate number and resource type of credits from the sponsor and the district engineer has received the documentation described in paragraph (l)(3) of this section.
+
+(3) If use of a mitigation bank or in-lieu fee program is approved by the district engineer to provide part or all of the required compensatory mitigation for a DA permit, the permittee retains responsibility for providing the compensatory mitigation until the appropriate number and resource type of credits have been secured from a sponsor and the district engineer has received documentation that confirms that the sponsor has accepted the responsibility for providing the required compensatory mitigation. This documentation may consist of a letter or form signed by the sponsor, with the permit number and a statement indicating the number and resource type of credits that have been secured from the sponsor. Copies of this documentation will be retained in the administrative records for both the permit and the instrument. If the sponsor fails to provide the required compensatory mitigation, the district engineer may pursue measures against the sponsor to ensure compliance.
+
+(m) *Timing.* Implementation of the compensatory mitigation project shall be, to the maximum extent practicable, in advance of or concurrent with the activity causing the authorized impacts. The district engineer shall require, to the extent appropriate and practicable, additional compensatory mitigation to offset temporal losses of aquatic functions that will result from the permitted activity.
+
+(n) *Financial assurances.* (1) The district engineer shall require sufficient financial assurances to ensure a high level of confidence that the compensatory mitigation project will be successfully completed, in accordance with applicable performance standards. In cases where an alternate mechanism is available to ensure a high level of confidence that the compensatory mitigation will be provided and maintained (e.g., a formal, documented commitment from a government agency or public authority) the district engineer may determine that financial assurances are not necessary for that compensatory mitigation project.
+
+(2) The amount of the required financial assurances must be determined by the district engineer, in consultation with the project sponsor, and must be based on the size and complexity of the compensatory mitigation project, the degree of completion of the project at the time of project approval, the likelihood of success, the past performance of the project sponsor, and any other factors the district engineer deems appropriate. Financial assurances may be in the form of performance bonds, escrow accounts, casualty insurance, letters of credit, legislative appropriations for government sponsored projects, or other appropriate instruments, subject to the approval of the district engineer. The rationale for determining the amount of the required financial assurances must be documented in the administrative record for either the DA permit or the instrument. In determining the assurance amount, the district engineer shall consider the cost of providing replacement mitigation, including costs for land acquisition, planning and engineering, legal fees, mobilization, construction, and monitoring.
+
+(3) If financial assurances are required, the DA permit must include a special condition requiring the financial assurances to be in place prior to commencing the permitted activity.
+
+(4) Financial assurances shall be phased out once the compensatory mitigation project has been determined by the district engineer to be successful in accordance with its performance standards. The DA permit or instrument must clearly specify the conditions under which the financial assurances are to be released to the permittee, sponsor, and/or other financial assurance provider, including, as appropriate, linkage to achievement of performance standards, adaptive management, or compliance with special conditions.
+
+(5) A financial assurance must be in a form that ensures that the district engineer will receive notification at least 120 days in advance of any termination or revocation. For third-party assurance providers, this may take the form of a contractual requirement for the assurance provider to notify the district engineer at least 120 days before the assurance is revoked or terminated.
+
+(6) Financial assurances shall be payable at the direction of the district engineer to his designee or to a standby trust agreement. When a standby trust is used (e.g., with performance bonds or letters of credit) all amounts paid by the financial assurance provider shall be deposited directly into the standby trust fund for distribution by the trustee in accordance with the district engineer's instructions.
+
+(o) *Compliance with applicable law.* The compensatory mitigation project must comply with all applicable federal, state, and local laws. The DA permit, mitigation banking instrument, or in-lieu fee program instrument must not require participation by the Corps or any other federal agency in project management, including receipt or management of financial assurances or long-term financing mechanisms, except as determined by the Corps or other agency to be consistent with its statutory authority, mission, and priorities.
+
+### § 230.94 Planning and documentation.
+
+(a) *Pre-application consultations.* Potential applicants for standard permits are encouraged to participate in pre-application meetings with the Corps and appropriate agencies to discuss potential mitigation requirements and information needs.
+
+(b) *Public review and comment.* (1) For an activity that requires a standard DA permit pursuant to section 404 of the Clean Water Act, the public notice for the proposed activity must contain a statement explaining how impacts associated with the proposed activity are to be avoided, minimized, and compensated for. This explanation shall address, to the extent that such information is provided in the mitigation statement required by 33 CFR 325.1(d)(7), the proposed avoidance and minimization and the amount, type, and location of any proposed compensatory mitigation, including any out-of-kind compensation, or indicate an intention to use an approved mitigation bank or in-lieu fee program. The level of detail provided in the public notice must be commensurate with the scope and scale of the impacts. The notice shall not include information that the district engineer and the permittee believe should be kept confidential for business purposes, such as the exact location of a proposed mitigation site that has not yet been secured. The permittee must clearly identify any information being claimed as confidential in the mitigation statement when submitted. In such cases, the notice must still provide enough information to enable the public to provide meaningful comment on the proposed mitigation.
+
+(2) For individual permits, district engineers must consider any timely comments and recommendations from other federal agencies; tribal, state, or local governments; and the public.
+
+(3) For activities authorized by letters of permission or general permits, the review and approval process for compensatory mitigation proposals and plans must be conducted in accordance with the terms and conditions of those permits and applicable regulations including the applicable provisions of this part.
+
+(c) *Mitigation plan.* (1) *Preparation and Approval.* (i) For individual permits, the permittee must prepare a draft mitigation plan and submit it to the district engineer for review. After addressing any comments provided by the district engineer, the permittee must prepare a final mitigation plan, which must be approved by the district engineer prior to issuing the individual permit. The approved final mitigation plan must be incorporated into the individual permit by reference. The final mitigation plan must include the items described in paragraphs (c)(2) through (c)(14) of this section, but the level of detail of the mitigation plan should be commensurate with the scale and scope of the impacts. As an alternative, the district engineer may determine that it would be more appropriate to address any of the items described in paragraphs (c)(2) through (c)(14) of this section as permit conditions, instead of components of a compensatory mitigation plan. For permittees who intend to fulfill their compensatory mitigation obligations by securing credits from approved mitigation banks or in-lieu fee programs, their mitigation plans need include only the items described in paragraphs (c)(5) and (c)(6) of this section, and the name of the specific mitigation bank or in-lieu fee program to be used.
+
+(ii) For general permits, if compensatory mitigation is required, the district engineer may approve a conceptual or detailed compensatory mitigation plan to meet required time frames for general permit verifications, but a final mitigation plan incorporating the elements in paragraphs (c)(2) through (c)(14) of this section, at a level of detail commensurate with the scale and scope of the impacts, must be approved by the district engineer before the permittee commences work in waters of the United States. As an alternative, the district engineer may determine that it would be more appropriate to address any of the items described in paragraphs (c)(2) through (c)(14) of this section as permit conditions, instead of components of a compensatory mitigation plan. For permittees who intend to fulfill their compensatory mitigation obligations by securing credits from approved mitigation banks or in-lieu fee programs, their mitigation plans need include only the items described in paragraphs (c)(5) and (c)(6) of this section, and either the name of the specific mitigation bank or in-lieu fee program to be used or a statement indicating that a mitigation bank or in-lieu fee program will be used (contingent upon approval by the district engineer).
+
+(iii) Mitigation banks and in-lieu fee programs must prepare a mitigation plan including the items in paragraphs (c)(2) through (c)(14) of this section for each separate compensatory mitigation project site. For mitigation banks and in-lieu fee programs, the preparation and approval process for mitigation plans is described in § 230.98.
+
+(2) *Objectives.* A description of the resource type(s) and amount(s) that will be provided, the method of compensation (*i.e.*, restoration, establishment, enhancement, and/or preservation), and the manner in which the resource functions of the compensatory mitigation project will address the needs of the watershed, ecoregion, physiographic province, or other geographic area of interest.
+
+(3) *Site selection.* A description of the factors considered during the site selection process. This should include consideration of watershed needs, on-site alternatives where applicable, and the practicability of accomplishing ecologically self-sustaining aquatic resource restoration, establishment, enhancement, and/or preservation at the compensatory mitigation project site. (See § 230.93(d).)
+
+(4) *Site protection instrument.* A description of the legal arrangements and instrument, including site ownership, that will be used to ensure the long-term protection of the compensatory mitigation project site (see § 230.97(a)).
+
+(5) *Baseline information.* A description of the ecological characteristics of the proposed compensatory mitigation project site and, in the case of an application for a DA permit, the impact site. This may include descriptions of historic and existing plant communities, historic and existing hydrology, soil conditions, a map showing the locations of the impact and mitigation site(s) or the geographic coordinates for those site(s), and other site characteristics appropriate to the type of resource proposed as compensation. The baseline information should also include a delineation of waters of the United States on the proposed compensatory mitigation project site. A prospective permittee planning to secure credits from an approved mitigation bank or in-lieu fee program only needs to provide baseline information about the impact site, not the mitigation bank or in-lieu fee project site.
+
+(6) *Determination of credits.* A description of the number of credits to be provided, including a brief explanation of the rationale for this determination. (See § 230.93(f).)
+
+(i) For permittee-responsible mitigation, this should include an explanation of how the compensatory mitigation project will provide the required compensation for unavoidable impacts to aquatic resources resulting from the permitted activity.
+
+(ii) For permittees intending to secure credits from an approved mitigation bank or in-lieu fee program, it should include the number and resource type of credits to be secured and how these were determined.
+
+(7) *Mitigation work plan.* Detailed written specifications and work descriptions for the compensatory mitigation project, including, but not limited to, the geographic boundaries of the project; construction methods, timing, and sequence; source(s) of water, including connections to existing waters and uplands; methods for establishing the desired plant community; plans to control invasive plant species; the proposed grading plan, including elevations and slopes of the substrate; soil management; and erosion control measures. For stream compensatory mitigation projects, the mitigation work plan may also include other relevant information, such as planform geometry, channel form (e.g., typical channel cross-sections), watershed size, design discharge, and riparian area plantings.
+
+(8) *Maintenance plan.* A description and schedule of maintenance requirements to ensure the continued viability of the resource once initial construction is completed.
+
+(9) *Performance standards.* Ecologically-based standards that will be used to determine whether the compensatory mitigation project is achieving its objectives. (See § 230.95.)
+
+(10) *Monitoring requirements.* A description of parameters to be monitored in order to determine if the compensatory mitigation project is on track to meet performance standards and if adaptive management is needed. A schedule for monitoring and reporting on monitoring results to the district engineer must be included. (See § 230.96.)
+
+(11) *Long-term management plan.* A description of how the compensatory mitigation project will be managed after performance standards have been achieved to ensure the long-term sustainability of the resource, including long-term financing mechanisms and the party responsible for long-term management. (See § 230.97(d).)
+
+(12) *Adaptive management plan.* A management strategy to address unforeseen changes in site conditions or other components of the compensatory mitigation project, including the party or parties responsible for implementing adaptive management measures. The adaptive management plan will guide decisions for revising compensatory mitigation plans and implementing measures to address both foreseeable and unforeseen circumstances that adversely affect compensatory mitigation success. (See § 230.97(c).)
+
+(13) *Financial assurances.* A description of financial assurances that will be provided and how they are sufficient to ensure a high level of confidence that the compensatory mitigation project will be successfully completed, in accordance with its performance standards (see § 230.93(n)).
+
+(14) *Other information.* The district engineer may require additional information as necessary to determine the appropriateness, feasibility, and practicability of the compensatory mitigation project.
+
+### § 230.95 Ecological performance standards.
+
+(a) The approved mitigation plan must contain performance standards that will be used to assess whether the project is achieving its objectives. Performance standards should relate to the objectives of the compensatory mitigation project, so that the project can be objectively evaluated to determine if it is developing into the desired resource type, providing the expected functions, and attaining any other applicable metrics (e.g., acres).
+
+(b) Performance standards must be based on attributes that are objective and verifiable. Ecological performance standards must be based on the best available science that can be measured or assessed in a practicable manner. Performance standards may be based on variables or measures of functional capacity described in functional assessment methodologies, measurements of hydrology or other aquatic resource characteristics, and/or comparisons to reference aquatic resources of similar type and landscape position. The use of reference aquatic resources to establish performance standards will help ensure that those performance standards are reasonably achievable, by reflecting the range of variability exhibited by the regional class of aquatic resources as a result of natural processes and anthropogenic disturbances. Performance standards based on measurements of hydrology should take into consideration the hydrologic variability exhibited by reference aquatic resources, especially wetlands. Where practicable, performance standards should take into account the expected stages of the aquatic resource development process, in order to allow early identification of potential problems and appropriate adaptive management.
+
+### § 230.96 Monitoring.
+
+(a) *General.* (1) Monitoring the compensatory mitigation project site is necessary to determine if the project is meeting its performance standards, and to determine if measures are necessary to ensure that the compensatory mitigation project is accomplishing its objectives. The submission of monitoring reports to assess the development and condition of the compensatory mitigation project is required, but the content and level of detail for those monitoring reports must be commensurate with the scale and scope of the compensatory mitigation project, as well as the compensatory mitigation project type. The mitigation plan must address the monitoring requirements for the compensatory mitigation project, including the parameters to be monitored, the length of the monitoring period, the party responsible for conducting the monitoring, the frequency for submitting monitoring reports to the district engineer, and the party responsible for submitting those monitoring reports to the district engineer.
+
+(2) The district engineer may conduct site inspections on a regular basis (e.g., annually) during the monitoring period to evaluate mitigation site performance.
+
+(b) *Monitoring period.* The mitigation plan must provide for a monitoring period that is sufficient to demonstrate that the compensatory mitigation project has met performance standards, but not less than five years. A longer monitoring period must be required for aquatic resources with slow development rates (e.g., forested wetlands, bogs). Following project implementation, the district engineer may reduce or waive the remaining monitoring requirements upon a determination that the compensatory mitigation project has achieved its performance standards. Conversely the district engineer may extend the original monitoring period upon a determination that performance standards have not been met or the compensatory mitigation project is not on track to meet them. The district engineer may also revise monitoring requirements when remediation and/or adaptive management is required.
+
+(c) *Monitoring reports.* (1) The district engineer must determine the information to be included in monitoring reports. This information must be sufficient for the district engineer to determine how the compensatory mitigation project is progressing towards meeting its performance standards, and may include plans (such as as-built plans), maps, and photographs to illustrate site conditions. Monitoring reports may also include the results of functional, condition, or other assessments used to provide quantitative or qualitative measures of the functions provided by the compensatory mitigation project site.
+
+(2) The permittee or sponsor is responsible for submitting monitoring reports in accordance with the special conditions of the DA permit or the terms of the instrument. Failure to submit monitoring reports in a timely manner may result in compliance action by the district engineer.
+
+(3) Monitoring reports must be provided by the district engineer to interested federal, tribal, state, and local resource agencies, and the public, upon request.
+
+### § 230.97 Management.
+
+(a) *Site protection.* (1) The aquatic habitats, riparian areas, buffers, and uplands that comprise the overall compensatory mitigation project must be provided long-term protection through real estate instruments or other available mechanisms, as appropriate. Long-term protection may be provided through real estate instruments such as conservation easements held by entities such as federal, tribal, state, or local resource agencies, non-profit conservation organizations, or private land managers; the transfer of title to such entities; or by restrictive covenants. For government property, long-term protection may be provided through federal facility management plans or integrated natural resources management plans. When approving a method for long-term protection of non-government property other than transfer of title, the district engineer shall consider relevant legal constraints on the use of conservation easements and/or restrictive covenants in determining whether such mechanisms provide sufficient site protection. To provide sufficient site protection, a conservation easement or restrictive covenant should, where practicable, establish in an appropriate third party (e.g., governmental or non-profit resource management agency) the right to enforce site protections and provide the third party the resources necessary to monitor and enforce these site protections.
+
+(2) The real estate instrument, management plan, or other mechanism providing long-term protection of the compensatory mitigation site must, to the extent appropriate and practicable, prohibit incompatible uses (e.g., clear cutting or mineral extraction) that might otherwise jeopardize the objectives of the compensatory mitigation project. Where appropriate, multiple instruments recognizing compatible uses (e.g., fishing or grazing rights) may be used.
+
+(3) The real estate instrument, management plan, or other long-term protection mechanism must contain a provision requiring 60-day advance notification to the district engineer before any action is taken to void or modify the instrument, management plan, or long-term protection mechanism, including transfer of title to, or establishment of any other legal claims over, the compensatory mitigation site.
+
+(4) For compensatory mitigation projects on public lands, where Federal facility management plans or integrated natural resources management plans are used to provide long-term protection, and changes in statute, regulation, or agency needs or mission results in an incompatible use on public lands originally set aside for compensatory mitigation, the public agency authorizing the incompatible use is responsible for providing alternative compensatory mitigation that is acceptable to the district engineer for any loss in functions resulting from the incompatible use.
+
+(5) A real estate instrument, management plan, or other long-term protection mechanism used for site protection of permittee-responsible mitigation must be approved by the district engineer in advance of, or concurrent with, the activity causing the authorized impacts.
+
+(b) *Sustainability.* Compensatory mitigation projects shall be designed, to the maximum extent practicable, to be self-sustaining once performance standards have been achieved. This includes minimization of active engineering features (e.g., pumps) and appropriate siting to ensure that natural hydrology and landscape context will support long-term sustainability. Where active long-term management and maintenance are necessary to ensure long-term sustainability (e.g., prescribed burning, invasive species control, maintenance of water control structures, easement enforcement), the responsible party must provide for such management and maintenance. This includes the provision of long-term financing mechanisms where necessary. Where needed, the acquisition and protection of water rights must be secured and documented in the permit conditions or instrument.
+
+(c) *Adaptive management.* (1) If the compensatory mitigation project cannot be constructed in accordance with the approved mitigation plans, the permittee or sponsor must notify the district engineer. A significant modification of the compensatory mitigation project requires approval from the district engineer.
+
+(2) If monitoring or other information indicates that the compensatory mitigation project is not progressing towards meeting its performance standards as anticipated, the responsible party must notify the district engineer as soon as possible. The district engineer will evaluate and pursue measures to address deficiencies in the compensatory mitigation project. The district engineer will consider whether the compensatory mitigation project is providing ecological benefits comparable to the original objectives of the compensatory mitigation project.
+
+(3) The district engineer, in consultation with the responsible party (and other federal, tribal, state, and local agencies, as appropriate), will determine the appropriate measures. The measures may include site modifications, design changes, revisions to maintenance requirements, and revised monitoring requirements. The measures must be designed to ensure that the modified compensatory mitigation project provides aquatic resource functions comparable to those described in the mitigation plan objectives.
+
+(4) Performance standards may be revised in accordance with adaptive management to account for measures taken to address deficiencies in the compensatory mitigation project. Performance standards may also be revised to reflect changes in management strategies and objectives if the new standards provide for ecological benefits that are comparable or superior to the approved compensatory mitigation project. No other revisions to performance standards will be allowed except in the case of natural disasters.
+
+(d) *Long-term management.* (1) The permit conditions or instrument must identify the party responsible for ownership and all long-term management of the compensatory mitigation project. The permit conditions or instrument may contain provisions allowing the permittee or sponsor to transfer the long-term management responsibilities of the compensatory mitigation project site to a land stewardship entity, such as a public agency, non-governmental organization, or private land manager, after review and approval by the district engineer. The land stewardship entity need not be identified in the original permit or instrument, as long as the future transfer of long-term management responsibility is approved by the district engineer.
+
+(2) A long-term management plan should include a description of long-term management needs, annual cost estimates for these needs, and identify the funding mechanism that will be used to meet those needs.
+
+(3) Any provisions necessary for long-term financing must be addressed in the original permit or instrument. The district engineer may require provisions to address inflationary adjustments and other contingencies, as appropriate. Appropriate long-term financing mechanisms include non-wasting endowments, trusts, contractual arrangements with future responsible parties, and other appropriate financial instruments. In cases where the long-term management entity is a public authority or government agency, that entity must provide a plan for the long-term financing of the site.
+
+(4) For permittee-responsible mitigation, any long-term financing mechanisms must be approved in advance of the activity causing the authorized impacts.
+
+### § 230.98 Mitigation banks and in-lieu fee programs.
+
+(a) *General considerations.* (1) All mitigation banks and in-lieu fee programs must have an approved instrument signed by the sponsor and the district engineer prior to being used to provide compensatory mitigation for DA permits.
+
+(2) To the maximum extent practicable, mitigation banks and in-lieu fee project sites must be planned and designed to be self-sustaining over time, but some active management and maintenance may be required to ensure their long-term viability and sustainability. Examples of acceptable management activities include maintaining fire dependent habitat communities in the absence of natural fire and controlling invasive exotic plant species.
+
+(3) All mitigation banks and in-lieu fee programs must comply with the standards in this part, if they are to be used to provide compensatory mitigation for activities authorized by DA permits, regardless of whether they are sited on public or private lands and whether the sponsor is a governmental or private entity.
+
+(b) *Interagency Review Team.* (1) The district engineer will establish an Interagency Review Team (IRT) to review documentation for the establishment and management of mitigation banks and in-lieu fee programs. The district engineer or his designated representative serves as Chair of the IRT. In cases where a mitigation bank or in-lieu fee program is proposed to satisfy the requirements of another federal, tribal, state, or local program, in addition to compensatory mitigation requirements of DA permits, it may be appropriate for the administering agency to serve as co-Chair of the IRT.
+
+(2) In addition to the Corps, representatives from the U.S. Environmental Protection Agency, U.S. Fish and Wildlife Service, NOAA Fisheries, the Natural Resources Conservation Service, and other federal agencies, as appropriate, may participate in the IRT. The IRT may also include representatives from tribal, state, and local regulatory and resource agencies, where such agencies have authorities and/or mandates directly affecting, or affected by, the establishment, operation, or use of the mitigation bank or in-lieu fee program. The district engineer will seek to include all public agencies with a substantive interest in the establishment of the mitigation bank or in-lieu fee program on the IRT, but retains final authority over its composition.
+
+(3) The primary role of the IRT is to facilitate the establishment of mitigation banks or in-lieu fee programs through the development of mitigation banking or in-lieu fee program instruments. The IRT will review the prospectus, instrument, and other appropriate documents and provide comments to the district engineer. The district engineer and the IRT should use a watershed approach to the extent practicable in reviewing proposed mitigation banks and in-lieu fee programs. Members of the IRT may also sign the instrument, if they so choose. By signing the instrument, the IRT members indicate their agreement with the terms of the instrument. As an alternative, a member of the IRT may submit a letter expressing concurrence with the instrument. The IRT will also advise the district engineer in assessing monitoring reports, recommending remedial or adaptive management measures, approving credit releases, and approving modifications to an instrument. In order to ensure timely processing of instruments and other documentation, comments from IRT members must be received by the district engineer within the time limits specified in this section. Comments received after these deadlines will only be considered at the discretion of the district engineer to the extent that doing so does not jeopardize the deadlines for district engineer action.
+
+(4) The district engineer will give full consideration to any timely comments and advice of the IRT. The district engineer alone retains final authority for approval of the instrument in cases where the mitigation bank or in-lieu fee program is used to satisfy compensatory mitigation requirements of DA permits.
+
+(5) *MOAs with other agencies.* The district engineer and members of the IRT may enter into a memorandum of agreement (MOA) with any other federal, state or local government agency to perform all or some of the IRT review functions described in this section. Such MOAs must include provisions for appropriate federal oversight of the review process. The district engineer retains sole authority for final approval of instruments and other documentation required under this section.
+
+(c) *Compensation planning framework for in-lieu fee programs.* (1) The approved instrument for an in-lieu fee program must include a compensation planning framework that will be used to select, secure, and implement aquatic resource restoration, establishment, enhancement, and/or preservation activities. The compensation planning framework must support a watershed approach to compensatory mitigation. All specific projects used to provide compensation for DA permits must be consistent with the approved compensation planning framework. Modifications to the framework must be approved as a significant modification to the instrument by the district engineer, after consultation with the IRT.
+
+(2) The compensation planning framework must contain the following elements:
+
+(i) The geographic service area(s), including a watershed-based rationale for the delineation of each service area;
+
+(ii) A description of the threats to aquatic resources in the service area(s), including how the in-lieu fee program will help offset impacts resulting from those threats;
+
+(iii) An analysis of historic aquatic resource loss in the service area(s);
+
+(iv) An analysis of current aquatic resource conditions in the service area(s), supported by an appropriate level of field documentation;
+
+(v) A statement of aquatic resource goals and objectives for each service area, including a description of the general amounts, types and locations of aquatic resources the program will seek to provide;
+
+(vi) A prioritization strategy for selecting and implementing compensatory mitigation activities;
+
+(vii) An explanation of how any preservation objectives identified in paragraph (c)(2)(v) of this section and addressed in the prioritization strategy in paragraph (c)(2)(vi) satisfy the criteria for use of preservation in § 230.93(h);
+
+(viii) A description of any public and private stakeholder involvement in plan development and implementation, including, where appropriate, coordination with federal, state, tribal and local aquatic resource management and regulatory authorities;
+
+(ix) A description of the long-term protection and management strategies for activities conducted by the in-lieu fee program sponsor;
+
+(x) A strategy for periodic evaluation and reporting on the progress of the program in achieving the goals and objectives in paragraph (c)(2)(v) of this section, including a process for revising the planning framework as necessary; and
+
+(xi) Any other information deemed necessary for effective compensation planning by the district engineer.
+
+(3) The level of detail necessary for the compensation planning framework is at the discretion of the district engineer, and will take into account the characteristics of the service area(s) and the scope of the program. As part of the in-lieu fee program instrument, the compensation planning framework will be reviewed by the IRT, and will be a major factor in the district engineer's decision on whether to approve the instrument.
+
+(d) *Review process.* (1) The sponsor is responsible for preparing all documentation associated with establishment of the mitigation bank or in-lieu fee program, including the prospectus, instrument, and other appropriate documents, such as mitigation plans for a mitigation bank. The prospectus provides an overview of the proposed mitigation bank or in-lieu fee program and serves as the basis for public and initial IRT comment. For a mitigation bank, the mitigation plan, as described in § 230.94(c), provides detailed plans and specifications for the mitigation bank site. For in-lieu fee programs, mitigation plans will be prepared as in-lieu fee project sites are identified after the instrument has been approved and the in-lieu fee program becomes operational. The instrument provides the authorization for the mitigation bank or in-lieu fee program to provide credits to be used as compensatory mitigation for DA permits.
+
+(2) *Prospectus.* The prospectus must provide a summary of the information regarding the proposed mitigation bank or in-lieu fee program, at a sufficient level of detail to support informed public and IRT comment. The review process begins when the sponsor submits a complete prospectus to the district engineer. For modifications of approved instruments, submittal of a new prospectus is not required; instead, the sponsor must submit a written request for an instrument modification accompanied by appropriate documentation. The district engineer must notify the sponsor within 30 days whether or not a submitted prospectus is complete. A complete prospectus includes the following information:
+
+(i) The objectives of the proposed mitigation bank or in-lieu fee program.
+
+(ii) How the mitigation bank or in-lieu fee program will be established and operated.
+
+(iii) The proposed service area.
+
+(iv) The general need for and technical feasibility of the proposed mitigation bank or in-lieu fee program.
+
+(v) The proposed ownership arrangements and long-term management strategy for the mitigation bank or in-lieu fee project sites.
+
+(vi) The qualifications of the sponsor to successfully complete the type(s) of mitigation project(s) proposed, including information describing any past such activities by the sponsor.
+
+(vii) For a proposed mitigation bank, the prospectus must also address:
+
+(A) The ecological suitability of the site to achieve the objectives of the proposed mitigation bank, including the physical, chemical, and biological characteristics of the bank site and how that site will support the planned types of aquatic resources and functions; and
+
+(B) Assurance of sufficient water rights to support the long-term sustainability of the mitigation bank.
+
+(viii) For a proposed in-lieu fee program, the prospectus must also include:
+
+(A) The compensation planning framework (see paragraph (c) of this section); and
+
+(B) A description of the in-lieu fee program account required by paragraph (i) of this section.
+
+(3) *Preliminary review of prospectus.* Prior to submitting a prospectus, the sponsor may elect to submit a draft prospectus to the district engineer for comment and consultation. The district engineer will provide copies of the draft prospectus to the IRT and will provide comments back to the sponsor within 30 days. Any comments from IRT members will also be forwarded to the sponsor. This preliminary review is optional but is strongly recommended. It is intended to identify potential issues early so that the sponsor may attempt to address those issues prior to the start of the formal review process.
+
+(4) *Public review and comment.* Within 30 days of receipt of a complete prospectus or an instrument modification request that will be processed in accordance with paragraph (g)(1) of this section, the district engineer will provide public notice of the proposed mitigation bank or in-lieu fee program, in accordance with the public notice procedures at 33 CFR 325.3. The public notice must, at a minimum, include a summary of the prospectus and indicate that the full prospectus is available to the public for review upon request. For modifications of approved instruments, the public notice must instead summarize, and make available to the public upon request, whatever documentation is appropriate for the modification (e.g., a new or revised mitigation plan). The comment period for public notice will be 30 days, unless the district engineer determines that a longer comment period is appropriate. The district engineer will notify the sponsor if the comment period is extended beyond 30 days, including an explanation of why the longer comment period is necessary. Copies of all comments received in response to the public notice must be distributed to the other IRT members and to the sponsor within 15 days of the close of the public comment period. The district engineer and IRT members may also provide comments to the sponsor at this time, and copies of any such comments will also be distributed to all IRT members. If the construction of a mitigation bank or an in-lieu fee program project requires a DA permit, the public notice requirement may be satisfied through the public notice provisions of the permit processing procedures, provided all of the relevant information is provided.
+
+(5) *Initial evaluation.* (i) After the end of the comment period, the district engineer will review the comments received in response to the public notice, and make a written initial evaluation as to the potential of the proposed mitigation bank or in-lieu fee program to provide compensatory mitigation for activities authorized by DA permits. This initial evaluation letter must be provided to the sponsor within 30 days of the end of the public notice comment period.
+
+(ii) If the district engineer determines that the proposed mitigation bank or in-lieu fee program has potential for providing appropriate compensatory mitigation for activities authorized by DA permits, the initial evaluation letter will inform the sponsor that he/she may proceed with preparation of the draft instrument (see paragraph (d)(6) of this section).
+
+(iii) If the district engineer determines that the proposed mitigation bank or in-lieu fee program does not have potential for providing appropriate compensatory mitigation for DA permits, the initial evaluation letter must discuss the reasons for that determination. The sponsor may revise the prospectus to address the district engineer's concerns, and submit the revised prospectus to the district engineer. If the sponsor submits a revised prospectus, a revised public notice will be issued in accordance with paragraph (d)(4) of this section.
+
+(iv) This initial evaluation procedure does not apply to proposed modifications of approved instruments.
+
+(6) *Draft instrument.* (i) After considering comments from the district engineer, the IRT, and the public, if the sponsor chooses to proceed with establishment of the mitigation bank or in-lieu fee program, he must prepare a draft instrument and submit it to the district engineer. In the case of an instrument modification, the sponsor must prepare a draft amendment (e.g., a specific instrument provision, a new or modified mitigation plan), and submit it to the district engineer. The district engineer must notify the sponsor within 30 days of receipt, whether the draft instrument or amendment is complete. If the draft instrument or amendment is incomplete, the district engineer will request from the sponsor the information necessary to make the draft instrument or amendment complete. Once any additional information is submitted, the district engineer must notify the sponsor as soon as he determines that the draft instrument or amendment is complete. The draft instrument must be based on the prospectus and must describe in detail the physical and legal characteristics of the mitigation bank or in-lieu fee program and how it will be established and operated.
+
+(ii) For mitigation banks and in-lieu fee programs, the draft instrument must include the following information:
+
+(A) A description of the proposed geographic service area of the mitigation bank or in-lieu fee program. The service area is the watershed, ecoregion, physiographic province, and/or other geographic area within which the mitigation bank or in-lieu fee program is authorized to provide compensatory mitigation required by DA permits. The service area must be appropriately sized to ensure that the aquatic resources provided will effectively compensate for adverse environmental impacts across the entire service area. For example, in urban areas, a U.S. Geological Survey 8-digit hydrologic unit code (HUC) watershed or a smaller watershed may be an appropriate service area. In rural areas, several contiguous 8-digit HUCs or a 6-digit HUC watershed may be an appropriate service area. Delineation of the service area must also consider any locally-developed standards and criteria that may be applicable. The economic viability of the mitigation bank or in-lieu fee program may also be considered in determining the size of the service area. The basis for the proposed service area must be documented in the instrument. An in-lieu fee program or umbrella mitigation banking instrument may have multiple service areas governed by its instrument (e.g., each watershed within a State or Corps district may be a separate service area under the instrument); however, all impacts and compensatory mitigation must be accounted for by service area;
+
+(B) Accounting procedures;
+
+(C) A provision stating that legal responsibility for providing the compensatory mitigation lies with the sponsor once a permittee secures credits from the sponsor;
+
+(D) Default and closure provisions;
+
+(E) Reporting protocols; and
+
+(F) Any other information deemed necessary by the district engineer.
+
+(iii) For a mitigation bank, a complete draft instrument must include the following additional information:
+
+(A) Mitigation plans that include all applicable items listed in § 230.94(c)(2) through (14); and
+
+(B) A credit release schedule, which is tied to achievement of specific milestones. All credit releases must be approved by the district engineer, in consultation with the IRT, based on a determination that required milestones have been achieved. The district engineer, in consultation with the IRT, may modify the credit release schedule, including reducing the number of available credits or suspending credit sales or transfers altogether, where necessary to ensure that all credits sales or transfers remain tied to compensatory mitigation projects with a high likelihood of meeting performance standards;
+
+(iv) For an in-lieu fee program, a complete draft instrument must include the following additional information:
+
+(A) The compensation planning framework (see paragraph (c) of this section);
+
+(B) Specification of the initial allocation of advance credits (see paragraph (n) of this section) and a draft fee schedule for these credits, by service area, including an explanation of the basis for the allocation and draft fee schedule;
+
+(C) A methodology for determining future project-specific credits and fees; and
+
+(D) A description of the in-lieu fee program account required by paragraph (i) of this section.
+
+(7) *IRT review.* Upon receipt of notification by the district engineer that the draft instrument or amendment is complete, the sponsor must provide the district engineer with a sufficient number of copies of the draft instrument or amendment to distribute to the IRT members. The district engineer will promptly distribute copies of the draft instrument or amendment to the IRT members for a 30 day comment period. The 30-day comment period begins 5 days after the district engineer distributes the copies of the draft instrument or amendment to the IRT. Following the comment period, the district engineer will discuss any comments with the appropriate agencies and with the sponsor. The district engineer will seek to resolve issues using a consensus based approach, to the extent practicable, while still meeting the decision-making time frames specified in this section. Within 90 days of receipt of the complete draft instrument or amendment by the IRT members, the district engineer must notify the sponsor of the status of the IRT review. Specifically, the district engineer must indicate to the sponsor if the draft instrument or amendment is generally acceptable and what changes, if any, are needed. If there are significant unresolved concerns that may lead to a formal objection from one or more IRT members to the final instrument or amendment, the district engineer will indicate the nature of those concerns.
+
+(8) *Final instrument.* The sponsor must submit a final instrument to the district engineer for approval, with supporting documentation that explains how the final instrument addresses the comments provided by the IRT. For modifications of approved instruments, the sponsor must submit a final amendment to the district engineer for approval, with supporting documentation that explains how the final amendment addresses the comments provided by the IRT. The final instrument or amendment must be provided directly by the sponsor to all members of the IRT. Within 30 days of receipt of the final instrument or amendment, the district engineer will notify the IRT members whether or not he intends to approve the instrument or amendment. If no IRT member objects, by initiating the dispute resolution process in paragraph (e) of this section within 45 days of receipt of the final instrument or amendment, the district engineer will notify the sponsor of his final decision and, if the instrument or amendment is approved, arrange for it to be signed by the appropriate parties. If any IRT member initiates the dispute resolution process, the district engineer will notify the sponsor. Following conclusion of the dispute resolution process, the district engineer will notify the sponsor of his final decision, and if the instrument or amendment is approved, arrange for it to be signed by the appropriate parties. For mitigation banks, the final instrument must contain the information items listed in paragraphs (d)(6)(ii), and (iii) of this section. For in-lieu fee programs, the final instrument must contain the information items listed in paragraphs (d)(6)(ii) and (iv) of this section. For the modification of an approved instrument, the amendment must contain appropriate information, as determined by the district engineer. The final instrument or amendment must be made available to the public upon request.
+
+(e) *Dispute resolution process.* (1) Within 15 days of receipt of the district engineer's notification of intent to approve an instrument or amendment, the Regional Administrator of the U.S. EPA, the Regional Director of the U.S. Fish and Wildlife Service, the Regional Director of the National Marine Fisheries Service, and/or other senior officials of agencies represented on the IRT may notify the district engineer and other IRT members by letter if they object to the approval of the proposed final instrument or amendment. This letter must include an explanation of the basis for the objection and, where feasible, offer recommendations for resolving the objections. If the district engineer does not receive any objections within this time period, he may proceed to final action on the instrument or amendment.
+
+(2) The district engineer must respond to the objection within 30 days of receipt of the letter. The district engineer's response may indicate an intent to disapprove the instrument or amendment as a result of the objection, an intent to approve the instrument or amendment despite the objection, or may provide a modified instrument or amendment that attempts to address the objection. The district engineer's response must be provided to all IRT members.
+
+(3) Within 15 days of receipt of the district engineer's response, if the Regional Administrator or Regional Director is not satisfied with the response he may forward the issue to the Assistant Administrator for Water of the U.S. EPA, the Assistant Secretary for Fish and Wildlife and Parks of the U.S. FWS, or the Undersecretary for Oceans and Atmosphere of NOAA, as appropriate, for review and must notify the district engineer by letter via electronic mail or facsimile machine (with copies to all IRT members) that the issue has been forwarded for Headquarters review. This step is available only to the IRT members representing these three federal agencies, however, other IRT members who do not agree with the district engineer's final decision do not have to sign the instrument or amendment or recognize the mitigation bank or in-lieu fee program for purposes of their own programs and authorities. If an IRT member other than the one filing the original objection has a new objection based on the district engineer's response, he may use the first step in this procedure (paragraph (e)(1) of this section) to provide that objection to the district engineer.
+
+(4) If the issue has not been forwarded to the objecting agency's Headquarters, then the district engineer may proceed with final action on the instrument or amendment. If the issue has been forwarded to the objecting agency's Headquarters, the district engineer must hold in abeyance the final action on the instrument or amendment, pending Headquarters level review described below.
+
+(5) Within 20 days from the date of the letter requesting Headquarters level review, the Assistant Administrator for Water, the Assistant Secretary for Fish and Wildlife and Parks, or the Undersecretary for Oceans and Atmosphere must either notify the Assistant Secretary of the Army (Civil Works) (ASA(CW)) that further review will not be requested, or request that the ASA(CW) review the final instrument or amendment.
+
+(6) Within 30 days of receipt of the letter from the objecting agency's Headquarters request for ASA(CW)'s review of the final instrument, the ASA(CW), through the Director of Civil Works, must review the draft instrument or amendment and advise the district engineer on how to proceed with final action on that instrument or amendment. The ASA(CW) must immediately notify the Assistant Administrator for Water, the Assistant Secretary for Fish and Wildlife and Parks, and/or the Undersecretary for Oceans and Atmosphere of the final decision.
+
+(7) In cases where the dispute resolution procedure is used, the district engineer must notify the sponsor of his final decision within 150 days of receipt of the final instrument or amendment.
+
+(f) *Extension of deadlines.* (1) The deadlines in paragraphs (d) and (e) of this section may be extended by the district engineer at his sole discretion in cases where:
+
+(i) Compliance with other applicable laws, such as consultation under section 7 of the Endangered Species Act or section 106 of the National Historic Preservation Act, is required;
+
+(ii) It is necessary to conduct government-to-government consultation with Indian tribes;
+
+(iii) Timely submittal of information necessary for the review of the proposed mitigation bank or in-lieu fee program or the proposed modification of an approved instrument is not accomplished by the sponsor; or
+
+(iv) Information that is essential to the district engineer's decision cannot be reasonably obtained within the specified time frame.
+
+(2) In such cases, the district engineer must promptly notify the sponsor in writing of the extension and the reason for it. Such extensions shall be for the minimum time necessary to resolve the issue necessitating the extension.
+
+(g) *Modification of instruments.* (1) *Approval of an amendment to an approved instrument.* Modification of an approved instrument, including the addition and approval of umbrella mitigation bank sites or in-lieu fee project sites or expansions of previously approved mitigation bank or in-lieu fee project sites, must follow the appropriate procedures in paragraph (d) of this section, unless the district engineer determines that the streamlined review process described in paragraph (g)(2) of this section is warranted.
+
+(2) *Streamlined review process.* The streamlined modification review process may be used for the following modifications of instruments: changes reflecting adaptive management of the mitigation bank or in-lieu fee program, credit releases, changes in credit releases and credit release schedules, and changes that the district engineer determines are not significant. If the district engineer determines that the streamlined review process is warranted, he must notify the IRT members and the sponsor of this determination and provide them with copies of the proposed modification. IRT members and the sponsor have 30 days to notify the district engineer if they have concerns with the proposed modification. If IRT members or the sponsor notify the district engineer of such concerns, the district engineer shall attempt to resolve those concerns. Within 60 days of providing the proposed modification to the IRT, the district engineer must notify the IRT members of his intent to approve or disapprove the proposed modification. If no IRT member objects, by initiating the dispute resolution process in paragraph (e) of this section, within 15 days of receipt of this notification, the district engineer will notify the sponsor of his final decision and, if the modification is approved, arrange for it to be signed by the appropriate parties. If any IRT member initiates the dispute resolution process, the district engineer will so notify the sponsor. Following conclusion of the dispute resolution process, the district engineer will notify the sponsor of his final decision, and if the modification is approved, arrange for it to be signed by the appropriate parties.
+
+(h) *Umbrella mitigation banking instruments.* A single mitigation banking instrument may provide for future authorization of additional mitigation bank sites. As additional sites are selected, they must be included in the mitigation banking instrument as modifications, using the procedures in paragraph (g)(1) of this section. Credit withdrawal from the additional bank sites shall be consistent with paragraph (m) of this section.
+
+(i) *In-lieu fee program account.* (1) The in-lieu fee program sponsor must establish a program account after the instrument is approved by the district engineer, prior to accepting any fees from permittees. If the sponsor accepts funds from entities other than permittees, those funds must be kept in separate accounts. The program account must be established at a financial institution that is a member of the Federal Deposit Insurance Corporation. All interests and earnings accruing to the program account must remain in that account for use by the in-lieu fee program for the purposes of providing compensatory mitigation for DA permits. The program account may only be used for the selection, design, acquisition, implementation, and management of in-lieu fee compensatory mitigation projects, except for a small percentage (as determined by the district engineer in consultation with the IRT and specified in the instrument) that can be used for administrative costs.
+
+(2) The sponsor must submit proposed in-lieu fee projects to the district engineer for funding approval. Disbursements from the program account may only be made upon receipt of written authorization from the district engineer, after the district engineer has consulted with the IRT. The terms of the program account must specify that the district engineer has the authority to direct those funds to alternative compensatory mitigation projects in cases where the sponsor does not provide compensatory mitigation in accordance with the time frame specified in paragraph (n)(4) of this section.
+
+(3) The sponsor must provide annual reports to the district engineer and the IRT. The annual reports must include the following information:
+
+(i) All income received, disbursements, and interest earned by the program account;
+
+(ii) A list of all permits for which in-lieu fee program funds were accepted. This list shall include: the Corps permit number (or the state permit number if there is no corresponding Corps permit number, in cases of state programmatic general permits or other regional general permits), the service area in which the authorized impacts are located, the amount of authorized impacts, the amount of required compensatory mitigation, the amount paid to the in-lieu fee program, and the date the funds were received from the permittee;
+
+(iii) A description of in-lieu fee program expenditures from the account, such as the costs of land acquisition, planning, construction, monitoring, maintenance, contingencies, adaptive management, and administration;
+
+(iv) The balance of advance credits and released credits at the end of the report period for each service area; and
+
+(v) Any other information required by the district engineer.
+
+(4) The district engineer may audit the records pertaining to the program account. All books, accounts, reports, files, and other records relating to the in-lieu fee program account shall be available at reasonable times for inspection and audit by the district engineer.
+
+(j) *In-lieu fee project approval.* (1) As in-lieu fee project sites are identified and secured, the sponsor must submit mitigation plans to the district engineer that include all applicable items listed in § 230.94(c)(2) through (14). The mitigation plan must also include a credit release schedule consistent with paragraph (o)(8) of this section that is tied to achievement of specific performance standards. The review and approval of in-lieu fee projects will be conducted in accordance with the procedures in paragraph (g)(1) of this section, as modifications of the in-lieu fee program instrument. This includes compensatory mitigation projects conducted by another party on behalf of the sponsor through requests for proposals and awarding of contracts.
+
+(2) If a DA permit is required for an in-lieu fee project, the permit should not be issued until all relevant provisions of the mitigation plan have been substantively determined, to ensure that the DA permit accurately reflects all relevant provisions of the approved mitigation plan, such as performance standards.
+
+(k) *Coordination of mitigation banking instruments and DA permit issuance.* In cases where initial establishment of the mitigation bank, or the development of a new project site under an umbrella banking instrument, involves activities requiring DA authorization, the permit should not be issued until all relevant provisions of the mitigation plan have been substantively determined. This is to ensure that the DA permit accurately reflects all relevant provisions of the final instrument, such as performance standards.
+
+(l) *Project implementation.* (1) The sponsor must have an approved instrument prior to collecting funds from permittees to satisfy compensatory mitigation requirements for DA permits.
+
+(2) Authorization to sell credits to satisfy compensatory mitigation requirements in DA permits is contingent on compliance with all of the terms of the instrument. This includes constructing a mitigation bank or in-lieu fee project in accordance with the mitigation plan approved by the district engineer and incorporated by reference in the instrument. If the aquatic resource restoration, establishment, enhancement, and/or preservation activities cannot be implemented in accordance with the approved mitigation plan, the district engineer must consult with the sponsor and the IRT to consider modifications to the instrument, including adaptive management, revisions to the credit release schedule, and alternatives for providing compensatory mitigation to satisfy any credits that have already been sold.
+
+(3) An in-lieu fee program sponsor is responsible for the implementation, long-term management, and any required remediation of the restoration, establishment, enhancement, and/or preservation activities, even though those activities may be conducted by other parties through requests for proposals or other contracting mechanisms.
+
+(m) *Credit withdrawal from mitigation banks.* The mitigation banking instrument may allow for an initial debiting of a percentage of the total credits projected at mitigation bank maturity, provided the following conditions are satisfied: the mitigation banking instrument and mitigation plan have been approved, the mitigation bank site has been secured, appropriate financial assurances have been established, and any other requirements determined to be necessary by the district engineer have been fulfilled. The mitigation banking instrument must provide a schedule for additional credit releases as appropriate milestones are achieved (see paragraph (o)(8) of this section). Implementation of the approved mitigation plan shall be initiated no later than the first full growing season after the date of the first credit transaction.
+
+(n) *Advance credits for in-lieu fee programs.* (1) The in-lieu fee program instrument may make a limited number of advance credits available to permittees when the instrument is approved. The number of advance credits will be determined by the district engineer, in consultation with the IRT, and will be specified for each service area in the instrument. The number of advance credits will be based on the following considerations:
+
+(i) The compensation planning framework;
+
+(ii) The sponsor's past performance for implementing aquatic resource restoration, establishment, enhancement, and/or preservation activities in the proposed service area or other areas; and
+
+(iii) The projected financing necessary to begin planning and implementation of in-lieu fee projects.
+
+(2) To determine the appropriate number of advance credits for a particular service area, the district engineer may require the sponsor to provide confidential supporting information that will not be made available to the general public. Examples of confidential supporting information may include prospective in-lieu fee project sites.
+
+(3) As released credits are produced by in-lieu fee projects, they must be used to fulfill any advance credits that have already been provided within the project service area before any remaining released credits can be sold or transferred to permittees. Once previously provided advance credits have been fulfilled, an equal number of advance credits is re-allocated to the sponsor for sale or transfer to fulfill new mitigation requirements, consistent with the terms of the instrument. The number of advance credits available to the sponsor at any given time to sell or transfer to permittees in a given service area is equal to the number of advance credits specified in the instrument, minus any that have already been provided but not yet fulfilled.
+
+(4) Land acquisition and initial physical and biological improvements must be completed by the third full growing season after the first advance credit in that service area is secured by a permittee, unless the district engineer determines that more or less time is needed to plan and implement an in-lieu fee project. If the district engineer determines that there is a compensatory mitigation deficit in a specific service area by the third growing season after the first advance credit in that service area is sold, and determines that it would not be in the public interest to allow the sponsor additional time to plan and implement an in-lieu fee project, the district engineer must direct the sponsor to disburse funds from the in-lieu fee program account to provide alternative compensatory mitigation to fulfill those compensation obligations.
+
+(5) The sponsor is responsible for complying with the terms of the in-lieu fee program instrument. If the district engineer determines, as a result of review of annual reports on the operation of the in-lieu fee program (see paragraphs (p)(2) and (q)(1) of this section), that it is not performing in compliance with its instrument, the district engineer will take appropriate action, which may include suspension of credit sales, to ensure compliance with the in-lieu fee program instrument (see paragraph (o)(10) of this section). Permittees that secured credits from the in-lieu fee program are not responsible for in-lieu fee program compliance.
+
+(o) *Determining credits.* (1) *Units of measure.* The principal units for credits and debits are acres, linear feet, functional assessment units, or other suitable metrics of particular resource types. Functional assessment units or other suitable metrics may be linked to acres or linear feet.
+
+(2) *Assessment.* Where practicable, an appropriate assessment method (e.g., hydrogeomorphic approach to wetlands functional assessment, index of biological integrity) or other suitable metric must be used to assess and describe the aquatic resource types that will be restored, established, enhanced and/or preserved by the mitigation bank or in-lieu fee project.
+
+(3) *Credit production.* The number of credits must reflect the difference between pre- and post-compensatory mitigation project site conditions, as determined by a functional or condition assessment or other suitable metric.
+
+(4) *Credit value.* Once a credit is debited (sold or transferred to a permittee), its value cannot change.
+
+(5) *Credit costs.* (i) The cost of compensatory mitigation credits provided by a mitigation bank or in-lieu fee program is determined by the sponsor.
+
+(ii) For in-lieu fee programs, the cost per unit of credit must include the expected costs associated with the restoration, establishment, enhancement, and/or preservation of aquatic resources in that service area. These costs must be based on full cost accounting, and include, as appropriate, expenses such as land acquisition, project planning and design, construction, plant materials, labor, legal fees, monitoring, and remediation or adaptive management activities, as well as administration of the in-lieu fee program. The cost per unit credit must also take into account contingency costs appropriate to the stage of project planning, including uncertainties in construction and real estate expenses. The cost per unit of credit must also take into account the resources necessary for the long-term management and protection of the in-lieu fee project. In addition, the cost per unit credit must include financial assurances that are necessary to ensure successful completion of in-lieu fee projects.
+
+(6) *Credits provided by preservation.* These credits should be specified as acres, linear feet, or other suitable metrics of preservation of a particular resource type. In determining the compensatory mitigation requirements for DA permits using mitigation banks or in-lieu fee programs, the district engineer should apply a higher mitigation ratio if the requirements are to be met through the use of preservation credits. In determining this higher ratio, the district engineer must consider the relative importance of both the impacted and the preserved aquatic resources in sustaining watershed functions.
+
+(7) *Credits provided by riparian areas, buffers, and uplands.* These credits should be specified as acres, linear feet, or other suitable metrics of riparian area, buffer, and uplands respectively. Non-aquatic resources can only be used as compensatory mitigation for impacts to aquatic resources authorized by DA permits when those resources are essential to maintaining the ecological viability of adjoining aquatic resources. In determining the compensatory mitigation requirements for DA permits using mitigation banks and in-lieu fee programs, the district engineer may authorize the use of riparian area, buffer, and/or upland credits if he determines that these areas are essential to sustaining aquatic resource functions in the watershed and are the most appropriate compensation for the authorized impacts.
+
+(8) *Credit release schedule.* (i) *General considerations.* Release of credits must be tied to performance based milestones (e.g., construction, planting, establishment of specified plant and animal communities). The credit release schedule should reserve a significant share of the total credits for release only after full achievement of ecological performance standards. When determining the credit release schedule, factors to be considered may include, but are not limited to: The method of providing compensatory mitigation credits (e.g., restoration), the likelihood of success, the nature and amount of work needed to generate the credits, and the aquatic resource type(s) and function(s) to be provided by the mitigation bank or in-lieu fee project. The district engineer will determine the credit release schedule, including the share to be released only after full achievement of performance standards, after consulting with the IRT. Once released, credits may only be used to satisfy compensatory mitigation requirements of a DA permit if the use of credits for a specific permit has been approved by the district engineer.
+
+(ii) For single-site mitigation banks, the terms of the credit release schedule must be specified in the mitigation banking instrument. The credit release schedule may provide for an initial debiting of a limited number of credits once the instrument is approved and other appropriate milestones are achieved (see paragraph (m) of this section).
+
+(iii) For in-lieu fee projects and umbrella mitigation bank sites, the terms of the credit release schedule must be specified in the approved mitigation plan. When an in-lieu fee project or umbrella mitigation bank site is implemented and is achieving the performance-based milestones specified in the credit release schedule, credits are generated in accordance with the credit release schedule for the approved mitigation plan. If the in-lieu fee project or umbrella mitigation bank site does not achieve those performance-based milestones, the district engineer may modify the credit release schedule, including reducing the number of credits.
+
+(9) *Credit release approval.* Credit releases for mitigation banks and in-lieu fee projects must be approved by the district engineer. In order for credits to be released, the sponsor must submit documentation to the district engineer demonstrating that the appropriate milestones for credit release have been achieved and requesting the release. The district engineer will provide copies of this documentation to the IRT members for review. IRT members must provide any comments to the district engineer within 15 days of receiving this documentation. However, if the district engineer determines that a site visit is necessary, IRT members must provide any comments to the district engineer within 15 days of the site visit. The district engineer must schedule the site visit so that it occurs as soon as it is practicable, but the site visit may be delayed by seasonal considerations that affect the ability of the district engineer and the IRT to assess whether the applicable credit release milestones have been achieved. After full consideration of any comments received, the district engineer will determine whether the milestones have been achieved and the credits can be released. The district engineer shall make a decision within 30 days of the end of that comment period, and notify the sponsor and the IRT.
+
+(10) *Suspension and termination.* If the district engineer determines that the mitigation bank or in-lieu fee program is not meeting performance standards or complying with the terms of the instrument, appropriate action will be taken. Such actions may include, but are not limited to, suspending credit sales, adaptive management, decreasing available credits, utilizing financial assurances, and terminating the instrument.
+
+(p) *Accounting procedures.* (1) For mitigation banks, the instrument must contain a provision requiring the sponsor to establish and maintain a ledger to account for all credit transactions. Each time an approved credit transaction occurs, the sponsor must notify the district engineer.
+
+(2) For in-lieu fee programs, the instrument must contain a provision requiring the sponsor to establish and maintain an annual report ledger in accordance with paragraph (i)(3) of this section, as well as individual ledgers that track the production of released credits for each in-lieu fee project.
+
+(q) *Reporting.* (1) *Ledger account.* The sponsor must compile an annual ledger report showing the beginning and ending balance of available credits and permitted impacts for each resource type, all additions and subtractions of credits, and any other changes in credit availability (e.g., additional credits released, credit sales suspended). The ledger report must be submitted to the district engineer, who will distribute copies to the IRT members. The ledger report is part of the administrative record for the mitigation bank or in-lieu fee program. The district engineer will make the ledger report available to the public upon request.
+
+(2) *Monitoring reports.* The sponsor is responsible for monitoring the mitigation bank site or the in-lieu fee project site in accordance with the approved monitoring requirements to determine the level of success and identify problems requiring remedial action or adaptive management measures. Monitoring must be conducted in accordance with the requirements in § 230.96, and at time intervals appropriate for the particular project type and until such time that the district engineer, in consultation with the IRT, has determined that the performance standards have been attained. The instrument must include requirements for periodic monitoring reports to be submitted to the district engineer, who will provide copies to other IRT members.
+
+(3) *Financial assurance and long-term management funding report.* The district engineer may require the sponsor to provide an annual report showing beginning and ending balances, including deposits into and any withdrawals from, the accounts providing funds for financial assurances and long-term management activities. The report should also include information on the amount of required financial assurances and the status of those assurances, including their potential expiration.
+
+(r) *Use of credits.* Except as provided below, all activities authorized by DA permits are eligible, at the discretion of the district engineer, to use mitigation banks or in-lieu fee programs to fulfill compensatory mitigation requirements for DA permits. The district engineer will determine the number and type(s) of credits required to compensate for the authorized impacts. Permit applicants may propose to use a particular mitigation bank or in-lieu fee program to provide the required compensatory mitigation. In such cases, the sponsor must provide the permit applicant with a statement of credit availability. The district engineer must review the permit applicant's compensatory mitigation proposal, and notify the applicant of his determination regarding the acceptability of using that mitigation bank or in-lieu fee program.
+
+(s) *IRT concerns with use of credits.* If, in the view of a member of the IRT, an issued permit or series of issued permits raises concerns about how credits from a particular mitigation bank or in-lieu fee program are being used to satisfy compensatory mitigation requirements (including concerns about whether credit use is consistent with the terms of the instrument), the IRT member may notify the district engineer in writing of the concern. The district engineer shall promptly consult with the IRT to address the concern. Resolution of the concern is at the discretion of the district engineer, consistent with applicable statutes, regulations, and policies regarding compensatory mitigation requirements for DA permits. Nothing in this section limits the authorities designated to IRT agencies under existing statutes or regulations.
+
+(t) *Site protection.* (1) For mitigation bank sites, real estate instruments, management plans, or other long-term mechanisms used for site protection must be finalized before any credits can be released.
+
+(2) For in-lieu fee project sites, real estate instruments, management plans, or other long-term protection mechanisms used for site protection must be finalized before advance credits can become released credits.
+
+(u) *Long-term management.* (1) The legal mechanisms and the party responsible for the long-term management and the protection of the mitigation bank site must be documented in the instrument or, in the case of umbrella mitigation banking instruments and in-lieu fee programs, the approved mitigation plans. The responsible party should make adequate provisions for the operation, maintenance, and long-term management of the compensatory mitigation project site. The long-term management plan should include a description of long-term management needs and identify the funding mechanism that will be used to meet those needs.
+
+(2) The instrument may contain provisions for the sponsor to transfer long-term management responsibilities to a land stewardship entity, such as a public agency, non-governmental organization, or private land manager.
+
+(3) The instrument or approved mitigation plan must address the financial arrangements and timing of any necessary transfer of long-term management funds to the steward.
+
+(4) Where needed, the acquisition and protection of water rights should be secured and documented in the instrument or, in the case of umbrella mitigation banking instruments and in-lieu fee programs, the approved mitigation site plan.
+
+(v) *Grandfathering of existing instruments.* (1) *Mitigation banking instruments.* All mitigation banking instruments approved on or after July 9, 2008 must meet the requirements of this part. Mitigation banks approved prior to July 9, 2008 may continue to operate under the terms of their existing instruments. However, any modification to such a mitigation banking instrument on or after July 9, 2008, including authorization of additional sites under an umbrella mitigation banking instrument, expansion of an existing site, or addition of a different type of resource credits (e.g., stream credits to a wetland bank) must be consistent with the terms of this part.
+
+(2) *In-lieu fee program instruments.* All in-lieu fee program instruments approved on or after July 9, 2008 must meet the requirements of this part. In-lieu fee programs operating under instruments approved prior to July 9, 2008 may continue to operate under those instruments for two years after the effective date of this rule, after which time they must meet the requirements of this part, unless the district engineer determines that circumstances warrant an extension of up to three additional years. The district engineer must consult with the IRT before approving such extensions. Any revisions made to the in-lieu-fee program instrument on or after July 9, 2008 must be consistent with the terms of this part. Any approved project for which construction was completed under the terms of a previously approved instrument may continue to operate indefinitely under those terms if the district engineer determines that the project is providing appropriate mitigation substantially consistent with the terms of this part.
