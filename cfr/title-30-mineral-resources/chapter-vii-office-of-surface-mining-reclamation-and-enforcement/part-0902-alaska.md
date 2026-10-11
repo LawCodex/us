@@ -1,0 +1,115 @@
+---
+title: "30 CFR Part 902 — ALASKA"
+identifier: "30 CFR Part 902"
+type: regulation
+jurisdiction: us
+language: en
+last_amended: 2026-09-24  # latest amendment date of the CFR title
+status: in_force
+source: "https://www.ecfr.gov/current/title-30/part-902"
+retrieved: 2026-10-11
+ecfr_bulk_modified: "25-Sep-2026 20:53"
+---
+
+*Title 30—Mineral Resources › CHAPTER VII—OFFICE OF SURFACE MINING RECLAMATION AND ENFORCEMENT, DEPARTMENT OF THE INTERIOR › SUBCHAPTER T—PROGRAMS FOR THE CONDUCT OF SURFACE MINING OPERATIONS WITHIN EACH STATE*
+
+# PART 902—ALASKA
+
+**Authority:** 30 U.S.C. 1201 *et seq.*
+
+## § 902.1 Scope.
+
+This part contains all rules applicable only within Alaska that have been adopted under the Surface Mining Control and Reclamation Act of 1977.
+
+[48 FR 12889, Mar. 23, 1983]
+
+## § 902.10 State regulatory program approval.
+
+The Alaska State program as submitted on July 23, 1982, and as amended and clarified on December 13, 1982, and January 11, 1983, is approved effective May 2, 1983. Beginning on that date, the Alaska Department of Natural Resources shall be deemed the regulatory authority in Alaska for all surface coal mining and reclamation operations and all exploration operations on non-Federal and non-Indian lands. Only surface coal mining and reclamation operations on non-Federal and non-Indian lands shall be subject to the provisions of the Alaska permanent regulatory program. Copies of the approved program are available at the following addresses:
+
+(a) Department of Natural Resources, Division of Mining and Water Management, 3601 C Street, Suite 800, Anchorage, AK 99503-5925, Telephone: (907) 762-2149.
+
+(b) Office of Surface Mining Reclamation and Enforcement, Western Regional Coordinating Center, Technical Library, 1999 Broadway, Suite 3320, Denver, Colorado 80202-5733.
+
+[60 FR 33724, June 29, 1995, as amended at 60 FR 54593, Oct. 25, 1995]
+
+## § 902.12 Regulatory program and proposed program amendments not approved.
+
+(a) We do not approve the following provisions of the proposed program amendment Alaska submitted on September 8, 2011, as revised on March 6, 2012:
+
+(1) Proposed addition of the phrase “\* \* \* conducted on or before October 24, 1992 \* \* \*” in 11 AAC 90.321(e)(1).
+
+(2) Proposed reduction of timeframe from 30 to 20 days to request administrative review of an agency decision regarding an incidental mining exemption under 11 AAC 90.652(g)(1),
+
+(3) Proposed deletion of the phrase “\* \* \* until at least three years after expiration of the period during which the subject mining area is active \* \* \*” under 11 AAC 90.656.
+
+(4) Proposed reduction of timeframe from 30 to 20 days to request administrative review of an agency decision to revoke an incidental mining exemption under 11 AAC 90.664(c).
+
+(b) [Reserved]
+
+[84 FR 66308, Dec. 4, 2019]
+
+## § 902.15 Approval of Alaska regulatory program amendments.
+
+The following is a list of the dates amendments were submitted to OSM, the dates when the Director's decision approving all, or portions of these amendments, were published in the *Federal Register* and the State citations or a brief description of each amendment. The amendments in this table are listed in order of the date of final publication in the *Federal Register.*
+
+| Original amendment submission date | Date of final publication | Citation/description |
+|---|---|---|
+| November 12, 1983 | December 23, 1983 | Redesignation of title 11, Ch 90 of the AAC. |
+| May 28, 1985, November 16, 1986, February 24, 1987 | February 22, 1988 | 11 AAC 90.065(b), .077(d), .331(a)(3), .461(f), .601 (d) through (g), .625, .627(a), (b), .751(a), .907(d), (g); Articles 15 through 17. |
+| February 2, 1990 | August 19, 1992 | 11 AAC 90.021(c), .023(a)(1), (2), (3), (b)(1), (2), .025(a)(1), (2), (b), (c), .041(a), (b), .043(b), (c), .045(b)(4), .057, .071(2)(D), .077(b)(5), (11), (d), .081(a)(1), (2), (3), (b), (c), .085(a)(1), (2), (3)(A) through (E), (4), (b)(3), (4), (c)(3), (4), (5)(A) through (D), .089(a), (c), .099(a), .101(c)(1), (2)(A) through (F), (3)(A), (B), (C), (4), (5)(A), (B), (6), .119(d), (e), .121(c), .125(a)(7) through (13), .127(4), (5)(A), (B), (C), (6), .129 (a)(6), (7), (8), .141(a)(1), .163(a)(2) (A) through (G), (b)(2), (3), (c)(1), (2), (3)(A), (B), .173(a)(1), (2), (3), .175(4)(D), .181(a)(5)(A), (B), (6), .185(a)(3), (4), (5), .207(c)(5)(C), .213(g), (h), .323(a) through (d), .325(b), (c), (d)(1), (2), (3), (g)(3), .327(b)(2), .331(b)(1), (2), (3), (c), (d)(2), (3), (4), (e), (f), (g), .333, .336(a), (b)(1), (2), (c)(1) through (9), (d)(1), (2), (3), (e), (f), .337(a), (b), (c)(1) through (7), (d), (e), (g), .338(1) through (7), .343, .345(a), (b)(1) through (5), (c), (d), (e)(1) through (6), (f) through (i), .349(2)(A), .353(a)(1), (2), (3), .371(d)(1) through (4), .373(b), (c), (d), .375(b), (e) through (h), .379(b), (c), (e) through (j), .381(a), (b), .391(b), (e), (g), (i), (k), (l), (m)(1) through (6), (n), (o), (p)(3) through (7), (q), (r), .395(a)(1) through (5), (b), .397(a), (b), (c)(1) through (5), (d) through (g), .399, .401(a), (b)(1), (2), (3), (c), (d), (e), .403, .405, .407(a) through (d), (f) through (i), .409, .435, .441(a), (b), (c), .443(a), (b), (c)(1)(A) through (F), (e)(2), (3), (4), (f) through (k), .451(b)(1), (5), .455(1) through (4), .457(b), (c)(5), .635(a), (b)(1), (2), (c), (d)(1), (2), (3), (e)(1), (2), (3), (f), (g), (h), .703(e), .705(a) through (e), .901(c), .907(b), (i), .911(18) through (21), (51), (110), (118), (122). |
+| January 26, 1995 | September 17, 1996 | 11 AAC 05.010(a)(11)(D), 90.002, .003, .011, .025(a), (b), (c), .045(a), .049(2), (D) through (H), .083(b)(10), (11), (12), (3), (b), (c), .097, .099, .149(d), (1), .163(a), (b), (1), (c), (3)(B), (4), (5), .207(f)(1), (2), (4) through (7), .337(f), .345(e), .375, .391(b), (h), .401(e), .407(e), .409, .423(b), (h), .443(d)(1), (k), .491(a), (1), (6), (7), (8), (c)(4) through (8), (e), (f), .901(e), .907(c) through (h), (j). |
+| December 12, 1996 | March 31, 1997 | 11 AAC 90.207(f) (3) and (8). |
+| July 30, 1998 | February 22, 1999 | 11 AAC 90.002(a), (b), and (c), and 90.011(a) concerning permitting requirements, 90.025(a), (b), and (c) concerning permit application requirements; 90.045(a), 90.049(a), 90.083(b), and 90.097 concerning environmental resource requirements; 90.149(d) concerning alluvial valley floors; 90.163(a) and (d) concerning exploration; 90.207(f) concerning self-bonding; 90.337(f) concerning impoundment inspections; 90.375(f) concerning blasting; 90.391(h) and (s), 90.401(e), and 90.407(e) concerning coal mine waste; 90.423(b) and (h) concerning fish and wildlife; 90.443(d) and (k) concerning backfilling and grading; 90.491(e) and (f) concerning roads; 90.901(e) concerning termination of jurisdiction; 90.907(c) and (j) concerning public availability of information; and 90.911(92) concerning the definition of “road.” |
+| May 11, 2004 | November 29, 2005 | 11 AAC 90.043(b); 90.045(a), (b), (c), (d), and (e); 90.057; 90.085(a)(5) and (c); 90.089(a)(1); 90.101(a) and (b); 90.173(a)(2), (b)(2) and (3); 90.179(a)(3), (b)(1) through (4) and (c); 90.185(a)(4) and (5); 90.201(d) and (f); 90.211(a); 90.331(d)(1); deletion of 90.311(g); 90.321(e); 90.323(a) through (c); 90.325(b) and (c); 90.327(b)(2); 90.331(e) and (h); 90.336(a), (b)(1) and (2), and (g); 90.337(a); 90.345(e); 90.349(l); 90.375(f) and (g); 90.391(b), (c), (h)(2), (l), and (n); 90.395(a); 90.397(a); 90.401(a), (d), and (e); 90.407(c) and (f); 90.443(a), (k)(2), (i), and (m); 90.447(c)(1); 90.461(b), (g), (h) and (i); 90.491(f)(1), (3) and (4); 90.601(h) and (i); 90.629(a); 90.631(a); 90.635(a) and (b); 90.637(a) and (b); 90.639(a) through (c); 90.641(a) through (d); 90.650 through 90.658; 90.701(a), (b), (c)(1) and (2), and (d)(1) and (2); 90.901(a)(2); and 90.911. |
+| September 8, 2011, as revised on March 6, 2012 | December 4, 2019 | 11 Alaska Annotated Code (AAC) 90.043(b); 11 AAC 90.045(a), (b), (c), and (d); 11 AAC 90.057(a), (b) and (c); 11 AAC 90.085(a), (a)(5) and (e); 11 AAC 90.089(a)(1); 11 AAC 90.101(a) through (f); 11 AAC 90.173(b)(2); 11 AAC 90.179(a)(3), (a)(4) and (a)(5); 11 AAC 90.185(a) and (a)(4); 11 AAC 90.201(d); 11 AAC 90.211(a); 11 AAC 90.321(d), (e), (f), (f)(1) and (f)(2); 11 AAC 90.323(a), (b) and (c); 11 AAC 90.325(b) and (c); 11 AAC 90.327(b)(2); 11 AAC 90.331(d)(1), (e), and (h)(1) and (2); 11 AAC 90.336(a), (b)(1) and (2), (f), and (g); 11 AAC 90.337(a); 11 AAC 90.345(e); 11 AAC 90.349; 11 AAC 90.375(f) and (g); 11 AAC 90.391(n) and (t); 11 AAC 90.395(a); 11 AAC 90.397(a); 11 AAC 90.401(a)(1), (b), (d), (e), and (f); 11 AAC 90.407(c)(1) and (2) and (f); 11 AAC 90.423(h); 11 AAC 90.443(a)(2), (k)(2), (l)(2), and (m)(2); 11 AAC 90.444(a) and (b); 11 AAC 90.447(c)(1); 11 AAC 90.457(c)(3); 11 AAC 90.461; 11 AAC 90.461(b) and (b)(1) through (3) , (g) and (g)(1) through (5), (h) and (h)(1) through (3), (i) and (i)(1) through (3), (j), (k), and (l)(1) through (3); 11 AAC 90.491(f)(1), (f)(2)(E), (f)(2)(E),(f)(3), (f)(4), and (f)(2)(E) and (E)(iii); 11 AAC 90.601(h), (i) and (j); 11 AAC 90.629(a); 11 AAC 90.631(a); 11 AAC 90.635(a) and (b); 11 AAC 90.639(a), (b), and (c); 11 AAC 90.641(a), (b), (c), and (d); 11 AAC 90.652 through 11 AAC 90.669; 11 AAC 90.701(a), (b), and (c); 11 AAC 90.901(a); and 11 AAC 90.911(125), (126), (128), (129), (130), (133), (134) and (135). |
+
+[62 FR 9934, Mar. 5, 1997, as amended at 62 FR 15117, Mar. 31, 1997; 64 FR 8514, Feb. 22, 1999; 70 FR 71394, Nov. 29, 2005; 84 FR 66308, Dec. 4, 2019]
+
+## § 902.16 Required program amendments.
+
+Pursuant to 30 CFR 732.17(f)(1), Alaska is required to submit to OSM by the specified date the following written, proposed program amendments, or a description of an amendment to be proposed that meets the requirements of SMCRA and 30 CFR Chapter VII and a timetable for enactment that is consistent with Alaska's established administrative or legislative procedures.
+
+(a) By October 19, 1992, Alaska shall amend its program as follows:
+
+(1) At 11 AAC 90.023(f)(3) by providing ownership and control regulations to meet the requirements of OSM's May 11, 1989, 30 CFR 732 notification.
+
+(2)-(17) [Reserved]
+
+(b) [Reserved]
+
+(c) By February 3, 2020, Alaska must amend its program as follows:
+
+(1) At 11 AAC 90.101(e), in accordance with the requirements at 30 CFR 784.20(b)(7), Alaska must submit a program amendment (or description of the amendment with a timetable for submission) to adopt subsidence control plan requirements at 11 AAC 90.101(e) for planned subsidence scenarios. Such plans must describe the methods to be employed to minimize damage to non-commercial buildings and occupied residential dwellings and related structures or written consent from the owner of the structure or facility that minimization measures not be taken, or unless the damage would constitute a threat to health or safety, a demonstration that the costs of minimizing damage exceed anticipated costs of repair.
+
+(2) At 11 AAC 90.321(e)(1), in accordance with 30 CFR 816.41(h), Alaska must submit a program amendment (or description of the amendment with a timetable for submission) to revise 11 AAC 90.321(e)(1) to ensure protection of water supplies affected by surface coal mining activities conducted on or before October 24, 1992.
+
+(3) At 11 AAC 90.652(g)(1) and 11 AAC 90.664(c), in accordance with the requirements at 30 CFR 702.11(f)(1) and 702.17(c)(2), Alaska must submit a program amendment (or description of the amendment with a timetable for submission) to restore the 30-day time frames under 11 AAC 90.652(g)(1) and 11 AAC 90.664(c) for an adversely affected person to request administrative review of the agency's decisions regarding incidental mining exemptions.
+
+(4) At 11 AAC 90.656, in accordance with the requirements at 30 CFR 702.13(a), Alaska must submit a program amendment (or description of the amendment with a timetable for submission) to revise 11 AAC 90.656, concerning public availability of information in an application for an exemption of coal incidental to the extraction of other minerals. The amendment or its description must include the requirement that the information, unless approved as confidential, will be made available for public inspection and copying until at least three years after expiration of the period during which the subject mining area is active.
+
+(5) At AS 27.21.220, in accordance with the October 24, 1992, Energy Policy Act, Alaska must submit a statutory revision requiring prompt repair or compensation for material damage resulting from subsidence, and prompt replacement of water supplies affected by underground mining operations.
+
+(6) At 11 AAC 90.457(d), in accordance with the requirements at 30 CFR 816.116(a)(1) and 817.116(a)(1), Alaska must submit a program amendment (or description of the amendment with a timetable for submission) to clarify its program by revising 11 AAC 90.457 to indicate that all selected revegetation success standards and sampling techniques which may be incorporated into individual permits will be put in writing and made available to the public. If Alaska will allow for any normal husbandry practices to be used during the period required for demonstration of revegetation success, in accordance with 30 CFR 816.116(c)(4), Alaska must submit an amendment of its program to demonstrate that each practice is one that is customarily performed on similar un-mined lands and list, at 11 AAC 90.457(d), the acceptable practices.
+
+[57 FR 37423, Aug. 19, 1992, as amended at 61 FR 48842, Sept. 17, 1996; 62 FR 15117, Mar. 31, 1997; 64 FR 8514, Feb. 22, 1999; 70 FR 71394, Nov. 29, 2005; 84 FR 66308, Dec. 4, 2019]
+
+## § 902.20 Approval of Alaska abandoned mine land reclamation plan.
+
+The Alaska Reclamation Plan, as submitted on August 17, 1983, is approved effective December 23, 1983. Copies of the approved plan are available at:
+
+(a) Department of Natural Resources, Division of Mining and Water Management, 3601 C Street, Suite 800, Anchorage, AK 99503-5925, Telephone: (907)762-2149.
+
+(b) Office of Surface Mining Reclamation and Enforcement, Western Regional Coordinating Center, Technical Library, 1999 Broadway, Suite 3320, Denver, Colorado 80202-5733.
+
+[60 FR 33724, June 29, 1995, as amended at 60 FR 54593, Oct. 25, 1995]
+
+## § 902.25 Approval of Alaska abandoned mine land reclamation plan amendments.
+
+The following is a list of the dates amendments were submitted to OSM, the dates when the Director's decision approving all, or portions of these amendments, were published in the *Federal Register* and the State citations or a brief description of each amendment. The amendments in this table are listed in order of the date of final publication in the *Federal Register.*
+
+| Original Amendment submission date | Date of final publication | Citation/description |
+|---|---|---|
+| May 28, 1992 | November 16, 1992 | Emergency response reclamation program. |
+
+[62 FR 9935, Mar. 5, 1997]

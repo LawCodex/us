@@ -1,0 +1,140 @@
+---
+title: "29 CFR Part 2400 — REGULATIONS IMPLEMENTING THE PRIVACY ACT"
+identifier: "29 CFR Part 2400"
+type: regulation
+jurisdiction: us
+language: en
+last_amended: 2026-10-06  # latest amendment date of the CFR title
+status: in_force
+source: "https://www.ecfr.gov/current/title-29/part-2400"
+retrieved: 2026-10-11
+ecfr_bulk_modified: "07-Oct-2026 21:21"
+---
+
+*Title 29—Labor › Subtitle B—Regulations Relating to Labor (Continued) › CHAPTER XX—OCCUPATIONAL SAFETY AND HEALTH REVIEW COMMISSION*
+
+# PART 2400—REGULATIONS IMPLEMENTING THE PRIVACY ACT
+
+**Authority:** 5 U.S.C. 552a(f); 5 U.S.C. 553.
+
+**Source:** 85 FR 65222, Oct. 15, 2020, unless otherwise noted.
+
+## § 2400.1 Purpose and scope.
+
+This part provides procedures to implement the Privacy Act of 1974, 5 U.S.C. 552a. It is applicable only to records that are maintained by the Occupational Safety and Health Review Commission (OSHRC or the Commission), which includes all systems of records operated by an entity on behalf of OSHRC, pursuant to a contract, to accomplish an agency function. For purposes of this part, such contractors do not include any consumer reporting agency to which a record is disclosed under 31 U.S.C. 3711(e). This part does not affect discovery in adversary proceedings before the Commission. Discovery is governed by the Commission's Rules of Procedures in 29 CFR part 2200, subpart D.
+
+## § 2400.2 Description of agency.
+
+OSHRC adjudicates contested enforcement actions under the Occupational Safety and Health Act of 1970, 29 U.S.C. 651-678. The Commission decides cases after the parties are given an opportunity for a hearing. All hearings are open to the public and are conducted at a place convenient to the parties by an Administrative Law Judge. Any Commissioner may direct that a decision of a Judge be reviewed by the full Commission. The President designates one of the Commissioners as Chairman, who is responsible on behalf of the Commission for the administrative operations of the Commission.
+
+## § 2400.3 Delegation of authority.
+
+The Chairman shall designate an OSHRC employee as the Privacy Officer and shall delegate to the Privacy Officer the authority to ensure agency-wide compliance with this part. As necessary, the Privacy Officer shall coordinate this delegated responsibility with the Senior Agency Official for Privacy.
+
+## § 2400.4 Procedures for requesting notification of and access to personal records.
+
+The purpose of this section is to provide procedures by which an individual may request notification about whether a system of records contains a record about that individual (“a personal record”), or may gain access to such a record included in a system of records.
+
+(a) *Submission of requests*—(1) *Manner.* An individual seeking information regarding the content of a system of records or access to a personal record in a system of records should submit a written request either in person or by mail to the Privacy Officer, OSHRC, One Lafayette Centre, 1120 20th Street NW, Ninth Floor, Washington, DC 20036-3457. A request may also be submitted to the FOIA Disclosure Officer in accordance with the procedures set forth at 29 CFR 2201.5(a). Such a request, however, must be identified as a “Privacy Act Request.” The FOIA Disclosure Officer will forward any request identified in this manner to the Privacy Officer for processing.
+
+(2) *Notification requests.* A request for notification about whether a system of records contains a personal record must specify which system of records, as described in the agency's system-of-records notices published in *Federal Register,* is the subject of the request.
+
+(3) *Access requests.* A request for access to a personal record shall describe the nature of the record sought, the approximate dates covered by the record, and the system of records in which the record is thought to be included as described in the agency's system-of-records notices published in the *Federal Register.* The request should also indicate whether the requester wishes to review the record in person or obtain a copy by mail. If the information supplied is insufficient to locate or identify the record, the requester shall be notified promptly and, if necessary, informed of the additional information required.
+
+(b) *Period for response.* After receiving a request, the Privacy Officer shall respond to it no later than 10 working days from the request's receipt.
+
+(c) *Verification of identity.* The following standards for verifying an individual's identity are applicable to any individual who requests a personal record under this part:
+
+(1) An individual seeking access to a record in person shall, if possible, present a government-issued identification that includes a photo, such as a passport or a driver's license.
+
+(2) An individual seeking access to a record by mail shall, if possible, provide a signature, address, date of birth, place of birth, and a photocopy of a government-issued identification that includes a photo, such as a passport or a driver's license.
+
+(3) An individual seeking access to a record either by mail or in person who cannot provide the necessary documentation of identification specified in paragraphs (c)(1) and (2) of this section may provide a declaration in accordance with 28 U.S.C. 1746, swearing or affirming to his or her identity and to the fact that he or she understands the penalties for false statements pursuant to 18 U.S.C. 1001.
+
+(d) *Verification of guardianship.* The parent or guardian of a minor or an individual judicially determined to be incompetent and seeking to act on behalf of such minor or incompetent shall, in addition to establishing his or her own identity, establish the identity of the minor or other individual he or she represents as required in paragraph (c) of this section and establish his or her own parentage or guardianship of the subject of the record by furnishing either a copy of a birth certificate showing parentage or a court order establishing the guardianship.
+
+(e) *Accompanying persons.* An individual seeking to review a personal record in person may be accompanied by another individual of his or her own choosing. Both the individual seeking access and the accompanying individual shall be required to sign a form provided by OSHRC indicating that OSHRC is authorized to discuss the contents of the subject record in the presence of both individuals.
+
+(f) *When compliance is possible.* (1) The Privacy Officer shall inform the requester of the determination to grant the request and shall make the personal record available to the individual in the manner requested, that is, either by forwarding a copy of the information to the requester or by making it available for review, unless:
+
+(i) It is impracticable to provide the requester with a copy, in which case the requester shall be notified of this and informed of the procedures set forth in paragraph (c) of this section, or
+
+(ii) The Privacy Officer has reason to believe that the cost of a copy is considerably more expensive than anticipated by the requester, in which case the Privacy Officer shall notify the requester of the estimated cost, and ascertain whether the requester still wishes to be provided with a copy of the information.
+
+(2) Where a personal record is to be reviewed by the requester in person, the Privacy Officer shall inform the requester in writing of:
+
+(i) The date on which the record shall become available for review, the location at which it may be reviewed, and the hours for inspection;
+
+(ii) The requirements for verifying identity as set forth in paragraphs (c) and (d);
+
+(iii) The requester's right to be accompanied by another individual to review the record as set forth in paragraph (e) of this section; and
+
+(iv) The requester's right to have another individual review the record.
+
+(3) If the requester seeks to inspect the personal record without receiving a copy, the requester shall not leave OSHRC premises with the record and shall sign a statement identifying the specific record or category of records that has been reviewed.
+
+(g) *When compliance is not possible.* The denial of a written request to review a personal record shall be sent to the requester in writing and signed by the Privacy Officer. This response shall be provided when the requested record does not exist, does not contain personal information relating to the requester, or is exempt. The response shall include a statement regarding the determining factors of denial, and the requester's rights to administrative appeal and, thereafter, judicial review in a district court of the United States.
+
+## § 2400.5 Special procedures for requesting medical records.
+
+(a) Upon an individual's request for access to any medical record about the requester, including any psychological record, the Privacy Officer shall make a preliminary determination on whether access to such record(s) could have an adverse effect upon the requester. If the Privacy Officer determines that access could have an adverse effect on the requester, OSHRC shall notify the requester in writing and advise that the record(s) at issue can be made available only to a physician of the requester's designation.
+
+(b) OSHRC shall forward such record(s) to the physician designated by the requester once the following requirements are met:
+
+(1) The requester has informed OSHRC of the designated physician's identity;
+
+(2) OSHRC has verified the identity of the physician; and
+
+(3) The physician has agreed to review the record(s) with the requester to both explain the meaning of the record(s) and offer counseling designed to temper any adverse reaction.
+
+(c) If, within 60 calendar days of OSHRC's written request for a designation, the requester has failed to respond or designate a physician, or the physician fails to agree to the release conditions, then OSHRC shall hold the records(s) in abeyance and advise the requester that this action may be construed as a technical denial. OSHRC shall also advise the requester of his or her rights to administrative appeal and, thereafter, judicial review in a district court of the United States.
+
+## § 2400.6 Procedures for amending personal records.
+
+(a) *Submission of requests for amendment.* Upon review of an individual's personal record, that individual may submit a request to amend such record. This request shall be submitted in writing to the Privacy Officer, in accordance with § 2400.4(a)(1)'s procedures, and shall include a statement of the amendment requested and the reasons for such amendment, e.g., relevance, accuracy, timeliness or completeness of the record.
+
+(b) *Action to be taken by the Privacy Officer.* Upon receiving an amendment request, the Privacy Officer shall promptly:
+
+(1) Acknowledge in writing within 10 working days the receipt of the request;
+
+(2) Make such inquiry as is necessary to determine whether the amendment is appropriate; and
+
+(3) Resolve the request by either:
+
+(i) Correcting or eliminating any information that is found to be incomplete, inaccurate, irrelevant to a statutory purpose of OSHRC, or untimely and notifying the requester in writing when this action is complete; or
+
+(ii) Notifying the requester in writing of a determination not to amend the personal record, including the reasons for the denial, and advising the requester of his or her right to appeal in accordance with § 2400.7.
+
+## § 2400.7 Procedures for appealing.
+
+(a) *Submission of appeal.* (1) If a request to provide notification of a personal record, or to access or amend a personal record, is denied either in whole or in part, or if no determination is made within the period prescribed by this part, then the requester may appeal in writing to the Chairman by mailing an appeal letter to the following address: Privacy Appeal, OSHRC, One Lafayette Centre, 1120 20th Street NW, Ninth Floor, Washington, DC 20036-3457.
+
+(2) To be considered timely, the requester must submit the appeal letter within 30 calendar days of the date of denial, or within 90 calendar days of his or her request if the appeal is from a failure of the Privacy Officer to make a determination. The appeal letter should include, as applicable:
+
+(i) Reasonable identification of the system to which notification was sought, the personal record to which access was sought, or the amendment that was requested.
+
+(ii) A statement of the OSHRC action or failure to act being appealed and the relief sought.
+
+(iii) A copy of the request, the notification of denial, and any other related correspondence.
+
+(b) *Final decisions.* The Chairman must make a final decision no later than 30 working days from the date of the request, but the Chairman may extend this time period for good cause. The requester, however, must be notified of the extension within the initial 30 working-day period, and the extension may not exceed 90 calendar days from the date of the request. Any personal record found on appeal to be incomplete, inaccurate, irrelevant, or untimely, shall within 30 working days of the date of such findings be appropriately amended.
+
+(c) *Decision requirements.* The decision of the Chairman constitutes the final decision of OSHRC on the right of the requester to be notified of, or to access or amend, a personal record. The decision on the appeal shall be in writing and, in the event of a denial, shall set forth the reasons for such denial and state the individual's right to obtain judicial review in a district court of the United States. An indexed file of the agency's decisions on appeal shall be maintained by the Privacy Officer.
+
+## § 2400.8 Procedures for statements of disagreement and notification of amendment.
+
+(a) *Submission of statement of disagreement.* If a final decision concerning an amendment request does not satisfy the requester, then the requester may provide a statement of disagreement that is of reasonable length and sets forth a position regarding the disputed information. This statement of disagreement shall be accepted by OSHRC and included in the relevant personal record. If deemed appropriate, OSHRC may also include a concise statement in the record of its reasons for not making a requested amendment.
+
+(b) *Notification of amendment and statement of disagreement.* (1) OSHRC shall inform any person or other agency about an amendment to a personal record, or notation made to the record under paragraph (a) of this section, if that record has been disclosed to the person or agency, the amendment or notation was made pursuant to this part, and an accounting of the disclosure was made pursuant to 5 U.S.C. 552a(c).
+
+(2) When a personal record is disclosed to a person or other agency after a notation under paragraph (a) of this section is made to the record, OSHRC shall clearly note any portion of the record that is disputed and provide a copy of any notation included in the record.
+
+## § 2400.9 Schedule of fees.
+
+(a) *Policy.* The purpose of this section is to establish fair and equitable fees to permit reproduction of personal records for concerned individuals.
+
+(b) *Reproduction.* (1) For the fees associated with reproduction of personal records, refer to appendix A to part 2201, Schedule of Fees.
+
+(2) OSHRC shall not normally furnish more than one copy of any record.
+
+(c) *Limitations.* No fee shall be charged to any individual for the process of retrieving, reviewing, or amending personal records.

@@ -1,0 +1,36 @@
+---
+title: "24 CFR Part 500 — EXPIRING PROGRAMS—SAVINGS CLAUSE"
+identifier: "24 CFR Part 500"
+type: regulation
+jurisdiction: us
+language: en
+last_amended: 2026-08-20  # latest amendment date of the CFR title
+status: in_force
+source: "https://www.ecfr.gov/current/title-24/part-500"
+retrieved: 2026-10-11
+ecfr_bulk_modified: "29-Sep-2026 21:44"
+---
+
+*Title 24—Housing and Urban Development › Subtitle B—Regulations Relating to Housing and Urban Development (Continued) › CHAPTER V—OFFICE OF ASSISTANT SECRETARY FOR COMMUNITY PLANNING AND DEVELOPMENT, DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT › SUBCHAPTER A—GENERAL*
+
+# PART 500—EXPIRING PROGRAMS—SAVINGS CLAUSE
+
+**Authority:** 42 U.S.C. 3535(d).
+
+**Source:** 79 FR 58195, Sept. 2, 2014, unless otherwise noted.
+
+## § 500.1 Expiring programs—Savings clause.
+
+No new grants or grant agreements are being made under the programs listed in this section. Existing grants or grant agreements making designation under these programs continue to be governed by the regulations in effect as they existed immediately before October 2, 2014 (see 24 CFR parts 500 to 699, revised as of April 1, 2014):
+
+24 CFR Part 511 Rental Rehabilitation Grant Program (42 U.S.C. 1437o)
+
+24 CFR Part 572 HOPE for Homeownership of Single Family Homes (HOPE 3) (42 U.S.C. 12891)
+
+24 CFR Part 585 Youthbuild (42 U.S.C. 8011)
+
+24 CFR Part 590 Urban homesteading (12 U.S.C. 1706e)
+
+24 CFR Part 597 Urban empowerment zones and enterprise communities (Round one designations) (26 U.S.C. 1391)
+
+24 CFR Part 598 Urban empowerment zones; Round two and three designations (26 U.S.C. 1391)
