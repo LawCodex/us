@@ -1,0 +1,66 @@
+---
+title: "Title 10—ARMED FORCES / Subtitle D—Air Force and Space Force / PART II—PERSONNEL / CHAPTER 935—HOSPITALIZATION"
+identifier: "/us/usc/t10/stD/ptII/ch935"
+type: code
+jurisdiction: us
+language: en
+status: in_force
+positive_law: true
+release_point: "119-102not101"
+source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-chapter935&edition=prelim"
+retrieved: 2026-10-11
+---
+
+*Title 10—ARMED FORCES › Subtitle D—Air Force and Space Force › PART II—PERSONNEL*
+
+# CHAPTER 935—HOSPITALIZATION
+
+**Editorial Notes**
+
+**Prior Provisions**
+
+A prior chapter 935, consisting of sections 9561 to 9565, related to issue of serviceable material to Armed Forces, prior to renumbering as chapter 965 of this title.
+
+**Amendments**
+
+2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(3)(A), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 855 of this title as this chapter and item 8723 as 9263.
+
+1986—Pub. L. 99–661, div. A, title VI, § 604(f)(1)(B)(v), Nov. 14, 1986, 100 Stat. 3877, struck out item 8721 “Members of Air Force, other than of Regular Air Force” and item 8722 “Members of C.A.T.C.; members of Air Force not covered by section 8721 of this title”.
+
+1958—Pub. L. 85–861, § 1(190)(D), Sept. 2, 1958, 72 Stat. 1534, struck out reference to members of the A.F.R.O.T.C. in item 8722.
+
+## § 9263. When Secretary may require
+
+The Secretary of the Air Force may order the hospitalization, medical and surgical treatment, and domiciliary care for as long as necessary, of any member of the Air Force or the Space Force on active duty, and may incur obligations with respect thereto, whether or not the member incurred an injury, illness, or disease in line of duty, except in the case of a member treated in a private hospital, or by a civilian physician, while on leave of absence for more than 24 hours.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 539, § 8723; Pub. L. 99–661, div. A, title VI, § 604(f)(1)(D), Nov. 14, 1986, 100 Stat. 3878; Pub. L. 100–26, § 7(j)(11), Apr. 21, 1987, 101 Stat. 283; renumbered § 9263, Pub. L. 115–232, div. A, title VIII, § 806(b)(10), Aug. 13, 2018, 132 Stat. 1833; Pub. L. 116–283, div. A, title IX, § 923(c)(11), Jan. 1, 2021, 134 Stat. 3811.)
+
+**Historical and Revision Notes**
+
+| *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
+|---|---|---|
+| 8723 | 10:455e. 32:164d. | July 15, 1939, ch. 282; restated Oct. 14, 1940, ch. 875, § 5, 54 Stat. 1137. |
+
+The words “under such regulations as he may prescribe”, in 10:455e and 32:164d, are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The references to 10:455a–455d and 32:164a–164c, and the words “nor any other law of the United States shall be construed as limiting the power and authority”, are omitted, since the revised section makes explicit the authority of the Secretary to require the prescribed hospitalization and care. The words “or in training, under the provisions of sections 62—” are omitted as covered by the words “active duty”. The words “so long as any or all are necessary” and “in the active military service” are omitted as surplusage. With the exception of 32:62 (4th proviso of last sentence), the references to 32:62–65, 144–146, 183, and 186, in 10:455e and 32:164d, do not refer to members of the Air National Guard of the United States and are therefore omitted from the revised section. 10:455e (1st proviso) and 32:164d (1st proviso) are omitted, since they apply only to the National Guard and are covered by section 320 of title 32.
+
+**Editorial Notes**
+
+**Amendments**
+
+2021—Pub. L. 116–283 inserted “or the Space Force” after “member of the Air Force”.
+
+2018—Pub. L. 115–232 renumbered section 8723 of this title as this section.
+
+1987—Pub. L. 100–26 struck out comma after “disease”.
+
+1986—Pub. L. 99–661 substituted “incurred an injury, illness, or disease” for “was injured, or contracted a disease”.
+
+**Statutory Notes and Related Subsidiaries**
+
+**Effective Date of 2018 Amendment**
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+
+**Effective Date of 1986 Amendment**
+
+Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.

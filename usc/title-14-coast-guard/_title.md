@@ -1,0 +1,778 @@
+---
+title: "Title 14—COAST GUARD"
+identifier: "/us/usc/t14"
+type: code
+jurisdiction: us
+language: en
+status: in_force
+positive_law: true
+release_point: "119-102not101"
+source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&edition=prelim"
+retrieved: 2026-10-11
+---
+
+# Title 14—COAST GUARD
+
+This title was enacted by act Aug. 4, 1949, ch. 393, § 1, 63 Stat. 495
+
+Current through 119-102not101
+
+**Editorial Notes**
+
+**Prior Provisions**
+
+A prior analysis for Title 14, Coast Guard, consisted of items for part I “Regular Coast Guard” beginning with section 1, part II “Coast Guard Reserve and Auxiliary” beginning with section 701, and part III “Coast Guard Authorizations and Reports to Congress” beginning with section 2701, prior to repeal by Pub. L. 115–282, title I, § 101, Dec. 4, 2018, 132 Stat. 4194.
+
+**Amendments**
+
+2018—Pub. L. 115–282, title I, § 101, Dec. 4, 2018, 132 Stat. 4194, inserted Title 14 designation and heading and added items for subtitles I to IV.
+
+**Table Showing Redesignations Made by Title I of Pub. L. 115–282**
+
+| *Title 14 Section* *Before Redesignation* | *Title 14 Section* *After Redesignation* |
+|---|---|
+| 1 | 14 U.S.C. 101 |
+| 2 | 14 U.S.C. 102 |
+| 3 | 14 U.S.C. 103 |
+| 4 | 14 U.S.C. 105 |
+| 5 | 14 U.S.C. 106 |
+| 41 | 14 U.S.C. 301 |
+| 41a | 14 U.S.C. 2102 |
+| 42 | 14 U.S.C. 2103 |
+| 44 | 14 U.S.C. 302 |
+| 46 | 14 U.S.C. 303 |
+| 47 | 14 U.S.C. 304 |
+| 50 | 14 U.S.C. 305 |
+| 51 | 14 U.S.C. 306 |
+| 52 | 14 U.S.C. 307 |
+| 53 | 14 U.S.C. 309 |
+| 54 | 14 U.S.C. 310 |
+| 56 | 14 U.S.C. 308 |
+| 57 | 14 U.S.C. 312 |
+| 58 | 14 U.S.C. 313 |
+| 59 | 14 U.S.C. 314 |
+| 60 | 14 U.S.C. 315 |
+| 81 | 14 U.S.C. 541 |
+| 83 | 14 U.S.C. 542 |
+| 84 | 14 U.S.C. 543 |
+| 85 | 14 U.S.C. 544 |
+| 86 | 14 U.S.C. 545 |
+| 87 | 14 U.S.C. 561 |
+| 88 | 14 U.S.C. 521 |
+| 89 | 14 U.S.C. 522 |
+| 90 | 14 U.S.C. 716 |
+| 91 | 14 U.S.C. 527 |
+| 92 | 14 U.S.C. 501 |
+| 93 | 14 U.S.C. 504 |
+| 94 | 14 U.S.C. 715 |
+| 95 | 14 U.S.C. 525 |
+| 96 | 14 U.S.C. 1153 |
+| 97 | 14 U.S.C. 1154 |
+| 98 | 14 U.S.C. 316 |
+| 99 | 14 U.S.C. 523 |
+| 100 | 14 U.S.C. 524 |
+| 101 | 14 U.S.C. 562 |
+| 102 | 14 U.S.C. 717 |
+| 103 | 14 U.S.C. 563 |
+| 104 | 14 U.S.C. 528 |
+| 141 | 14 U.S.C. 701 |
+| 142 | 14 U.S.C. 702 |
+| 143 | 14 U.S.C. 703 |
+| 144 | 14 U.S.C. 704 |
+| 145 | 14 U.S.C. 705 |
+| 146 | 14 U.S.C. 706 |
+| 147 | 14 U.S.C. 707 |
+| 147a | 14 U.S.C. 708 |
+| 148 | 14 U.S.C. 709 |
+| 149 | 14 U.S.C. 710 |
+| 150 | 14 U.S.C. 711 |
+| 151 | 14 U.S.C. 712 |
+| 152 | 14 U.S.C. 713 |
+| 153 | 14 U.S.C. 507 |
+| 154 | 14 U.S.C. 714 |
+| 181 | 14 U.S.C. 1901 |
+| 181a | 14 U.S.C. 1926 |
+| 183 | 14 U.S.C. 1927 |
+| 184 | 14 U.S.C. 1928 |
+| 185 | 14 U.S.C. 1929 |
+| 186 | 14 U.S.C. 1941 |
+| 187 | 14 U.S.C. 1942 |
+| 188 | 14 U.S.C. 1943 |
+| 189 | 14 U.S.C. 1944 |
+| 190 | 14 U.S.C. 1945 |
+| 191 | 14 U.S.C. 1946 |
+| 192 | 14 U.S.C. 1947 |
+| 194 | 14 U.S.C. 1903 |
+| 195 | 14 U.S.C. 1923 |
+| 196 | 14 U.S.C. 1904 |
+| 197 | 14 U.S.C. 1930 |
+| 199 | 14 U.S.C. 1948 |
+| 200 | 14 U.S.C. 1902 |
+| 211 | 14 U.S.C. 2101 |
+| 214 | 14 U.S.C. 2104 |
+| 215 | 14 U.S.C. 2105 |
+| 251 | 14 U.S.C. 2106 |
+| 252 | 14 U.S.C. 2107 |
+| 253 | 14 U.S.C. 2108 |
+| 254 | 14 U.S.C. 2109 |
+| 255 | 14 U.S.C. 2110 |
+| 256 | 14 U.S.C. 2111 |
+| 256a | 14 U.S.C. 2112 |
+| 257 | 14 U.S.C. 2113 |
+| 258 | 14 U.S.C. 2115 |
+| 259 | 14 U.S.C. 2116 |
+| 260 | 14 U.S.C. 2117 |
+| 261 | 14 U.S.C. 2118 |
+| 262 | 14 U.S.C. 2119 |
+| 263 | 14 U.S.C. 2120 |
+| 271 | 14 U.S.C. 2121 |
+| 272 | 14 U.S.C. 2122 |
+| 273 | 14 U.S.C. 2123 |
+| 274 | 14 U.S.C. 2124 |
+| 275 | 14 U.S.C. 2125 |
+| 276 | 14 U.S.C. 2126 |
+| 281 | 14 U.S.C. 2141 |
+| 282 | 14 U.S.C. 2142 |
+| 283 | 14 U.S.C. 2143 |
+| 284 | 14 U.S.C. 2144 |
+| 285 | 14 U.S.C. 2145 |
+| 286 | 14 U.S.C. 2146 |
+| 286a | 14 U.S.C. 2147 |
+| 287 | 14 U.S.C. 2148 |
+| 288 | 14 U.S.C. 2149 |
+| 289 | 14 U.S.C. 2150 |
+| 290 | 14 U.S.C. 2151 |
+| 291 | 14 U.S.C. 2152 |
+| 292 | 14 U.S.C. 2153 |
+| 293 | 14 U.S.C. 2154 |
+| 294 | 14 U.S.C. 2155 |
+| 295 | 14 U.S.C. 2156 |
+| 296 | 14 U.S.C. 2157 |
+| 321 | 14 U.S.C. 2158 |
+| 322 | 14 U.S.C. 2159 |
+| 323 | 14 U.S.C. 2160 |
+| 324 | 14 U.S.C. 2161 |
+| 325 | 14 U.S.C. 2162 |
+| 326 | 14 U.S.C. 2163 |
+| 327 | 14 U.S.C. 2164 |
+| 331 | 14 U.S.C. 2127 |
+| 332 | 14 U.S.C. 2128 |
+| 333 | 14 U.S.C. 2165 |
+| 334 | 14 U.S.C. 2501 |
+| 335 | 14 U.S.C. 2181 |
+| 336 | 14 U.S.C. 317 |
+| 350 | 14 U.S.C. 2301 |
+| 351 | 14 U.S.C. 2302 |
+| 352 | 14 U.S.C. 2303 |
+| 353 | 14 U.S.C. 2304 |
+| 354 | 14 U.S.C. 2305 |
+| 355 | 14 U.S.C. 2306 |
+| 357 | 14 U.S.C. 2307 |
+| 359 | 14 U.S.C. 2308 |
+| 360 | 14 U.S.C. 2309 |
+| 361 | 14 U.S.C. 2310 |
+| 362 | 14 U.S.C. 2311 |
+| 365 | 14 U.S.C. 2312 |
+| 366 | 14 U.S.C. 2313 |
+| 367 | 14 U.S.C. 2314 |
+| 369 | 14 U.S.C. 2315 |
+| 370 | 14 U.S.C. 2316 |
+| 371 | 14 U.S.C. 2317 |
+| 372 | 14 U.S.C. 2318 |
+| 373 | 14 U.S.C. 2129 |
+| 374 | 14 U.S.C. 2319 |
+| 421 | 14 U.S.C. 2502 |
+| 422 | 14 U.S.C. 2503 |
+| 423 | 14 U.S.C. 2504 |
+| 424 | 14 U.S.C. 2505 |
+| 424a | 14 U.S.C. 2506 |
+| 425 | 14 U.S.C. 2507 |
+| 426 | 14 U.S.C. 2508 |
+| 427 | 14 U.S.C. 2509 |
+| 428 | 14 U.S.C. 2510 |
+| 429 | 14 U.S.C. 2182 |
+| 430 | 14 U.S.C. 2511 |
+| 431 | 14 U.S.C. 2512 |
+| 432 | 14 U.S.C. 2531 |
+| 461 | 14 U.S.C. 2769 |
+| 467 | 14 U.S.C. 2513 |
+| 468 | 14 U.S.C. 2701 |
+| 469 | 14 U.S.C. 2702 |
+| 470 | 14 U.S.C. 2770 |
+| 471 | 14 U.S.C. 2771 |
+| 472 | 14 U.S.C. 2772 |
+| 475 | 14 U.S.C. 2943 |
+| 476 | 14 U.S.C. 2703 |
+| 477 | 14 U.S.C. 2704 |
+| 478 | 14 U.S.C. 2773 |
+| 479 | 14 U.S.C. 2774 |
+| 480 | 14 U.S.C. 2775 |
+| 481 | 14 U.S.C. 2776 |
+| 482 | 14 U.S.C. 2705 |
+| 483 | 14 U.S.C. 2706 |
+| 484 | 14 U.S.C. 2707 |
+| 485 | 14 U.S.C. 2708 |
+| 486 | 14 U.S.C. 2777 |
+| 487 | 14 U.S.C. 2709 |
+| 488 | 14 U.S.C. 2778 |
+| 491 | 14 U.S.C. 2732 |
+| 491a | 14 U.S.C. 2735 |
+| 492 | 14 U.S.C. 2736 |
+| 492a | 14 U.S.C. 2737 |
+| 492b | 14 U.S.C. 2738 |
+| 493 | 14 U.S.C. 2739 |
+| 494 | 14 U.S.C. 2740 |
+| 496 | 14 U.S.C. 2741 |
+| 497 | 14 U.S.C. 2742 |
+| 498 | 14 U.S.C. 2743 |
+| 499 | 14 U.S.C. 2731 |
+| 500 | 14 U.S.C. 2744 |
+| 501 | 14 U.S.C. 2745 |
+| 502 | 14 U.S.C. 2746 |
+| 503 | 14 U.S.C. 2747 |
+| 504 | 14 U.S.C. 2733 |
+| 505 | 14 U.S.C. 2734 |
+| 507 | 14 U.S.C. 2710 |
+| 508 | 14 U.S.C. 2711 |
+| 509 | 14 U.S.C. 2761 |
+| 510 | 14 U.S.C. 2762 |
+| 511 | 14 U.S.C. 2763 |
+| 512 | 14 U.S.C. 2764 |
+| 513 | 14 U.S.C. 2765 |
+| 516 | 14 U.S.C. 2748 |
+| 517 | 14 U.S.C. 2766 |
+| 518 | 14 U.S.C. 2767 |
+| 519 | 14 U.S.C. 2768 |
+| 520 | 14 U.S.C. 506 |
+| 531 | 14 U.S.C. 2901 |
+| 532 | 14 U.S.C. 2902 |
+| 541 | 14 U.S.C. 2903 |
+| 542 | 14 U.S.C. 2904 |
+| 543 | 14 U.S.C. 2905 |
+| 544 | 14 U.S.C. 2906 |
+| 551 | 14 U.S.C. 2921 |
+| 552 | 14 U.S.C. 2922 |
+| 553 | 14 U.S.C. 2923 |
+| 554 | 14 U.S.C. 2924 |
+| 555 | 14 U.S.C. 2925 |
+| 561 | 14 U.S.C. 1101 |
+| 562 | 14 U.S.C. 1102 |
+| 563 | 14 U.S.C. 1104 |
+| 564 | 14 U.S.C. 1105 |
+| 565 | 14 U.S.C. 1106 |
+| 566 | 14 U.S.C. 1108 |
+| 567 | 14 U.S.C. 1109 |
+| 569 | 14 U.S.C. 1110 |
+| 571 | 14 U.S.C. 1131 |
+| 572 | 14 U.S.C. 1132 |
+| 573 | 14 U.S.C. 1133 |
+| 574 | 14 U.S.C. 1134 |
+| 575 | 14 U.S.C. 1135 |
+| 576 | 14 U.S.C. 1136 |
+| 577 | 14 U.S.C. 1152 |
+| 578 | 14 U.S.C. 1103 |
+| 579 | 14 U.S.C. 1107 |
+| 581 | 14 U.S.C. 1171 |
+| 631 | 14 U.S.C. 502 |
+| 632 | 14 U.S.C. 505 |
+| 633 | 14 U.S.C. 503 |
+| 635 | 14 U.S.C. 931 |
+| 636 | 14 U.S.C. 932 |
+| 637 | 14 U.S.C. 526 |
+| 638 | 14 U.S.C. 933 |
+| 639 | 14 U.S.C. 934 |
+| 640 | 14 U.S.C. 935 |
+| 641 | 14 U.S.C. 901 |
+| 642 | 14 U.S.C. 546 |
+| 643 | 14 U.S.C. 547 |
+| 644 | 14 U.S.C. 2712 |
+| 645 | 14 U.S.C. 936 |
+| 646 | 14 U.S.C. 937 |
+| 647 | 14 U.S.C. 938 |
+| 648 | 14 U.S.C. 939 |
+| 649 | 14 U.S.C. 940 |
+| 650 | 14 U.S.C. 941 |
+| 652 | 14 U.S.C. 104 |
+| 653 | 14 U.S.C. 902 |
+| 654 | 14 U.S.C. 942 |
+| 655 | 14 U.S.C. 943 |
+| 656 | 14 U.S.C. 903 |
+| 657 | 14 U.S.C. 1155 |
+| 658 | 14 U.S.C. 944 |
+| 659 | 14 U.S.C. 945 |
+| 660 | 14 U.S.C. 2779 |
+| 664 | 14 U.S.C. 946 |
+| 665 | 14 U.S.C. 1151 |
+| 666 | 14 U.S.C. 904 |
+| 667 | 14 U.S.C. 947 |
+| 668 | 14 U.S.C. 948 |
+| 669 | 14 U.S.C. 949 |
+| 670 | 14 U.S.C. 905 |
+| 671 | 14 U.S.C. 906 |
+| 672 | 14 U.S.C. 907 |
+| 672a | 14 U.S.C. 908 |
+| 673 | 14 U.S.C. 950 |
+| 674 | 14 U.S.C. 909 |
+| 675 | 14 U.S.C. 910 |
+| 676 | 14 U.S.C. 911 |
+| 676a | 14 U.S.C. 912 |
+| 677 | 14 U.S.C. 913 |
+| 678 | 14 U.S.C. 951 |
+| 679 | 14 U.S.C. 5105 |
+| 680 (added by Pub. L. 104–324) | 14 U.S.C. 2941 |
+| 680 (added by Pub. L. 113–281) | 14 U.S.C. 2944 |
+| 681 (added by Pub. L. 104–324) | 14 U.S.C. 2942 |
+| 681 (added by Pub. L. 114–120) | 14 U.S.C. 914 |
+| 685 | 14 U.S.C. 2945 |
+| 687 | 14 U.S.C. 2946 |
+| 688 | 14 U.S.C. 2947 |
+| 701 | 14 U.S.C. 3701 |
+| 702 | 14 U.S.C. 3702 |
+| 703 | 14 U.S.C. 3703 |
+| 704 | 14 U.S.C. 3704 |
+| 705 | 14 U.S.C. 3705 |
+| 706 | 14 U.S.C. 3706 |
+| 707 | 14 U.S.C. 3707 |
+| 708 | 14 U.S.C. 3708 |
+| 709 | 14 U.S.C. 3709 |
+| 709a | 14 U.S.C. 3710 |
+| 710 | 14 U.S.C. 3711 |
+| 711 | 14 U.S.C. 3712 |
+| 712 | 14 U.S.C. 3713 |
+| 713 | 14 U.S.C. 3714 |
+| 720 | 14 U.S.C. 3731 |
+| 721 | 14 U.S.C. 3732 |
+| 722 | 14 U.S.C. 3733 |
+| 723 | 14 U.S.C. 3734 |
+| 724 | 14 U.S.C. 3735 |
+| 725 | 14 U.S.C. 3736 |
+| 726 | 14 U.S.C. 3737 |
+| 727 | 14 U.S.C. 3738 |
+| 728 | 14 U.S.C. 3739 |
+| 729 | 14 U.S.C. 3740 |
+| 730 | 14 U.S.C. 3741 |
+| 731 | 14 U.S.C. 3742 |
+| 732 | 14 U.S.C. 3743 |
+| 733 | 14 U.S.C. 3744 |
+| 734 | 14 U.S.C. 3745 |
+| 735 | 14 U.S.C. 3746 |
+| 736 | 14 U.S.C. 3747 |
+| 737 | 14 U.S.C. 3748 |
+| 738 | 14 U.S.C. 3749 |
+| 739 | 14 U.S.C. 3750 |
+| 740 | 14 U.S.C. 3751 |
+| 741 | 14 U.S.C. 3752 |
+| 742 | 14 U.S.C. 3753 |
+| 743 | 14 U.S.C. 3754 |
+| 744 | 14 U.S.C. 3755 |
+| 745 | 14 U.S.C. 3756 |
+| 746 | 14 U.S.C. 3757 |
+| 821 | 14 U.S.C. 3901 |
+| 822 | 14 U.S.C. 3902 |
+| 823 | 14 U.S.C. 3903 |
+| 823a | 14 U.S.C. 3904 |
+| 824 | 14 U.S.C. 3905 |
+| 825 | 14 U.S.C. 3906 |
+| 826 | 14 U.S.C. 3907 |
+| 827 | 14 U.S.C. 3908 |
+| 828 | 14 U.S.C. 3909 |
+| 829 | 14 U.S.C. 3910 |
+| 830 | 14 U.S.C. 3911 |
+| 831 | 14 U.S.C. 3912 |
+| 832 | 14 U.S.C. 3913 |
+| 891 | 14 U.S.C. 4101 |
+| 892 | 14 U.S.C. 4102 |
+| 893 | 14 U.S.C. 4103 |
+| 894 | 14 U.S.C. 4104 |
+| 2701 | 14 U.S.C. 4901 |
+| 2702 | 14 U.S.C. 4902 |
+| 2703 | 14 U.S.C. 4903 |
+| 2704 | 14 U.S.C. 4904 |
+| 2901 | 14 U.S.C. 5101 |
+| 2902 | 14 U.S.C. 5102 |
+| 2903 | 14 U.S.C. 5103 |
+| 2904 | 14 U.S.C. 5104 |
+| 2905 | 14 U.S.C. 5106 |
+| 2906 | 14 U.S.C. 5107 |
+
+**Table Showing Disposition of All Sections of Former Title 14**
+
+| *Title 14* *Former Sections* | *Title 14* *New Sections* |
+|---|---|
+| 1 | 1, 3, 4(a), (b) |
+| 2 | 467 |
+| 2a | Elim. |
+| 3 | 3, 571 |
+| 3a | 481, 465, 488, 576 |
+| 4 | Rep. |
+| 5 | 41 |
+| 5a–6 | Rep. |
+| 6a | 42 |
+| 6b | 47, 222, 462 |
+| 6c | 225 |
+| 6d | 224(c) |
+| 6e, 6f | 433(a), (b) |
+| 7 | 4(c) |
+| 8 | Rep. |
+| 9 | 41, 43 |
+| 10 | Rep. |
+| 10a | 224(c), 226 |
+| 10b–10f | Rep. |
+| 10g | 432(a) |
+| 10h | 432(b) |
+| 10i | Rep. |
+| 11 | 44, 45 |
+| 11a | 47, 48 |
+| 12 | 47, 48 |
+| 12a | Rep. |
+| 13 | 485(b) |
+| 14 | Rep. |
+| 15 | 182, 183 |
+| 15a | 184 |
+| 15a–1 | 182, 185 |
+| 15b | 187, 188 |
+| 15c | 187, 189 |
+| 15d | 186 |
+| 15e | 191 |
+| 15f | 190 |
+| 15g | 193 |
+| 15h | 194 |
+| 15i | 192 |
+| 15j | Rep. |
+| 15k | 476 |
+| 16 | 223 |
+| 16a, 16b | Rep. |
+| 16c | 223 |
+| 17 | 223 |
+| 18 | 223, 224 |
+| 19, 19a, 20 | Rep. |
+| 20a | 228, 461 |
+| 20a–1 | 228 |
+| 20a–2 | 301 |
+| 20b | Rep. |
+| 20c | 228 |
+| 21 | 41, 225 |
+| 21a | 228, 301 |
+| 21b | 433(c) |
+| 22 | 632 |
+| 23 | 352 |
+| 24 | Rep. |
+| 25 | 182 |
+| 26 | 636 |
+| 27 | 636 |
+| 28 | 92(b), 144(a), 145(a) |
+| 29 | 88, 92(c), 93(b) |
+| 30 | 485(a) |
+| 31 | 144(b), 145(b) |
+| 31a | 144(c) |
+| 31b | 93(k) |
+| 31c | 151 |
+| 32, 33 | (See former 131, 132) |
+| 34 | 632 |
+| 34–1 | T. 34 § 450b–1 |
+| 34a | Rep. |
+| 35 | 351, 365, 367 |
+| 35a | 351, 367 |
+| 35b | 366 |
+| 35c | 367 |
+| 35d | 433(d) |
+| 36 | 651 |
+| 37 | 651 |
+| 38 | Rep. |
+| 39 | 484 |
+| 40, 40a | Rep. |
+| 41 | 505 |
+| 41a | 504 |
+| 42 | 145(a) |
+| 43 | (See former 127) |
+| 43a | 641(a) |
+| 44 | Rep. |
+| 45 | 89(a) |
+| 46 | 89(b) |
+| 47 | 89(c) |
+| 48 | 634(a) |
+| 48a | 91 |
+| 49 | 148 |
+| 50 | 432(c) |
+| 50a | Rep. in part, elim. in part |
+| 50b | 640 |
+| 50c | 643 |
+| 50d | T. 37 § 31a. |
+| 50e | 433(e). |
+| 50f–50j | T. 5 §§ 150p–150t |
+| 50k | 90(a) |
+| 50*l* | 90(b) |
+| 50m | 81 |
+| 50n | 82 |
+| 50*o* | 81 |
+| 51 | 89, 92(i) |
+| 52 | 89, 93(a) |
+| 53 | 88, 93(a) |
+| 54 | 93(c) |
+| 55 | 88, 93, (d) |
+| 56 | Rep. |
+| 57 | 145(a) |
+| 58 | 632 |
+| 59 | Rep. |
+| 60 | 88 |
+| 61 | 88(a) |
+| 62 | 88 |
+| 63 | 88 |
+| 64 | 638 |
+| 65 | Rep. |
+| 66 | 89 |
+| 67 | 89 |
+| 68 | 637 |
+| 69 | 92(d), 93(h) |
+| 70 | Rep. |
+| 71 | 646 |
+| 72–74 | Rep. |
+| 91 | 93(d), 632 |
+| 92 | 633 |
+| 93 | 92(c), 93(b) |
+| 94 | 92(c), 93(h) |
+| 95 | 92(a), 93(b) |
+| 96 | 92(f) |
+| 97 | 93(b), (c) |
+| 98 | Rep. |
+| 98a | 92(c), 93(b) |
+| 99 | 632 |
+| 100–102 | Rep. |
+| 103 | 632 |
+| 104 | 88(a), 89(b) |
+| 105–107 | Rep. |
+| 108 | 93(h), (i) |
+| 109 | 92(d), 93(h), (i) |
+| 110 | 93(m) |
+| 111 | 93(e) |
+| 112 | 93(b), (c) |
+| 121 | 461 |
+| 121a–121c | Rep. |
+| 121d | 433(h) |
+| 122–127 | Rep. |
+| 127a | Elim. |
+| 128 | Rep. |
+| 129 | 464 |
+| 130, 130a | Elim. |
+| 131 | 92(i) |
+| 132 | 479 |
+| 132a, 133 | Rep. |
+| 133a | 475 |
+| 134 | 478(b) |
+| 135 | 478 |
+| 136 | Rep. |
+| 136a | 466 |
+| 137 | Rep. |
+| 138 | 472 |
+| 141 | 562 |
+| 142 | 561 |
+| 143 | 563, 564, 566, 567 |
+| 144 | 569(a) |
+| 145 | 569(b) |
+| 146 | 570 |
+| 147 | 575, 644 |
+| 148 | 482 |
+| 161 | 46 |
+| 161a | 49 |
+| 162 | 49 |
+| 162a | 230, 232, 243, 303, 313, 423 |
+| 162b | T. 34 § 428 |
+| 163 | Rep. |
+| 164, 165 | 240, 310 |
+| 165a | 241, 311 |
+| 165b | 240, 241, 310, 311 |
+| 166 | Rep. |
+| 167 | 423 |
+| 167a | T. 37 § 26a |
+| 167b | Rep. |
+| 167b–1 | Elim. |
+| 167b–2 | 483 |
+| 167b–3 | Elim. |
+| 167c | T. 34 § 399c–1 |
+| 168 | 246, 315, 364 |
+| 169 | 233, 241, 306, 311, 356 |
+| 170 | 425, 635 |
+| 171 | 234 |
+| 172 | 233, 245, 306, 314, 356, 363 |
+| 173 | 230, 303, 353 |
+| 174 | 421(b) |
+| 174a | 239, 309 |
+| 175 | 231, 304, 354, 424 |
+| 175a | 238, 244 |
+| 175b | 235 |
+| 175c | 423 |
+| 175d–175f | Rep. |
+| 176, 177 | Rep. |
+| 178 | 431(a) |
+| 178a | 431(b) |
+| 178b | 431(c) |
+| 179 | Rep. |
+| 180 | 432(d) |
+| 181 | 432(e) |
+| 182 | 433(f) |
+| 183 | 433(g) |
+| 185 | 357(a) |
+| 185a | 355 |
+| 185b | 358 |
+| 185c | 359, 360 |
+| 185d | 357(a), (c), 423 |
+| 185e | 633 |
+| 186 | 755(e) |
+| 191 | Rep. |
+| 192 | 93(m) |
+| 193–196 | 500 |
+| 201 | 226 |
+| 202 | Rep. |
+| 203 | 226(a) |
+| 204 | 226(a), 227 |
+| 205 | Rep. |
+| 206 | 302, 351 |
+| 207, 208 | Rep. |
+| 251–259 | Rep. |
+| 260 | 821 |
+| 261 | 822 |
+| 262 | 823 |
+| 263 | 821 |
+| 264 | 825 |
+| 265 | 826 |
+| 266 | 827 |
+| 266a | 828 |
+| 266b | 829 |
+| 267 | 830 |
+| 268 | 831 |
+| 269 | Rep. |
+| 270 | 832 |
+| 271 | 893 |
+| 301 | 751 |
+| 302 | 752 |
+| 303 | 754 |
+| 304 | 751 |
+| 305 | 753, 754 |
+| 306 | 755 |
+| 307 | 756 |
+| 308 | 757 |
+| 309 | 758 |
+| 310 | 759 |
+| 311 | 755(c) |
+| 312 | 760 |
+| 313 | 761 |
+| 314, 315 | Rep. |
+| 351 | 753, 823 |
+| 352 | 891, 892 |
+| 353 | Rep. |
+| 354 | 894 |
+| 381–388 | Rep. |
+
+**Statutory Notes and Related Subsidiaries**
+
+**Positive Law; Citation**
+
+This title has been enacted into positive law by act Aug. 4, 1949, ch. 393, § 1, 63 Stat. 495, which provided in part that: “Title 14 of the United States Code, entitled ‘Coast Guard’, is hereby revised, codified, and enacted into law, and may be cited as ‘14 U.S.C., § —.’ ”
+
+**Effective Date**
+
+Act Aug. 4, 1949, ch. 393, § 19, 63 Stat. 561, provided that: “This Act shall take effect on the first day of the third month after approval by the President but shall not affect any proceedings commenced by or against any person prior to the effective date of this Act.”
+
+**Repeals**
+
+Act Aug. 4, 1949, ch. 393, § 20, 63 Stat. 561, repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this act, with a proviso that “any rights or liabilities now existing under such sections or parts thereof shall not be affected by such repeal”.
+
+**Construction of Title I of Pub. L. 115–282**
+
+Pub. L. 115–282, title I, § 124, Dec. 4, 2018, 132 Stat. 4241, provided that:
+
+> “This title [see Tables for Classification], including the amendments made by this title, is intended only to reorganize title 14, United States Code, and may not be construed to alter—
+
+> **“(1)** the effect of a provision of title 14, United States Code, including any authority or requirement therein;
+
+> **“(2)** a department or agency interpretation with respect to title 14, United States Code; or
+
+> **“(3)** a judicial interpretation with respect to title 14, United States Code.”
+
+**Legislative Construction of 1949 Enactment of Title 14**
+
+Act Aug. 4, 1949, ch. 393, § 3, 63 Stat. 557, provided that: “No inference of a legislative construction is to be drawn by reason of the chapter in Title 14, Coast Guard, as set out in section 1 of this Act, in which any section is placed, nor by reason of the catch lines used in such title.”
+
+**Separability**
+
+Act Aug. 4, 1949, ch. 393, § 2, 63 Stat. 557, provided that: “If any part of Title 14, United States Code, as enacted by section 1 of this Act, shall be held invalid the remainder of such title shall not be affected thereby.”
+
+**References to Sections of Title 14 as Redesignated by Pub. L. 115–282**
+
+Pub. L. 115–282, title I, § 123(a), (b)(1), Dec. 4, 2018, 132 Stat. 4240, provided that:
+
+> **“(a) Definitions.—** In this section [see Tables for classification], the following definitions apply:
+
+> **“(1) Redesignated section.—** The term ‘redesignated section’ means a section of title 14, United States Code, that is redesignated by this title [see Tables for classification], as that section is so redesignated.
+
+> **“(2) Source section.—** The term ‘source section’ means a section of title 14, United States Code, that is redesignated by this title, as that section was in effect before the redesignation.
+
+> **“(b) Reference to Source Section.—**
+
+> **“(1) Treatment of reference.—** A reference to a source section, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding redesignated section.”
+
+**Orders, Rules, and Regulations**
+
+Act Aug. 4, 1949, ch. 393, § 4, 63 Stat. 558, provided that: “All orders, rules, and regulations of the Coast Guard in effect under provisions of law superseded or amended by this Act shall, to the extent they would have been authorized under this Act, remain in force and effect as the regulations and orders under the provisions of this Act and shall be administered and enforced under this Act as nearly as may be until specifically repealed, amended, or revised.”
+
+**Reduction in Grade, Rank, Pay, Allowances, and Benefits**
+
+Act Aug. 4, 1949, ch. 393, § 5, 63 Stat. 558, provided that: “Nothing contained in this Act shall operate to abolish or reduce the grade, rank, rating, pay, allowances, or other benefits to which any person in the Coast Guard is entitled on the effective date of this Act.”
+
+## SUBTITLE I—ESTABLISHMENT, POWERS, DUTIES, AND ADMINISTRATION
+
+**Editorial Notes**
+
+**Prior Provisions**
+
+A prior analysis for part I of this title “REGULAR COAST GUARD” preceded prior section 1 and consisted of items for chapter 1 “Establishment and Duties” beginning with section 1, chapter 3 “Composition and Organization” beginning with section 41, chapter 5 “Functions and Powers” beginning with section 81, chapter 7 “Cooperation With Other Agencies” beginning with section 141, chapter 9 “Coast Guard Academy” beginning with section 181, chapter 11 “Personnel” beginning with section 211, chapter 13 “Pay, Allowances, Awards, and Other Rights and Benefits” beginning with section 461, chapter 14 “Coast Guard Family Support and Child Care” beginning with section 531, chapter 15 “Acquisitions” beginning with section 561, chapter 17 “Administration” beginning with section 631, chapter 18 “Coast Guard Housing Authorities” beginning with section 680, and chapter 19 “Environmental Compliance and Restoration Program” beginning with section 690, prior to repeal by Pub. L. 115–282, title I, § 102, Dec. 4, 2018, 132 Stat. 4195.
+
+**Amendments**
+
+2018—Pub. L. 115–282, title I, § 102, Dec. 4, 2018, 132 Stat. 4195, inserted subtitle I designation and heading and added items for chapters 1 to 11.
+
+- [CHAPTER 1—ESTABLISHMENT AND DUTIES](chapter-001-establishment-and-duties.md)
+
+- [CHAPTER 3—COMPOSITION AND ORGANIZATION](chapter-003-composition-and-organization.md)
+
+- [CHAPTER 5—FUNCTIONS AND POWERS](chapter-005-functions-and-powers.md)
+
+- [CHAPTER 7—COOPERATION](chapter-007-cooperation.md)
+
+- [CHAPTER 9—ADMINISTRATION](chapter-009-administration.md)
+
+- [CHAPTER 11—ACQUISITIONS](chapter-011-acquisitions.md)
+
+## SUBTITLE II—PERSONNEL
+
+2018—Pub. L. 115–282, title I, § 109(a), Dec. 4, 2018, 132 Stat. 4211, inserted subtitle II designation and heading and added items for chapters 19 to 29.
+
+- [CHAPTER 19—COAST GUARD ACADEMY](chapter-019-coast-guard-academy.md)
+
+- [CHAPTER 21—PERSONNEL; OFFICERS](chapter-021-personnel-officers.md)
+
+- [CHAPTER 23—PERSONNEL; ENLISTED](chapter-023-personnel-enlisted.md)
+
+- [CHAPTER 25—PERSONNEL; GENERAL PROVISIONS](chapter-025-personnel-general-provisions.md)
+
+- [CHAPTER 27—PAY, ALLOWANCES, AWARDS, AND OTHER RIGHTS AND BENEFITS](chapter-027-pay-allowances-awards-and-other-rights-and-benefits.md)
+
+- [CHAPTER 29—COAST GUARD FAMILY SUPPORT, CHILD CARE, AND HOUSING](chapter-029-coast-guard-family-support-child-care-and-housing.md)
+
+## SUBTITLE III—COAST GUARD RESERVE AND AUXILIARY
+
+2018—Pub. L. 115–282, title I, § 118(a), Dec. 4, 2018, 132 Stat. 4232, inserted subtitle III designation and heading and added items for chapters 37 to 41.
+
+- [CHAPTER 37—COAST GUARD RESERVE](chapter-037-coast-guard-reserve.md)
+
+- [CHAPTER 39—COAST GUARD AUXILIARY](chapter-039-coast-guard-auxiliary.md)
+
+- [CHAPTER 41—GENERAL PROVISIONS FOR COAST GUARD RESERVE AND AUXILIARY](chapter-041-general-provisions-for-coast-guard-reserve-and-auxiliary.md)
+
+## SUBTITLE IV—COAST GUARD AUTHORIZATIONS AND REPORTS TO CONGRESS
+
+2018—Pub. L. 115–282, title I, § 121(a), Dec. 4, 2018, 132 Stat. 4238, inserted subtitle IV designation and heading and added items for chapters 49 and 51.
+
+- [CHAPTER 49—AUTHORIZATIONS](chapter-049-authorizations.md)
+
+- [CHAPTER 51—REPORTS](chapter-051-reports.md)
