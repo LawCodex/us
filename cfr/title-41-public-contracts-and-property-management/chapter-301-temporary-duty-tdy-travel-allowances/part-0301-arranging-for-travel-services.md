@@ -1,0 +1,38 @@
+---
+title: "41 CFR Part 301 — ARRANGING FOR TRAVEL SERVICES"
+identifier: "41 CFR Part 301"
+type: regulation
+jurisdiction: us
+language: en
+last_amended: 2026-09-22  # latest amendment date of the CFR title
+status: in_force
+source: "https://www.ecfr.gov/current/title-41/part-301"
+retrieved: 2026-10-11
+ecfr_bulk_modified: "23-Sep-2026 21:29"
+---
+
+*Title 41—Public Contracts and Property Management › Subtitle F—Federal Travel Regulation System › CHAPTER 301—TEMPORARY DUTY (TDY) TRAVEL ALLOWANCES › SUBCHAPTER C—ARRANGING FOR TRAVEL SERVICES, PAYING TRAVEL EXPENSES, AND CLAIMING REIMBURSEMENT*
+
+# PART 301-50—ARRANGING FOR TRAVEL SERVICES
+
+**Authority:** 5 U.S.C. 5707; 40 U.S.C. 121(c).
+
+**Source:** FTR Case 2025-05, 90 FR 56893, Dec. 8, 2025, unless otherwise noted.
+
+## § 301-50.1 Travel arrangement requirements.
+
+Employees of an agency as defined in § 300-1.1 of this subtitle must arrange all TDY travel using the online booking tool offered by ETS, unless extenuating circumstances prevent such use, such as when attending a conference where the conference sponsor has negotiated with one or more lodging facilities to set aside a number of rooms for attendees, and employees must book directly with the facility to receive the negotiated rate. If an exception to ETS use is granted in accordance with this part, employees must use their agency's TMS. Employees of the Department of Defense, the legislative branch, or the Government of the District of Columbia must arrange travel in accordance with their agency's TMS.
+
+## § 301-50.2 Exceptions to mandatory use of ETS, TMS, or TMC.
+
+(a) The agency head or their designee may grant an individual case exception in writing or through electronic means to the required use of ETS, or the agency's TMC or TMS if otherwise exempted from ETS use per paragraph (b) of this section. Any exception granted must be consistent with any contractual terms applicable to the TMC, TMS, or ETS.
+
+(b) The Administrator of General Services or the Administrator's designee may grant an agency-wide exception (or exempt a component thereof) from the required use of ETS when requested by the head of a Department (cabinet-level agency) or head of an independent agency when the agency has presented a business case analysis to the General Services Administration that proves that it has an alternative TMS to the ETS and is in the best interest of the Government.
+
+(1) As a condition of receiving an exception, the agency must agree to conduct annual business case reviews of its TMS and must provide to the ETS Program Management Office (PMO) data elements required by the ETS PMO in a format prescribed by the ETS PMO.
+
+(2) Requests for exceptions should be addressed to the Administrator of General Services and sent to *travelpolicy@gsa.gov* with full justification and/or analysis.
+
+## § 301-50.3 Consequences of not using ETS, TMS, or TMC.
+
+The employee is responsible for any additional costs resulting from the failure to use the ETS or their agency's TMS or TMC if they do not have an exception to use. In addition, the agency may take appropriate disciplinary actions.

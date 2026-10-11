@@ -1,0 +1,664 @@
+---
+title: "45 CFR Part 80 — NONDISCRIMINATION UNDER PROGRAMS RECEIVING FEDERAL ASSISTANCE THROUGH THE DEPARTMENT OF HEALTH AND HUMAN SERVICES EFFECTUATION OF TITLE VI OF THE CIVIL RIGHTS ACT OF 1964"
+identifier: "45 CFR Part 80"
+type: regulation
+jurisdiction: us
+language: en
+last_amended: 2026-10-06  # latest amendment date of the CFR title
+status: in_force
+source: "https://www.ecfr.gov/current/title-45/part-80"
+retrieved: 2026-10-11
+ecfr_bulk_modified: "07-Oct-2026 21:18"
+---
+
+*Title 45—Public Welfare › SUBTITLE A—Department of Health and Human Services › SUBCHAPTER A—GENERAL ADMINISTRATION*
+
+# PART 80—NONDISCRIMINATION UNDER PROGRAMS RECEIVING FEDERAL ASSISTANCE THROUGH THE DEPARTMENT OF HEALTH AND HUMAN SERVICES EFFECTUATION OF TITLE VI OF THE CIVIL RIGHTS ACT OF 1964
+
+**Authority:** 42 U.S.C. 2000d, 2000d-1.
+
+## § 80.1 Purpose.
+
+The purpose of this part is to effectuate the provisions of title VI of the Civil Rights Act of 1964 (hereafter referred to as the “Act”) to the end that no person in the United States shall; on the ground of race, color, or national origin, be excluded from participation in, be denied the benefits of, or be otherwise subjected to discrimination under any program or activity receiving Federal financial assistance from the Department of Health and Human Services.
+
+(Sec. 601, Civil Rights Act of 1964, 78 Stat. 252 (42 U.S.C. 2000d))
+
+[29 FR 16298, Dec. 4, 1964, as amended at 38 FR 17982, July 5, 1973]
+
+## § 80.2 Application of this regulation.
+
+This regulation applies to any program to which Federal financial assistance is authorized to be extended to a recipient under a law administered by the Department, including the Federal financial assistance listed in appendix A to this part. It applies to money paid, property transferred, or other Federal financial assistance extended after the effective date of the regulation pursuant to an application approved prior to such effective date. This regulation does not apply to (a) any Federal financial assistance by way of insurance or guaranty contracts, (b) money paid, property transferred, or other assistance extended before the effective date of this regulation, (c) the use of any assistance by any individual who is the ultimate beneficiary under any such program, or (d) any employment practice, under any such program, or any employer, employment agency, or labor organization, except to the extent described in § 80.3. The fact that a type of Federal assistance is not listed in appendix A to this part shall not mean, if title VI of the Act is otherwise applicable, that a program is not covered. Federal financial assistance under statutes now in force or hereinafter enacted may be added to this list by notice published in the *Federal Register.*
+
+(Secs. 602, 604, Civil Rights Act of 1964, 78 Stat. 252, 253 (42 U.S.C. 2000d-1, 2000d-3))
+
+[38 FR 17979, July 5, 1973, as amended at 70 FR 24318, May 9, 2005]
+
+## § 80.3 Discrimination prohibited.
+
+(a) *General.* No person in the United States shall, on the ground of race, color, or national origin be excluded from participation in, be denied the benefits of, or be otherwise subjected to discrimination under any program to which this part applies.
+
+(b) *Specific discriminatory actions prohibited.* (1) A recipient under any program to which this part applies may not, directly or through contractual or other arrangements, on ground of race, color, or national origin:
+
+(i) Deny an individual any service, financial aid, or other benefit provided under the program;
+
+(ii) Provide any service, financial aid, or other benefit to an individual which is different, or is provided in a different manner, from that provided to others under the program;
+
+(iii) Subject an individual to segregation or separate treatment in any matter related to his receipt of any service, financial aid, or other benefit under the program;
+
+(iv) Restrict an individual in any way in the enjoyment of any advantage or privilege enjoyed by others receiving any service, financial aid, or other benefit under the program;
+
+(v) Treat an individual differently from others in determining whether he satisfies any admission, enrollment, quota, eligibility, membership or other requirement or condition which individuals must meet in order to be provided any service, financial aid, or other benefit provided under the program;
+
+(vi) Deny an individual an opportunity to participate in the program through the provision of services or otherwise or afford him an opportunity to do so which is different from that afforded others under the program (including the opportunity to participate in the program as an employee but only to the extent set forth in paragraph (c) of this section).
+
+(vii) Deny a person the opportunity to participate as a member of a planning or advisory body which is an integral part of the program.
+
+(2) [Reserved]
+
+(3) In determining the site or location of facilities, a recipient or applicant may not make selections with the purpose of excluding individuals from, denying them the benefits of, or subjecting them to discrimination under any program to which this part applies, on the ground of race, color, or national origin; or with the purpose of defeating or substantially impairing the accomplishment of the objectives of the Act or this part.
+
+(4) As used in this section, the services, financial aid, or other benefits provided under a program receiving Federal financial assistance shall be deemed to include any service, financial aid, or other benefits provided in or through a facility provided with the aid of Federal financial assistance.
+
+(5) The enumeration of specific forms of prohibited discrimination in this paragraph and paragraph (c) of this section does not limit the generality of the prohibition in paragraph (a) of this section.
+
+(6) [Reserved]
+
+(c) *Employment practices.* (1) Where a primary objective of the Federal financial assistance to a program to which this regulation applies is to provide employment, a recipient may not (directly or through contractual or other arrangements) subject an individual to discrimination on the ground of race, color, or national origin in its employment practices under such program (including recruitment or recruitment advertising, employment, layoff or termination, upgrading, demotion, or transfer, rates of pay or other forms of compensation, and use of facilities), including programs where a primary objective of the Federal financial assistance is (i) to reduce the employment of such individuals or to help them through employment to meet subsistence needs, (ii) to assist such individuals through employment to meet expenses incident to the commencement or continuation of their education or training, (iii) to provide work experience which contributes to the education or training of such individuals, or (iv) to provide remunerative activity to such individuals who because of handicaps cannot be readily absorbed in the competive labor market. The following, under existing laws, have one of the above objectives as a primary objective:
+
+(*a*) Projects under the Public Works Acceleration Act, Pub. L. 87-658, 42 U.S.C. 2641-2643.
+
+(*b*) Work-study under the Vocational Education Act of 1963, as amended, 20 U.S.C. 1371-1374.
+
+(*c*) Programs assisted under laws listed in appendix A to this part as respects employment opportunities provided thereunder, or in facilities provided thereunder, which are limited, or for which preference is given, to students, fellows, or other persons in training for the same or related employments.
+
+(*d*) Assistance to rehabilitation facilities under the Vocational Rehabilitation Act, 29 U.S.C. 32-34, 41a and 41b.
+
+(2) The requirements applicable to construction employment under any such program shall be those specified in or pursuant to Part III of Executive Order 11246 or any Executive order which supersedes it.
+
+(3) [Reserved]
+
+(d) *Indian Health and Cuban Refugee Services.* An individual shall not be deemed subjected to discrimination by reason of his exclusion from benefits limited by Federal law to individuals of a particular race, color, or national origin different from his.
+
+(e) *Medical emergencies.* Notwithstanding the foregoing provisions of this section, a recipient of Federal financial assistance shall not be deemed to have failed to comply with paragraph (a) of this section if immediate provision of a service or other benefit to an individual is necessary to prevent his death or serious impairment of his health, and such service or other benefit cannot be provided except by or through a medical institution which refuses or fails to comply with paragraph (a) of this section.
+
+[29 FR 16298, Dec. 4, 1964, as amended at 38 FR 17979, 17982, July 5, 1973; 70 FR 24318, May 9, 2005; 91 FR 46756, July 24, 2026]
+
+## § 80.4 Assurances required.
+
+(a) *General.* (1) Every application for Federal financial assistance to which this part applies, except an application to which paragraph (b) of this section applies, and every application for Federal financial assistance to provide a facility shall, as a condition to its approval and the extension of any Federal financial assistance pursuant to the application, contain or be accompanied by an assurance that the program will be conducted or the facility operated in compliance with all requirements imposed by or pursuant to this part. In the case of an application for Federal financial assistance to provide real property or structures thereon, the assurance shall obligate the recipient, or, in the case of a subsequent transfer, the transferee, for the period during which the real property or structures are used for a purpose for which the Federal financial assistance is extended or for another purpose involving the provision of similar services or benefits. In the case of personal property the assurance shall obligate the recipient for the period during which he retains ownership or possession of the property. In all other cases the assurance shall obligate the recipient for the period during which Federal financial assistance is extended pursuant to the application. The responsible Department official shall specify the form of the foregoing assurances in the program, and the extent to which like assurances will be required of subgrantees, contractors and subcontractors, transferees, successors in interest, and other participants in the program. Any such assurance shall include provisions which give the United States a right to seek its judicial enforcement.
+
+(2) Where Federal financial assistance is provided in the form of a transfer of real property or interest therein from the Federal Government the instrument effecting or recording the transfer shall contain a covenant running with the land to assure nondiscrimination for the period during which the real property is used for a purpose for which the Federal financial assistance is extended or for another purpose involving the provision of similar services or benefits. Where no transfer of property is involved but property is improved with Federal financial assistance, the recipient shall agree to include such a covenant to any subsequent transfer of the property. Where the property is obtained from the Federal Government, such covenant may also include a condition coupled with a right to be reserved by the Department to revert title to the property in the event of a breach of the covenant where, in the discretion of the responsible Department official, such a condition and right of reverter is appropriate to the statute under which the real property is obtained and to the nature of the grant and the grantee. In the event a transferee of real property proposes to mortgage or otherwise encumber the real property as security for financing construction of new, or improvement of existing, facilities on such property for the purposes for which the property was transferred, the responsible Department official may agree, upon request of the transferee and if necessary to accomplish such financing, and upon such conditions as he deems appropriate, to forbear the exercise of such right to revert title for so long as the lien of such mortgage or other encumbrance remains effective.
+
+(b) *Continuing Federal financial assistance.* Every application by a State or a State agency for continuing Federal financial assistance to which this regulation applies (including the Federal financial assistance listed in part 2 of appendix A to this part) shall as a condition to its approval and the extension of any Federal financial assistance pursuant to the application (1) contain or be accompanied by a statement that the program is (or, in the case of a new program, will be) conducted in compliance with all requirements imposed by or pursuant to this regulation, and (2) provide or be accompanied by provision for such methods of administration for the program as are found by the responsible Department official to give reasonable assurance that the applicant and all recipients of Federal financial assistance under such program will comply with all requirements imposed by or pursuant to this regulation.
+
+(c) *Elementary and secondary schools.* The requirements of paragraph (a) or (b) of this section with respect to any elementary or secondary school or school system shall be deemed to be satisfied if such school or school system (1) is subject to a final order of a court of the United States for the desegregation of such school or school system, and provides an assurance that it will comply with such order, including any future modification of such order, or (2) submits a plan for the desegregation of such school or school system which the responsible Department official determines is adequate to accomplish the purposes of the Act and this part, at the earliest practicable time, and provides reasonable assurance that it will carry out such plan; in any case of continuing Federal financial assistance the responsible Department official may reserve the right to redetermine, after such period as may be specified by him, the adequacy of the plan to accomplish the purposes of the Act and the regulations in this part. In any case in which a final order of a court of the United States for the desegregation of such school or school system is entered after submission of such a plan, such plan shall be revised to conform to such final order, including any future modification of such order.
+
+(d) *Assurance from institutions.* (1) In the case of any application for Federal financial assistance to an institution of higher education (including assistance for construction, for research, for special training project, for student loans or for any other purpose), the assurance required by this section shall extend to admission practices and to all other practices relating to the treatment of students.
+
+(2) The assurance required with respect to an institution of higher education, hospital, or any other institution, insofar as the assurance relates to the institution's practices with respect to admission or other treatment of individuals as students, patients, or clients of the institution or to the opportunity to participate in the provision of services or other benefits to such individuals, shall be applicable to the entire institution.
+
+(Secs. 601, 602, Civil Rights Act of 1964, 78 Stat. 252 (42 U.S.C. 2000d, 2000d-1); sec. 182, 80 Stat. 1209 (42 U.S.C. 2000d-5))
+
+[29 FR 16298, Dec. 4, 1964, as amended at 32 FR 14555, Oct. 19, 1967; 38 FR 17980, 17982, July 5, 1973; 70 FR 24318, May 9, 2005]
+
+## § 80.5 Illustrative application.
+
+The following examples will illustrate the programs aided by Federal financial assistance of the Department. (In all cases the discrimination prohibited is discrimination on the ground of race, color, or national origin prohibited by Title VI of the Act and this regulation, as a condition of the receipt of Federal financial assistance).
+
+(a) In federally assisted programs for the provision of health or welfare services, discrimination in the selection or eligibility of individuals to receive the services, and segregation or other discriminatory practices in the manner of providing them, are prohibited. This prohibition extends to all facilities and services provided by the grantee or, if the grantee is a State, by a political subdivision of the State. It extends also to services purchased or otherwise obtained by the grantee (or political subdivision) from hospitals, nursing homes, schools, and similar institutions for beneficiaries of the program, and to the facilities in which such services are provided, subject, however, to the provisions of § 80.3(e).
+
+(b) In federally-affected area assistance (Pub. L. 815 and Pub. L. 874) for construction aid and for general support of the operation of elementary or secondary schools, or in more limited support to such schools such as for the acquisition of equipment, the provision of vocational education, or the provision of guidance and counseling services, discrimination by the recipient school district in any of its elementary or secondary schools in the admission of students, or in the treatment of its students in any aspect of the educational process, is prohibited. In this and the following illustrations the prohibition of discrimination in the treatment of students or other trainees includes the prohibition of discrimination among the students or trainees in the availability or use of any academic, dormitory, eating, recreational, or other facilities of the grantee or other recipient.
+
+(c) In a research, training, demonstration, or other grant to a university for activities to be conducted in a graduate school, discrimination in the admission and treatment of students in the graduate school is prohibited, and the prohibition extends to the entire university.
+
+(d) In a training grant to a hospital or other nonacademic institution, discrimination is prohibited in the selection of individuals to be trained and in their treatment by the grantee during their training. In a research or demonstration grant to such an institution discrimination is prohibited with respect to any educational activity and any provision of medical or other services and any financial aid to individuals incident to the program.
+
+(e) In grants to assist in the construction of facilities for the provision of health, educational or welfare services, assurances will be required that services will be provided without discrimination, to the same extent that discrimination would be prohibited as a condition of Federal operating grants for the support of such services. Thus, as a condition of grants for the construction of academic, research, or other facilities at institutions of higher education, assurances will be required that there will be no discrimination in the admission or treatment of students. In case of hospital construction grants the assurance will apply to patients, to interns, residents, student nurses, and other trainees, and to the privilege of physicians, dentists, and other professionally qualified persons to practice in the hospital, and will apply to the entire facility for which, or for a part of which, the grant is made, and to facilities operated in connection therewith.
+
+(f) Upon transfers of real or personal surplus property for health or educational uses, discrimination is prohibited to the same extent as in the case of grants for the construction of facilities or the provision of equipment for like purposes.
+
+(g) [Reserved]
+
+(h) A recipient may not take action that is calculated to bring about indirectly what this regulation forbids it to accomplish directly.
+
+(i)-(j) [Reserved]
+
+[29 FR 16298, Dec. 4, 1964; 29 FR 16988, Dec. 11, 1964, as amended at 38 FR 17980, 17982, July 5, 1973; 70 FR 24318, May 9, 2005; 91 FR 46756, July 24, 2026]
+
+## § 80.6 Compliance information.
+
+(a) *Cooperation and assistance.* The responsible Department official shall to the fullest extent practicable seek the cooperation of recipients in obtaining compliance with this part and shall provide assistance and guidance to recipients to help them comply voluntarily with this part.
+
+(b) *Compliance reports.* Each recipient shall keep such records and submit to the responsible Department official or his designee timely, complete and accurate compliance reports at such times, and in such form and containing such information, as the responsible Department official or his designee may determine to be necessary to enable him to ascertain whether the recipient has complied or is complying with this part. For example, recipients should have available for the Department racial and ethnic data showing the extent to which members of minority groups are beneficiaries of and participants in federally-assisted programs. In the case in which a primary recipient extends Federal financial assistance to any other recipient, such other recipient shall also submit such compliance reports to the primary recipient as may be necessary to enable the primary recipient to carry out its obligations under this part.
+
+(c) *Access to sources of information.* Each recipient shall permit access by the responsible Department official or his designee during normal business hours to such of its books, records, accounts, and other sources of information, and its facilities as may be pertinent to ascertain compliance with this part. Where any information required of a recipient is in the exclusive possession of any other agency, institution or person and this agency, institution or person shall fail or refuse to furnish this information the recipient shall so certify in its report and shall set forth what efforts it has made to obtain the information. Asserted considerations of privacy or confidentiality may not operate to bar the Department from evaluating or seeking to enforce compliance with this part. Information of a confidential nature obtained in connection with compliance evaluation or enforcement shall not be disclosed except where necessary in formal enforcement proceedings or where otherwise required by law.
+
+(d) *Information to beneficiaries and participants.* Each recipient shall make available to participants, beneficiaries, and other interested persons such information regarding the provisions of this regulation and its applicability to the program for which the recipient receives Federal financial assistance, and make such information available to them in such manner, as the responsible Department official finds necessary to apprise such persons of the protections against discrimination assured them by the Act and this regulation.
+
+(Secs. 601, 602, Civil Rights Act of 1964, 78 Stat. 252 (42 U.S.C. 2000d, 2000d-1))
+
+[29 FR 16298, Dec. 4, 1964, as amended at 32 FR 14555, Oct. 19, 1967; 38 FR 17981, 17982, July 5, 1973; 70 FR 24318, May 9, 2005]
+
+## § 80.7 Conduct of investigations.
+
+(a) *Periodic compliance reviews.* The responsible Department official or his designee shall from time to time review the practices of recipients to determine whether they are complying with this part.
+
+(b) *Complaints.* Any person who believes himself or any specific class of individuals to be subjected to discrimination prohibited by this part may by himself or by a representative file with the responsible Department official or his designee a written complaint. A complaint must be filed not later than 180 days from the date of the alleged discrimination, unless the time for filing is extended by the responsible Department official or his designee.
+
+(c) *Investigations.* The responsible Department official or his designee will make a prompt investigation whenever a compliance review, report, complaint, or any other information indicates a possible failure to comply with this part. The investigation should include, where appropriate, a review of the pertinent practices and policies of the recipient, the circumstances under which the possible noncompliance with this part occurred, and other factors relevant to a determination as to whether the recipient has failed to comply with this part.
+
+(d) *Resolution of matters.* (1) If an investigation pursuant to paragraph (c) of this section indicates a failure to comply with this part, the responsible Department official or his designee will so inform the recipient and the matter will be resolved by informal means whenever possible. If it has been determined that the matter cannot be resolved by informal means, action will be taken as provided for in § 80.8.
+
+(2) If an investigation does not warrant action pursuant to paragraph (d)(1) of this section the responsible Department official or his designee will so inform the recipient and the complainant, if any, in writing.
+
+(e) *Intimidatory or retaliatory acts prohibited.* No recipient or other person shall intimidate, threaten, coerce, or discriminate against any individual for the purpose of interfering with any right or privilege secured by section 601 of the Act or this part, or because he has made a complaint, testified, assisted, or participated in any manner in an investigation, proceeding or hearing under this part. The identity of complainants shall be kept confidential except to the extent necessary to carry out the purposes of this part, including the conduct of any investigation, hearing, or judicial proceeding arising thereunder.
+
+(Secs. 601, 602, Civil Rights Act of 1964, 78 Stat. 252 (42 U.S.C. 2000d, 2000d-1))
+
+[29 FR 16298, Dec. 4, 1964, as amended at 38 FR 17981, 17982, July 5, 1973]
+
+## § 80.8 Procedure for effecting compliance.
+
+(a) *General.* If there appears to be a failure or threatened failure to comply with this regulation, and if the noncompliance or threatened noncompliance cannot be corrected by informal means, compliance with this part may be effected by the suspension or termination of or refusal to grant or to continue Federal financial assistance or by any other means authorized by law. Such other means may include, but are not limited to, (1) a reference to the Department of Justice with a recommendation that appropriate proceedings be brought to enforce any rights of the United States under any law of the United States (including other titles of the Act), or any assurance or other contractual undertaking, and (2) any applicable proceeding under State or local law.
+
+(b) *Noncompliance with § 80.4.* If an applicant fails or refuses to furnish an assurance required under § 80.4 or otherwise fails or refuses to comply with a requirement imposed by or pursuant to that section Federal financial assistance may be refused in accordance with the procedures of paragraph (c) of this section. The Department shall not be required to provide assistance in such a case during the pendency of the administrative proceedings under such paragraph except that the Department shall continue assistance during the pendency of such proceedings where such assistance is due and payable pursuant to an application therefor approved prior to the effective date of this part.
+
+(c) *Termination of or refusal to grant or to continue Federal financial assistance.* No order suspending, terminating or refusing to grant or continue Federal financial assistance shall become effective until (1) the responsible Department official has advised the applicant or recipient of his failure to comply and has determined that compliance cannot be secured by voluntary means, (2) there has been an express finding on the record, after opportunity for hearing, of a failure by the applicant or recipient to comply with a requirement imposed by or pursuant to this part, (3) the expiration of 30 days after the Secretary has filed with the committee of the House and the committee of the Senate having legislative jurisdiction over the program involved, a full written report of the circumstances and the grounds for such action. Any action to suspend or terminate or to refuse to grant or to continue Federal financial assistance shall be limited to the particular political entity, or part thereof, or other applicant or recipient as to whom such a finding has been made and shall be limited in its effect to the particular program, or part thereof, in which such noncompliance has been so found.
+
+(d) *Other means authorized by law.* No action to effect compliance by any other means authorized by law shall be taken until (1) the responsible Department official has determined that compliance cannot be secured by voluntary means, (2) the recipient or other person has been notified of its failure to comply and of the action to be taken to effect compliance, and (3) the expiration of at least 10 days from the mailing of such notice to the recipient or other person. During this period of at least 10 days additional efforts shall be made to persuade the recipient or other person to comply with the regulation and to take such corrective action as may be appropriate.
+
+(Secs. 601, 602, Civil Rights Act of 1964, 78 Stat. 252 (42 U.S.C. 2000d, 2000d-1; sec. 182, 80 Stat. 1209; (42 U.S.C. 2000d-5))
+
+[29 FR 16298, Dec. 4, 1964, as amended at 32 FR 14556, Oct. 19, 1967; 38 FR 17982, July 5, 1973]
+
+## § 80.9 Hearings.
+
+(a) *Opportunity for hearing.* Whenever an opportunity for a hearing is required by § 80.8(c), reasonable notice shall be given by registered or certified mail, return receipt requested, to the affected applicant or recipient. This notice shall advise the applicant or recipient of the action proposed to be taken, the specific provision under which the proposed action against it is to be taken, and the matters of fact or law asserted as the basis for this action, and either (1) fix a date not less than 20 days after the date of such notice within which the applicant or recipient may request of the responsible Department official that the matter be scheduled for hearing or (2) advise the applicant or recipient that the matter in question has been set down for hearing at a stated place and time. The time and place so fixed shall be reasonable and shall be subject to change for cause. The complainant, if any, shall be advised of the time and place of the hearing. An applicant or recipient may waive a hearing and submit written information and argument for the record. The failure of an applicant or recipient to request a hearing for which a date has been set shall be deemed to be a waiver of the right to a hearing under section 602 of the Act and § 80.8(c) of this regulation and consent to the making of a decision on the basis of such information as may be filed as the record.
+
+(b) *Time and place of hearing.* Hearings shall be held at the offices of the Department in Washington, DC, at a time fixed by the responsible Department official unless he determines that the convenience of the applicant or recipient or of the Department requires that another place be selected. Hearings shall be held before a hearing examiner designated in accordance with 5 U.S.C. 3105 and 3344 (section 11 of the Administrative Procedure Act).
+
+(c) *Right to counsel.* In all proceedings under this section, the applicant or recipient and the Department shall have the right to be represented by counsel.
+
+(d) *Procedures, evidence, and record.* (1) The hearing, decision, and any administrative review thereof shall be conducted in conformity with sections 5-8 of the Administrative Procedure Act, and in accordance with such rules of procedure as are proper (and not inconsistent with this section) relating to the conduct of the hearing, giving of notices subsequent to those provided for in paragraph (a) of this section, taking of testimony, exhibits, arguments and briefs, requests for findings, and other related matters. Both the Department and the applicant or recipient shall be entitled to introduce all relevant evidence on the issues as stated in the notice for hearing or as determined by the officer conducting the hearing at the outset of or during the hearing. Any person (other than a Government employee considered to be on official business) who, having been invited or requested to appear and testify as a witness on the Government's behalf, attends at a time and place scheduled for a hearing provided for by this part, may be reimbursed for his travel and actual expenses of attendance in an amount not to exceed the amount payable under the standardized travel regulations to a Government employee traveling on official business.
+
+(2) Technical rules of evidence shall not apply to hearings conducted pursuant to this part, but rules or principles designed to assure production of the most credible evidence available and to subject testimony to test by cross-examination shall be applied where reasonably necessary by the officer conducting the hearing. The hearing officer may exclude irrelevant, immaterial, or unduly repetitious evidence. All documents and other evidence offered or taken for the record shall be open to examination by the parties and opportunity shall be given to refute facts and arguments advanced on either side of the issues. A transcript shall be made of the oral evidence except to the extent the substance thereof is stipulated for the record. All decisions shall be based upon the hearing record and written findings shall be made.
+
+(e) *Consolidated or Joint Hearings.* In cases in which the same or related facts are asserted to constitute noncompliance with this regulation with respect to two or more Federal statutes, authorities, or other means by which Federal financial assistance is extended, to which this part applies, or noncompliance with this part and the regulations of one or more other Federal departments or agencies issued under Title VI of the Act, the responsible Department official may, by agreement with such other departments or agencies where applicable, provide for the conduct of consolidated or joint hearings, and for the application to such hearings of rules of procedures not inconsistent with this part. Final decisions in such cases, insofar as this regulation is concerned, shall be made in accordance with § 80.10.
+
+(Sec. 602, Civil Rights Act of 1964, 78 Stat. 252 (42 U.S.C. 2000d-1))
+
+[29 FR 16298, Dec. 4, 1964, as amended at 32 FR 14555, Oct. 19, 1967; 38 FR 17981, 17982, July 5, 1973; 70 FR 24318, May 9, 2005]
+
+## § 80.10 Decisions and notices.
+
+(a) *Decisions by hearing examiners.* After a hearing is held by a hearing examiner such hearing examiner shall either make an initial decision, if so authorized, or certify the entire record including his recommended findings and proposed decision to the reviewing authority for a final decision, and a copy of such initial decision or certification shall be mailed to the applicant or recipient and to the complainant, if any. Where the initial decision referred to in this paragraph or in paragraph (c) of this section is made by the hearing examiner, the applicant or recipient or the counsel for the Department may, within the period provided for in the rules of procedure issued by the responsible Department official, file with the reviewing authority exceptions to the initial decision, with his reasons therefor. Upon the filing of such exceptions the reviewing authority shall review the initial decision and issue its own decision thereof including the reasons therefor. In the absence of exceptions the initial decision shall constitute the final decision, subject to the provisions of paragraph (e) of this section.
+
+(b) *Decisions on record or review by the reviewing authority.* Whenever a record is certified to the reviewing authority for decision or it reviews the decision of a hearing examiner pursuant to paragraph (a) or (c) of this section, the applicant or recipient shall be given reasonable opportunity to file with it briefs or other written statements of its contentions, and a copy of the final decision of the reviewing authority shall be given in writing to the applicant or recipient and to the complainant, if any.
+
+(c) *Decisions on record where a hearing is waived.* Whenever a hearing is waived pursuant to § 80.9(a) the reviewing authority shall make its final decision on the record or refer the matter to a hearing examiner for an initial decision to be made on the record. A copy of such decision shall be given in writing to the applicant or recipient, and to the complainant, if any.
+
+(d) *Rulings required.* Each decision of a hearing examiner or reviewing authority shall set forth a ruling on each finding, conclusion, or exception presented, and shall identify the requirement or requirements imposed by or pursuant to this part with which it is found that the applicant or recipient has failed to comply.
+
+(e) *Review in certain cases by the Secretary.* If the Secretary has not personally made the final decision referred to in paragraph (a), (b), or (c) of this section, a recipient or applicant or the counsel for the Department may request the Secretary to review a decision of the Reviewing Authority in accordance with rules of procedure issued by the responsible Department official. Such review is not a matter of right and shall be granted only where the Secretary determines there are special and important reasons therefor. The Secretary may grant or deny such request, in whole or in part. He may also review such a decision upon his own motion in accordance with rules of procedure issued by the responsible Department official. In the absence of a review under this paragraph, a final decision referred to in paragraphs (a), (b), and (c) of this section shall become the final decision of the Department when the Secretary transmits it as such to Congressional committees with the report required under section 602 of the Act. Failure of an applicant or recipient to file an exception with the Reviewing Authority or to request review under this paragraph shall not be deemed a failure to exhaust administrative remedies for the purpose of obtaining judicial review.
+
+(f) *Content of orders.* The final decision may provide for suspension or termination of, or refusal to grant or continue Federal financial assistance, in whole or in part, to which this regulation applies, and may contain such terms, conditions, and other provisions as are consistent with and will effectuate the purposes of the Act and this regulation, including provisions designed to assure that no Federal financial assistance to which this regulation applies will thereafter be extended under such law or laws to the applicant or recipient determined by such decision to be in default in its performance of an assurance given by it pursuant to this regulation, or to have otherwise failed to comply with this regulation unless and until it corrects its noncompliance and satisfies the responsible Department official that it will fully comply with this regulation.
+
+(g) *Post-termination proceedings.* (1) An applicant or recipient adversely affected by an order issued under paragraph (f) of this section shall be restored to full eligibility to receive Federal financial assistance if it satisfies the terms and conditions of that order for such eligibility or if it brings itself into compliance with this part and provides reasonable assurance that it will fully comply with this part. An elementary or secondary school or school system which is unable to file an assurance of compliance with § 80.3 shall be restored to full eligibility to receive Federal financial assistance, if it files a court order or a plan for desegregation which meets the requirements of § 80.4(c), and provides reasonable assurance that it will comply with the court order or plan.
+
+(2) Any applicant or recipient adversely affected by an order entered pursuant to paragraph (f) of this section may at any time request the responsible Department official to restore fully its eligibility to receive Federal financial assistance. Any such request shall be supported by information showing that the applicant or recipient has met the requirements of paragraph (g)(1) of this section. If the responsible Department official determines that those requirements have been satisfied, he shall restore such eligibility.
+
+(3) If the responsible Department official denies any such request, the applicant or recipient may submit a request for a hearing in writing, specifying why it believes such official to have been in error. It shall thereupon be given an expeditious hearing, with a decision on the record, in accordance with rules of procedure issued by the responsible Department official. The applicant or recipient will be restored to such eligibility if it proves at such hearing that it satisfied the requirements of paragraph (g)(1) of this section. While proceedings under this paragraph are pending, the sanctions imposed by the order issued under paragraph (f) of this section shall remain in effect.
+
+(Sec. 602, Civil Rights Act of 1964, 78 Stat. 252 (42 U.S.C. 2000d-1))
+
+[29 FR 16298, Dec. 4, 1964, as amended at 32 FR 14555, Oct. 19, 1967; 38 FR 17981, 17982, July 5, 1973]
+
+## § 80.11 Judicial review.
+
+Action taken pursuant to section 602 of the Act is subject to judicial review as provided in section 603 of the Act.
+
+(Sec. 603, 78 Stat. 253, (42 U.S.C. 2000d-2))
+
+[29 FR 16298, Dec. 4, 1964, as amended at 32 FR 14556, Oct. 19, 1967]
+
+## § 80.12 Effect on other regulations; forms and instructions.
+
+(a) *Effect on other regulations.* All regulations, orders, or like directions heretofore issued by any officer of the Department which impose requirements designed to prohibit any discrimination against individuals on the ground of race, color, or national origin under any program to which this regulation applies, and which authorize the suspension or termination of or refusal to grant or to continue Federal financial assistance to any applicant for or recipient of assistance for failure to comply with such requirements, are hereby superseded to the extent that such discrimination is prohibited by this regulation, except that nothing in this regulation shall be deemed to relieve any person of any obligation assumed or imposed under any such superseded regulation, order, instruction, or like direction prior to the effective date of this regulation. Nothing in this regulation, however, shall be deemed to supersede any of the following (including future amendments thereof): (1) The “Standards for a Merit System of Personnel Administration,” issued jointly by the Secretaries of Defense, of Health and Human Services, and of Labor, 45 CFR part 70; (2) Executive Order 11063 and regulations issued thereunder, or any other regulations or instructions, insofar as such Order, regulations, or instructions prohibit discrimination on the ground of race, color, or national origin in any program or situation to which this regulation is inapplicable, or prohibit discrimination on any other ground; or (3) requirements for Emergency School Assistance as published in 35 FR 13442 and codified as 45 CFR part 181.
+
+(b) *Forms and instructions.* The responsible Department official shall issue and promptly make available to interested persons forms and detailed instructions and procedures for effectuating this part.
+
+(c) *Supervision and coordination.* The responsible Department official may from time to time assign to officials of the Department, or to officials of other departments or agencies of the Government with the consent of such departments or agencies, responsibilities in connection with the effectuation of the purposes of Title VI of the Act and this regulation (other than responsibility for review as provided in § 80.10(e)), including the achievements of effective coordination and maximum uniformity within the Department and within the Executive Branch of the Government in the application of Title VI and this regulation to similar programs and in similar situations. Any action taken, determination made, or requirement imposed by an official of another Department or Agency acting pursuant to an assignment of responsibility under this subsection shall have the same effect as though such action had been taken by the responsible official of this Department.
+
+(Sec. 602, Civil Rights Act of 1964, 78 Stat. 252 (42 U.S.C. 2000d-10))
+
+[29 FR 16298, Dec. 4, 1964, as amended at 32 FR 14555, Oct. 19, 1967; 38 FR 17981, 17982, July 5, 1973]
+
+## § 80.13 Definitions.
+
+As used in this part—
+
+(a) The term *Department* means the Department of Health and Human Services, and includes each of its operating agencies and other organizational units.
+
+(b) The term *Secretary* means the Secretary of Health and Human Services.
+
+(c) The term *responsible Department official* means the Secretary or, to the extent of any delegation by the Secretary of authority to act in his stead under any one or more provisions of this part, any person or persons to whom the Secretary has heretofore delegated, or to whom the Secretary may hereafter delegate such authority.
+
+(d) The term *reviewing authority* means the Secretary, or any person or persons (including a board or other body specially created for that purpose and also including the responsible Department official) acting pursuant to authority delegated by the Secretary to carry out responsibilities under § 80.10 (a) through (d).
+
+(e) The term *United States* means the States of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, Guam, Wake Island, the Canal Zone, and the territories and possessions of the United States, and the term *State* means any one of the foregoing.
+
+(f) The term *Federal financial assistance* includes (1) grants and loans of Federal funds, (2) the grant or donation of Federal property and interests in property, (3) the detail of Federal personnel, (4) the sale and lease of, and the permission to use (on other than a casual or transient basis), Federal property or any interest in such property without consideration or at a nominal consideration, or at a consideration which is reduced for the purpose of assisting the recipient, or in recognition of the public interest to be served by such sale or lease to the recipient, and (5) any Federal agreement, arrangement, or other contract which has as one of its purposes the provision of assistance.
+
+(g) The term *program or activity* and the term *program* mean all of the operations of—
+
+(1)(i) A department, agency, special purpose district, or other instrumentality of a State or of a local government; or
+
+(ii) The entity of such State or local government that distributes Federal financial assistance and each such department or agency (and each other State or local government entity) to which the assistance is extended, in the case of assistance to a State or local government;
+
+(2)(i) A college, university, or other postsecondary institution, or a public system of higher education; or
+
+(ii) A local educational agency (as defined in 20 U.S.C. 7801), system of vocational education, or other school system;
+
+(3)(i) An entire corporation, partnership, or other private organization, or an entire sole proprietorship—
+
+(A) If assistance is extended to such corporation, partnership, private organization, or sole proprietorship as a whole; or
+
+(B) Which is principally engaged in the business of providing education, health care, housing, social services, or parks and recreation; or
+
+(ii) The entire plant or other comparable, geographically separate facility to which Federal financial assistance is extended, in the case of any other corporation, partnership, private organization, or sole proprietorship; or
+
+(4) Any other entity which is established by two or more of the entities described in paragraph (g)(1), (g)(2), or (g)(3) of this section; any part of which is extended Federal financial assistance.
+
+(h) The term *facility* includes all or any portion of structures, equipment, or other real or personal property or interests therein, and the provision of facilities includes the construction, expansion, renovation, remodeling, alteration or acquisition of facilities.
+
+(i) The term *recipient* means any State, political subdivision of any State, or instrumentality of any State or political subdivision, any public or private agency, institution, or organization, or other entity, or any individual, in any State, to whom Federal financial assistance is extended, directly or through another recipient, including any successor, assign, or transferee thereof, but such term does not include any ultimate beneficiary.
+
+(j) The term *primary recipient* means any recipient which is authorized or required to extend Federal financial assistance to another recipient.
+
+(k) The term *applicant* means one who submits an application, request, or plan required to be approved by a Department official, or by a primary recipient, as a condition to eligibility for Federal financial assistance, and the term *application* means such an application, request, or plan.
+
+(Secs. 602, 606, Civil Rights Act of 1964, (42 U.S.C. 2000d-1, 2000d-4a))
+
+[29 FR 16298, Dec. 4, 1964; 29 FR 16988, Dec. 11, 1964, as amended at 32 FR 14555, Oct. 19, 1967; 38 FR 17982, July 5, 1973; 70 FR 24318, May 9, 2005]
+
+## Appendix A to Part 80—Federal Financial Assistance to Which These Regulations Apply
+
+**Part 1. Assistance other than Continuing Assistance to States**
+
+\1. Loans for acquisition of equipment for academic subjects, and for minor remodeling (20 U.S.C. 445).
+
+\2. Construction of facilities for institutions of higher education (20 U.S.C. 701-758).
+
+\3. School Construction in federally-affected and in major disaster areas (20 U.S.C. 631-647).
+
+\4. Construction of educational broadcast facilities (47 U.S.C. 390-399).
+
+\5. Loan service of captioned films and educational media; research on, and production and distribution of, educational media for the handicapped, and training of persons in the use of such media for the handicapped (20 U.S.C. 1452).
+
+\6. Demonstration residential vocational education schools (20 U.S.C. 1321).
+
+\7. Research and related activities in education of handicapped children (20 U.S.C. 1441).
+
+\8. Educational research, dissemination and demonstration projects; research training; and construction under the Cooperation Research Act (20 U.S.C. 331-332(b)).
+
+\9. Research in teaching modern foreign languages (20 U.S.C. 512).
+
+\10. Training projects for manpower development and training (42 U.S.C. 2601, 2602, 2610a-2610c).
+
+\11. Research and training projects in Vocational Education (20 U.S.C. 1281(a), 1282-1284).
+
+\12. Allowances to institutions training NDEA graduate fellows (20 U.S.C. 461-465).
+
+\13. Grants for training in librarianship (20 U.S.C. 1031-1033).
+
+\14. Grants for training personnel for the education of handicapped children (20 U.S.C. 1431).
+
+\15. Allowances for institutions training teachers and related educational personnel in elementary and secondary education, or post-secondary vocational education (20 U.S.C. 1111-1118).
+
+\16. Recruitment, enrollment, training and assignment of Teacher Corps personnel (20 U.S.C. 1101-1107a).
+
+\17. Operation and maintenance of schools in Federally-affected and in major disaster areas (20 U.S.C. 236-241; 241-1; 242-244).
+
+\18. Grants or contracts for the operation of training institutes for elementary or secondary school personnel to deal with special educational problems occasioned by desegregation (42 U.S.C. 2000c-3).
+
+\19. Grants for in-service training of teachers and other schools personnel and employment of specialists in desegregation problems (42 U.S.C. 2000c-4).
+
+\20. Higher education students loan program (Title II, National Defense Education Act, 20 U.S.C. 421-429).
+
+\21. Educational Opportunity grants and assistance for State and private programs of low-interest insured loans and State loans to students in institutions of higher education (Title IV, Higher Education Act of 1965, 20 U.S.C. 1061-1087).
+
+\22. Grants and contracts for the conduct of Talent Search, Upward Bound, and Special Services Programs (20 U.S.C. 1068).
+
+\23. Land-grant college aid (7 U.S.C. 301-308; 321-326; 328-331).
+
+\24. Language and area centers (Title VI, National Defense Education Act, 20 U.S.C. 511).
+
+\25. American Printing House for the Blind (20 U.S.C. 101-105).
+
+\26. Future Farmers of America (36 U.S.C. 271-391) and similar programs.
+
+\27. Science clubs (Pub. L. 85-875, 20 U.S.C. 2, note).
+
+\28. Howard University (20 U.S.C. 121-129).
+
+\29. Gallaudet College (31 D.C. Code, Ch. 10).
+
+\30. Establishment and operation of a model secondary school for the deaf by Gallaudet College (31 D.C. Code 1051-1053; 80 Stat. 1027-1028).
+
+\31. Faculty development programs, workshops and institutes (20 U.S.C. 1131-1132).
+
+\32. National Technical Institute for the Deaf (20 U.S.C. 681-685).
+
+\33. Institutes and other programs for training educational personnel (Parts D, E, and F, Title V, Higher Education Act of 1965) (20 U.S.C. 1119-1119c-4).
+
+\34. Grants and contracts for research and demonstration projects in librarianship (20 U.S.C. 1034).
+
+\35. Acquisition of college library resources (20 U.S.C. 1021-1028).
+
+\36. Grants for strengthening developing institutions of higher education (20 U.S.C. 1051-1054); National Fellowships for teaching at developing institutions (20 U.S.C. 1055), and grants to retired professors to teach at developing institutions (20 U.S.C. 1056).
+
+\37. College Work-Study Program (42 U.S.C. 2751-2757).
+
+\38. Financial assistance for acquisition of higher education equipment, and minor remodeling (20 U.S.C. 1121-1129).
+
+\39. Grants for special experimental demonstration projects and teacher training in adult education (20 U.S.C. 1208).
+
+\40. Grant programs for advanced and undergraduate international studies (20 U.S.C. 1171-1176; 22 U.S.C. 2452(b)).
+
+\41. Experimental projects for developing State leadership or establishment of special services (20 U.S.C. 865).
+
+\42. Grants to and arrangements with State educational and other agencies to meet special educational needs of migratory children of migratory agricultural workers (20 U.S.C. 241e(c)).
+
+\43. Grants by the Commissioner of Education to local educational agencies for supplementary educational centers and services; guidance, counseling, and testing (20 U.S.C. 841-844; 844b).
+
+\44. Resource centers for improvement of education of handicapped children (20 U.S.C. 1421) and centers and services for deaf-blind children (20 U.S.C. 1422).
+
+\45. Recruitment of personnel and dissemination of information on education of handicapped (20 U.S.C. 1433).
+
+\46. Grants for research and demonstrations relating to physical education or recreation for handicapped children (20 U.S.C. 1442) and training of physical educators and recreation personnel (20 U.S.C. 1434).
+
+\47. Dropout prevention projects (20 U.S.C. 887).
+
+\48. Bilingual education programs (20 U.S.C. 880b-880b-6).
+
+\49. Grants to agencies and organizations for Cuban refugees (22) U.S.C. 2601(b)(4).
+
+\50. Grants and contracts for special programs for children with specific learning disabilities including research and related activities, training and operating model centers (20 U.S.C. 1461).
+
+\51. Curriculum development in vocational and technical education (20 U.S.C. 1391).
+
+\52. Establishment, including construction, and operation of a National Center on Educational Media and Materials for the Handicapped (20 U.S.C. 1453).
+
+\53. Grants and contracts for the development and operation of experimental preschool and early education programs for handicapped (20 U.S.C. 1423).
+
+\54. Grants to public or private non-profit agencies to carry on the Follow Through Program in kindergarten and elementary schools (42 U.S.C. 2809 (a)(2)).
+
+\55. Grants for programs of cooperative education and grants and contracts for training and research in cooperative education (20 U.S.C. 1087a-1087c).
+
+\56. Grants and contracts to encourage the sharing of college facilities and resources (network for knowledge) (20 U.S.C. 1133-1133b).
+
+\57. Grants, contracts, and fellowships to improve programs preparing persons for public service and to attract students to public service (20 U.S.C. 1134-1134b).
+
+\58. Grants for the improvement of graduate programs (20 U.S.C. 1135-1135c).
+
+\59. Contracts for expanding and improving law school clinical experience programs (20 U.S.C. 1136-1136b).
+
+\60. Exemplary programs and projects in vocational education (20 U.S.C. 1301-1305).
+
+\61. Grants to reduce borrowing cost for construction of residential schools and dormitories (20 U.S.C. 1323).
+
+\62. Project grants and contracts for research and demonstration relating to new or improved health facilities and services (section 304, PHS Act, 42 U.S.C. 242b).
+
+\63. Grants for construction or modernization of emergency rooms of general hospitals (Title VI, Part C, PHS Act, 42 U.S.C. 291j).
+
+\64. Institutional and special projects grants to schools of nursing (sections 805-808, PHS Act, 42 U.S.C. 296d-296g).
+
+\65. Grants for construction and initial staffing of facilities for prevention and treatment of alcoholism (section 241-2, Community Mental Health Centers Act (42 U.S.C. 2688 f and g).
+
+\66. Grants for construction and initial staffing of specialized facilities for the treatment of alcoholics requiring care in such facilities (section 243, Community Mental Health Centers Act, 42 U.S.C. 2688h).
+
+\67. Special project grants for training programs, evaluation of existing treatment programs, and conduct of significant programs relating to treatment of alcoholics (section 246, Community Mental Health Centers Act, 42 U.S.C. 2688j-1).
+
+\68. Grants for construction and initial staff of treatment facilities for narcotic addicts (section 251, Community Mental Health Centers Act, 42 U.S.C. 2688m).
+
+\69. Special project grants for training programs, evaluation of existing treatment programs, and conduct of significant programs relating to treatment of narcotics addicts (section 252, Community Mental Health Centers Act, 42 U.S.C. 2688n-1).
+
+\70. Grants for consultation services for Community Mental Health Centers, alcoholism prevention and treatment facilities for narcotic addicts, and facilities for mental health of children (section 264, Community Mental Health Centers Act, 42 U.S.C. 2688r).
+
+\71. Grants for construction and initial staff of facilities for mental health of children (section 271, Community Mental Health Centers Act, 42 U.S.C. 2688u).
+
+\72. Special project grants for training programs and evaluation of existing treatment program relating to mental health of children (section 272, Community Mental Health Centers Act, 42 U.S.C. 2688x).
+
+\73. Grants and loans for construction and modernization of medical facilities in the District of Columbia (Pub. L. 90-457; 82 Stat. 631-3).
+
+\74. Teaching facilities for nurse training (sections. 801-804, Public Health Service Act, 42 U.S.C. 296-296c).
+
+\75. Teaching facilities for allied health professions personnel (section 791, Public Health Service Act, 42 U.S.C. 295h).
+
+\76. Mental retardation research facilities (Title VI, Part D, Public Health Service Act, 42 U.S.C. 295-395e).
+
+\77. George Washington University Hospital construction (76 Stat. 83, Pub. L. 87-460, May 31, 1962).
+
+\78. Research projects, including conferences, communication activities and primate or other center grants (sections 301, 303, 304, and 308, Public Health Service Act, 42 U.S.C. 241, 242a, 242b, and 242f).
+
+\79. General research support (section 301(d), Public Health Service Act, 42 U.S.C. 241).
+
+\80. Mental Health demonstrations and administrative studies (section 303(a)(2), Public Health Service Act, 42 U.S.C. 242a).
+
+\81. Migratory workers health services (section 310, Public Health Service Act, 42 U.S.C. 242h).
+
+\82. Immunization programs (section 317, Public Health Service Act, 42 U.S.C. 247b).
+
+\83. Health research training projects and fellowship grants (sections 301, 433, Public Health Service Act, 42 U.S.C. 242, 289c).
+
+\84. Categorical (heart, cancer, etc.) grants for training, traineeships or fellowships (sections 303, 433, etc., Public Health Service Act, 42 U.S.C. 242a, 289c, etc.).
+
+\85. Advanced professional nurse traineeships (section 821, Public Health Service Act, 42 U.S.C. 297).
+
+\86. Department projects under Appalachian Regional Development Act (40 U.S.C. App. A).
+
+\87. Grants to institutions for traineeships for professional public health personnel section 306, Public Health Service Act, 42 U.S.C. 242d).
+
+\88. Grants for graduate or specialized training in public health (section 309, Public Health Service Act, 42 U.S.C. 242g).
+
+\89. Health professions school student loan program (Title VII, Part C, Public Health Service Act, 42 U.S.C. 294-294(k)).
+
+\90. Grants for provision in schools of public health of training, consultation and technical assistance in the field of public health and in the administration of state or local public health programs (section 309(c)), Public Health Service Act, 42 U.S.C. 242(g)(c)).
+
+\91. Project grants for training, studies, or demonstrations looking metropolitan area, or other local area plans for health services (section 314(c), Public Health Service Act, 42 U.S.C. 246(c)).
+
+\92. Project grants for training, studies, or demonstrations looking toward the development of improved comprehensive health planning (section 314(c), Public Health Service Act, 42 U.S.C. 246(c)).
+
+\93. Project grants for health services development (section 314(e), Public Health Service Act, 42 U.S.C. 246(e)).
+
+\94. Institutional and special grants to health professions schools (Title VII, Part E, Public Health Service Act, 42 U.S.C. 295f-295f-4).
+
+\95. Improvement grants to centers for allied health professions (section 792, Public Health Service Act, 42 U.S.C. 295h-1).
+
+\96. Scholarship grants to health professions schools (Title VII, Part F, Public Health Service Act, 42 U.S.C. 295h-1).
+
+\97. Scholarship grants to schools of nursing (Title VIII, Part D, Public Health Service Act, 42 U.S.C. 198c-298c-6).
+
+\98. Traineeships for advanced training of allied health professions personnel (section 793, Public Health Service Act, 42 U.S.C. 295h-2).
+
+\99. Contracts to encourage full utilization of nursing educational talent (section 868, Public Health Service Act, 42 U.S.C. 298c-7).
+
+\100. Grants to community mental health centers for the compensation of professional and technical personnel for the initial operation of new centers or of new services in centers (Community Mental Health Centers Act, Part B, 42 U.S.C. 2688-2688d).
+
+\101. Grants for the planning, construction, equipment and operation of multicounty demonstration health projects in the Appalachian region (section 202 of Appalachian Regional Development Act, Pub. L. 89-4, as amended, Pub. L. 90-103 40 U.S.C. App. 202).
+
+\102. Education, research, training, and demonstrations in the fields of heart disease, cancer, stroke and related diseases (sections 900-110, Public Health Service Act, 42 U.S.C. 299a-j).
+
+\103. Assistance to medical libraries (sections 390-399, Public Health Service Act, 42 U.S.C. 280b-280b-9).
+
+\104. Nursing student loans (sections 822-828. Public Health Service Act, 42 U.S.C. 297a-g).
+
+\105. Hawaii leprosy payments (section 331, Public Health Service Act, 42 U.S.C. 255).
+
+\106. Heart disease laboratories and related facilities for patient care (section 412(d), Public Health Service Act, 42 U.S.C. 287a(d)).
+
+\107. Grants for construction of hospitals serving Indians (Pub. L. 85-151, 42 U.S.C. 2005).
+
+\108. Indian Sanitation Facilities (Pub. L. 86-121, 42 U.S.C. 2004a).
+
+\109. Research projects relating to maternal and child health services and crippled children's services (42 U.S.C. 712).
+
+\110. Maternal and child health special project grants to State agencies and institutions of higher learning (42 U.S.C. 703(s)).
+
+\111. Maternity and infant care and family planning services; special project grants to local health agencies and other organizations (42 U.S.C. 708).
+
+\112. Special project grants to State agencies and institutions of higher learning for crippled children's services (42 U.S.C. 704(2)).
+
+\113. Special project grants for health of school and preschool children (42 U.S.C. 709) and for dental health of children (42 U.S.C. 710).
+
+\114. Grants to institutions of higher learning for training personnel for health care and related services for mothers and children (42 U.S.C. 711).
+
+\115. Grants and contracts for the conduct of research, experiments, or demonstrations relating to the developments, utilization, quality, organization, and financing of services, facilities, and resources of hospitals, long-term care facilities, for other medical facilities (section 304, Public Health Service Act, as amended by Pub. L. 90-174, 42 U.S.C. 242b).
+
+\116. Health research facilities (Title VII Part A, Public Health Service Act, 42 U.S.C. 292-292j).
+
+\117. Teaching facilities for health professions personnel (Title VII, Part B, Public Health Service Act, 42 U.S.C. 293-293h).
+
+\118. Project grants and contracts for research, development, training, and studies in the field of electronic product radiation (section 356, Public Health Service Act, 42 U.S.C. 263d).
+
+\119. Project grants and contracts for research, studies, demonstrations, training, and education relating to coal mine health (section 501, Federal Coal Mine Health and Safety Act of 1969, Public Law 91-173).
+
+\120. Surplus real and related personal property disposal (40 U.S.C. 484(k)).
+
+\121. Supplementary medical insurance benefits for the aged (Title XVIII, Part A, Social Security Act, 42 U.S.C. 1395c-1395i-2).
+
+\122. Issuance of rent-free permits for vending stands, credit unions, employee associations, etc. (20 U.S.C. 107-107f; 45 CFR Part 20; section 25, 12 U.S.C. 1170).
+
+\123. Grants for special vocational rehabilitation projects (29 U.S.C. 34(a)(1)).
+
+\124. Experimental, pilot or demonstration projects to promote the objectives of Title I, X, XIV, XVI, or XIX or Part A of Title IV of the Social Security Act (42 U.S.C. 1315).
+
+\125. Social Security and welfare cooperative research or demonstration projects (42 U.S.C. 1310).
+
+\126. Child welfare research, training, or demonstration projects (42 U.S.C. 626).
+
+\127. Training projects (Title VI, Older Americans Act, 42 U.S.C. 3041-3042).
+
+\128. Grants for expansion of vocational rehabilitation services (29 U.S.C. 34(a)(2) (A)).
+
+\129. Grants for construction of rehabilitation facilities (29 U.S.C. 41a(a)-(e)) and for initial staffing of rehabilitation facilities (29 U.S.C. 41a(f)).
+
+\130. Project development grants for rehabilitation facilities (29 U.S.C. 41a(g)(2)).
+
+\131. Rehabilitation Facility improvement grants (29 U.S.C. 41b(b)).
+
+\132. Agreement for the establishment and operation of a national center for deaf-blind youths and adults (29 U.S.C. 42a).
+
+\133. Project grants for services for migratory agricultural workers (29 U.S.C. 42b).
+
+\134. Grants for initial staffing of community mental retardation facilities (42 U.S.C. 2678-2678d).
+
+\135. Grants for training welfare personnel and for expansion and development of undergraduate and graduate social work programs (42 U.S.C. 906, 908).
+
+\136. Research and development projects concerning older Americans (42 U.S.C. 3031-3032).
+
+\137. Grants to States for training of nursing home administrators (42 U.S.C. 1396g (e)).
+
+\138. Contracts or jointly financed cooperative arrangements with industry (29 U.S.C. 34(a)(2)(B)).
+
+\139. Project grants for new careers in rehabilitation (29 U.S.C. 34(a)(2)(C)).
+
+\140. Children of low-income families (20 U.S.C. 241a-241m).
+
+\141. Grants for training (29 U.S.C. 37(a) (2)).
+
+\142. Grants for projects for training services (29 U.S.C. 41b(a)).
+
+\143. Grants for comprehensive juvenile delinquency planning (42 U.S.C. 3811).
+
+\144. Grants for project planning in juvenile delinquency (42 U.S.C. 3812).
+
+\145. Grants for juvenile delinquency rehabilitative services projects (42 U.S.C. 3822, 3842).
+
+\146. Grants for juvenile delinquency preventive service projects (42 U.S.C. 3861).
+
+\147. Grants for training projects in juvenile delinquency fields (42 U.S.C. 3861).
+
+\148. Grants for development of improved techniques and practices in juvenile delinquency services (42 U.S.C. 3871).
+
+\149. Grants for technical assistance in juvenile delinquency services (42 U.S.C. 3872).
+
+\150. Grants for State technical assistance to local units in juvenile delinquency services (42 U.S.C. 3873).
+
+\151. Grants for public service centers projects (42 U.S.C. 2744).
+
+\152. Grants to public or private non-profit agencies to carry on the Project Headstart Program (42 U.S.C. 2809(a)(1)).
+
+\153. Project grants for new careers for the handicapped (29 U.S.C. 34(a)(2)(D)).
+
+\154. Construction, demonstration, and training grants for university-affiliated facilities for persons with developmental disabilities (42 U.S.C. 2661-2666).
+
+\155. Supplementary medical insurance benefits for the aged (Title XVIII, Part B, Social Security Act, 42 U.S.C. 1395j-1395w-6).
+
+**Part 2. Continuing Assistance to State**
+
+\1. Grants to States for public library services and construction, interlibrary cooperation and specialized State library services for certain State institutions and the physically handicapped (20 U.S.C. 351-355).
+
+\2. Grants to States for strengthening instruction in academic subjects (20 U.S.C. 441-444).
+
+\3. Grants to States for vocational education (20 U.S.C. 1241-1264).
+
+\4. Arrangements with State education agencies for training under the Manpower Development and Training Act (42 U.S.C. 2601-2602, 2610a).
+
+\5. Grants to States to assist in the elementary and secondary education of children of low-income families (20 U.S.C. 241a-241m).
+
+\6. Grants to States to provide for school library resources, textbooks and other instructional materials for pupils and teachers in elementary and secondary schools (20 U.S.C. 821-827).
+
+\7. Grants to States to strengthen State departments of education (20 U.S.C. 861-870).
+
+\8. Grants to States for community service programs (20 U.S.C. 1001-1011).
+
+\9. Grants to States for adult basic education and related research, teacher training and special projects (20 U.S.C. 1201-1211).
+
+\10. Grants to State educational agencies for supplementary educational centers and services, and guidance, counseling and testing (20 U.S.C. 841-847).
+
+\11. Grants to States for research and training in vocational education (20 U.S.C. 1281(b)).
+
+\12. Grants to States for exemplary programs and projects in vocational education (20 U.S.C. 1301-1305).
+
+\13. Grants to States for residential vocational education schools (20 U.S.C. 1321).
+
+\14. Grants to States for consumer and homemaking education (20 U.S.C. 1341).
+
+\15. Grants to States for cooperative vocational educational program (20 U.S.C. 1351-1355).
+
+\16. Grants to States for vocational workstudy programs (20 U.S.C. 1371-1374).
+
+\17. Grants to States to attract and qualify teachers to meet critical teaching shortages (20 U.S.C. 1108-1110c).
+
+\18. Grants to States for education of handicapped children (20 U.S.C. 1411-1414).
+
+\19. Grants for administration of State plans and for comprehensive planning to determine construction needs of institutions of higher education (20 U.S.C. 715(b)).
+
+\20. Grants to States for comprehensive health planning (section 314(a), Public Health Service Act, 42 U.S.C. 246(a)).
+
+\21. Grants to States for establishing and maintaining adequate public health services (section 314(d), Public Health Service Act, 42 U.S.C. 246(d)).
+
+\22. Grants, loans, and loan guarantees with interest subsidies for hospital and medical facilities (Title VI, Public Health Service Act, 42 U.S.C. 291 *et seq.*).
+
+\23. Grants to States for community mental health centers construction (Community Mental Health Centers Act, Part A, 42 U.S.C. 2681-2687).
+
+\24. Cost of rehabilitation services (Title II, Social Security Act section 222(d); 42 U.S.C. 422(d)).
+
+\25. Surplus personal property disposal donations for health and educational purposes through State agencies (40 U.S.C. 484(j)).
+
+\26. Grants for State and community programs on aging (Title III, Older Americans Act, 42 U.S.C. 3021-3025).
+
+\27. Grants to States for planning, provision of services, and construction and operation of facilities for persons with developmental disabilities (42 U.S.C. 2670-2677c).
+
+\28. Grants to States for vocational rehabilitation services (29 U.S.C. 32); for innovation of vocational rehabilitation services (29 U.S.C. 33); and for rehabilitation facilities planning (29 U.S.C. 41a(g)(1)).
+
+\29. Designation of State licensing agency for blind operators of vending stands (20 U.S.C. 107-107f).
+
+\30. Grants to States for old-age assistance (42 U.S.C. 301 *et seq.*); aid to families with dependent children (42 U.S.C. 601 *et seq.*); child-welfare services (42 U.S.C. 620 *et seq.*); aid to the blind (42 U.S.C. 1201 *et seq.*); aid to the permanently and totally disabled (42 U.S.C. 1351 *et seq.*); aid to the aged, blind, or disabled (42 U.S.C. 1381 *et seq.*); medical assistance (42 U.S.C. 1396 *et seq.*).
+
+\31. Grants to States for maternal and child health and crippled children's services (42 U.S.C. 701-707); for special projects for maternal and infant care (42 U.S.C. 708).
+
+\32. Grants to States for juvenile delinquency preventive and rehabilitative services (42 U.S.C. 3841).
+
+[38 FR 17982, July 5, 1973; 40 FR 18173, Apr. 25, 1975, as amended at 70 FR 24319, May 9, 2005; 89 FR 37692, May 6, 2024]

@@ -1,0 +1,44 @@
+---
+title: "41 CFR Part 304 — DEFINITIONS"
+identifier: "41 CFR Part 304"
+type: regulation
+jurisdiction: us
+language: en
+last_amended: 2026-09-22  # latest amendment date of the CFR title
+status: in_force
+source: "https://www.ecfr.gov/current/title-41/part-304"
+retrieved: 2026-10-11
+ecfr_bulk_modified: "23-Sep-2026 21:29"
+---
+
+*Title 41—Public Contracts and Property Management › Subtitle F—Federal Travel Regulation System › CHAPTER 304—PAYMENT OF TRAVEL EXPENSES FROM A NON-FEDERAL SOURCE › SUBCHAPTER A—EMPLOYEE'S ACCEPTANCE OF PAYMENT FROM A NON-FEDERAL SOURCE FOR TRAVEL EXPENSES*
+
+# PART 304-2—DEFINITIONS
+
+**Authority:** 5 U.S.C. 5707; 31 U.S.C. 1353.
+
+**Source:** FTR Case 2025-05, 90 FR 56893, Dec. 8, 2025, unless otherwise noted.
+
+## § 304-2.1 Definitions applicable to this chapter.
+
+The following definitions apply to this chapter:
+
+*Employee* means an appointed officer or employee of an executive agency as defined in 5 U.S.C. 105, including a special Government employee as defined in 18 U.S.C. 202, or an expert or consultant appointed under the authority of 5 U.S.C. 3109.
+
+*Meeting(s) or similar functions (meeting)* means a conference, seminar, speaking engagement, symposium, training course, or similar event that takes place away from the employee's official station. “Meeting” as defined in this chapter does not include a meeting or other event required to carry out an agency's statutory or regulatory functions such as investigations, inspections, audits, site visits, negotiations or litigation. “Meeting” also does not include promotional vendor training or other meetings held for the primary purpose of marketing the non-Federal sources products or services, or long term TDY or training travel. A meeting need not be widely attended for purposes of this definition and includes but is not limited to the following:
+
+(1) An event where the employee will participate as a speaker or panel participant focusing on the employee's official duties or on the policies, programs or operations of the agency.
+
+(2) A conference, convention, seminar, symposium or similar event where the primary purpose is to receive training other than promotional vendor training, or to present or exchange substantive information of mutual interest to a number of parties.
+
+(3) An event where the employee will receive an award or honorary degree, which is in recognition of meritorious public service that is related to the employee's official duties, and which may be accepted by the employee consistent with the applicable standards of conduct regulations.
+
+*Non-Federal source* means any person or entity other than the Government of the United States. The term includes any individual, private or commercial entity, nonprofit organization or association, international or multinational organization (irrespective of whether an agency holds membership in the organization or association), or foreign, State or local government (including the government of the District of Columbia).
+
+*Payment* means a monetary payment from a non-Federal source to a Federal agency for travel, subsistence, related expenses by check or other monetary instrument payable to the Federal agency (*i.e.,* EFT, money order, charge card, etc.) or payment in kind.
+
+*Payment in kind* means transportation, food, lodging, or other travel-related services provided by a non-Federal source instead of monetary payments to the Federal agency for these services. Payment in kind also includes waiver or discount of any fees that a non-Federal source collects from meeting attendees (*e.g.,* registration fees), but does not include waivers or discounts of an employee's fees on the day(s) they are participating in the meeting or similar function as a speaker, panelist, or presenter.
+
+*Travel, subsistence, and related expenses (travel expenses)* means the same types of expenses payable under chapter 301 of this subtitle, the Foreign Affairs Manual (FAM), and the Joint Travel Regulations (JTR) for transportation, food, lodging or other travel-related services for official travel (*e.g.,* baggage expenses, services of guides, drivers, interpreters, communication services, hire of conference rooms, lodging taxes, laundry/dry cleaning, taxi or TNC fares, or the cost of utilizing an innovative mobility technology company, etc.). These expenses also include conference or training fees (in whole or in part), as well as benefits that cannot be paid under the applicable travel regulations, but which are incident to the meeting, provided in kind, and made available by the meeting sponsor(s) to all attendees. For example, this definition as applied to this chapter would allow an employee or spouse to attend a sporting event hosted by the sponsor(s) in connection with the meeting that is available to all participants. However, it would not allow the employee to accept tickets to a professional sporting event, concert or similar event, for use at a later date even if such tickets were given to all other participants. The Foreign Affairs Manual is available at *https://fam.state.gov.* The Joint Travel Regulations are available at *https://www.travel.dod.mil/Policy-Regulations/Joint-Travel-Regulations/.*
+
+## § 304-2.2 [Reserved]

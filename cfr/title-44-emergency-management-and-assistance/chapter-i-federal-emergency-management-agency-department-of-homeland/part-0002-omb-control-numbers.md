@@ -1,0 +1,59 @@
+---
+title: "44 CFR Part 2 — OMB CONTROL NUMBERS"
+identifier: "44 CFR Part 2"
+type: regulation
+jurisdiction: us
+language: en
+last_amended: 2026-06-22  # latest amendment date of the CFR title
+status: in_force
+source: "https://www.ecfr.gov/current/title-44/part-2"
+retrieved: 2026-10-11
+ecfr_bulk_modified: "24-Jun-2026 14:49"
+---
+
+*Title 44—Emergency Management and Assistance › CHAPTER I—FEDERAL EMERGENCY MANAGEMENT AGENCY, DEPARTMENT OF HOMELAND SECURITY › SUBCHAPTER A—GENERAL*
+
+# PART 2—OMB CONTROL NUMBERS
+
+**Authority:** 5 U.S.C. 552; 42 U.S.C. 3507; Reorganization Plan No. 3 of 1978, 5 U.S.C. App. 1; E.O. 12127, 3 CFR, 1979 Comp., p. 376; E.O. 12148, as amended, 3 CFR, 1979 Comp., p. 412.
+
+**Source:** 74 FR 15332, Apr. 3, 2009, unless otherwise noted.
+
+## § 2.1 Purpose.
+
+This part collects and displays the control numbers assigned to information collection requirements of FEMA by the Office of Management and Budget (OMB) pursuant to the Paperwork Reduction Act of 1980 (44 U.S.C. 3501 *et seq.*). FEMA intends that this part comply with the requirements of section 3507(f) of the Paperwork Reduction Act, which requires that agencies display a current control number assigned by the Director of OMB for each agency information collection requirement.
+
+## § 2.2 OMB control numbers assigned to information collections.
+
+| 44 CFR part or section where identified or described | Current OMB Control No. |
+|---|---|
+| 59 | 1660-0023 |
+| 59.22 | 1660-0003, 1660-0004 |
+| 59 subpart C | 1660-0045 |
+| 60.6, 60.3 | 1660-0033 |
+| 61.13 | 1660-0006 |
+| 62 subpart B | 1660-0005,1660-0095 |
+| 62.23(l) | 1660-0086 |
+| 62.24 | 1660-0020, 1660-0038 |
+| 65, 70 generally | 1660-0037 |
+| 71.4 | 1660-0010 |
+| 72 | 1660-0015, 1660-0016 |
+| 75.11 | 1660-0013 |
+| 78 | 1660-0062, 1660-0072,1660-0075 |
+| 79.7(d) | 1660-0104 |
+| 80 | 1660-0103 |
+| 151.11 | 1660-0014 |
+| 152.4, 152.7 | 1660-0069 |
+| 201 | 1660-0062, 1660-0072, 1660-0103 |
+| 204 | 1660-0058 |
+| 206 subpart B: 206.34, 206.35, 206.36, 206.46, 206.47 | 1660-0009 |
+| 206 subpart D: 206.101(e), 202.110, 206.117, 206.119 | 1660-0002 |
+| 206.112, 206.114, 206.115 | 1660-0061 |
+| 206.171 | 1660-0085 |
+| 206.202(f)(2), 206.203(c), 206.203(d)(i), 206.204(f) | 1660-0017 |
+| 206 subpart K | 1660-0082, 1660-0083 |
+| 206 subpart N | 1660-0076 |
+| 206.437 | 1660-0026 |
+| 206.440 | 1660-0076 |
+| 208 | 1660-0073 |
+| 352 | 1660-0024 |

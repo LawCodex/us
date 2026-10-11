@@ -1,0 +1,638 @@
+---
+title: "45 CFR Part 2552 — FOSTER GRANDPARENT PROGRAM"
+identifier: "45 CFR Part 2552"
+type: regulation
+jurisdiction: us
+language: en
+last_amended: 2026-10-06  # latest amendment date of the CFR title
+status: in_force
+source: "https://www.ecfr.gov/current/title-45/part-2552"
+retrieved: 2026-10-11
+ecfr_bulk_modified: "07-Oct-2026 21:18"
+---
+
+*Title 45—Public Welfare › Subtitle B—Regulations Relating to Public Welfare (Continued) › CHAPTER XXV—CORPORATION FOR NATIONAL AND COMMUNITY SERVICE*
+
+# PART 2552—FOSTER GRANDPARENT PROGRAM
+
+**Authority:** 42 U.S.C. 4950 *et seq.;* 42 U.S.C. 12651b-12651d; E.O. 13331, 69 FR 9911.
+
+**Source:** 64 FR 14126, Mar. 24, 1999, unless otherwise noted.
+
+**Editorial Note:**
+
+Nomenclature changes to part 2552 appear at 89 FR 70544, Aug. 30, 2024.
+
+## Subpart A—General
+
+### § 2552.11 What is the Foster Grandparent Program?
+
+The Foster Grandparent Program provides grants to qualified agencies and organizations for the dual purpose of engaging persons 55 and older, particularly those with limited incomes, in volunteer service to meet critical community needs; and to provide a high quality experience that will enrich the lives of the volunteers. Program funds are used to support Foster Grandparents in providing supportive, person to person service to children with special and or exceptional needs, or in circumstances that limit their academic, social or emotional development.
+
+[83 FR 64649, Dec. 17, 2018]
+
+### § 2552.12 Definitions.
+
+*Act.* The Domestic Volunteer Service Act of 1973, as amended, Public Law 93-113, Oct. 1, 1973, 87 Stat. 396, 42 U.S.C. 4950 *et seq.*
+
+*Adequate staffing level.* The number of project staff or full-time equivalent needed by a sponsor to manage the AmeriCorps Seniors project operations considering such factors as: Number of budgeted Volunteer Service Years (VSYs), number of volunteer stations, and the size of the service area.
+
+*AmeriCorps.* The Corporation for National and Community Service, established pursuant to section 191 of the National and Community Service Act of 1990, as amended, 42 U.S.C. 12651, which operates as AmeriCorps.
+
+*AmeriCorps Seniors.* The collective name for the Senior Companion Program (SCP), the Foster Grandparent Program (FGP), the Retired and Senior Volunteer Program (RSVP), and Demonstration Programs, all of which are established under Parts A, B, C, and E, Title II of the Act.
+
+*Annual income.* The applicant's or enrollee's total income, as calculated in § 2552.44, over the preceding 12 months.
+
+*Chief Executive Officer.* The Chief Executive Officer of AmeriCorps appointed under the National and Community Service Act of 1990, as amended, (NCSA), 42 U.S.C. 12501 *et seq.*
+
+*Child.* Any individual who is less than 21 years of age.
+
+*Children having exceptional needs.* Children who have a developmental disability, such as those who have autism; an intellectual disability; cerebral palsy or epilepsy; a visual, speech, hearing, or orthopedic impairment; an emotional, behavioral, or language disorder; a specific learning disability; multiple disabilities; other significant health impairments; or have literacy, math or other educational assistance needs. Before a Foster Grandparent is assigned to a child, existence of the child's exceptional need shall be verified by an appropriate professional, such as a physician; psychiatrist; psychologist, including school psychologists; registered nurse or licensed practical nurse; speech therapist; licensed clinical social worker; or educator.
+
+*Children with special needs.* Children who are abused or neglected, in need of foster care, adjudicated youth, homeless youth, teenage parents, and children in need of protective intervention in their homes. Existence of a child's special need shall be verified by an appropriate professional before a Foster Grandparent is assigned to the child.
+
+*Cost reimbursements.* Reimbursements budgeted as Volunteer Expenses and provided to volunteers, including stipends to cover incidental costs; transportation; meals; recognition; supplemental accident, personal liability and excess automobile liability insurance; and other expenses as negotiated in the Memorandum of Understanding.
+
+*In-home.* The non-institutional assignment of a Foster Grandparent in a private residence or a foster home.
+
+*Letter of Agreement.* A written agreement between a volunteer station or sponsor and the person(s) served or the person legally responsible for that person. It authorizes the assignment of an FGP volunteer in the home of a client, defines FGP volunteer activities, and specifies supervision arrangements.
+
+*Memorandum of Understanding.* A written statement prepared and signed by the Foster Grandparent project sponsor and the volunteer station that identifies project requirements, working relationships, and mutual responsibilities.
+
+*Non-AmeriCorps support (excess).* The amount of non-Federal cash and in-kind contributions generated by a sponsor in excess of the required percentage.
+
+*Non-AmeriCorps support (match).* The percentage share of non-AmeriCorps cash and in-kind contributions required to be raised by the sponsor in support of the grant.
+
+*Non-AmeriCorps support (excess).* The amount of non-Federal cash and in-kind contributions generated by a sponsor in excess of the required percentage.
+
+*Parent.* A natural parent or a person acting in place of a natural parent, such as a guardian, a child's natural grandparent, or a step-parent with whom the child lives. The term also includes otherwise-unrelated individuals who are legally responsible for a child's welfare.
+
+*Performance measures.* Indicators that help determine the impact of an FGP project on the community and clients served, including the volunteers.
+
+*Project.* The locally planned FGP activity or set of activities in a service area as approved by AmeriCorps and implemented by the sponsor.
+
+*Proprietary Health Care Agency.* Private, for-profit health care organization that serves one or more vulnerable populations.
+
+*Service area.* The geographically defined area(s) in which Foster Grandparents are enrolled and placed on assignments.
+
+*Service schedule.* A written delineation of the days and times a Foster Grandparent serves each week.
+
+*Sponsor.* A public agency, including Indian Tribes as defined in section 421(5) of the Act, and private, non-profit organizations, both secular and faith-based, in the United States that have authority to accept and the capability to administer a Foster Grandparent project.
+
+*Stipend.* A payment to Foster Grandparents to enable them to serve without cost to themselves. The amount of the stipend is set by AmeriCorps in accordance with Federal law.
+
+*United States and Territories.* Each of the several States, the District of Columbia, the U.S. Virgin Islands, the Commonwealth of Puerto Rico, Guam and American Samoa, the Commonwealth of the Northern Mariana Islands, and the Trust Territories of the Pacific Islands.
+
+*Volunteer assignment plan.* A written description of a Foster Grandparent's assignment with a child. The plan identifies specific outcomes for the child and the activities of the Foster Grandparent.
+
+*Volunteer station.* A public agency; a private, non-profit organization, secular or faith-based; or a proprietary health care organization. A volunteer station must accept responsibility for the assignment and supervision of Foster Grandparents in health, education, social service, or related settings such as multi-purpose centers, home health care agencies, or similar establishments. Each volunteer station must be licensed or otherwise certified, when required, by the appropriate state or local government. Private homes are not volunteer stations.
+
+[64 FR 14126, Mar. 24, 1999, as amended at 69 FR 60095, Oct. 7, 2004; 83 FR 64649, Dec. 17, 2018; 89 FR 70542, Aug. 30, 2024]
+
+## Subpart B—Eligibility and Responsibilities of a Sponsor
+
+### § 2552.21 Who is eligible to serve as a sponsor?
+
+AmeriCorps awards grants to public agencies, including Indian tribes as defined in section 421(5) of the Act, and private, non-profit organizations, both secular and faith-based, in the United States that have authority to accept and the capability to administer a Foster Grandparent project.
+
+[83 FR 64650, Dec. 17, 2018]
+
+### § 2552.22 What are the responsibilities of a sponsor?
+
+A sponsor is responsible for fulfilling all project management requirements necessary to accomplish the purposes of the Foster Grandparent Program as specified in the Act. A sponsor shall not delegate or contract these overall management responsibilities to another entity. AmeriCorps retains the right to determine what types of management responsibilities may or may not be contracted.
+
+[83 FR 64650, Dec. 17, 2018]
+
+### § 2552.23 What are a sponsor's project responsibilities?
+
+A sponsor shall:
+
+(a) Focus Foster Grandparent resources, within the project's service area, on providing supportive services and companionship to children with special and exceptional needs, or in circumstances that limit their academic, social or emotional development.
+
+(b) In collaboration with other community organizations or by using existing assessments, assess the needs of the community or service area, and develop strategies to respond to identified needs using Foster Grandparents.
+
+(c) Develop and manage one or more volunteer stations by:
+
+(1) Ensuring that a volunteer station is a public or non-profit private organization, whether secular or faith-based, or an eligible proprietary health care agency, capable of serving as a volunteer station for the placement of Foster Grandparents;
+
+(2) Ensuring that the placement of Foster Grandparents will be governed by a Memorandum of Understanding:
+
+(i) That is negotiated prior to placement;
+
+(ii) That specifies the mutual responsibilities of the station and sponsor;
+
+(iii) That is renegotiated at least every three years;
+
+(iv) That states the station will not discriminate against FGP volunteers, service beneficiaries, or in the operation of its program on the basis of race, color, national origin including individuals with limited English proficiency, gender, age, religion, sexual orientation, disability, gender identity or expression, political affiliation, marital or parental status, or military service; and
+
+(3) Reviewing volunteer placements regularly to ensure that clients are eligible to be served.
+
+(d) Develop Foster Grandparent service opportunities to support locally-identified needs of eligible children in a way that considers the skills and experiences of Foster Grandparents.
+
+(e) Consider the demographic make-up of the project service area in the enrollment of Foster Grandparents, taking special efforts to recruit eligible individuals from minority groups, persons with disabilities, and under-represented groups.
+
+(f) Provide Foster Grandparents with assignments that show direct and demonstrable benefits to the children and the community served, the Foster Grandparents, and the volunteer station; with required cost reimbursements specified in § 2552.46; with 20 hours of pre-service orientation and at least 24 hours annually of in-service training.
+
+(g) Encourage the most efficient and effective use of Foster Grandparents by coordinating project services and activities with related national, state and local programs, including other AmeriCorps programs.
+
+(h) Conduct an annual appraisal of volunteers' performance and annual review of their income eligibility.
+
+(i) Establish written service policies for Foster Grandparents that include but are not limited to:
+
+(1) Annual and sick leave.
+
+(2) Administrative leave, meaning a temporary absence the sponsor allows in extenuating circumstances that prevent the Foster Grandparent from serving or serving safely.
+
+(3) Holidays.
+
+(4) Service schedules.
+
+(5) Termination and appeal procedures.
+
+(6) Meal and transportation reimbursements.
+
+(j) Conduct National Service Criminal History Checks in accordance with the requirements in 45 CFR 2540.200 through 2540.207.
+
+(k) Provide Foster Grandparent volunteers with cost reimbursements specified in this section.
+
+(l) Make every effort to meet such performance measures as established in the approved grant application.
+
+[64 FR 14126, Mar. 24, 1999, as amended at 67 FR 61000, Sept. 27, 2002; 69 FR 60095, Oct. 7, 2004; 74 FR 46508, Sept. 10, 2009; 77 FR 60934, Oct. 5, 2012; 83 FR 64650, Dec. 17, 2018; 89 FR 70543, Aug. 30, 2024]
+
+### § 2552.24 What are a sponsor's responsibilities for securing community participation?
+
+(a) A sponsor shall secure community participation in local project operation by establishing an Advisory Council or a similar organizational structure with a membership that includes people:
+
+(1) Knowledgeable of human and social needs of the community;
+
+(2) With an interest in the field of community service and volunteerism;
+
+(3) Capable of helping the sponsor satisfy its administrative and program responsibilities including fund-raising, publicity and meeting or exceeding performance measures;
+
+(4) With an interest in, and knowledge of, the range of abilities of older adults; and
+
+(5) Of a diverse composition that reflects the demographics of the service area.
+
+(b) The sponsor determines how such participation shall be secured consistent with the provisions of paragraphs (a)(1) through (a)(5) of this section.
+
+[64 FR 14126, Mar. 24, 1999, as amended at 83 FR 64650, Dec. 17, 2018]
+
+### § 2552.25 What are a sponsor's administrative responsibilities?
+
+A sponsor shall:
+
+(a) Assume full responsibility for securing maximum and continuing community financial and in-kind support to operate the project successfully.
+
+(b) Provide levels of staffing and resources appropriate to accomplish the purposes of the project and carry out its project management responsibilities.
+
+(c) Employ a full-time project director to accomplish project objectives and manage the functions and activities delegate to project staff for Senior Corps project(s) within its control. The project director may participate in activities to coordinate project resources with those of related local agencies, boards or organizations. A full-time project director shall not serve concurrently in another capacity, paid or unpaid, during established working hours. A sponsor may negotiate the employment of a part-time project director with AmeriCorps when the sponsor can demonstrate that such an arrangement will not adversely affect the size, scope or quality of project operations.
+
+(d) Consider all project staff as sponsor employees subject to its personnel policies and procedures.
+
+(e) Compensate project staff at a level that is comparable to similar staff positions in the sponsor organization and/or project service area, as is practicable.
+
+(f) Establish risk management policies and procedures covering Foster Grandparent project activities. This includes provision of appropriate insurance coverage for Foster Grandparents, which includes; accident insurance, personal liability insurance, and excess automobile liability insurance.
+
+(g) Establish record keeping and reporting systems in compliance with AmeriCorps requirements that ensure quality of program and fiscal operations, facilitate timely and accurate submission of required reports and cooperate with AmeriCorps evaluation and data collection efforts.
+
+(h) Comply with, and ensure that Memorandums of Understanding require all volunteer stations to comply with, all applicable civil rights laws and regulations, including non-discrimination based on disability.
+
+[64 FR 14126, Mar. 24, 1999, as amended at 83 FR 64650, Dec. 17, 2018; 89 FR 70543, Aug. 30, 2024]
+
+### § 2552.26-2552.33 [Reserved]
+
+## Subpart C—Suspension and Termination of AmeriCorps Assistance
+
+### § 2552.34 What are the rules on suspension, termination, and denial of refunding of grants?
+
+(a) The Chief Executive Officer or designee is authorized to suspend further payments or to terminate payments under any grant providing assistance under the Act whenever he/she determines there is a material failure to comply with applicable terms and conditions of the grant. The Chief Executive Officer shall prescribe procedures to ensure that:
+
+(1) Assistance under the Act shall not be suspended for failure to comply with applicable terms and conditions, except in emergency situations for thirty days;
+
+(2) An application for refunding under the Act may not be denied unless the recipient has been given:
+
+(i) Notice at least 75 days before the denial of such application of the possibility of such denial and the grounds for any such denial; and
+
+(ii) Opportunity to show cause why such action should not be taken;
+
+(3) In any case where an application for refunding is denied for failure to comply with the terms and conditions of the grant, the recipient shall be afforded an opportunity for an informal hearing before an impartial hearing officer, who has been agreed to by the recipient and AmeriCorps; and
+
+(4) Assistance under the Act shall not be terminated for failure to comply with applicable terms and conditions unless the recipient has been afforded reasonable notice and opportunity for a full and fair hearing.
+
+(b) Hearings or other meetings as may be necessary to fulfill the requirements of this section should, to the extent practicable, be held in locations convenient to the grant recipient.
+
+(c) The procedures for suspension, termination, and denial of refunding, that apply to the Foster Grandparent Program are specified in 45 CFR part 1206.
+
+[64 FR 14126, Mar. 24, 1999. Redesignated at 72 FR 48584, Aug. 24, 2007; 83 FR 64650, Dec. 17, 2018]
+
+## Subpart D—Foster Grandparent Eligibility, Status, Cost Reimbursements and Benefits
+
+### § 2552.41 Who is eligible to be a Foster Grandparent?
+
+(a) To be a Foster Grandparent an individual must:
+
+(1) Be 55 years of age or older; and
+
+(2) In order to receive a stipend, have an income that is within the income eligibility guidelines specified in this subpart.
+
+(b) Eligibility to serve as a Foster Grandparent shall not be restricted on the basis of formal education, experience, race, color, national origin including limited English proficiency, gender, age, religion, sexual orientation, disability, gender identity or expression, political affiliation, marital or parental status, or military service.
+
+[64 FR 14126, Mar. 24, 1999, as amended at 74 FR 46509, Sept. 10, 2009; 83 FR 64651, Dec. 17, 2018]
+
+### § 2552.42 What types of criminal convictions or other adjudications disqualify an individual from serving as a Foster Grandparent or as a Foster Grandparent grant-funded employee?
+
+Any individual who is registered, or who is required to be registered, on a State sex offender registry, or who has been convicted of murder, as defined under Federal law in section 1111 of title 18, United States Code, is deemed unsuitable for, and may not serve in, a position as a Foster Grandparent or as a Foster Grandparent grant-funded employee.
+
+[74 FR 46509, Sept. 10, 2009]
+
+### § 2552.43 What income guidelines govern eligibility to serve as a stipended Foster Grandparent?
+
+(a) To receive a stipend, a Foster Grandparent may not have an annual income from all sources, after deducting allowable medical expenses, which exceeds the program's income eligibility guideline for the State in which he or she resides. The income eligibility guideline for each State is 200 percent of the poverty line, as set forth in 42 U.S.C. 9902 (2).
+
+(b) For applicants to become stipended Foster Grandparents, income is based on annual income at the time of application. For serving stipended Foster Grandparents, annual income is counted for the past 12 months. Annual income includes the applicant or enrollee's income and that of his/her spouse, if the spouse lives in the same residence, as calculated in § 2552.44.
+
+(c) Allowable medical expenses are annual out-of-pocket medical expenses for health insurance premiums, health care services, and medications provided to the applicant, enrollee, or spouse which were not and will not be paid by Medicare, Medicaid, other insurance, or other third party pay or, and which do not exceed 50 percent of the applicable income guideline.
+
+(d) Applicants whose income is not more than 100 percent of the poverty line shall be given special consideration for enrollment.
+
+(e) Once enrolled, a Foster Grandparent shall remain eligible to serve and to receive a stipend so long as his or her income, does not exceed the applicable income eligibility guideline by 20 percent.
+
+[64 FR 14126, Mar. 24, 1999, as amended at 67 FR 61000, Sept. 27, 2002; 69 FR 19775, Apr. 14, 2004. Redesignated at 72 FR 48585, Aug. 24, 2007; 74 FR 46509, Sept. 10, 2009; 83 FR 64651, Dec. 17, 2018; 89 FR 70543, Aug. 30, 2024]
+
+### § 2552.44 What is considered income for determining volunteer eligibility?
+
+(a) For determining eligibility, “income” refers to total cash and in-kind receipts before taxes from all sources including:
+
+(1) Money, wages, and salaries before any deduction;
+
+(2) Receipts from self-employment or from a farm or business after deductions for business or farm expenses;
+
+(3) Social Security, Unemployment or Workers Compensation, alimony, and military family allotments, or other legally required financial support from an absent family member or someone not living in the household.
+
+(4) Government employee pensions, private pensions, regular insurance or annuity payments, and 401(k) or other retirement savings plans;
+
+(5) Income from dividends, interest, net rents, royalties, or income from estates and trusts.
+
+(b) For eligibility purposes, income does not refer to the following money receipts:
+
+(1) Any assets drawn down as withdrawals from a bank, sale of property, house or car, tax refunds, gifts, one-time insurance payments or compensation from injury.
+
+(2) Non-cash income, such as the bonus value of food and fuel produced and consumed on farms and the imputed value of rent from owner-occupied farm or non-farm housing.
+
+(3) Regular payments for public assistance including the Supplemental Nutrition Assistance Program (SNAP).
+
+(4) Social Security Disability or any type of disability payment.
+
+(5) Food or rent received in lieu of wages.
+
+[64 FR 14126, Mar. 24, 1999. Redesignated at 72 FR 48585, Aug. 24, 2007; 83 FR 64651, Dec. 17, 2018; 89 FR 70543, Aug. 30, 2024]
+
+### § 2552.45 Is a Foster Grandparent a federal employee, an employee of the sponsor or of the volunteer station?
+
+Foster Grandparents are volunteers, and are not employees of the sponsor, the volunteer station, AmeriCorps or the Federal Government.
+
+[83 FR 64651, Dec. 17, 2018]
+
+### § 2552.46 What cost reimbursements and benefits do sponsors provide to Foster Grandparents?
+
+Cost reimbursements and benefits include:
+
+(a) *Stipend.* The stipend is paid for the time Foster Grandparents spend with their assigned children, for earned leave, for administrative leave, and for attendance at official project events. The sponsor may pay a stipend for administrative leave for extenuating circumstances lasting up to seven calendar days but must obtain AmeriCorps' written approval to pay a stipend for administrative leave based on extenuating circumstances lasting beyond seven calendar days.
+
+(b) *Insurance.* A Foster Grandparent is provided with the AmeriCorps specified minimum levels of insurance as follows:
+
+(1) *Accident insurance.* Accident insurance covers Foster Grandparents for personal injury during travel between their homes and places of assignment, during their service, during meal periods while serving as a Foster Grandparent, and while attending project-sponsored activities. Protection shall be provided against claims in excess of any benefits or services for medical care or treatment available to the Foster Grandparent from other sources.
+
+(2) *Personal liability insurance.* Protection is provided against claims in excess of protection provided by other insurance. Such protection does not include professional liability coverage.
+
+(3) *Excess automobile liability insurance.* (i) For Foster Grandparents who drive in connection with their service, protection is provided against claims in excess of the greater of either:
+
+(A) Liability insurance Foster Grandparents carry on their own automobiles; or
+
+(B) The limits of applicable state financial responsibility law, or in its absence, levels of protection to be determined by AmeriCorps for each person, each accident, and for property damage.
+
+(ii) Foster Grandparents who drive their personal vehicles to, or on, assignments or project-related activities, shall maintain personal automobile liability insurance equal to or exceeding the levels established by AmeriCorps.
+
+(c) *Transportation.* Foster Grandparents shall receive assistance with the cost of transportation to and from, assignments and official project activities, including orientation, training, and recognition events.
+
+(d) *Meals.* Foster Grandparents may be provided assistance with the cost of meals taken while on assignment, within limits of the project's available resources.
+
+(e) *Recognition.* Foster Grandparent volunteers shall be provided recognition for their service.
+
+(f) *Physical examination.* Foster Grandparents may be provided a physical examination or assistance with the cost of a physical examination prior to assignment and annually thereafter.
+
+(g) *Other volunteer expenses.* Foster Grandparents may also be reimbursed for allowable out-of-pocket expenses incurred while performing their assignments.
+
+[64 FR 14126, Mar. 24, 1999, as amended at 69 FR 19775, Apr. 14, 2004; 69 FR 56718, Sept. 22, 2004. Redesignated at 72 FR 48585, Aug. 24, 2007; 83 FR 64651, Dec. 17, 2018; 89 FR 70543, Aug. 30, 2024]
+
+### § 2552.47 May the cost reimbursements and benefits received by a Foster Grandparent be subject to any tax or charge, be treated as wages or compensation, or affect eligibility to receive assistance from other programs?
+
+No. Foster Grandparent's cost reimbursements and benefits are not subject to any tax or charge or treated as wages or compensation for the purposes of unemployment insurance, worker's compensation, temporary disability, retirement, public assistance, or similar benefit payments or minimum wage laws. Cost reimbursements and benefits are not subject to garnishment and do not reduce or eliminate the level of, or eligibility for, assistance or services a Foster Grandparent may be receiving under any governmental program.
+
+[83 FR 64651, Dec. 17, 2018]
+
+## Subpart E—Foster Grandparent Terms of Service
+
+### § 2552.51 What are the terms of service of a Foster Grandparent?
+
+A Foster Grandparent shall serve a minimum of 260 hours annually, or a minimum of 5 hours per week. A Foster Grandparent may serve a maximum of 2080 hours annually, or a maximum of 40 hours per week. Within these limitations, a sponsor may set service policies consistent with local needs.
+
+[83 FR 64652, Dec. 17, 2018]
+
+### § 2552.52 What factors are considered in determining a Foster Grandparent's service schedule?
+
+(a) Travel time between the Foster Grandparent's home and place of assignment is not part of the service schedule and is not stipended.
+
+(b) Travel time between individual assignments is a part of the service schedule and is stipended.
+
+(c) Meal time may be part of the service schedule and is stipended.
+
+[64 FR 14126, Mar. 24, 1999, as amended at 83 FR 64652, Dec. 17, 2018]
+
+### § 2552.53 Under what circumstances may a Foster Grandparent be removed from service?
+
+(a) A sponsor may remove a Foster Grandparent from service for cause. Grounds for removal include, but are not limited to: Extensive and unauthorized absences; misconduct; failure to perform assignments or failure to accept supervision. A Foster Grandparent may also be removed from stipended service for having income in excess of the eligibility level. A Foster Grandparent shall be removed immediately if ineligible to serve based on criminal history check results.
+
+(b) The sponsor shall establish appropriate policies on removal from service, as well as procedures for appeal.
+
+[83 FR 64652, Dec. 17, 2018]
+
+## Subpart F—Responsibilities of a Volunteer Station
+
+### § 2552.61 May a sponsor serve as a volunteer station?
+
+Yes. A sponsor may serve as a volunteer station, if the activities are part of a work plan in the approved project application.
+
+[83 FR 64652, Dec. 17, 2018]
+
+### § 2552.62 What are the responsibilities of a volunteer station?
+
+A volunteer station shall undertake the following responsibilities in support of Foster Grandparent volunteers:
+
+(a) Develop volunteer assignments that meet the requirements specified in §§ 2552.71 through 2552.72 and regularly assess those assignments for continued appropriateness.
+
+(b) Select eligible children for assigned volunteers.
+
+(c) Develop a written volunteer assignment plan for each Foster Grandparent that identifies their roles and activities, each child served, and expected outcomes.
+
+(d) Keep a Letter of Agreement for each child who receives in-home service.
+
+(e) Provide Foster Grandparents serving the station with:
+
+(1) Orientation to the station and any in-service training necessary to enhance performance of assignments; and
+
+(2) Resources required for performance of assignments, including reasonable accommodation, as needed, to enable Foster Grandparents with disabilities to perform the essential functions of their service; and
+
+(f) Designate a staff member to oversee fulfillment of station responsibilities and supervision of Foster Grandparents while on assignment.
+
+(g) Keep records and prepare reports required by the sponsor.
+
+(h) Provide for the safety of Foster Grandparents assigned to it.
+
+(i) Comply with all applicable civil rights laws and regulations, including providing Foster Grandparents with disabilities reasonable accommodation, to perform the essential functions of their service.
+
+(j) Undertake such other responsibilities as may be necessary for the successful performance of Foster Grandparents in their assignments or as agreed to in the Memorandum of Understanding.
+
+[64 FR 14126, Mar. 24, 1999, as amended at 83 FR 64652, Dec. 17, 2018]
+
+## Subpart G—Foster Grandparent Placements and Assignments
+
+### § 2552.71 What requirements govern the assignment of Foster Grandparents?
+
+Foster Grandparent assignments shall:
+
+(a) Provide for Foster Grandparents to give direct services to one or more eligible children.
+
+(b) Result in person-to-person supportive relationships with each child served. Foster Grandparent volunteers cannot be assigned to roles such as teacher's aides, group leaders or other similar positions that would detract from the person-to-person relationship.
+
+(c) Support the development and growth of each child served.
+
+(d) Be meaningful to the Foster Grandparent.
+
+(e) Be supported by appropriate orientation, training and supervision.
+
+[64 FR 14126, Mar. 24, 1999, as amended at 83 FR 64652, Dec. 17, 2018]
+
+### § 2552.72 Is a written volunteer assignment plan required for each Foster Grandparent?
+
+(a) All Foster Grandparents shall receive a written volunteer assignment plan developed by the volunteer station that:
+
+(1) Is approved by the sponsor and accepted by the Foster Grandparent;
+
+(2) Identifies the individual child(ren) to be served;
+
+(3) Identifies the role and activities of the Foster Grandparent and expected outcomes for the child;
+
+(4) Addresses the period of time each child should receive such services; and
+
+(5) Is used to review the impact of the assignment on the child(ren).
+
+(b) [Reserved]
+
+[64 FR 14126, Mar. 24, 1999, as amended at 83 FR 64652, Dec. 17, 2018]
+
+## Subpart H—Children and Youth Served
+
+### § 2552.81 Who is eligible to be served?
+
+Foster Grandparents serve only children and youth with special and exceptional needs, or in circumstances that limit their academic, social, or emotional development, who are less than 21 years of age.
+
+[74 FR 46509, Sept. 10, 2009, as amended at 83 FR 64652, Dec. 17, 2018]
+
+### § 2552.82 Under what circumstances may a Foster Grandparent continue to serve an individual beyond his or her 21st birthday?
+
+(a) Only when a Foster Grandparent has been assigned to, and has developed a relationship with an individual with a disability, may that assignment continue beyond the individual's 21st birthday, provided that:
+
+(1) Such individual was receiving such services prior to attaining the chronological age of 21, and the continuation of service is in the best interest of the individual; and
+
+(2) The sponsor determines that it is in the best interest of both the Foster Grandparent and the individual for the assignment to continue. Such a determination will be made through mutual agreement by all parties involved in the provision of services to the individual served.
+
+(b) In cases where the assigned Foster Grandparent becomes unavailable to serve a particular individual, the replacement of that Foster Grandparent shall be made through mutual agreement by all parties involved.
+
+(c) The sponsor may terminate service to a child with a disability over age 21, if it determines that such service is no longer in the best interest of either the Foster Grandparent or the individual served.
+
+[64 FR 14126, Mar. 24, 1999, as amended at 74 FR 46509, Sept. 10, 2009; 74 FR 48866, Sept. 25, 2009; 83 FR 64652, Dec. 17, 2018]
+
+## Subpart I—Application and Fiscal Requirements
+
+### § 2552.91 What is the process for application and award of a grant?
+
+(a) *How and when may an eligible organization apply for a grant?* (1) An eligible organization may file an application in response to AmeriCorps' published request, such as a Notice of Funding Opportunity or a Notice of Funding Availability. Applicants are not assured of selection or approval and may have to compete with other applicants.
+
+(2) The applicant shall comply with the provisions of Executive Order 12372, “Intergovernmental Review of Federal Programs,” (3 CFR, 1982 Comp., p. 197) in 45 CFR part 1233 and any other applicable requirements.
+
+(b) *Who reviews the merits of an application and how is a grant awarded?* (1) AmeriCorps reviews and determines the merit of an application by its responsiveness to published guidelines and to the overall purposes and objectives of the program. When funds are available, AmeriCorps awards a grant in writing to each applicant whose grant proposal provides the best potential for serving the purpose of the program.
+
+(2) The award will be documented by the Notice of Grant Award (NGA). AmeriCorps and the sponsoring organization are the parties to the NGA. The NGA will document the sponsor's commitment to fulfill specific programmatic objectives and financial obligations. It will document the extent of AmeriCorps' obligation to provide financial support to the sponsor.
+
+(c) *What happens if AmeriCorps rejects an application?* AmeriCorps will return an application that is not approved for funding to the applicant with an explanation of AmeriCorps' decision.
+
+(d) *For what period of time does AmeriCorps award a grant?* AmeriCorps awards a Foster Grandparent grant for a specified period that is usually three years in duration.
+
+[83 FR 64652, Dec. 17, 2018, as amended at 89 FR 70544, Aug. 30, 2024]
+
+### § 2552.92 What are project funding requirements?
+
+(a) *Is non-AmeriCorps support required?* A AmeriCorps grant may be awarded to fund up to 90 percent of the cost of development and operation of a Foster Grandparent project. The sponsor is required to contribute at least 10 percent of the total project cost from non-Federal sources or authorized Federal sources.
+
+(b) *Under what circumstances does AmeriCorps allow less than the 10 percent non-AmeriCorps support?* AmeriCorps may allow exceptions to the 10 percent local support requirement in cases of demonstrated need such as:
+
+(1) Initial difficulties in the development of local funding sources during the first three years of operations; or
+
+(2) An economic downturn, the occurrence of a natural disaster, or similar events in the service area that severely restrict or reduce sources of local funding support; or
+
+(3) The unexpected discontinuation of local support from one or more sources that a project has relied on for a period of years.
+
+(c) *May AmeriCorps restrict how a sponsor uses locally generated contributions in excess of the 10 percent non-AmeriCorps support required?* Whenever locally generated contributions to Foster Grandparent projects are in excess of the minimum 10 percent non-AmeriCorps support required, AmeriCorps may not restrict the manner in which such contributions are expended provided such expenditures are consistent with the provisions of the Act.
+
+(d) *Are program expenditures subject to audit*? All expenditures by the grantee of Federal and non-Federal funds, including expenditures from excess locally generated contributions in support of the grant are subject to audit by AmeriCorps, its Inspector General, or their authorized agents.
+
+(e) *May a sponsor pay stipends at rates different than those established by AmeriCorps?* A sponsor must pay stipends at rates no less than the rate established by AmeriCorps. A sponsor may use non-AmeriCorps funding to pay stipends at rates higher than the rate established by AmeriCorps, but may not use AmeriCorps funding for this purpose.
+
+[64 FR 14126, Mar. 24, 1999, as amended at 75 FR 51415, Aug. 20, 2010; 83 FR 64652, Dec. 17, 2018; 89 FR 70543, Aug. 30, 2024]
+
+### § 2552.93 What are a sponsor's legal requirements in managing grants?
+
+What rules govern a sponsor's management of grants?
+
+(a) A sponsor shall manage a grant in accordance with:
+
+(1) The Act;
+
+(2) Regulations in this part;
+
+(3) 2 CFR part 200 and 2 CFR part 2205;
+
+(4) All applicable AmeriCorps policies; and
+
+(5) All other applicable AmeriCorps requirements.
+
+(b) Project support provided under a AmeriCorps grant shall be furnished at the lowest possible cost consistent with the effective operation of the project.
+
+(c) Volunteer expense items, including transportation, meals, recognition activities and items purchased at the volunteers' own expense and which are not reimbursed, are not allowable as contributions to the non-Federal share of the budget.
+
+(d) Costs to bring a sponsor into basic compliance with accessibility requirements for individuals with disabilities are not allowable costs.
+
+(e) Payments to settle discrimination complaints, either through a settlement agreement or formal adjudication, are not allowable costs.
+
+(f) Written AmeriCorps approval is required for the following changes in the approved grant:
+
+(1) Reduction in budgeted volunteer service years.
+
+(2) Change in the service area.
+
+[79 FR 76077, Dec. 19, 2014, as amended at 83 FR 64653, Dec. 17, 2018]
+
+## Subpart J—Non-Stipended Foster Grandparents
+
+### § 2552.101 What rule governs the recruitment and enrollment of persons who do not meet the income eligibility guidelines to serve as Foster Grandparents?
+
+Over-income persons as described in § 2552.43, age 55 or over, may be enrolled in FGP project as non-stipended volunteers.
+
+[83 FR 64653, Dec. 17, 2018]
+
+### § 2552.102 What are the conditions of service of non-stipended Foster Grandparents?
+
+Non-stipended Foster Grandparents serve under the following conditions:
+
+(a) They must not displace or prevent eligible low-income individuals from becoming Foster Grandparents.
+
+(b) No special privilege or status is granted or created among Foster Grandparents, whether stipended or non-stipended, and equal treatment is required.
+
+(c) Training, supervision, and other support services and cost reimbursements, other than the stipend, are available equally to all Foster Grandparents.
+
+(d) All regulations and requirements applicable to the program apply to all Foster Grandparents.
+
+(e) Non-stipended Foster Grandparents may contribute the costs they incur in connection with their participation in the program. An FGP project may not count such contributions as part of the required non-AmeriCorps support (match) for the grant.
+
+[64 FR 14126, Mar. 24, 1999, as amended at 83 FR 64653, Dec. 17, 2018]
+
+### § 2552.103 Must a sponsor be required to enroll non-stipended Foster Grandparents?
+
+No. Enrollment of non-stipended Foster Grandparents is not a condition for a sponsor to receive a new or continuation grant.
+
+[83 FR 64653, Dec. 17, 2018]
+
+### § 2552.104 [Reserved]
+
+## Subpart K—Non-AmeriCorps Funded Foster Grandparent Projects
+
+### § 2552.111 Under what conditions may an agency or organization sponsor a Foster Grandparent project without AmeriCorps funding?
+
+An eligible agency or organization who wishes to sponsor a Foster Grandparent project without AmeriCorps funding must make an application through the designated grants management system which is approved by AmeriCorps and documented through the Notice of Grant Agreement (NGA).
+
+[83 FR 64653, Dec. 17, 2018]
+
+### § 2552.112 What are the resources and benefits to which a non-AmeriCorps funded project is entitled?
+
+The Notice of Grant Award entitles the sponsor of a non-AmeriCorps funded project to:
+
+(a) All technical assistance and materials provided to AmeriCorps funded Foster Grandparent projects; and
+
+(b) The application of the provisions of 42 U.S.C. 5044 and 5058.
+
+[64 FR 14126, Mar. 24, 1999, as amended at 83 FR 64653, Dec. 17, 2018; 89 FR 70544, Aug. 30, 2024]
+
+### § 2552.113 What financial obligation does AmeriCorps incur for non-AmeriCorps funded projects?
+
+Issuance of an NGA to a sponsor of a non-AmeriCorps funded project does not create a financial obligation on the part of AmeriCorps for any costs associated with the project.
+
+[83 FR 64653, Dec. 17, 2018]
+
+### § 2552.114 What happens if a non-AmeriCorps funded sponsor does not comply with the NGA?
+
+A non-AmeriCorps funded project sponsor's noncompliance with the NGA may result in suspension or termination AmeriCorps' agreement and all benefits specified in § 2552.112.
+
+[83 FR 64653, Dec. 17, 2018, as amended at 89 FR 70544, Aug. 30, 2024]
+
+## Subpart L—Restrictions and Legal Representation
+
+### § 2552.121 What legal limitations apply to the operation of the Foster Grandparent Program and to the expenditure of grant funds?
+
+(a) *Political activities.* (1) No part of any grant shall be used to finance, directly or indirectly, any activity to influence the outcome of any election to public office, or any voter registration activity.
+
+(2) No project shall be conducted in a manner involving the use of funds, the provision of services, or the employment or assignment of personnel in a matter supporting or resulting in the identification of such project with:
+
+(i) Any partisan or nonpartisan political activity associated with a candidate, or contending faction or group, in an election; or
+
+(ii) Any activity to provide voters or prospective voters with transportation to the polls or similar assistance in connection with any such election; or
+
+(iii) Any voter registration activity, except that voter registration applications and nonpartisan voter registration information may be made available to the public at the premises of the sponsor. But in making registration applications and nonpartisan voter registration information available, employees of the sponsor shall not express preferences or seek to influence decisions concerning any candidate, political party, election issue, or voting decision.
+
+(3) The sponsor shall not use grant funds in any activity for the purpose of influencing the passage or defeat of legislation or proposals by initiative petition, except:
+
+(i) In any case in which a legislative body, a committee of a legislative body, or a member of a legislative body requests any volunteer in, or employee of such a program to draft, review or testify regarding measures or to make representation to such legislative body, committee or member; or
+
+(ii) In connection with an authorization or appropriations measure directly affecting the operation of the FGP.
+
+(b) *Non-displacement of employed workers.* A Foster Grandparent shall not perform any service or duty or engage in any activity which would otherwise be performed by an employed worker or which would supplant the hiring of or result in the displacement of employed workers, or impair existing contracts for service.
+
+(c) *Compensation for service.* (1) An agency or organization to which AmeriCorps Seniors volunteers are assigned or which operates or supervises any AmeriCorps Seniors program shall not request or receive any compensation from AmeriCorps Seniors volunteers, or from beneficiaries, for the services provided by AmeriCorps Seniors volunteers.
+
+(2) This section does not prohibit a sponsor from soliciting and accepting voluntary contributions from the community at large to meet its local support obligations under the grant or from entering into agreements with parties other than beneficiaries to support additional volunteers beyond those supported by AmeriCorps.
+
+(3) A Foster Grandparent volunteer station may contribute to the financial support of the FGP. However, this support shall not be a required precondition for a potential station to obtain Foster Grandparent service.
+
+(4) If a volunteer station agrees to provide funds to support additional Foster Grandparents or pay for other Foster Grandparent support costs, the agreement shall be stated in a written Memorandum of Understanding. The sponsor shall withdraw services if the station's inability to provide monetary or in-kind support to the project under the Memorandum of Understanding diminishes or jeopardizes the project's financial capabilities to fulfill its obligations.
+
+(5) Under no circumstances shall a Foster Grandparent receive a fee for service from service recipients, their legal guardian, members of their family, or friends.
+
+(d) *Labor and anti-labor activity.* The sponsor shall not use grant funds directly or indirectly to finance labor or anti-labor organization or related activity.
+
+(e) *Fair labor standards.* A sponsor that employs laborers and mechanics for construction, alteration, or repair of facilities shall pay wages at prevailing rates as determined by the Secretary of Labor in accordance with the Davis-Bacon Act, as amended, 40 U.S.C. 276a.
+
+(f) *Nondiscrimination.* A sponsor or sponsor employee shall not discriminate against a Foster Grandparent on the basis of race, color, national origin, sex, age, religion, or political affiliation, or on the basis of disability, if the Foster Grandparent with a disability is qualified to serve.
+
+(g) *Religious activities.* (1) A Foster Grandparent or a member of the project staff funded by AmeriCorps shall not give religious instruction, conduct worship services or engage in any form of proselytization as part of his/her duties.
+
+(2) A sponsor or volunteer station may retain its independence and may continue to carry out its mission, including the definition, development, practice, and expression of its religious beliefs, provided that it does not use AmeriCorps funds to support any inherently religious activities, such as worship, religious instruction, or proselytization, as part of the programs or services funded. If an organization conducts such activities, the activities must be offered separately, in time or location, from the programs or services funded under this part.
+
+(h) *Nepotism.* Persons selected for project staff positions shall not be related by blood or marriage to other project staff, sponsor staff or officers, or members of the sponsor Board of Directors, unless there is written concurrence from the Advisory Council or community group established by the sponsor under subpart B of this part, and with notification to AmeriCorps.
+
+[64 FR 14126, Mar. 24, 1999, as amended at 69 FR 60095, Oct. 7, 2004; 83 FR 64653, Dec. 17, 2018; 89 FR 70544, Aug. 30, 2024]
+
+### § 2552.122 What legal coverage does AmeriCorps make available to Foster Grandparents?
+
+It is within AmeriCorps' discretion to determine if Counsel is employed and counsel fees, court costs, bail and other expenses incidental to the defense of a FGP volunteer are paid in a criminal, civil or administrative proceeding, when such a proceeding arises directly out of performance of the volunteer's activities. The circumstances under which AmeriCorps may pay such expenses are specified in 45 CFR part 1220.
+
+[83 FR 64654, Dec. 17, 2018, as amended at 89 FR 70544, Aug. 30, 2024]

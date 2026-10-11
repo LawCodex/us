@@ -1,0 +1,104 @@
+---
+title: "48 CFR Part 250 — EXTRAORDINARY CONTRACTUAL ACTIONS AND THE SAFETY ACT"
+identifier: "48 CFR Part 250"
+type: regulation
+jurisdiction: us
+language: en
+last_amended: 2026-10-01  # latest amendment date of the CFR title
+status: in_force
+source: "https://www.ecfr.gov/current/title-48/part-250"
+retrieved: 2026-10-11
+ecfr_bulk_modified: "02-Oct-2026 22:24"
+---
+
+*Title 48—Federal Acquisition Regulations System › CHAPTER 2—DEFENSE ACQUISITION REGULATIONS SYSTEM, DEPARTMENT OF DEFENSE › SUBCHAPTER G—CONTRACT MANAGEMENT*
+
+# PART 250—EXTRAORDINARY CONTRACTUAL ACTIONS AND THE SAFETY ACT
+
+**Authority:** 41 U.S.C. 1303 and 48 CFR chapter 1.
+
+**Source:** 73 FR 46815, Aug. 12, 2008, unless otherwise noted.
+
+## Subpart 250.1—Extraordinary Contractual Actions
+
+### 250.100 Definitions.
+
+*Secretarial level,* as used in this subpart, means—
+
+(1) An official at or above the level of an Assistant Secretary (or Deputy) of Defense or of the Army, Navy, or Air Force; and
+
+(2) A contract adjustment board established by the Secretary concerned.
+
+### 250.101 General.
+
+### 250.101-2 Policy.
+
+### 250.101-2-70 Limitations on payment.
+
+See 10 U.S.C. 3862 for limitations on Congressionally directed payment of a request for equitable adjustment to contract terms or a request for relief under Public Law 85-804.
+
+[73 FR 46815, Aug. 12, 2008, as amended at 87 FR 76996, Dec. 16, 2022]
+
+### 250.101-3 Records.
+
+Follow the procedures at PGI 250.101-3 for preparation of records.
+
+### 250.102 Delegation of and limitations on exercise of authority.
+
+### 250.102-1 Delegation of authority.
+
+(b) Authority under FAR 50.104 to approve actions obligating $90,000 or less may not be delegated below the level of the head of the contracting activity.
+
+(d) In accordance with the acquisition authority of the Under Secretary of Defense (Acquisition and Sustainment (USD (A&S)) under 10 U.S.C. 133(b), in addition to the Secretary of Defense and the Secretaries of the military departments, the USD (A&S ) may exercise authority to indemnify against unusually hazardous or nuclear risks.
+
+[73 FR 46815, Aug. 12, 2008, as amended at 75 FR 45074, Aug. 2, 2010; 80 FR 36905, June 26, 2015; 85 FR 61504, Sept. 29, 2020; 87 FR 76996, Dec. 16, 2022; 90 FR 41487, Aug. 25, 2025]
+
+### 250.102-1-70 Delegations.
+
+(a) *Military departments.* The Departments of the Army, Navy, and Air Force will specify delegations and levels of authority for actions under the Act and the Executive Order in departmental supplements or agency acquisition guidance.
+
+(b) *Defense agencies.* Subject to the restrictions on delegations of authority in 250.102-1(b) and FAR 50.102-1, the directors of the defense agencies may exercise and redelegate the authority contained in the Act and the Executive Order. The agency supplements or agency acquisition guidance shall specify the delegations and levels of authority.
+
+(1) Requests to obligate the Government in excess of $90,000 must be submitted to the USD(A&S) for approval.
+
+(2) Requests for indemnification against unusually hazardous or nuclear risks must be submitted to the USD(A&S) for approval before using the indemnification clause at FAR 52.250-1, Indemnification Under Public Law 85-804.
+
+(c) *Approvals.* The Secretary of the military department or the agency director must approve any delegations in writing.
+
+[73 FR 46815, Aug. 12, 2008, as amended at 75 FR 45074, Aug. 2, 2010; 80 FR 36905, June 26, 2015; 85 FR 61504, Sept. 29, 2020; 88 FR 73238, Oct. 25, 2023; 90 FR 41487, Aug. 25, 2025]
+
+### 250.102-2 Contract adjustment boards.
+
+The Departments of the Army, Navy, and Air Force each have a contract adjustment board. The board consists of a Chair and not less than two nor more than six other members, one of whom may be designated the Vice-Chair. A majority constitutes a quorum for any purpose and the concurring vote of a majority of the total board membership constitutes an action of the board. Alternates may be appointed to act in the absence of any member.
+
+### 250.103 Contract adjustments.
+
+### 250.103-3 Contract adjustment.
+
+(a) Contractor requests should be filed with the procuring contracting officer (PCO). However, if filing with the PCO is impractical, requests may be filed with an authorized representative, an administrative contracting officer, or the Office of General Counsel of the applicable department or agency, for forwarding to the cognizant PCO.
+
+### 250.103-5 Processing cases.
+
+(1) At the time the request is filed, the activity shall prepare the record described at PGI 250.101-3(1)(i) and forward it to the appropriate official within 30 days after the close of the month in which the record is prepared.
+
+(2) The officer or official responsible for the case shall forward to the contract adjustment board, through departmental channels, the documentation described at PGI 250.103-5.
+
+(3) Contract adjustment boards will render decisions as expeditiously as practicable. The Chair shall sign a memorandum of decision disposing of the case. The decision shall be dated and shall contain the information required by FAR 50.103-6. The memorandum of decision shall not contain any information classified “Confidential” or higher. The board's decision will be sent to the appropriate official for implementation.
+
+### 250.103-6 Disposition.
+
+For requests denied or approved below the Secretarial level, follow the disposition procedures at PGI 250.103-6.
+
+### 250.104 Residual powers.
+
+### 250.104-3 Special procedures for unusually hazardous or nuclear risks.
+
+### 250.104-3-70 Indemnification under contracts involving both research and development and other work.
+
+When indemnification is to be provided on contracts requiring both research and development work and other work, the contracting officer shall insert an appropriate clause using the authority of both 10 U.S.C. 3861 and Public Law 85-804.
+
+(a) The use of Public Law 85-804 is limited to work which cannot be indemnified under 10 U.S.C. 3861 and is subject to compliance with FAR 50.104.
+
+(b) Indemnification under 10 U.S.C. 3861 is covered by 235.070.
+
+[73 FR 46815, Aug. 12, 2008, as amended at 87 FR 76996, Dec. 16, 2022]

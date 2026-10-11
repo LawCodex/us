@@ -1,0 +1,1083 @@
+---
+title: "Title 48—Federal Acquisition Regulations System"
+identifier: "48 CFR"
+type: regulation
+jurisdiction: us
+language: en
+last_amended: 2026-10-01  # latest amendment date of the CFR title
+status: in_force
+source: "https://www.ecfr.gov/current/title-48"
+retrieved: 2026-10-11
+ecfr_bulk_modified: "02-Oct-2026 22:24"
+---
+
+# Title 48—Federal Acquisition Regulations System
+
+## CHAPTER 1—FEDERAL ACQUISITION REGULATION
+
+- [PART 1—FEDERAL ACQUISITION REGULATIONS SYSTEM](chapter-1-federal-acquisition-regulation/part-0001-federal-acquisition-regulations-system.md)
+- [PART 2—DEFINITIONS OF WORDS AND TERMS](chapter-1-federal-acquisition-regulation/part-0002-definitions-of-words-and-terms.md)
+- [PART 3—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST](chapter-1-federal-acquisition-regulation/part-0003-improper-business-practices-and-personal-conflicts-of.md)
+- [PART 4—ADMINISTRATIVE AND INFORMATION MATTERS](chapter-1-federal-acquisition-regulation/part-0004-administrative-and-information-matters.md)
+- [PART 5—PUBLICIZING CONTRACT ACTIONS](chapter-1-federal-acquisition-regulation/part-0005-publicizing-contract-actions.md)
+- [PART 6—COMPETITION REQUIREMENTS](chapter-1-federal-acquisition-regulation/part-0006-competition-requirements.md)
+- [PART 7—ACQUISITION PLANNING](chapter-1-federal-acquisition-regulation/part-0007-acquisition-planning.md)
+- [PART 8—REQUIRED SOURCES OF SUPPLIES AND SERVICES](chapter-1-federal-acquisition-regulation/part-0008-required-sources-of-supplies-and-services.md)
+- [PART 9—CONTRACTOR QUALIFICATIONS](chapter-1-federal-acquisition-regulation/part-0009-contractor-qualifications.md)
+- [PART 10—MARKET RESEARCH](chapter-1-federal-acquisition-regulation/part-0010-market-research.md)
+- [PART 11—DESCRIBING AGENCY NEEDS](chapter-1-federal-acquisition-regulation/part-0011-describing-agency-needs.md)
+- [PART 12—ACQUISITION OF COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES](chapter-1-federal-acquisition-regulation/part-0012-acquisition-of-commercial-products-and-commercial-services.md)
+- [PART 13—SIMPLIFIED ACQUISITION PROCEDURES](chapter-1-federal-acquisition-regulation/part-0013-simplified-acquisition-procedures.md)
+- [PART 14—SEALED BIDDING](chapter-1-federal-acquisition-regulation/part-0014-sealed-bidding.md)
+- [PART 15—CONTRACTING BY NEGOTIATION](chapter-1-federal-acquisition-regulation/part-0015-contracting-by-negotiation.md)
+- [PART 16—TYPES OF CONTRACTS](chapter-1-federal-acquisition-regulation/part-0016-types-of-contracts.md)
+- [PART 17—SPECIAL CONTRACTING METHODS](chapter-1-federal-acquisition-regulation/part-0017-special-contracting-methods.md)
+- [PART 18—EMERGENCY ACQUISITIONS](chapter-1-federal-acquisition-regulation/part-0018-emergency-acquisitions.md)
+- [PART 19—SMALL BUSINESS PROGRAMS](chapter-1-federal-acquisition-regulation/part-0019-small-business-programs.md)
+- PARTS 20-21 [RESERVED]
+- [PART 22—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS](chapter-1-federal-acquisition-regulation/part-0022-application-of-labor-laws-to-government-acquisitions.md)
+- [PART 23—ENVIRONMENT, SUSTAINABLE ACQUISITION, AND MATERIAL SAFETY](chapter-1-federal-acquisition-regulation/part-0023-environment-sustainable-acquisition-and-material-safety.md)
+- [PART 24—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION](chapter-1-federal-acquisition-regulation/part-0024-protection-of-privacy-and-freedom-of-information.md)
+- [PART 25—FOREIGN ACQUISITION](chapter-1-federal-acquisition-regulation/part-0025-foreign-acquisition.md)
+- [PART 26—OTHER SOCIOECONOMIC PROGRAMS](chapter-1-federal-acquisition-regulation/part-0026-other-socioeconomic-programs.md)
+- [PART 27—PATENTS, DATA, AND COPYRIGHTS](chapter-1-federal-acquisition-regulation/part-0027-patents-data-and-copyrights.md)
+- [PART 28—BONDS AND INSURANCE](chapter-1-federal-acquisition-regulation/part-0028-bonds-and-insurance.md)
+- [PART 29—TAXES](chapter-1-federal-acquisition-regulation/part-0029-taxes.md)
+- [PART 30—COST ACCOUNTING STANDARDS ADMINISTRATION](chapter-1-federal-acquisition-regulation/part-0030-cost-accounting-standards-administration.md)
+- [PART 31—CONTRACT COST PRINCIPLES AND PROCEDURES](chapter-1-federal-acquisition-regulation/part-0031-contract-cost-principles-and-procedures.md)
+- [PART 32—CONTRACT FINANCING](chapter-1-federal-acquisition-regulation/part-0032-contract-financing.md)
+- [PART 33—PROTESTS, DISPUTES, AND APPEALS](chapter-1-federal-acquisition-regulation/part-0033-protests-disputes-and-appeals.md)
+- [PART 34—MAJOR SYSTEM ACQUISITION](chapter-1-federal-acquisition-regulation/part-0034-major-system-acquisition.md)
+- [PART 35—RESEARCH AND DEVELOPMENT CONTRACTING](chapter-1-federal-acquisition-regulation/part-0035-research-and-development-contracting.md)
+- [PART 36—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS](chapter-1-federal-acquisition-regulation/part-0036-construction-and-architect-engineer-contracts.md)
+- [PART 37—SERVICE CONTRACTING](chapter-1-federal-acquisition-regulation/part-0037-service-contracting.md)
+- [PART 38—FEDERAL SUPPLY SCHEDULE CONTRACTING](chapter-1-federal-acquisition-regulation/part-0038-federal-supply-schedule-contracting.md)
+- [PART 39—ACQUISITION OF INFORMATION TECHNOLOGY](chapter-1-federal-acquisition-regulation/part-0039-acquisition-of-information-technology.md)
+- [PART 40—INFORMATION SECURITY AND SUPPLY CHAIN SECURITY](chapter-1-federal-acquisition-regulation/part-0040-information-security-and-supply-chain-security.md)
+- [PART 41—ACQUISITION OF UTILITY SERVICES](chapter-1-federal-acquisition-regulation/part-0041-acquisition-of-utility-services.md)
+- [PART 42—CONTRACT ADMINISTRATION AND AUDIT SERVICES](chapter-1-federal-acquisition-regulation/part-0042-contract-administration-and-audit-services.md)
+- [PART 43—CONTRACT MODIFICATIONS](chapter-1-federal-acquisition-regulation/part-0043-contract-modifications.md)
+- [PART 44—SUBCONTRACTING POLICIES AND PROCEDURES](chapter-1-federal-acquisition-regulation/part-0044-subcontracting-policies-and-procedures.md)
+- [PART 45—GOVERNMENT PROPERTY](chapter-1-federal-acquisition-regulation/part-0045-government-property.md)
+- [PART 46—QUALITY ASSURANCE](chapter-1-federal-acquisition-regulation/part-0046-quality-assurance.md)
+- [PART 47—TRANSPORTATION](chapter-1-federal-acquisition-regulation/part-0047-transportation.md)
+- [PART 48—VALUE ENGINEERING](chapter-1-federal-acquisition-regulation/part-0048-value-engineering.md)
+- [PART 49—TERMINATION OF CONTRACTS](chapter-1-federal-acquisition-regulation/part-0049-termination-of-contracts.md)
+- [PART 50—EXTRAORDINARY CONTRACTUAL ACTIONS AND THE SAFETY ACT](chapter-1-federal-acquisition-regulation/part-0050-extraordinary-contractual-actions-and-the-safety-act.md)
+- [PART 51—USE OF GOVERNMENT SOURCES BY CONTRACTORS](chapter-1-federal-acquisition-regulation/part-0051-use-of-government-sources-by-contractors.md)
+- [PART 52—SOLICITATION PROVISIONS AND CONTRACT CLAUSES](chapter-1-federal-acquisition-regulation/part-0052-solicitation-provisions-and-contract-clauses.md)
+- [PART 53—FORMS](chapter-1-federal-acquisition-regulation/part-0053-forms.md)
+- PARTS 54-99 [RESERVED]
+
+## CHAPTER 2—DEFENSE ACQUISITION REGULATIONS SYSTEM, DEPARTMENT OF DEFENSE
+
+- PART 200 [RESERVED]
+- [PART 201—FEDERAL ACQUISITION REGULATIONS SYSTEM](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0201-federal-acquisition-regulations-system.md)
+- [PART 202—DEFINITIONS OF WORDS AND TERMS](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0202-definitions-of-words-and-terms.md)
+- [PART 203—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0203-improper-business-practices-and-personal-conflicts-of.md)
+- [PART 204—ADMINISTRATIVE AND INFORMATION MATTERS](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0204-administrative-and-information-matters.md)
+- [PART 205—PUBLICIZING CONTRACT ACTIONS](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0205-publicizing-contract-actions.md)
+- [PART 206—COMPETITION REQUIREMENTS](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0206-competition-requirements.md)
+- [PART 207—ACQUISITION PLANNING](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0207-acquisition-planning.md)
+- [PART 208—REQUIRED SOURCES OF SUPPLIES AND SERVICES](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0208-required-sources-of-supplies-and-services.md)
+- [PART 209—CONTRACTOR QUALIFICATIONS](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0209-contractor-qualifications.md)
+- [PART 210—MARKET RESEARCH](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0210-market-research.md)
+- [PART 211—DESCRIBING AGENCY NEEDS](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0211-describing-agency-needs.md)
+- [PART 212—ACQUISITION OF COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0212-acquisition-of-commercial-products-and-commercial-services.md)
+- [PART 213—SIMPLIFIED ACQUISITION PROCEDURES](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0213-simplified-acquisition-procedures.md)
+- [PART 214—SEALED BIDDING](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0214-sealed-bidding.md)
+- [PART 215—CONTRACTING BY NEGOTIATION](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0215-contracting-by-negotiation.md)
+- [PART 216—TYPES OF CONTRACTS](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0216-types-of-contracts.md)
+- [PART 217—SPECIAL CONTRACTING METHODS](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0217-special-contracting-methods.md)
+- [PART 218—EMERGENCY ACQUISITIONS](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0218-emergency-acquisitions.md)
+- [PART 219—SMALL BUSINESS PROGRAMS](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0219-small-business-programs.md)
+- [PART 222—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0222-application-of-labor-laws-to-government-acquisitions.md)
+- [PART 223—ENVIRONMENT, SUSTAINABLE ACQUISITION, AND MATERIAL SAFETY](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0223-environment-sustainable-acquisition-and-material-safety.md)
+- [PART 224—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0224-protection-of-privacy-and-freedom-of-information.md)
+- [PART 225—FOREIGN ACQUISITION](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0225-foreign-acquisition.md)
+- [PART 226—OTHER SOCIOECONOMIC PROGRAMS](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0226-other-socioeconomic-programs.md)
+- [PART 227—PATENTS, DATA, AND COPYRIGHTS](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0227-patents-data-and-copyrights.md)
+- [PART 228—BONDS AND INSURANCE](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0228-bonds-and-insurance.md)
+- [PART 229—TAXES](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0229-taxes.md)
+- [PART 230—COST ACCOUNTING STANDARDS ADMINISTRATION](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0230-cost-accounting-standards-administration.md)
+- [PART 231—CONTRACT COST PRINCIPLES AND PROCEDURES](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0231-contract-cost-principles-and-procedures.md)
+- [PART 232—CONTRACT FINANCING](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0232-contract-financing.md)
+- [PART 233—PROTESTS, DISPUTES, AND APPEALS](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0233-protests-disputes-and-appeals.md)
+- [PART 234—MAJOR SYSTEM ACQUISITION](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0234-major-system-acquisition.md)
+- [PART 235—RESEARCH AND DEVELOPMENT CONTRACTING](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0235-research-and-development-contracting.md)
+- [PART 236—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0236-construction-and-architect-engineer-contracts.md)
+- [PART 237—SERVICE CONTRACTING](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0237-service-contracting.md)
+- [PART 239—ACQUISITION OF INFORMATION TECHNOLOGY](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0239-acquisition-of-information-technology.md)
+- [PART 241—ACQUISITION OF UTILITY SERVICES](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0241-acquisition-of-utility-services.md)
+- [PART 242—CONTRACT ADMINISTRATION AND AUDIT SERVICES](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0242-contract-administration-and-audit-services.md)
+- [PART 243—CONTRACT MODIFICATIONS](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0243-contract-modifications.md)
+- [PART 244—SUBCONTRACTING POLICIES AND PROCEDURES](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0244-subcontracting-policies-and-procedures.md)
+- [PART 245—GOVERNMENT PROPERTY](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0245-government-property.md)
+- [PART 246—QUALITY ASSURANCE](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0246-quality-assurance.md)
+- [PART 247—TRANSPORTATION](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0247-transportation.md)
+- [PART 249—TERMINATION OF CONTRACTS](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0249-termination-of-contracts.md)
+- [PART 250—EXTRAORDINARY CONTRACTUAL ACTIONS AND THE SAFETY ACT](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0250-extraordinary-contractual-actions-and-the-safety-act.md)
+- [PART 251—USE OF GOVERNMENT SOURCES BY CONTRACTORS](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0251-use-of-government-sources-by-contractors.md)
+- [PART 252—SOLICITATION PROVISIONS AND CONTRACT CLAUSES](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0252-solicitation-provisions-and-contract-clauses.md)
+- [PART 253—FORMS](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0253-forms.md)
+- PARTS 254-269 [RESERVED]
+- [PART 270—DEFENSE CONTRACTING PROGRAMS](chapter-2-defense-acquisition-regulations-system-department-of-defense/part-0270-defense-contracting-programs.md)
+- PARTS 271-299 [RESERVED]
+
+## CHAPTER 3—HEALTH AND HUMAN SERVICES
+
+- PART 300 [RESERVED]
+- [PART 301—HHS ACQUISITION REGULATION SYSTEM](chapter-3-health-and-human-services/part-0301-hhs-acquisition-regulation-system.md)
+- [PART 302—DEFINITIONS OF WORDS AND TERMS](chapter-3-health-and-human-services/part-0302-definitions-of-words-and-terms.md)
+- [PART 303—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST](chapter-3-health-and-human-services/part-0303-improper-business-practices-and-personal-conflicts-of.md)
+- [PART 304—ADMINISTRATIVE MATTERS](chapter-3-health-and-human-services/part-0304-administrative-matters.md)
+- [PART 305—PUBLICIZING CONTRACT ACTIONS](chapter-3-health-and-human-services/part-0305-publicizing-contract-actions.md)
+- [PART 306—COMPETITION REQUIREMENTS](chapter-3-health-and-human-services/part-0306-competition-requirements.md)
+- [PART 307—ACQUISITION PLANNING](chapter-3-health-and-human-services/part-0307-acquisition-planning.md)
+- [PART 308—REQUIRED SOURCES OF SUPPLIES AND SERVICES](chapter-3-health-and-human-services/part-0308-required-sources-of-supplies-and-services.md)
+- [PART 309—CONTRACTOR QUALIFICATIONS](chapter-3-health-and-human-services/part-0309-contractor-qualifications.md)
+- [PART 310—MARKET RESEARCH](chapter-3-health-and-human-services/part-0310-market-research.md)
+- [PART 311—DESCRIBING AGENCY NEEDS](chapter-3-health-and-human-services/part-0311-describing-agency-needs.md)
+- [PART 312—ACQUISITION OF COMMERCIAL ITEMS](chapter-3-health-and-human-services/part-0312-acquisition-of-commercial-items.md)
+- [PART 313—SIMPLIFIED ACQUISITION PROCEDURES](chapter-3-health-and-human-services/part-0313-simplified-acquisition-procedures.md)
+- [PART 314—SEALED BIDDING](chapter-3-health-and-human-services/part-0314-sealed-bidding.md)
+- [PART 315—CONTRACTING BY NEGOTIATION](chapter-3-health-and-human-services/part-0315-contracting-by-negotiation.md)
+- [PART 316—TYPES OF CONTRACTS](chapter-3-health-and-human-services/part-0316-types-of-contracts.md)
+- [PART 317—SPECIAL CONTRACTING METHODS](chapter-3-health-and-human-services/part-0317-special-contracting-methods.md)
+- [PART 319—SMALL BUSINESS PROGRAMS](chapter-3-health-and-human-services/part-0319-small-business-programs.md)
+- [PART 322—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS](chapter-3-health-and-human-services/part-0322-application-of-labor-laws-to-government-acquisitions.md)
+- [PART 323—ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE](chapter-3-health-and-human-services/part-0323-environment-energy-and-water-efficiency-renewable-energy.md)
+- [PART 324—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION](chapter-3-health-and-human-services/part-0324-protection-of-privacy-and-freedom-of-information.md)
+- [PART 326—OTHER SOCIOECONOMIC PROGRAMS](chapter-3-health-and-human-services/part-0326-other-socioeconomic-programs.md)
+- [PART 327—PATENTS, DATA, AND COPYRIGHTS](chapter-3-health-and-human-services/part-0327-patents-data-and-copyrights.md)
+- PART 328 [RESERVED]
+- [PART 330—COST ACCOUNTING STANDARDS](chapter-3-health-and-human-services/part-0330-cost-accounting-standards.md)
+- [PART 331—CONTRACT COST PRINCIPLES AND PROCEDURES](chapter-3-health-and-human-services/part-0331-contract-cost-principles-and-procedures.md)
+- [PART 332—CONTRACT FINANCING](chapter-3-health-and-human-services/part-0332-contract-financing.md)
+- [PART 333—PROTESTS, DISPUTES, AND APPEALS](chapter-3-health-and-human-services/part-0333-protests-disputes-and-appeals.md)
+- [PART 334—MAJOR SYSTEM ACQUISITION](chapter-3-health-and-human-services/part-0334-major-system-acquisition.md)
+- [PART 335—RESEARCH AND DEVELOPMENT CONTRACTING](chapter-3-health-and-human-services/part-0335-research-and-development-contracting.md)
+- [PART 336—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS](chapter-3-health-and-human-services/part-0336-construction-and-architect-engineer-contracts.md)
+- [PART 337—SERVICE CONTRACTING—GENERAL](chapter-3-health-and-human-services/part-0337-service-contractinggeneral.md)
+- [PART 339—ACQUISITION OF INFORMATION TECHNOLOGY](chapter-3-health-and-human-services/part-0339-acquisition-of-information-technology.md)
+- [PART 342—CONTRACT ADMINISTRATION](chapter-3-health-and-human-services/part-0342-contract-administration.md)
+- [PART 352—SOLICITATION PROVISIONS AND CONTRACT CLAUSES](chapter-3-health-and-human-services/part-0352-solicitation-provisions-and-contract-clauses.md)
+- PART 353—FORMS [RESERVED]
+- [PART 370—SPECIAL PROGRAMS AFFECTING ACQUISITION](chapter-3-health-and-human-services/part-0370-special-programs-affecting-acquisition.md)
+- PARTS 371-399 [RESERVED]
+
+## CHAPTER 4—DEPARTMENT OF AGRICULTURE
+
+- PART 400 [RESERVED]
+- [PART 401—AGRICULTURE ACQUISITION REGULATION SYSTEM](chapter-4-department-of-agriculture/part-0401-agriculture-acquisition-regulation-system.md)
+- [PART 402—DEFINITIONS OF WORDS AND TERMS](chapter-4-department-of-agriculture/part-0402-definitions-of-words-and-terms.md)
+- [PART 403—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS](chapter-4-department-of-agriculture/part-0403-improper-business-practices-and-personal-conflicts.md)
+- [PART 404—ADMINISTRATIVE AND INFORMATION MATTERS](chapter-4-department-of-agriculture/part-0404-administrative-and-information-matters.md)
+- [PART 405—PUBLICIZING CONTRACT ACTIONS](chapter-4-department-of-agriculture/part-0405-publicizing-contract-actions.md)
+- [PART 406—COMPETITION REQUIREMENTS](chapter-4-department-of-agriculture/part-0406-competition-requirements.md)
+- PART 407 [RESERVED]
+- [PART 408—REQUIRED SOURCES OF SUPPLIES AND SERVICES](chapter-4-department-of-agriculture/part-0408-required-sources-of-supplies-and-services.md)
+- PARTS 409-410 [RESERVED]
+- [PART 411—DESCRIBING AGENCY NEEDS](chapter-4-department-of-agriculture/part-0411-describing-agency-needs.md)
+- [PART 412—ACQUISITION OF COMMERICAL ITEMS](chapter-4-department-of-agriculture/part-0412-acquisition-of-commerical-items.md)
+- [PART 413—SIMPLIFIED ACQUISITION PROCEDURES](chapter-4-department-of-agriculture/part-0413-simplified-acquisition-procedures.md)
+- [PART 414—SEALED BIDDING](chapter-4-department-of-agriculture/part-0414-sealed-bidding.md)
+- [PART 415—CONTRACTING BY NEGOTIATION](chapter-4-department-of-agriculture/part-0415-contracting-by-negotiation.md)
+- [PART 416—TYPES OF CONTRACTS](chapter-4-department-of-agriculture/part-0416-types-of-contracts.md)
+- PARTS 417-418 [RESERVED]
+- [PART 419—SMALL BUSINESS PROGRAMS](chapter-4-department-of-agriculture/part-0419-small-business-programs.md)
+- PARTS 420-421 [RESERVED]
+- [PART 422—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS](chapter-4-department-of-agriculture/part-0422-application-of-labor-laws-to-government-acquisitions.md)
+- [PART 423—ENVIRONMENT, SUSTAINABLE ACQUISITION, AND MATERIAL SAFETY](chapter-4-department-of-agriculture/part-0423-environment-sustainable-acquisition-and-material-safety.md)
+- PART 424 [RESERVED]
+- [PART 425—FOREIGN ACQUISITION](chapter-4-department-of-agriculture/part-0425-foreign-acquisition.md)
+- [PART 426—OTHER SOCIOECONOMIC PROGRAMS](chapter-4-department-of-agriculture/part-0426-other-socioeconomic-programs.md)
+- PART 427 [RESERVED]
+- [PART 428—BONDS AND INSURANCE](chapter-4-department-of-agriculture/part-0428-bonds-and-insurance.md)
+- PART 429 [RESERVED]
+- [PART 430—COST ACCOUNTING STANDARDS ADMINISTRATION](chapter-4-department-of-agriculture/part-0430-cost-accounting-standards-administration.md)
+- [PART 431—CONTRACT COST PRINCIPLES AND PROCEDURES](chapter-4-department-of-agriculture/part-0431-contract-cost-principles-and-procedures.md)
+- [PART 432—CONTRACT FINANCING](chapter-4-department-of-agriculture/part-0432-contract-financing.md)
+- [PART 433—PROTESTS, DISPUTES AND APPEALS](chapter-4-department-of-agriculture/part-0433-protests-disputes-and-appeals.md)
+- [PART 434—MAJOR SYSTEM ACQUISITION](chapter-4-department-of-agriculture/part-0434-major-system-acquisition.md)
+- PART 435 [RESERVED]
+- [PART 436—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS](chapter-4-department-of-agriculture/part-0436-construction-and-architect-engineer-contracts.md)
+- [PART 437—SERVICE CONTRACTING](chapter-4-department-of-agriculture/part-0437-service-contracting.md)
+- PARTS 438-441 [RESERVED]
+- PARTS 442-444 [RESERVED]
+- [PART 445—GOVERNMENT PROPERTY](chapter-4-department-of-agriculture/part-0445-government-property.md)
+- PARTS 446-448 [RESERVED]
+- [PART 449—TERMINATION OF CONTRACTS](chapter-4-department-of-agriculture/part-0449-termination-of-contracts.md)
+- [PART 450—EXTRAORDINARY CONTRACTUAL ACTIONS AND THE SAFETY ACT](chapter-4-department-of-agriculture/part-0450-extraordinary-contractual-actions-and-the-safety-act.md)
+- PART 451 [RESERVED]
+- [PART 452—SOLICITATION PROVISIONS AND CONTRACT CLAUSES](chapter-4-department-of-agriculture/part-0452-solicitation-provisions-and-contract-clauses.md)
+- PARTS 453-469 [RESERVED]
+- [PART 470—COMMODITY ACQUISITIONS](chapter-4-department-of-agriculture/part-0470-commodity-acquisitions.md)
+- PARTS 471-499 [RESERVED]
+
+## CHAPTER 5—GENERAL SERVICES ADMINISTRATION
+
+- PART 500 [RESERVED]
+- [PART 501—GENERAL SERVICES ADMINISTRATION ACQUISITION REGULATION SYSTEM](chapter-5-general-services-administration/part-0501-general-services-administration-acquisition-regulation.md)
+- [PART 502—DEFINITIONS OF WORDS AND TERMS](chapter-5-general-services-administration/part-0502-definitions-of-words-and-terms.md)
+- [PART 503—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST](chapter-5-general-services-administration/part-0503-improper-business-practices-and-personal-conflicts-of.md)
+- [PART 504—ADMINISTRATIVE MATTERS](chapter-5-general-services-administration/part-0504-administrative-matters.md)
+- PART 505 [RESERVED]
+- [PART 509—CONTRACTOR QUALIFICATIONS](chapter-5-general-services-administration/part-0509-contractor-qualifications.md)
+- [PART 511—DESCRIBING AGENCY NEEDS](chapter-5-general-services-administration/part-0511-describing-agency-needs.md)
+- [PART 512—ACQUISITION OF COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES](chapter-5-general-services-administration/part-0512-acquisition-of-commercial-products-and-commercial-services.md)
+- [PART 513—SIMPLIFIED ACQUISITION PROCEDURES](chapter-5-general-services-administration/part-0513-simplified-acquisition-procedures.md)
+- [PART 514—SEALED BIDDING](chapter-5-general-services-administration/part-0514-sealed-bidding.md)
+- [PART 515—CONTRACTING BY NEGOTIATION](chapter-5-general-services-administration/part-0515-contracting-by-negotiation.md)
+- [PART 516—TYPES OF CONTRACTS](chapter-5-general-services-administration/part-0516-types-of-contracts.md)
+- [PART 517—SPECIAL CONTRACTING METHODS](chapter-5-general-services-administration/part-0517-special-contracting-methods.md)
+- [PART 519—SMALL BUSINESS PROGRAMS](chapter-5-general-services-administration/part-0519-small-business-programs.md)
+- [PART 522—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS](chapter-5-general-services-administration/part-0522-application-of-labor-laws-to-government-acquisitions.md)
+- [PART 523—ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE](chapter-5-general-services-administration/part-0523-environment-energy-and-water-efficiency-renewable-energy.md)
+- [PART 525—FOREIGN ACQUISITION](chapter-5-general-services-administration/part-0525-foreign-acquisition.md)
+- [PART 527—PATENTS, DATA, AND COPYRIGHTS](chapter-5-general-services-administration/part-0527-patents-data-and-copyrights.md)
+- [PART 528—BONDS AND INSURANCE](chapter-5-general-services-administration/part-0528-bonds-and-insurance.md)
+- [PART 529—TAXES](chapter-5-general-services-administration/part-0529-taxes.md)
+- [PART 532—CONTRACT FINANCING](chapter-5-general-services-administration/part-0532-contract-financing.md)
+- [PART 533—PROTESTS, DISPUTES, AND APPEALS](chapter-5-general-services-administration/part-0533-protests-disputes-and-appeals.md)
+- [PART 536—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS](chapter-5-general-services-administration/part-0536-construction-and-architect-engineer-contracts.md)
+- [PART 537—SERVICE CONTRACTING](chapter-5-general-services-administration/part-0537-service-contracting.md)
+- [PART 538—FEDERAL SUPPLY SCHEDULE CONTRACTING](chapter-5-general-services-administration/part-0538-federal-supply-schedule-contracting.md)
+- PART 539 [RESERVED]
+- [PART 541—ACQUISITION OF UTILITY SERVICES](chapter-5-general-services-administration/part-0541-acquisition-of-utility-services.md)
+- [PART 542—CONTRACT ADMINISTRATION AND AUDIT SERVICES](chapter-5-general-services-administration/part-0542-contract-administration-and-audit-services.md)
+- [PART 543—CONTRACT MODIFICATIONS](chapter-5-general-services-administration/part-0543-contract-modifications.md)
+- [PART 546—QUALITY ASSURANCE](chapter-5-general-services-administration/part-0546-quality-assurance.md)
+- PART 547 [RESERVED]
+- [PART 552—SOLICITATION PROVISIONS AND CONTRACT CLAUSES](chapter-5-general-services-administration/part-0552-solicitation-provisions-and-contract-clauses.md)
+- PART 553 [RESERVED]
+- [PART 570—ACQUIRING LEASEHOLD INTERESTS IN REAL PROPERTY](chapter-5-general-services-administration/part-0570-acquiring-leasehold-interests-in-real-property.md)
+- PARTS 571-599 [RESERVED]
+
+## CHAPTER 6—DEPARTMENT OF STATE
+
+- PART 600 [RESERVED]
+- [PART 601—DEPARTMENT OF STATE ACQUISITION REGULATIONS SYSTEM](chapter-6-department-of-state/part-0601-department-of-state-acquisition-regulations-system.md)
+- [PART 602—DEFINITIONS OF WORDS AND TERMS](chapter-6-department-of-state/part-0602-definitions-of-words-and-terms.md)
+- [PART 603—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST](chapter-6-department-of-state/part-0603-improper-business-practices-and-personal-conflicts-of.md)
+- [PART 604—ADMINISTRATIVE MATTERS](chapter-6-department-of-state/part-0604-administrative-matters.md)
+- [PART 605—PUBLICIZING CONTRACT ACTIONS](chapter-6-department-of-state/part-0605-publicizing-contract-actions.md)
+- [PART 606—COMPETITION REQUIREMENTS](chapter-6-department-of-state/part-0606-competition-requirements.md)
+- [PART 607—ACQUISITION PLANNING](chapter-6-department-of-state/part-0607-acquisition-planning.md)
+- [PART 608—REQUIRED SOURCES OF SUPPLIES AND SERVICES](chapter-6-department-of-state/part-0608-required-sources-of-supplies-and-services.md)
+- [PART 609—CONTRACTOR QUALIFICATIONS](chapter-6-department-of-state/part-0609-contractor-qualifications.md)
+- [PART 611—DESCRIBING AGENCY NEEDS](chapter-6-department-of-state/part-0611-describing-agency-needs.md)
+- [PART 612—ACQUISITION OF COMMERCIAL ITEMS](chapter-6-department-of-state/part-0612-acquisition-of-commercial-items.md)
+- [PART 613—SIMPLIFIED ACQUISITION PROCEDURES](chapter-6-department-of-state/part-0613-simplified-acquisition-procedures.md)
+- [PART 614—SEALED BIDDING](chapter-6-department-of-state/part-0614-sealed-bidding.md)
+- [PART 615—CONTRACTING BY NEGOTIATION](chapter-6-department-of-state/part-0615-contracting-by-negotiation.md)
+- [PART 616—TYPES OF CONTRACTS](chapter-6-department-of-state/part-0616-types-of-contracts.md)
+- [PART 617—SPECIAL CONTRACTING METHODS](chapter-6-department-of-state/part-0617-special-contracting-methods.md)
+- [PART 619—SMALL BUSINESS PROGRAMS](chapter-6-department-of-state/part-0619-small-business-programs.md)
+- [PART 622—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS](chapter-6-department-of-state/part-0622-application-of-labor-laws-to-government-acquisitions.md)
+- [PART 623—ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE](chapter-6-department-of-state/part-0623-environment-energy-and-water-efficiency-renewable-energy.md)
+- [PART 624—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION](chapter-6-department-of-state/part-0624-protection-of-privacy-and-freedom-of-information.md)
+- [PART 625—FOREIGN ACQUISITION](chapter-6-department-of-state/part-0625-foreign-acquisition.md)
+- [PART 627—PATENTS, DATA, AND COPYRIGHTS](chapter-6-department-of-state/part-0627-patents-data-and-copyrights.md)
+- [PART 628—BONDS AND INSURANCE](chapter-6-department-of-state/part-0628-bonds-and-insurance.md)
+- [PART 629—TAXES](chapter-6-department-of-state/part-0629-taxes.md)
+- [PART 630—COST ACCOUNTING STANDARDS ADMINISTRATION](chapter-6-department-of-state/part-0630-cost-accounting-standards-administration.md)
+- [PART 631—CONTRACT COST PRINCIPLES AND PROCEDURES](chapter-6-department-of-state/part-0631-contract-cost-principles-and-procedures.md)
+- [PART 632—CONTRACT FINANCING](chapter-6-department-of-state/part-0632-contract-financing.md)
+- [PART 633—PROTESTS, DISPUTES, AND APPEALS](chapter-6-department-of-state/part-0633-protests-disputes-and-appeals.md)
+- [PART 634—MAJOR SYSTEM ACQUISITION](chapter-6-department-of-state/part-0634-major-system-acquisition.md)
+- [PART 636—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS](chapter-6-department-of-state/part-0636-construction-and-architect-engineer-contracts.md)
+- [PART 637—SERVICE CONTRACTING](chapter-6-department-of-state/part-0637-service-contracting.md)
+- [PART 639—ACQUISITION OF INFORMATION TECHNOLOGY](chapter-6-department-of-state/part-0639-acquisition-of-information-technology.md)
+- [PART 641—ACQUISITION OF UTILITY SERVICES](chapter-6-department-of-state/part-0641-acquisition-of-utility-services.md)
+- [PART 642—CONTRACT ADMINISTRATION AND AUDIT SERVICES](chapter-6-department-of-state/part-0642-contract-administration-and-audit-services.md)
+- [PART 643—CONTRACT MODIFICATIONS](chapter-6-department-of-state/part-0643-contract-modifications.md)
+- [PART 644—SUBCONTRACTING POLICIES AND PROCEDURES](chapter-6-department-of-state/part-0644-subcontracting-policies-and-procedures.md)
+- [PART 645—GOVERNMENT PROPERTY](chapter-6-department-of-state/part-0645-government-property.md)
+- [PART 647—TRANSPORTATION](chapter-6-department-of-state/part-0647-transportation.md)
+- [PART 648—VALUE ENGINEERING](chapter-6-department-of-state/part-0648-value-engineering.md)
+- [PART 649—TERMINATION OF CONTRACTS](chapter-6-department-of-state/part-0649-termination-of-contracts.md)
+- [PART 651—USE OF GOVERNMENT SOURCES BY CONTRACTORS](chapter-6-department-of-state/part-0651-use-of-government-sources-by-contractors.md)
+- [PART 652—SOLICITATION PROVISIONS AND CONTRACT CLAUSES](chapter-6-department-of-state/part-0652-solicitation-provisions-and-contract-clauses.md)
+- [PART 653—FORMS](chapter-6-department-of-state/part-0653-forms.md)
+- PARTS 654-699 [RESERVED]
+
+## CHAPTER 7—AGENCY FOR INTERNATIONAL DEVELOPMENT
+
+- PART 700 [RESERVED]
+- [PART 701—FEDERAL ACQUISITION REGULATION SYSTEM](chapter-7-agency-for-international-development/part-0701-federal-acquisition-regulation-system.md)
+- [PART 702—DEFINITIONS OF WORDS AND TERMS](chapter-7-agency-for-international-development/part-0702-definitions-of-words-and-terms.md)
+- [PART 703—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST](chapter-7-agency-for-international-development/part-0703-improper-business-practices-and-personal-conflicts-of.md)
+- [PART 704—ADMINISTRATIVE AND INFORMATION MATTERS](chapter-7-agency-for-international-development/part-0704-administrative-and-information-matters.md)
+- [PART 705—PUBLICIZING CONTRACT ACTIONS](chapter-7-agency-for-international-development/part-0705-publicizing-contract-actions.md)
+- [PART 706—COMPETITION REQUIREMENTS](chapter-7-agency-for-international-development/part-0706-competition-requirements.md)
+- [PART 707—ACQUISITION PLANNING](chapter-7-agency-for-international-development/part-0707-acquisition-planning.md)
+- [PART 709—CONTRACTOR QUALIFICATIONS](chapter-7-agency-for-international-development/part-0709-contractor-qualifications.md)
+- [PART 711—DESCRIBING AGENCY NEEDS](chapter-7-agency-for-international-development/part-0711-describing-agency-needs.md)
+- [PART 713—SIMPLIFIED ACQUISITION PROCEDURES](chapter-7-agency-for-international-development/part-0713-simplified-acquisition-procedures.md)
+- [PART 714—SEALED BIDDING](chapter-7-agency-for-international-development/part-0714-sealed-bidding.md)
+- [PART 715—CONTRACTING BY NEGOTIATION](chapter-7-agency-for-international-development/part-0715-contracting-by-negotiation.md)
+- [PART 716—TYPES OF CONTRACTS](chapter-7-agency-for-international-development/part-0716-types-of-contracts.md)
+- [PART 717—SPECIAL CONTRACTING METHODS](chapter-7-agency-for-international-development/part-0717-special-contracting-methods.md)
+- [PART 719—SMALL BUSINESS PROGRAMS](chapter-7-agency-for-international-development/part-0719-small-business-programs.md)
+- [PART 722—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITION](chapter-7-agency-for-international-development/part-0722-application-of-labor-laws-to-government-acquisition.md)
+- [PART 724—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION](chapter-7-agency-for-international-development/part-0724-protection-of-privacy-and-freedom-of-information.md)
+- [PART 725—FOREIGN ACQUISITION](chapter-7-agency-for-international-development/part-0725-foreign-acquisition.md)
+- [PART 726—OTHER SOCIOECONOMIC PROGRAMS](chapter-7-agency-for-international-development/part-0726-other-socioeconomic-programs.md)
+- [PART 727—PATENTS, DATA, AND COPYRIGHTS](chapter-7-agency-for-international-development/part-0727-patents-data-and-copyrights.md)
+- [PART 728—BONDS AND INSURANCE](chapter-7-agency-for-international-development/part-0728-bonds-and-insurance.md)
+- [PART 729—TAXES](chapter-7-agency-for-international-development/part-0729-taxes.md)
+- [PART 731—CONTRACT COST PRINCIPLES AND PROCEDURES](chapter-7-agency-for-international-development/part-0731-contract-cost-principles-and-procedures.md)
+- [PART 732—CONTRACT FINANCING](chapter-7-agency-for-international-development/part-0732-contract-financing.md)
+- [PART 733—PROTESTS, DISPUTES, AND APPEALS](chapter-7-agency-for-international-development/part-0733-protests-disputes-and-appeals.md)
+- [PART 734—MAJOR SYSTEM ACQUISITION](chapter-7-agency-for-international-development/part-0734-major-system-acquisition.md)
+- [PART 736—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS](chapter-7-agency-for-international-development/part-0736-construction-and-architect-engineer-contracts.md)
+- PART 737 [RESERVED]
+- [PART 739—ACQUISITION OF INFORMATION TECHNOLOGY](chapter-7-agency-for-international-development/part-0739-acquisition-of-information-technology.md)
+- [PART 742—CONTRACT ADMINISTRATION AND AUDIT SERVICES](chapter-7-agency-for-international-development/part-0742-contract-administration-and-audit-services.md)
+- [PART 744—SUBCONTRACTING POLICIES AND PROCEDURES](chapter-7-agency-for-international-development/part-0744-subcontracting-policies-and-procedures.md)
+- [PART 745—GOVERNMENT PROPERTY](chapter-7-agency-for-international-development/part-0745-government-property.md)
+- [PART 747—TRANSPORTATION](chapter-7-agency-for-international-development/part-0747-transportation.md)
+- [PART 749—TERMINATION OF CONTRACTS](chapter-7-agency-for-international-development/part-0749-termination-of-contracts.md)
+- [PART 750—EXTRAORDINARY CONTRACTUAL ACTIONS AND THE SAFETY ACT](chapter-7-agency-for-international-development/part-0750-extraordinary-contractual-actions-and-the-safety-act.md)
+- [PART 752—SOLICITATION PROVISIONS AND CONTRACT CLAUSES](chapter-7-agency-for-international-development/part-0752-solicitation-provisions-and-contract-clauses.md)
+- [PART 753—FORMS](chapter-7-agency-for-international-development/part-0753-forms.md)
+- PARTS 754-799 [RESERVED]
+
+## CHAPTER 8—DEPARTMENT OF VETERANS AFFAIRS
+
+- PART 800 [RESERVED]
+- [PART 801—DEPARTMENT OF VETERANS AFFAIRS ACQUISITION REGULATION SYSTEM](chapter-8-department-of-veterans-affairs/part-0801-department-of-veterans-affairs-acquisition-regulation-system.md)
+- [PART 802—DEFINITIONS OF WORDS AND TERMS](chapter-8-department-of-veterans-affairs/part-0802-definitions-of-words-and-terms.md)
+- [PART 803—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST](chapter-8-department-of-veterans-affairs/part-0803-improper-business-practices-and-personal-conflicts-of.md)
+- [PART 804—ADMINISTRATIVE AND INFORMATION MATTERS](chapter-8-department-of-veterans-affairs/part-0804-administrative-and-information-matters.md)
+- PART 805 [RESERVED]
+- [PART 806—COMPETITION REQUIREMENTS](chapter-8-department-of-veterans-affairs/part-0806-competition-requirements.md)
+- PART 807 [RESERVED]
+- [PART 808—REQUIRED SOURCES OF SUPPLIES AND SERVICES](chapter-8-department-of-veterans-affairs/part-0808-required-sources-of-supplies-and-services.md)
+- [PART 809—CONTRACTOR QUALIFICATIONS](chapter-8-department-of-veterans-affairs/part-0809-contractor-qualifications.md)
+- [PART 810—MARKET RESEARCH](chapter-8-department-of-veterans-affairs/part-0810-market-research.md)
+- [PART 811—DESCRIBING AGENCY NEEDS](chapter-8-department-of-veterans-affairs/part-0811-describing-agency-needs.md)
+- [PART 812—ACQUISITION OF COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES](chapter-8-department-of-veterans-affairs/part-0812-acquisition-of-commercial-products-and-commercial-services.md)
+- [PART 813—SIMPLIFIED ACQUISITION PROCEDURES](chapter-8-department-of-veterans-affairs/part-0813-simplified-acquisition-procedures.md)
+- [PART 814—SEALED BIDDING](chapter-8-department-of-veterans-affairs/part-0814-sealed-bidding.md)
+- [PART 815—CONTRACTING BY NEGOTIATION](chapter-8-department-of-veterans-affairs/part-0815-contracting-by-negotiation.md)
+- [PART 816—TYPES OF CONTRACTS](chapter-8-department-of-veterans-affairs/part-0816-types-of-contracts.md)
+- [PART 817—SPECIAL CONTRACTING METHODS](chapter-8-department-of-veterans-affairs/part-0817-special-contracting-methods.md)
+- [PART 819—SMALL BUSINESS PROGRAMS](chapter-8-department-of-veterans-affairs/part-0819-small-business-programs.md)
+- [PART 822—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS](chapter-8-department-of-veterans-affairs/part-0822-application-of-labor-laws-to-government-acquisitions.md)
+- [PART 823—ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE](chapter-8-department-of-veterans-affairs/part-0823-environment-energy-and-water-efficiency-renewable-energy.md)
+- [PART 824—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION](chapter-8-department-of-veterans-affairs/part-0824-protection-of-privacy-and-freedom-of-information.md)
+- PART 825 [RESERVED]
+- [PART 826—OTHER SOCIOECONOMIC PROGRAMS](chapter-8-department-of-veterans-affairs/part-0826-other-socioeconomic-programs.md)
+- [PART 828—BONDS AND INSURANCE](chapter-8-department-of-veterans-affairs/part-0828-bonds-and-insurance.md)
+- [PART 829—TAXES](chapter-8-department-of-veterans-affairs/part-0829-taxes.md)
+- PART 830—COST ACCOUNTING STANDARDS ADMINISTRATION [RESERVED]
+- [PART 831—CONTRACT COST PRINCIPLES AND PROCEDURES](chapter-8-department-of-veterans-affairs/part-0831-contract-cost-principles-and-procedures.md)
+- [PART 832—CONTRACT FINANCING](chapter-8-department-of-veterans-affairs/part-0832-contract-financing.md)
+- [PART 833—PROTESTS, DISPUTES, AND APPEALS](chapter-8-department-of-veterans-affairs/part-0833-protests-disputes-and-appeals.md)
+- [PART 835—RESEARCH AND DEVELOPMENT CONTRACTING](chapter-8-department-of-veterans-affairs/part-0835-research-and-development-contracting.md)
+- [PART 836—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS](chapter-8-department-of-veterans-affairs/part-0836-construction-and-architect-engineer-contracts.md)
+- [PART 837—SERVICE CONTRACTING](chapter-8-department-of-veterans-affairs/part-0837-service-contracting.md)
+- [PART 839—ACQUISITION OF INFORMATION TECHNOLOGY](chapter-8-department-of-veterans-affairs/part-0839-acquisition-of-information-technology.md)
+- [PART 841—ACQUISITION OF UTILITY SERVICES](chapter-8-department-of-veterans-affairs/part-0841-acquisition-of-utility-services.md)
+- [PART 842—CONTRACT ADMINISTRATION AND AUDIT SERVICES](chapter-8-department-of-veterans-affairs/part-0842-contract-administration-and-audit-services.md)
+- [PART 843—CONTRACT MODIFICATIONS](chapter-8-department-of-veterans-affairs/part-0843-contract-modifications.md)
+- [PART 844—SUBCONTRACTING POLICIES AND PROCEDURES](chapter-8-department-of-veterans-affairs/part-0844-subcontracting-policies-and-procedures.md)
+- [PART 845—GOVERNMENT PROPERTY](chapter-8-department-of-veterans-affairs/part-0845-government-property.md)
+- [PART 846—QUALITY ASSURANCE](chapter-8-department-of-veterans-affairs/part-0846-quality-assurance.md)
+- [PART 847—TRANSPORTATION](chapter-8-department-of-veterans-affairs/part-0847-transportation.md)
+- [PART 849—TERMINATION OF CONTRACTS](chapter-8-department-of-veterans-affairs/part-0849-termination-of-contracts.md)
+- [PART 852—SOLICITATION PROVISIONS AND CONTRACT CLAUSES](chapter-8-department-of-veterans-affairs/part-0852-solicitation-provisions-and-contract-clauses.md)
+- [PART 853—FORMS](chapter-8-department-of-veterans-affairs/part-0853-forms.md)
+- PART 870 [RESERVED]
+- [PART 871—VOCATIONAL REHABILITATION AND EMPLOYMENT PROGRAMS](chapter-8-department-of-veterans-affairs/part-0871-vocational-rehabilitation-and-employment-programs.md)
+- PART 872 [RESERVED]
+- [PART 873—SIMPLIFIED PROCEDURES FOR HEALTH-CARE RESOURCES](chapter-8-department-of-veterans-affairs/part-0873-simplified-procedures-for-health-care-resources.md)
+- PARTS 874-899 [RESERVED]
+
+## CHAPTER 9—DEPARTMENT OF ENERGY
+
+- PART 900 [RESERVED]
+- [PART 901—FEDERAL ACQUISITION REGULATIONS SYSTEM](chapter-9-department-of-energy/part-0901-federal-acquisition-regulations-system.md)
+- [PART 902—DEFINITIONS OF WORDS AND TERMS](chapter-9-department-of-energy/part-0902-definitions-of-words-and-terms.md)
+- [PART 903—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST](chapter-9-department-of-energy/part-0903-improper-business-practices-and-personal-conflicts-of.md)
+- [PART 904—ADMINISTRATIVE MATTERS](chapter-9-department-of-energy/part-0904-administrative-matters.md)
+- [PART 905—PUBLICIZING CONTRACT ACTIONS](chapter-9-department-of-energy/part-0905-publicizing-contract-actions.md)
+- [PART 906—COMPETITION REQUIREMENTS](chapter-9-department-of-energy/part-0906-competition-requirements.md)
+- PART 907 [RESERVED]
+- [PART 908—REQUIRED SOURCES OF SUPPLIES AND SERVICES](chapter-9-department-of-energy/part-0908-required-sources-of-supplies-and-services.md)
+- [PART 909—CONTRACTOR QUALIFICATIONS](chapter-9-department-of-energy/part-0909-contractor-qualifications.md)
+- [PART 911—DESCRIBING AGENCY NEEDS](chapter-9-department-of-energy/part-0911-describing-agency-needs.md)
+- [PART 912—ACQUISITION OF COMMERCIAL ITEMS](chapter-9-department-of-energy/part-0912-acquisition-of-commercial-items.md)
+- [PART 913—SIMPLIFIED ACQUISITION PROCEDURES](chapter-9-department-of-energy/part-0913-simplified-acquisition-procedures.md)
+- [PART 914—SEALED BIDDING](chapter-9-department-of-energy/part-0914-sealed-bidding.md)
+- [PART 915—CONTRACTING BY NEGOTIATION](chapter-9-department-of-energy/part-0915-contracting-by-negotiation.md)
+- [PART 916—TYPES OF CONTRACTS](chapter-9-department-of-energy/part-0916-types-of-contracts.md)
+- [PART 917—SPECIAL CONTRACTING METHODS](chapter-9-department-of-energy/part-0917-special-contracting-methods.md)
+- [PART 919—SMALL BUSINESS PROGRAMS](chapter-9-department-of-energy/part-0919-small-business-programs.md)
+- [PART 922—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITION](chapter-9-department-of-energy/part-0922-application-of-labor-laws-to-government-acquisition.md)
+- [PART 923—ENVIRONMENT, SUSTAINABLE ACQUISITION, AND MATERIAL SAFETY](chapter-9-department-of-energy/part-0923-environment-sustainable-acquisition-and-material-safety.md)
+- [PART 924—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION](chapter-9-department-of-energy/part-0924-protection-of-privacy-and-freedom-of-information.md)
+- [PART 925—FOREIGN ACQUISITION](chapter-9-department-of-energy/part-0925-foreign-acquisition.md)
+- [PART 926—OTHER SOCIOECONOMIC PROGRAMS](chapter-9-department-of-energy/part-0926-other-socioeconomic-programs.md)
+- [PART 927—PATENTS, DATA, AND COPYRIGHTS](chapter-9-department-of-energy/part-0927-patents-data-and-copyrights.md)
+- [PART 928—BONDS AND INSURANCE](chapter-9-department-of-energy/part-0928-bonds-and-insurance.md)
+- [PART 931—CONTRACT COST PRINCIPLES AND PROCEDURES](chapter-9-department-of-energy/part-0931-contract-cost-principles-and-procedures.md)
+- [PART 932—CONTRACT FINANCING](chapter-9-department-of-energy/part-0932-contract-financing.md)
+- [PART 933—PROTESTS, DISPUTES, AND APPEALS](chapter-9-department-of-energy/part-0933-protests-disputes-and-appeals.md)
+- [PART 935—RESEARCH AND DEVELOPMENT CONTRACTING](chapter-9-department-of-energy/part-0935-research-and-development-contracting.md)
+- [PART 936—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS](chapter-9-department-of-energy/part-0936-construction-and-architect-engineer-contracts.md)
+- [PART 937—SERVICE CONTRACTING](chapter-9-department-of-energy/part-0937-service-contracting.md)
+- [PART 939—ACQUISITION OF INFORMATION TECHNOLOGY](chapter-9-department-of-energy/part-0939-acquisition-of-information-technology.md)
+- [PART 941—ACQUISITION OF UTILITY SERVICES](chapter-9-department-of-energy/part-0941-acquisition-of-utility-services.md)
+- [PART 942—CONTRACT ADMINISTRATION AND AUDIT SERVICES](chapter-9-department-of-energy/part-0942-contract-administration-and-audit-services.md)
+- [PART 945—GOVERNMENT PROPERTY](chapter-9-department-of-energy/part-0945-government-property.md)
+- [PART 947—TRANSPORTATION](chapter-9-department-of-energy/part-0947-transportation.md)
+- [PART 949—TERMINATION OF CONTRACTS](chapter-9-department-of-energy/part-0949-termination-of-contracts.md)
+- [PART 950—EXTRAORDINARY CONTRACTUAL ACTIONS AND THE SAFETY ACT](chapter-9-department-of-energy/part-0950-extraordinary-contractual-actions-and-the-safety-act.md)
+- [PART 951—USE OF GOVERNMENT SOURCES BY CONTRACTORS](chapter-9-department-of-energy/part-0951-use-of-government-sources-by-contractors.md)
+- [PART 952—SOLICITATION PROVISIONS AND CONTRACT CLAUSES](chapter-9-department-of-energy/part-0952-solicitation-provisions-and-contract-clauses.md)
+- [PART 970—DOE MANAGEMENT AND OPERATING CONTRACTS](chapter-9-department-of-energy/part-0970-doe-management-and-operating-contracts.md)
+- PARTS 971-999 [RESERVED]
+
+## CHAPTER 10—DEPARTMENT OF THE TREASURY
+
+- PART 1000 [RESERVED]
+- [PART 1001—DEPARTMENT OF THE TREASURY ACQUISITION REGULATION (DTAR) SYSTEM](chapter-10-department-of-the-treasury/part-1001-department-of-the-treasury-acquisition-regulation-dtar.md)
+- [PART 1002—DEFINITIONS OF WORDS AND TERMS](chapter-10-department-of-the-treasury/part-1002-definitions-of-words-and-terms.md)
+- [PART 1009—CONTRACTOR QUALIFICATIONS](chapter-10-department-of-the-treasury/part-1009-contractor-qualifications.md)
+- [PART 1016—TYPES OF CONTRACTS](chapter-10-department-of-the-treasury/part-1016-types-of-contracts.md)
+- [PART 1019—SMALL BUSINESS PROGRAMS](chapter-10-department-of-the-treasury/part-1019-small-business-programs.md)
+- [PART 1022—MINORITY AND WOMEN INCLUSION](chapter-10-department-of-the-treasury/part-1022-minority-and-women-inclusion.md)
+- [PART 1028—BONDS AND INSURANCE](chapter-10-department-of-the-treasury/part-1028-bonds-and-insurance.md)
+- [PART 1032—CONTRACT FINANCING](chapter-10-department-of-the-treasury/part-1032-contract-financing.md)
+- [PART 1033—PROTESTS, DISPUTES, AND APPEALS](chapter-10-department-of-the-treasury/part-1033-protests-disputes-and-appeals.md)
+- [PART 1034—MAJOR SYSTEM ACQUISITION](chapter-10-department-of-the-treasury/part-1034-major-system-acquisition.md)
+- [PART 1036—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS](chapter-10-department-of-the-treasury/part-1036-construction-and-architect-engineer-contracts.md)
+- [PART 1042—CONTRACT ADMINISTRATION AND AUDIT SERVICES](chapter-10-department-of-the-treasury/part-1042-contract-administration-and-audit-services.md)
+- [PART 1052—SOLICITATION PROVISIONS AND CONTRACT CLAUSES](chapter-10-department-of-the-treasury/part-1052-solicitation-provisions-and-contract-clauses.md)
+- PARTS 1053-1099 [RESERVED]
+
+## CHAPTER 12—DEPARTMENT OF TRANSPORTATION
+
+- PART 1200 [RESERVED]
+- [PART 1201—FEDERAL ACQUISITION REGULATIONS SYSTEM](chapter-12-department-of-transportation/part-1201-federal-acquisition-regulations-system.md)
+- [PART 1202—DEFINITIONS OF WORDS AND TERMS](chapter-12-department-of-transportation/part-1202-definitions-of-words-and-terms.md)
+- [PART 1203—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST](chapter-12-department-of-transportation/part-1203-improper-business-practices-and-personal-conflicts-of.md)
+- [PART 1204—ADMINISTRATIVE AND INFORMATION MATTERS](chapter-12-department-of-transportation/part-1204-administrative-and-information-matters.md)
+- [PART 1205—PUBLICIZING CONTRACT ACTIONS](chapter-12-department-of-transportation/part-1205-publicizing-contract-actions.md)
+- [PART 1206—COMPETITION REQUIREMENTS](chapter-12-department-of-transportation/part-1206-competition-requirements.md)
+- [PART 1207—ACQUISITION PLANNING](chapter-12-department-of-transportation/part-1207-acquisition-planning.md)
+- [PART 1209—CONTRACTOR QUALIFICATIONS](chapter-12-department-of-transportation/part-1209-contractor-qualifications.md)
+- [PART 1211—DESCRIBING AGENCY NEEDS](chapter-12-department-of-transportation/part-1211-describing-agency-needs.md)
+- [PART 1212—ACQUISITION OF COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES](chapter-12-department-of-transportation/part-1212-acquisition-of-commercial-products-and-commercial-services.md)
+- [PART 1213—SIMPLIFIED ACQUISITION PROCEDURES](chapter-12-department-of-transportation/part-1213-simplified-acquisition-procedures.md)
+- PART 1214 [RESERVED]
+- [PART 1215—CONTRACTING BY NEGOTIATION](chapter-12-department-of-transportation/part-1215-contracting-by-negotiation.md)
+- [PART 1216—TYPES OF CONTRACTS](chapter-12-department-of-transportation/part-1216-types-of-contracts.md)
+- [PART 1217—SPECIAL CONTRACTING METHODS](chapter-12-department-of-transportation/part-1217-special-contracting-methods.md)
+- [PART 1219—SMALL BUSINESS PROGRAMS](chapter-12-department-of-transportation/part-1219-small-business-programs.md)
+- [PART 1222—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS](chapter-12-department-of-transportation/part-1222-application-of-labor-laws-to-government-acquisitions.md)
+- [PART 1223—ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE](chapter-12-department-of-transportation/part-1223-environment-energy-and-water-efficiency-renewable-energy.md)
+- [PART 1224—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION](chapter-12-department-of-transportation/part-1224-protection-of-privacy-and-freedom-of-information.md)
+- [PART 1227—PATENTS, DATA, AND COPYRIGHTS](chapter-12-department-of-transportation/part-1227-patents-data-and-copyrights.md)
+- [PART 1228—BONDS AND INSURANCE](chapter-12-department-of-transportation/part-1228-bonds-and-insurance.md)
+- [PART 1231—CONTRACT COST PRINCIPLES AND PROCEDURES](chapter-12-department-of-transportation/part-1231-contract-cost-principles-and-procedures.md)
+- [PART 1232—CONTRACT FINANCING](chapter-12-department-of-transportation/part-1232-contract-financing.md)
+- [PART 1233—PROTESTS, DISPUTES, AND APPEALS](chapter-12-department-of-transportation/part-1233-protests-disputes-and-appeals.md)
+- PART 1234 [RESERVED]
+- [PART 1235—RESEARCH AND DEVELOPMENT CONTRACTING](chapter-12-department-of-transportation/part-1235-research-and-development-contracting.md)
+- [PART 1236—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS](chapter-12-department-of-transportation/part-1236-construction-and-architect-engineer-contracts.md)
+- [PART 1237—SERVICE CONTRACTING](chapter-12-department-of-transportation/part-1237-service-contracting.md)
+- [PART 1239—ACQUISITION OF INFORMATION TECHNOLOGY](chapter-12-department-of-transportation/part-1239-acquisition-of-information-technology.md)
+- PART 1241 [RESERVED]
+- [PART 1242—CONTRACT ADMINISTRATION AND AUDIT SERVICES](chapter-12-department-of-transportation/part-1242-contract-administration-and-audit-services.md)
+- PART 1245 [RESERVED]
+- [PART 1246—QUALITY ASSURANCE](chapter-12-department-of-transportation/part-1246-quality-assurance.md)
+- [PART 1247—TRANSPORTATION](chapter-12-department-of-transportation/part-1247-transportation.md)
+- [PART 1252—SOLICITATION PROVISIONS AND C ONTRACT CLAUSES](chapter-12-department-of-transportation/part-1252-solicitation-provisions-and-c-ontract-clauses.md)
+- [PART 1253—FORMS](chapter-12-department-of-transportation/part-1253-forms.md)
+- PARTS 1254-1299 [RESERVED]
+
+## CHAPTER 13—DEPARTMENT OF COMMERCE
+
+- PART 1300 [RESERVED]
+- [PART 1301—DEPARTMENT OF COMMERCE ACQUISITION REGULATIONS SYSTEM](chapter-13-department-of-commerce/part-1301-department-of-commerce-acquisition-regulations-system.md)
+- [PART 1302—DEFINITIONS OF WORDS AND TERMS](chapter-13-department-of-commerce/part-1302-definitions-of-words-and-terms.md)
+- [PART 1303—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST](chapter-13-department-of-commerce/part-1303-improper-business-practices-and-personal-conflicts-of.md)
+- [PART 1304—ADMINISTRATIVE MATTERS](chapter-13-department-of-commerce/part-1304-administrative-matters.md)
+- [PART 1305—PUBLICIZING CONTRACT ACTIONS](chapter-13-department-of-commerce/part-1305-publicizing-contract-actions.md)
+- [PART 1306—COMPETITION REQUIREMENTS](chapter-13-department-of-commerce/part-1306-competition-requirements.md)
+- [PART 1307—ACQUISITION PLANNING](chapter-13-department-of-commerce/part-1307-acquisition-planning.md)
+- [PART 1308—REQUIRED SOURCES OF SUPPLIES AND SERVICES](chapter-13-department-of-commerce/part-1308-required-sources-of-supplies-and-services.md)
+- [PART 1309—CONTRACTOR QUALIFICATIONS](chapter-13-department-of-commerce/part-1309-contractor-qualifications.md)
+- [PART 1311—DESCRIBING AGENCY NEEDS](chapter-13-department-of-commerce/part-1311-describing-agency-needs.md)
+- [PART 1312—ACQUISITION OF COMMERCIAL ITEMS](chapter-13-department-of-commerce/part-1312-acquisition-of-commercial-items.md)
+- [PART 1313—SIMPLIFIED ACQUISITION PROCEDURES](chapter-13-department-of-commerce/part-1313-simplified-acquisition-procedures.md)
+- [PART 1314—SEALED BIDDING](chapter-13-department-of-commerce/part-1314-sealed-bidding.md)
+- [PART 1315—CONTRACTING BY NEGOTIATION](chapter-13-department-of-commerce/part-1315-contracting-by-negotiation.md)
+- [PART 1316—TYPES OF CONTRACTS](chapter-13-department-of-commerce/part-1316-types-of-contracts.md)
+- [PART 1317—SPECIAL CONTRACTING METHODS](chapter-13-department-of-commerce/part-1317-special-contracting-methods.md)
+- [PART 1318—EMERGENCY ACQUISITIONS](chapter-13-department-of-commerce/part-1318-emergency-acquisitions.md)
+- [PART 1319—SMALL BUSINESS PROGRAMS](chapter-13-department-of-commerce/part-1319-small-business-programs.md)
+- [PART 1322—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS](chapter-13-department-of-commerce/part-1322-application-of-labor-laws-to-government-acquisitions.md)
+- [PART 1323—ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, AND OCCUPATIONAL SAFETY](chapter-13-department-of-commerce/part-1323-environment-energy-and-water-efficiency-renewable-energy.md)
+- [PART 1324—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION](chapter-13-department-of-commerce/part-1324-protection-of-privacy-and-freedom-of-information.md)
+- [PART 1325—FOREIGN ACQUISITION](chapter-13-department-of-commerce/part-1325-foreign-acquisition.md)
+- [PART 1326—OTHER SOCIOECONOMIC PROGRAMS](chapter-13-department-of-commerce/part-1326-other-socioeconomic-programs.md)
+- [PART 1327—PATENTS, DATA, AND COPYRIGHTS](chapter-13-department-of-commerce/part-1327-patents-data-and-copyrights.md)
+- [PART 1328—BONDS AND INSURANCE](chapter-13-department-of-commerce/part-1328-bonds-and-insurance.md)
+- [PART 1329—TAXES](chapter-13-department-of-commerce/part-1329-taxes.md)
+- [PART 1330—COST ACCOUNTING STANDARDS ADMINISTRATION](chapter-13-department-of-commerce/part-1330-cost-accounting-standards-administration.md)
+- [PART 1331—CONTRACT COST PRINCIPLES AND PROCEDURES](chapter-13-department-of-commerce/part-1331-contract-cost-principles-and-procedures.md)
+- [PART 1332—CONTRACT FINANCING](chapter-13-department-of-commerce/part-1332-contract-financing.md)
+- [PART 1333—PROTESTS, DISPUTES, AND APPEALS](chapter-13-department-of-commerce/part-1333-protests-disputes-and-appeals.md)
+- [PART 1334—MAJOR SYSTEM ACQUISITION](chapter-13-department-of-commerce/part-1334-major-system-acquisition.md)
+- [PART 1335—RESEARCH AND DEVELOPMENT CONTRACTING](chapter-13-department-of-commerce/part-1335-research-and-development-contracting.md)
+- [PART 1336—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS](chapter-13-department-of-commerce/part-1336-construction-and-architect-engineer-contracts.md)
+- [PART 1337—SERVICE CONTRACTING](chapter-13-department-of-commerce/part-1337-service-contracting.md)
+- [PART 1339—ACQUISITION OF INFORMATION TECHNOLOGY](chapter-13-department-of-commerce/part-1339-acquisition-of-information-technology.md)
+- [PART 1341—ACQUISITION OF UTILITY SERVICES](chapter-13-department-of-commerce/part-1341-acquisition-of-utility-services.md)
+- [PART 1342—CONTRACT ADMINISTRATION](chapter-13-department-of-commerce/part-1342-contract-administration.md)
+- [PART 1344—SUBCONTRACTING POLICIES AND PROCEDURES](chapter-13-department-of-commerce/part-1344-subcontracting-policies-and-procedures.md)
+- [PART 1345—GOVERNMENT PROPERTY](chapter-13-department-of-commerce/part-1345-government-property.md)
+- [PART 1346—QUALITY ASSURANCE](chapter-13-department-of-commerce/part-1346-quality-assurance.md)
+- [PART 1348—VALUE ENGINEERING](chapter-13-department-of-commerce/part-1348-value-engineering.md)
+- [PART 1349—TERMINATION OF CONTRACTS](chapter-13-department-of-commerce/part-1349-termination-of-contracts.md)
+- [PART 1350—EXTRAORDINARY CONTRACTUAL ACTIONS](chapter-13-department-of-commerce/part-1350-extraordinary-contractual-actions.md)
+- [PART 1352—SOLICITATION PROVISIONS AND CONTRACT CLAUSES](chapter-13-department-of-commerce/part-1352-solicitation-provisions-and-contract-clauses.md)
+- [PART 1353—FORMS](chapter-13-department-of-commerce/part-1353-forms.md)
+- [PART 1370—UNIVERSAL SOLICITATION PROVISIONS AND CONTRACT CLAUSES](chapter-13-department-of-commerce/part-1370-universal-solicitation-provisions-and-contract-clauses.md)
+- [PART 1371—ACQUISITIONS INVOLVING SHIP CONSTRUCTION AND SHIP REPAIR](chapter-13-department-of-commerce/part-1371-acquisitions-involving-ship-construction-and-ship-repair.md)
+- PARTS 1372-1399 [RESERVED]
+
+## CHAPTER 14—DEPARTMENT OF THE INTERIOR
+
+- PART 1400 [RESERVED]
+- [PART 1401—DEPARTMENT OF THE INTERIOR ACQUISITION REGULATION SYSTEM](chapter-14-department-of-the-interior/part-1401-department-of-the-interior-acquisition-regulation-system.md)
+- [PART 1402—DEFINITIONS OF WORDS AND TERMS](chapter-14-department-of-the-interior/part-1402-definitions-of-words-and-terms.md)
+- [PART 1403—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST](chapter-14-department-of-the-interior/part-1403-improper-business-practices-and-personal-conflicts-of.md)
+- [PART 1404—ADMINISTRATIVE MATTERS](chapter-14-department-of-the-interior/part-1404-administrative-matters.md)
+- [PART 1405—PUBLICIZING CONTRACT ACTIONS](chapter-14-department-of-the-interior/part-1405-publicizing-contract-actions.md)
+- [PART 1406—COMPETITION REQUIREMENTS](chapter-14-department-of-the-interior/part-1406-competition-requirements.md)
+- [PART 1407—ACQUISITION PLANNING](chapter-14-department-of-the-interior/part-1407-acquisition-planning.md)
+- [PART 1408—REQUIRED SOURCES OF SUPPLIES AND SERVICES](chapter-14-department-of-the-interior/part-1408-required-sources-of-supplies-and-services.md)
+- [PART 1409—CONTRACTOR QUALIFICATIONS](chapter-14-department-of-the-interior/part-1409-contractor-qualifications.md)
+- PARTS 1410-1412 [RESERVED]
+- [PART 1413—SIMPLIFIED ACQUISITION PROCEDURES](chapter-14-department-of-the-interior/part-1413-simplified-acquisition-procedures.md)
+- [PART 1414—SEALED BIDDING](chapter-14-department-of-the-interior/part-1414-sealed-bidding.md)
+- [PART 1415—CONTRACTING BY NEGOTIATION](chapter-14-department-of-the-interior/part-1415-contracting-by-negotiation.md)
+- [PART 1416—TYPES OF CONTRACTS](chapter-14-department-of-the-interior/part-1416-types-of-contracts.md)
+- [PART 1417—SPECIAL CONTRACTING METHODS](chapter-14-department-of-the-interior/part-1417-special-contracting-methods.md)
+- PART 1418 [RESERVED]
+- [PART 1419—SMALL BUSINESS PROGRAMS](chapter-14-department-of-the-interior/part-1419-small-business-programs.md)
+- PARTS 1420-1421 [RESERVED]
+- [PART 1422—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS](chapter-14-department-of-the-interior/part-1422-application-of-labor-laws-to-government-acquisitions.md)
+- PART 1423 [RESERVED]
+- [PART 1424—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION](chapter-14-department-of-the-interior/part-1424-protection-of-privacy-and-freedom-of-information.md)
+- [PART 1425—FOREIGN ACQUISITION](chapter-14-department-of-the-interior/part-1425-foreign-acquisition.md)
+- [PART 1426—OTHER SOCIOECONOMIC PROGRAMS](chapter-14-department-of-the-interior/part-1426-other-socioeconomic-programs.md)
+- [PART 1427—PATENTS, DATA, AND COPYRIGHTS](chapter-14-department-of-the-interior/part-1427-patents-data-and-copyrights.md)
+- [PART 1428—BONDS AND INSURANCE](chapter-14-department-of-the-interior/part-1428-bonds-and-insurance.md)
+- [PART 1429—TAXES](chapter-14-department-of-the-interior/part-1429-taxes.md)
+- [PART 1430—COST ACCOUNTING STANDARDS ADMINISTRATION](chapter-14-department-of-the-interior/part-1430-cost-accounting-standards-administration.md)
+- [PART 1431—CONTRACT COST PRINCIPLES AND PROCEDURES](chapter-14-department-of-the-interior/part-1431-contract-cost-principles-and-procedures.md)
+- [PART 1432—CONTRACT FINANCING](chapter-14-department-of-the-interior/part-1432-contract-financing.md)
+- [PART 1433—PROTESTS, DISPUTES, AND APPEALS](chapter-14-department-of-the-interior/part-1433-protests-disputes-and-appeals.md)
+- PART 1434 [RESERVED]
+- [PART 1435—RESEARCH AND DEVELOPMENT CONTRACTING](chapter-14-department-of-the-interior/part-1435-research-and-development-contracting.md)
+- [PART 1436—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS](chapter-14-department-of-the-interior/part-1436-construction-and-architect-engineer-contracts.md)
+- [PART 1437—SERVICE CONTRACTING](chapter-14-department-of-the-interior/part-1437-service-contracting.md)
+- PARTS 1438-1441 [RESERVED]
+- [PART 1442—CONTRACT ADMINISTRATION AND AUDIT SERVICES](chapter-14-department-of-the-interior/part-1442-contract-administration-and-audit-services.md)
+- [PART 1443—CONTRACT MODIFICATIONS](chapter-14-department-of-the-interior/part-1443-contract-modifications.md)
+- PART 1444 [RESERVED]
+- [PART 1445—GOVERNMENT PROPERTY](chapter-14-department-of-the-interior/part-1445-government-property.md)
+- [PART 1446—QUALITY ASSURANCE](chapter-14-department-of-the-interior/part-1446-quality-assurance.md)
+- PART 1447 [RESERVED]
+- [PART 1448—VALUE ENGINEERING](chapter-14-department-of-the-interior/part-1448-value-engineering.md)
+- [PART 1449—TERMINATION OF CONTRACTS](chapter-14-department-of-the-interior/part-1449-termination-of-contracts.md)
+- [PART 1450—EXTRAORDINARY CONTRACTUAL ACTIONS AND THE SAFETY ACT](chapter-14-department-of-the-interior/part-1450-extraordinary-contractual-actions-and-the-safety-act.md)
+- [PART 1451—USES OF GOVERNMENT SOURCES BY CONTRACTORS](chapter-14-department-of-the-interior/part-1451-uses-of-government-sources-by-contractors.md)
+- [PART 1452—SOLICITATION PROVISIONS AND CONTRACT CLAUSES](chapter-14-department-of-the-interior/part-1452-solicitation-provisions-and-contract-clauses.md)
+- [PART 1480—ACQUISITIONS UNDER THE BUY INDIAN ACT](chapter-14-department-of-the-interior/part-1480-acquisitions-under-the-buy-indian-act.md)
+- PARTS 1481-1499 [RESERVED]
+
+## CHAPTER 15—ENVIRONMENTAL PROTECTION AGENCY
+
+- PART 1500 [RESERVED]
+- [PART 1501—GENERAL](chapter-15-environmental-protection-agency/part-1501-general.md)
+- [PART 1502—DEFINITION OF WORDS AND TERMS](chapter-15-environmental-protection-agency/part-1502-definition-of-words-and-terms.md)
+- [PART 1503—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST](chapter-15-environmental-protection-agency/part-1503-improper-business-practices-and-personal-conflicts-of.md)
+- [PART 1504—ADMINISTRATIVE MATTERS](chapter-15-environmental-protection-agency/part-1504-administrative-matters.md)
+- [PART 1505—PUBLICIZING CONTRACT ACTIONS](chapter-15-environmental-protection-agency/part-1505-publicizing-contract-actions.md)
+- [PART 1506—COMPETITION REQUIREMENTS](chapter-15-environmental-protection-agency/part-1506-competition-requirements.md)
+- [PART 1508—REQUIRED SOURCES OF SUPPLY](chapter-15-environmental-protection-agency/part-1508-required-sources-of-supply.md)
+- [PART 1509—CONTRACTOR QUALIFICATIONS](chapter-15-environmental-protection-agency/part-1509-contractor-qualifications.md)
+- [PART 1511—DESCRIBING AGENCY NEEDS](chapter-15-environmental-protection-agency/part-1511-describing-agency-needs.md)
+- [PART 1512—ACQUISITION OF COMMERCIAL ITEMS](chapter-15-environmental-protection-agency/part-1512-acquisition-of-commercial-items.md)
+- [PART 1513—SIMPLIFIED ACQUISITION PROCEDURES](chapter-15-environmental-protection-agency/part-1513-simplified-acquisition-procedures.md)
+- [PART 1514—SEALED BIDDING](chapter-15-environmental-protection-agency/part-1514-sealed-bidding.md)
+- [PART 1515—CONTRACTING BY NEGOTIATION](chapter-15-environmental-protection-agency/part-1515-contracting-by-negotiation.md)
+- [PART 1516—TYPES OF CONTRACTS](chapter-15-environmental-protection-agency/part-1516-types-of-contracts.md)
+- [PART 1517—SPECIAL CONTRACTING METHODS](chapter-15-environmental-protection-agency/part-1517-special-contracting-methods.md)
+- [PART 1519—SMALL BUSINESS PROGRAMS](chapter-15-environmental-protection-agency/part-1519-small-business-programs.md)
+- [PART 1520—LABOR SURPLUS AREA CONCERNS](chapter-15-environmental-protection-agency/part-1520-labor-surplus-area-concerns.md)
+- [PART 1522—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS](chapter-15-environmental-protection-agency/part-1522-application-of-labor-laws-to-government-acquisitions.md)
+- [PART 1523—ENVIRONMENTAL, CONSERVATION, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE](chapter-15-environmental-protection-agency/part-1523-environmental-conservation-occupational-safety-and-drug.md)
+- [PART 1524—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION](chapter-15-environmental-protection-agency/part-1524-protection-of-privacy-and-freedom-of-information.md)
+- [PART 1525—FOREIGN ACQUISITION](chapter-15-environmental-protection-agency/part-1525-foreign-acquisition.md)
+- [PART 1527—PATENTS, DATA, AND COPYRIGHTS](chapter-15-environmental-protection-agency/part-1527-patents-data-and-copyrights.md)
+- [PART 1528—BONDS OF INSURANCE](chapter-15-environmental-protection-agency/part-1528-bonds-of-insurance.md)
+- [PART 1529—TAXES](chapter-15-environmental-protection-agency/part-1529-taxes.md)
+- [PART 1530—COST ACCOUNTING STANDARDS](chapter-15-environmental-protection-agency/part-1530-cost-accounting-standards.md)
+- [PART 1531—CONTRACT COST PRINCIPLES AND PROCEDURES](chapter-15-environmental-protection-agency/part-1531-contract-cost-principles-and-procedures.md)
+- [PART 1532—CONTRACT FINANCING](chapter-15-environmental-protection-agency/part-1532-contract-financing.md)
+- [PART 1533—PROTESTS, DISPUTES AND APPEALS](chapter-15-environmental-protection-agency/part-1533-protests-disputes-and-appeals.md)
+- [PART 1535—RESEARCH AND DEVELOPMENT CONTRACTING](chapter-15-environmental-protection-agency/part-1535-research-and-development-contracting.md)
+- [PART 1536—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS](chapter-15-environmental-protection-agency/part-1536-construction-and-architect-engineer-contracts.md)
+- [PART 1537—SERVICE CONTRACTING](chapter-15-environmental-protection-agency/part-1537-service-contracting.md)
+- [PART 1539—ACQUISITION OF INFORMATION TECHNOLOGY](chapter-15-environmental-protection-agency/part-1539-acquisition-of-information-technology.md)
+- [PART 1542—CONTRACT ADMINISTRATION](chapter-15-environmental-protection-agency/part-1542-contract-administration.md)
+- [PART 1545—GOVERNMENT PROPERTY](chapter-15-environmental-protection-agency/part-1545-government-property.md)
+- [PART 1546—QUALITY ASSURANCE](chapter-15-environmental-protection-agency/part-1546-quality-assurance.md)
+- PART 1548—VALUE ENGINEERING [RESERVED]
+- [PART 1552—SOLICITATION PROVISIONS AND CONTRACT CLAUSES](chapter-15-environmental-protection-agency/part-1552-solicitation-provisions-and-contract-clauses.md)
+- [PART 1553—FORMS](chapter-15-environmental-protection-agency/part-1553-forms.md)
+- PARTS 1554-1599 [RESERVED]
+
+## CHAPTER 16—OFFICE OF PERSONNEL MANAGEMENT FEDERAL EMPLOYEES HEALTH BENEFITS ACQUISITION REGULATION
+
+- PART 1600 [RESERVED]
+- [PART 1601—FEDERAL ACQUISITION REGULATIONS SYSTEM](chapter-16-office-of-personnel-management-federal-employees-health/part-1601-federal-acquisition-regulations-system.md)
+- [PART 1602—DEFINITIONS OF WORDS AND TERMS](chapter-16-office-of-personnel-management-federal-employees-health/part-1602-definitions-of-words-and-terms.md)
+- [PART 1603—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST](chapter-16-office-of-personnel-management-federal-employees-health/part-1603-improper-business-practices-and-personal-conflicts-of.md)
+- [PART 1604—ADMINISTRATIVE MATTERS](chapter-16-office-of-personnel-management-federal-employees-health/part-1604-administrative-matters.md)
+- [PART 1605—PUBLICIZING CONTRACT ACTIONS](chapter-16-office-of-personnel-management-federal-employees-health/part-1605-publicizing-contract-actions.md)
+- [PART 1606—COMPETITION REQUIREMENTS](chapter-16-office-of-personnel-management-federal-employees-health/part-1606-competition-requirements.md)
+- [PART 1609—CONTRACTOR QUALIFICATIONS](chapter-16-office-of-personnel-management-federal-employees-health/part-1609-contractor-qualifications.md)
+- [PART 1614—SEALED BIDDING](chapter-16-office-of-personnel-management-federal-employees-health/part-1614-sealed-bidding.md)
+- [PART 1615—CONTRACTING BY NEGOTIATION](chapter-16-office-of-personnel-management-federal-employees-health/part-1615-contracting-by-negotiation.md)
+- [PART 1616—TYPES OF CONTRACTS](chapter-16-office-of-personnel-management-federal-employees-health/part-1616-types-of-contracts.md)
+- [PART 1622—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS](chapter-16-office-of-personnel-management-federal-employees-health/part-1622-application-of-labor-laws-to-government-acquisitions.md)
+- [PART 1624—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION](chapter-16-office-of-personnel-management-federal-employees-health/part-1624-protection-of-privacy-and-freedom-of-information.md)
+- [PART 1629—TAXES](chapter-16-office-of-personnel-management-federal-employees-health/part-1629-taxes.md)
+- [PART 1631—CONTRACT COST PRINCIPLES AND PROCEDURES](chapter-16-office-of-personnel-management-federal-employees-health/part-1631-contract-cost-principles-and-procedures.md)
+- [PART 1632—CONTRACT FINANCING](chapter-16-office-of-personnel-management-federal-employees-health/part-1632-contract-financing.md)
+- PART 1633 [RESERVED]
+- [PART 1642—CONTRACT ADMINISTRATION](chapter-16-office-of-personnel-management-federal-employees-health/part-1642-contract-administration.md)
+- [PART 1643—CONTRACT MODIFICATIONS](chapter-16-office-of-personnel-management-federal-employees-health/part-1643-contract-modifications.md)
+- [PART 1644—SUBCONTRACTING POLICIES AND PROCEDURES](chapter-16-office-of-personnel-management-federal-employees-health/part-1644-subcontracting-policies-and-procedures.md)
+- [PART 1645—GOVERNMENT PROPERTY](chapter-16-office-of-personnel-management-federal-employees-health/part-1645-government-property.md)
+- [PART 1646—QUALITY ASSURANCE](chapter-16-office-of-personnel-management-federal-employees-health/part-1646-quality-assurance.md)
+- [PART 1649—TERMINATION OF CONTRACTS](chapter-16-office-of-personnel-management-federal-employees-health/part-1649-termination-of-contracts.md)
+- [PART 1652—CONTRACT CLAUSES](chapter-16-office-of-personnel-management-federal-employees-health/part-1652-contract-clauses.md)
+- [PART 1653—FORMS](chapter-16-office-of-personnel-management-federal-employees-health/part-1653-forms.md)
+- [PART 1699—COST ACCOUNTING STANDARDS](chapter-16-office-of-personnel-management-federal-employees-health/part-1699-cost-accounting-standards.md)
+
+## CHAPTER 17—OFFICE OF PERSONNEL MANAGEMENT
+
+- PARTS 1700-1732 [RESERVED]
+- [PART 1733—PROTESTS, DISPUTES, AND APPEALS](chapter-17-office-of-personnel-management/part-1733-protests-disputes-and-appeals.md)
+- PARTS 1734-1799 [RESERVED]
+
+## CHAPTER 18—NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
+
+- PART 1800 [RESERVED]
+- [PART 1801—FEDERAL ACQUISITION REGULATIONS SYSTEM](chapter-18-national-aeronautics-and-space-administration/part-1801-federal-acquisition-regulations-system.md)
+- [PART 1803—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST](chapter-18-national-aeronautics-and-space-administration/part-1803-improper-business-practices-and-personal-conflicts-of.md)
+- [PART 1804—ADMINISTRATIVE MATTERS](chapter-18-national-aeronautics-and-space-administration/part-1804-administrative-matters.md)
+- [PART 1805—PUBLICIZING CONTRACT ACTIONS](chapter-18-national-aeronautics-and-space-administration/part-1805-publicizing-contract-actions.md)
+- [PART 1806—COMPETITION REQUIREMENTS](chapter-18-national-aeronautics-and-space-administration/part-1806-competition-requirements.md)
+- [PART 1807—ACQUISITION PLANNING](chapter-18-national-aeronautics-and-space-administration/part-1807-acquisition-planning.md)
+- [PART 1808—REQUIRED SOURCES OF SUPPLIES AND SERVICES](chapter-18-national-aeronautics-and-space-administration/part-1808-required-sources-of-supplies-and-services.md)
+- [PART 1809—CONTRACTOR QUALIFICATIONS](chapter-18-national-aeronautics-and-space-administration/part-1809-contractor-qualifications.md)
+- [PART 1811—DESCRIBING AGENCY NEEDS](chapter-18-national-aeronautics-and-space-administration/part-1811-describing-agency-needs.md)
+- [PART 1812—ACQUISITION OF COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES](chapter-18-national-aeronautics-and-space-administration/part-1812-acquisition-of-commercial-products-and-commercial-services.md)
+- [PART 1813—SIMPLIFIED ACQUISITION PROCEDURES](chapter-18-national-aeronautics-and-space-administration/part-1813-simplified-acquisition-procedures.md)
+- [PART 1814—SEALED BIDDING](chapter-18-national-aeronautics-and-space-administration/part-1814-sealed-bidding.md)
+- [PART 1815—CONTRACTING BY NEGOTIATION](chapter-18-national-aeronautics-and-space-administration/part-1815-contracting-by-negotiation.md)
+- [PART 1816—TYPES OF CONTRACTS](chapter-18-national-aeronautics-and-space-administration/part-1816-types-of-contracts.md)
+- [PART 1817—SPECIAL CONTRACTING METHODS](chapter-18-national-aeronautics-and-space-administration/part-1817-special-contracting-methods.md)
+- [PART 1819—SMALL BUSINESS PROGRAMS](chapter-18-national-aeronautics-and-space-administration/part-1819-small-business-programs.md)
+- [PART 1822—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS](chapter-18-national-aeronautics-and-space-administration/part-1822-application-of-labor-laws-to-government-acquisitions.md)
+- [PART 1823—ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE](chapter-18-national-aeronautics-and-space-administration/part-1823-environment-energy-and-water-efficiency-renewable-energy.md)
+- [PART 1824—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION](chapter-18-national-aeronautics-and-space-administration/part-1824-protection-of-privacy-and-freedom-of-information.md)
+- [PART 1825—FOREIGN ACQUISITION](chapter-18-national-aeronautics-and-space-administration/part-1825-foreign-acquisition.md)
+- [PART 1827—PATENTS, DATA, AND COPYRIGHTS](chapter-18-national-aeronautics-and-space-administration/part-1827-patents-data-and-copyrights.md)
+- [PART 1828—BONDS AND INSURANCE](chapter-18-national-aeronautics-and-space-administration/part-1828-bonds-and-insurance.md)
+- [PART 1830—COST ACCOUNTING STANDARDS ADMINISTRATION](chapter-18-national-aeronautics-and-space-administration/part-1830-cost-accounting-standards-administration.md)
+- [PART 1831—CONTRACT COST PRINCIPLES AND PROCEDURES](chapter-18-national-aeronautics-and-space-administration/part-1831-contract-cost-principles-and-procedures.md)
+- [PART 1832—CONTRACT FINANCING](chapter-18-national-aeronautics-and-space-administration/part-1832-contract-financing.md)
+- [PART 1833—PROTESTS, DISPUTES, AND APPEALS](chapter-18-national-aeronautics-and-space-administration/part-1833-protests-disputes-and-appeals.md)
+- [PART 1834—MAJOR SYSTEM ACQUISITION](chapter-18-national-aeronautics-and-space-administration/part-1834-major-system-acquisition.md)
+- [PART 1835—RESEARCH AND DEVELOPMENT CONTRACTING](chapter-18-national-aeronautics-and-space-administration/part-1835-research-and-development-contracting.md)
+- [PART 1836—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS](chapter-18-national-aeronautics-and-space-administration/part-1836-construction-and-architect-engineer-contracts.md)
+- [PART 1837—SERVICE CONTRACTING](chapter-18-national-aeronautics-and-space-administration/part-1837-service-contracting.md)
+- [PART 1839—ACQUISITION OF INFORMATION TECHNOLOGY](chapter-18-national-aeronautics-and-space-administration/part-1839-acquisition-of-information-technology.md)
+- PART 1840 [RESERVED]
+- [PART 1841—ACQUISITION OF UTILITY SERVICES](chapter-18-national-aeronautics-and-space-administration/part-1841-acquisition-of-utility-services.md)
+- [PART 1842—CONTRACT ADMINISTRATION AND AUDIT SERVICES](chapter-18-national-aeronautics-and-space-administration/part-1842-contract-administration-and-audit-services.md)
+- [PART 1843—CONTRACT MODIFICATIONS](chapter-18-national-aeronautics-and-space-administration/part-1843-contract-modifications.md)
+- [PART 1844—SUBCONTRACTING POLICIES AND PROCEDURES](chapter-18-national-aeronautics-and-space-administration/part-1844-subcontracting-policies-and-procedures.md)
+- [PART 1845—GOVERNMENT PROPERTY](chapter-18-national-aeronautics-and-space-administration/part-1845-government-property.md)
+- [PART 1846—QUALITY ASSURANCE](chapter-18-national-aeronautics-and-space-administration/part-1846-quality-assurance.md)
+- [PART 1847—TRANSPORTATION](chapter-18-national-aeronautics-and-space-administration/part-1847-transportation.md)
+- [PART 1849—TERMINATION OF CONTRACTS](chapter-18-national-aeronautics-and-space-administration/part-1849-termination-of-contracts.md)
+- [PART 1850—EXTRAORDINARY CONTRACTUAL ACTIONS AND THE SAFETY ACT](chapter-18-national-aeronautics-and-space-administration/part-1850-extraordinary-contractual-actions-and-the-safety-act.md)
+- [PART 1851—USE OF GOVERNMENT SOURCES BY CONTRACTORS](chapter-18-national-aeronautics-and-space-administration/part-1851-use-of-government-sources-by-contractors.md)
+- [PART 1852—SOLICITATION PROVISIONS AND CONTRACT CLAUSES](chapter-18-national-aeronautics-and-space-administration/part-1852-solicitation-provisions-and-contract-clauses.md)
+- PART 1853 [RESERVED]
+- PARTS 1872-1899 [RESERVED]
+
+## CHAPTER 19—BROADCASTING BOARD OF GOVERNORS
+
+- PART 1900 [RESERVED]
+- [PART 1901—THE BROADCASTING BOARD OF GOVERNORS ACQUISITION REGULATION SYSTEM](chapter-19-broadcasting-board-of-governors/part-1901-the-broadcasting-board-of-governors-acquisition-regulation.md)
+- [PART 1902—DEFINITIONS OF WORDS AND TERMS](chapter-19-broadcasting-board-of-governors/part-1902-definitions-of-words-and-terms.md)
+- [PART 1903—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST](chapter-19-broadcasting-board-of-governors/part-1903-improper-business-practices-and-personal-conflicts-of.md)
+- [PART 1904—ADMINISTRATIVE MATTERS](chapter-19-broadcasting-board-of-governors/part-1904-administrative-matters.md)
+- [PART 1909—CONTRACTOR QUALIFICATIONS](chapter-19-broadcasting-board-of-governors/part-1909-contractor-qualifications.md)
+- [PART 1910—SPECIFICATIONS, STANDARDS, AND OTHER PURCHASE DESCRIPTIONS](chapter-19-broadcasting-board-of-governors/part-1910-specifications-standards-and-other-purchase-descriptions.md)
+- [PART 1913—SMALL PURCHASES AND OTHER SIMPLIFIED PURCHASE PROCEDURES](chapter-19-broadcasting-board-of-governors/part-1913-small-purchases-and-other-simplified-purchase-procedures.md)
+- [PART 1915—CONTRACTING BY NEGOTIATION](chapter-19-broadcasting-board-of-governors/part-1915-contracting-by-negotiation.md)
+- [PART 1917—SPECIAL CONTRACTING METHODS](chapter-19-broadcasting-board-of-governors/part-1917-special-contracting-methods.md)
+- [PART 1942—CONTRACT ADMINISTRATION](chapter-19-broadcasting-board-of-governors/part-1942-contract-administration.md)
+- [PART 1946—QUALITY ASSURANCE](chapter-19-broadcasting-board-of-governors/part-1946-quality-assurance.md)
+- [PART 1952—SOLICITATION PROVISIONS AND CONTRACT CLAUSES](chapter-19-broadcasting-board-of-governors/part-1952-solicitation-provisions-and-contract-clauses.md)
+- [PART 1953—FORMS](chapter-19-broadcasting-board-of-governors/part-1953-forms.md)
+- PARTS 1954-1999 [RESERVED]
+
+## CHAPTER 20—NUCLEAR REGULATORY COMMISSION
+
+- PART 2000 [RESERVED]
+- [PART 2001—NUCLEAR REGULATORY COMMISSION ACQUISITION REGULATION SYSTEM](chapter-20-nuclear-regulatory-commission/part-2001-nuclear-regulatory-commission-acquisition-regulation-system.md)
+- [PART 2002—DEFINITIONS](chapter-20-nuclear-regulatory-commission/part-2002-definitions.md)
+- [PART 2003—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST](chapter-20-nuclear-regulatory-commission/part-2003-improper-business-practices-and-personal-conflicts-of.md)
+- [PART 2004—ADMINISTRATIVE MATTERS](chapter-20-nuclear-regulatory-commission/part-2004-administrative-matters.md)
+- [PART 2005—PUBLICIZING CONTRACT ACTIONS](chapter-20-nuclear-regulatory-commission/part-2005-publicizing-contract-actions.md)
+- [PART 2009—CONTRACTOR QUALIFICATIONS](chapter-20-nuclear-regulatory-commission/part-2009-contractor-qualifications.md)
+- [PART 2011—DESCRIBING AGENCY NEEDS](chapter-20-nuclear-regulatory-commission/part-2011-describing-agency-needs.md)
+- PART 2013—SIMPLIFIED ACQUISITION PROCEDURES [RESERVED]
+- [PART 2014—SEALED BIDDING](chapter-20-nuclear-regulatory-commission/part-2014-sealed-bidding.md)
+- [PART 2015—CONTRACTING BY NEGOTIATION](chapter-20-nuclear-regulatory-commission/part-2015-contracting-by-negotiation.md)
+- [PART 2016—TYPES OF CONTRACTS](chapter-20-nuclear-regulatory-commission/part-2016-types-of-contracts.md)
+- [PART 2017—SPECIAL CONTRACTING METHODS](chapter-20-nuclear-regulatory-commission/part-2017-special-contracting-methods.md)
+- [PART 2019—SMALL BUSINESS PROGRAMS](chapter-20-nuclear-regulatory-commission/part-2019-small-business-programs.md)
+- [PART 2022—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS](chapter-20-nuclear-regulatory-commission/part-2022-application-of-labor-laws-to-government-acquisitions.md)
+- [PART 2024—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION](chapter-20-nuclear-regulatory-commission/part-2024-protection-of-privacy-and-freedom-of-information.md)
+- [PART 2027—PATENTS, DATA, AND COPYRIGHTS](chapter-20-nuclear-regulatory-commission/part-2027-patents-data-and-copyrights.md)
+- [PART 2030—COST ACCOUNTING STANDARDS](chapter-20-nuclear-regulatory-commission/part-2030-cost-accounting-standards.md)
+- [PART 2031—CONTRACT COST PRINCIPLES AND PROCEDURES](chapter-20-nuclear-regulatory-commission/part-2031-contract-cost-principles-and-procedures.md)
+- [PART 2032—CONTRACT FINANCING](chapter-20-nuclear-regulatory-commission/part-2032-contract-financing.md)
+- [PART 2033—PROTESTS, DISPUTES, AND APPEALS](chapter-20-nuclear-regulatory-commission/part-2033-protests-disputes-and-appeals.md)
+- [PART 2035—RESEARCH AND DEVELOPMENT CONTRACTING](chapter-20-nuclear-regulatory-commission/part-2035-research-and-development-contracting.md)
+- [PART 2042—CONTRACT ADMINISTRATION](chapter-20-nuclear-regulatory-commission/part-2042-contract-administration.md)
+- [PART 2045—GOVERNMENT PROPERTY](chapter-20-nuclear-regulatory-commission/part-2045-government-property.md)
+- [PART 2052—SOLICITATION PROVISIONS AND CONTRACT CLAUSES](chapter-20-nuclear-regulatory-commission/part-2052-solicitation-provisions-and-contract-clauses.md)
+- PARTS 2053-2099 [RESERVED]
+
+## CHAPTER 21—OFFICE OF PERSONNEL MANAGEMENT, FEDERAL EMPLOYEES GROUP LIFE INSURANCE FEDERAL ACQUISITION REGULATION
+
+- PART 2100 [RESERVED]
+- [PART 2101—FEDERAL ACQUISITION REGULATIONS SYSTEM](chapter-21-office-of-personnel-management-federal-employees-group-life/part-2101-federal-acquisition-regulations-system.md)
+- [PART 2102—DEFINITIONS OF WORDS AND TERMS](chapter-21-office-of-personnel-management-federal-employees-group-life/part-2102-definitions-of-words-and-terms.md)
+- [PART 2103—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST](chapter-21-office-of-personnel-management-federal-employees-group-life/part-2103-improper-business-practices-and-personal-conflicts-of.md)
+- [PART 2104—ADMINISTRATIVE MATTERS](chapter-21-office-of-personnel-management-federal-employees-group-life/part-2104-administrative-matters.md)
+- [PART 2105—PUBLICIZING CONTRACT ACTIONS](chapter-21-office-of-personnel-management-federal-employees-group-life/part-2105-publicizing-contract-actions.md)
+- [PART 2106—COMPETITION REQUIREMENTS](chapter-21-office-of-personnel-management-federal-employees-group-life/part-2106-competition-requirements.md)
+- [PART 2109—CONTRACTOR QUALIFICATIONS](chapter-21-office-of-personnel-management-federal-employees-group-life/part-2109-contractor-qualifications.md)
+- [PART 2110—SPECIFICATIONS, STANDARDS, AND OTHER PURCHASE DESCRIPTIONS](chapter-21-office-of-personnel-management-federal-employees-group-life/part-2110-specifications-standards-and-other-purchase-descriptions.md)
+- [PART 2114—SEALED BIDDING](chapter-21-office-of-personnel-management-federal-employees-group-life/part-2114-sealed-bidding.md)
+- [PART 2115—CONTRACTING BY NEGOTIATION](chapter-21-office-of-personnel-management-federal-employees-group-life/part-2115-contracting-by-negotiation.md)
+- [PART 2116—TYPES OF CONTRACTS](chapter-21-office-of-personnel-management-federal-employees-group-life/part-2116-types-of-contracts.md)
+- [PART 2122—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS](chapter-21-office-of-personnel-management-federal-employees-group-life/part-2122-application-of-labor-laws-to-government-acquisitions.md)
+- [PART 2124—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION](chapter-21-office-of-personnel-management-federal-employees-group-life/part-2124-protection-of-privacy-and-freedom-of-information.md)
+- [PART 2128—BONDS AND INSURANCE](chapter-21-office-of-personnel-management-federal-employees-group-life/part-2128-bonds-and-insurance.md)
+- [PART 2129—TAXES](chapter-21-office-of-personnel-management-federal-employees-group-life/part-2129-taxes.md)
+- [PART 2131—CONTRACT COST PRINCIPLES AND PROCEDURES](chapter-21-office-of-personnel-management-federal-employees-group-life/part-2131-contract-cost-principles-and-procedures.md)
+- [PART 2132—CONTRACT FINANCING](chapter-21-office-of-personnel-management-federal-employees-group-life/part-2132-contract-financing.md)
+- PART 2133 [RESERVED]
+- [PART 2137—SERVICE CONTRACTING](chapter-21-office-of-personnel-management-federal-employees-group-life/part-2137-service-contracting.md)
+- [PART 2143—CONTRACT MODIFICATIONS](chapter-21-office-of-personnel-management-federal-employees-group-life/part-2143-contract-modifications.md)
+- [PART 2144—SUBCONTRACTING POLICIES AND PROCEDURES](chapter-21-office-of-personnel-management-federal-employees-group-life/part-2144-subcontracting-policies-and-procedures.md)
+- [PART 2146—QUALITY ASSURANCE](chapter-21-office-of-personnel-management-federal-employees-group-life/part-2146-quality-assurance.md)
+- [PART 2149—TERMINATION OF CONTRACTS](chapter-21-office-of-personnel-management-federal-employees-group-life/part-2149-termination-of-contracts.md)
+- [PART 2152—PRECONTRACT PROVISIONS AND CONTRACT CLAUSES](chapter-21-office-of-personnel-management-federal-employees-group-life/part-2152-precontract-provisions-and-contract-clauses.md)
+- PARTS 2153-2199 [RESERVED]
+
+## CHAPTER 23—SOCIAL SECURITY ADMINISTRATION
+
+- PART 2300 [RESERVED]
+- [PART 2301—SOCIAL SECURITY ACQUISITION REGULATION SYSTEM](chapter-23-social-security-administration/part-2301-social-security-acquisition-regulation-system.md)
+- PARTS 2302-2399 [RESERVED]
+
+## CHAPTER 24—DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
+
+- PART 2400 [RESERVED]
+- [PART 2401—FEDERAL ACQUISITION REGULATION SYSTEM](chapter-24-department-of-housing-and-urban-development/part-2401-federal-acquisition-regulation-system.md)
+- [PART 2402—DEFINITIONS OF WORDS AND TERMS](chapter-24-department-of-housing-and-urban-development/part-2402-definitions-of-words-and-terms.md)
+- [PART 2403—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST](chapter-24-department-of-housing-and-urban-development/part-2403-improper-business-practices-and-personal-conflicts-of.md)
+- [PART 2404—ADMINISTRATIVE MATTERS](chapter-24-department-of-housing-and-urban-development/part-2404-administrative-matters.md)
+- [PART 2405—PUBLICIZING CONTRACT ACTIONS](chapter-24-department-of-housing-and-urban-development/part-2405-publicizing-contract-actions.md)
+- [PART 2406—COMPETITION REQUIREMENTS](chapter-24-department-of-housing-and-urban-development/part-2406-competition-requirements.md)
+- [PART 2407—ACQUISITION PLANNING](chapter-24-department-of-housing-and-urban-development/part-2407-acquisition-planning.md)
+- [PART 2408—REQUIRED SOURCES OF SUPPLIES AND SERVICES](chapter-24-department-of-housing-and-urban-development/part-2408-required-sources-of-supplies-and-services.md)
+- [PART 2409—CONTRACTOR QUALIFICATIONS](chapter-24-department-of-housing-and-urban-development/part-2409-contractor-qualifications.md)
+- PART 2411 [RESERVED]
+- [PART 2413—SIMPLIFIED ACQUISITION PROCEDURES](chapter-24-department-of-housing-and-urban-development/part-2413-simplified-acquisition-procedures.md)
+- [PART 2414—SEALED BIDDING](chapter-24-department-of-housing-and-urban-development/part-2414-sealed-bidding.md)
+- [PART 2415—CONTRACTING BY NEGOTIATION](chapter-24-department-of-housing-and-urban-development/part-2415-contracting-by-negotiation.md)
+- [PART 2416—TYPES OF CONTRACTS](chapter-24-department-of-housing-and-urban-development/part-2416-types-of-contracts.md)
+- [PART 2417—SPECIAL CONTRACTING METHODS](chapter-24-department-of-housing-and-urban-development/part-2417-special-contracting-methods.md)
+- [PART 2419—SMALL BUSINESS PROGRAMS](chapter-24-department-of-housing-and-urban-development/part-2419-small-business-programs.md)
+- PART 2420 [RESERVED]
+- [PART 2422—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS](chapter-24-department-of-housing-and-urban-development/part-2422-application-of-labor-laws-to-government-acquisitions.md)
+- [PART 2424—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION](chapter-24-department-of-housing-and-urban-development/part-2424-protection-of-privacy-and-freedom-of-information.md)
+- [PART 2425—TRADE AGREEMENTS ACT](chapter-24-department-of-housing-and-urban-development/part-2425-trade-agreements-act.md)
+- [PART 2426—OTHER SOCIOECONOMIC PROGRAMS](chapter-24-department-of-housing-and-urban-development/part-2426-other-socioeconomic-programs.md)
+- [PART 2427—PATENTS, DATA, AND COPYRIGHTS](chapter-24-department-of-housing-and-urban-development/part-2427-patents-data-and-copyrights.md)
+- [PART 2428—BONDS AND INSURANCE](chapter-24-department-of-housing-and-urban-development/part-2428-bonds-and-insurance.md)
+- [PART 2429—TAXES](chapter-24-department-of-housing-and-urban-development/part-2429-taxes.md)
+- [PART 2432—CONTRACT FINANCING](chapter-24-department-of-housing-and-urban-development/part-2432-contract-financing.md)
+- [PART 2433—PROTESTS, DISPUTES, AND APPEALS](chapter-24-department-of-housing-and-urban-development/part-2433-protests-disputes-and-appeals.md)
+- [PART 2434—MAJOR SYSTEM ACQUISITIONS](chapter-24-department-of-housing-and-urban-development/part-2434-major-system-acquisitions.md)
+- [PART 2436—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS](chapter-24-department-of-housing-and-urban-development/part-2436-construction-and-architect-engineer-contracts.md)
+- [PART 2437—SERVICE CONTRACTING](chapter-24-department-of-housing-and-urban-development/part-2437-service-contracting.md)
+- [PART 2439—ACQUISITION OF INFORMATION TECHNOLOGY](chapter-24-department-of-housing-and-urban-development/part-2439-acquisition-of-information-technology.md)
+- [PART 2442—CONTRACT ADMINISTRATION AND AUDIT SERVICES](chapter-24-department-of-housing-and-urban-development/part-2442-contract-administration-and-audit-services.md)
+- [PART 2444—SUBCONTRACTING POLICIES AND PROCEDURES](chapter-24-department-of-housing-and-urban-development/part-2444-subcontracting-policies-and-procedures.md)
+- [PART 2446—QUALITY ASSURANCE](chapter-24-department-of-housing-and-urban-development/part-2446-quality-assurance.md)
+- [PART 2448—VALUE ENGINEERING](chapter-24-department-of-housing-and-urban-development/part-2448-value-engineering.md)
+- [PART 2449—TERMINATION OF CONTRACTS](chapter-24-department-of-housing-and-urban-development/part-2449-termination-of-contracts.md)
+- [PART 2451—USE OF GOVERNMENT SOURCES BY CONTRACTORS](chapter-24-department-of-housing-and-urban-development/part-2451-use-of-government-sources-by-contractors.md)
+- [PART 2452—SOLICITATION PROVISIONS AND CONTRACT CLAUSES](chapter-24-department-of-housing-and-urban-development/part-2452-solicitation-provisions-and-contract-clauses.md)
+- [PART 2453—FORMS](chapter-24-department-of-housing-and-urban-development/part-2453-forms.md)
+- PARTS 2454-2499 [RESERVED]
+
+## CHAPTER 25—NATIONAL SCIENCE FOUNDATION
+
+- PART 2500 [RESERVED]
+- [PART 2501—FEDERAL ACQUISITION REGULATIONS SYSTEM](chapter-25-national-science-foundation/part-2501-federal-acquisition-regulations-system.md)
+- [PART 2509—CONTRACTOR QUALIFICATIONS](chapter-25-national-science-foundation/part-2509-contractor-qualifications.md)
+- [PART 2515—CONTRACTING BY NEGOTIATION](chapter-25-national-science-foundation/part-2515-contracting-by-negotiation.md)
+- [PART 2527—PATENTS, DATA, AND COPYRIGHTS](chapter-25-national-science-foundation/part-2527-patents-data-and-copyrights.md)
+- [PART 2532—CONTRACT FINANCING](chapter-25-national-science-foundation/part-2532-contract-financing.md)
+- PARTS 2533-2599 [RESERVED]
+
+## CHAPTER 28—DEPARTMENT OF JUSTICE
+
+- [PART 2801—DEPARTMENT OF JUSTICE ACQUISITION REGULATION SYSTEM](chapter-28-department-of-justice/part-2801-department-of-justice-acquisition-regulation-system.md)
+- [PART 2802—DEFINITIONS OF WORDS AND TERMS](chapter-28-department-of-justice/part-2802-definitions-of-words-and-terms.md)
+- [PART 2803—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST](chapter-28-department-of-justice/part-2803-improper-business-practices-and-personal-conflicts-of.md)
+- [PART 2804—ADMINISTRATIVE MATTERS](chapter-28-department-of-justice/part-2804-administrative-matters.md)
+- [PART 2805—PUBLICIZING CONTRACT ACTIONS](chapter-28-department-of-justice/part-2805-publicizing-contract-actions.md)
+- [PART 2806—COMPETITION REQUIREMENTS](chapter-28-department-of-justice/part-2806-competition-requirements.md)
+- [PART 2807—ACQUISITION PLANNING](chapter-28-department-of-justice/part-2807-acquisition-planning.md)
+- [PART 2808—REQUIRED SOURCES OF SUPPLIES AND SERVICES](chapter-28-department-of-justice/part-2808-required-sources-of-supplies-and-services.md)
+- [PART 2809—CONTRACTOR QUALIFICATIONS](chapter-28-department-of-justice/part-2809-contractor-qualifications.md)
+- [PART 2810—MARKET RESEARCH](chapter-28-department-of-justice/part-2810-market-research.md)
+- [PART 2811—DESCRIBING AGENCY NEEDS](chapter-28-department-of-justice/part-2811-describing-agency-needs.md)
+- [PART 2812—ACQUISITION OF COMMERCIAL ITEMS](chapter-28-department-of-justice/part-2812-acquisition-of-commercial-items.md)
+- [PART 2813—SIMPLIFIED ACQUISITION PROCEDURES](chapter-28-department-of-justice/part-2813-simplified-acquisition-procedures.md)
+- [PART 2814—SEALED BIDDING](chapter-28-department-of-justice/part-2814-sealed-bidding.md)
+- [PART 2815—CONTRACTING BY NEGOTIATION](chapter-28-department-of-justice/part-2815-contracting-by-negotiation.md)
+- [PART 2816—TYPES OF CONTRACTS](chapter-28-department-of-justice/part-2816-types-of-contracts.md)
+- [PART 2817—SPECIAL CONTRACTING METHODS](chapter-28-department-of-justice/part-2817-special-contracting-methods.md)
+- [PART 2819—SMALL BUSINESS PROGRAMS](chapter-28-department-of-justice/part-2819-small-business-programs.md)
+- [PART 2822—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS](chapter-28-department-of-justice/part-2822-application-of-labor-laws-to-government-acquisitions.md)
+- [PART 2823—ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE](chapter-28-department-of-justice/part-2823-environment-energy-and-water-efficiency-renewable-energy.md)
+- [PART 2825—FOREIGN ACQUISITION](chapter-28-department-of-justice/part-2825-foreign-acquisition.md)
+- [PART 2827—PATENTS, DATA, AND COPYRIGHTS](chapter-28-department-of-justice/part-2827-patents-data-and-copyrights.md)
+- [PART 2828—BONDS AND INSURANCE](chapter-28-department-of-justice/part-2828-bonds-and-insurance.md)
+- [PART 2829—TAXES](chapter-28-department-of-justice/part-2829-taxes.md)
+- [PART 2830—COST ACCOUNTING STANDARDS ADMINISTRATION](chapter-28-department-of-justice/part-2830-cost-accounting-standards-administration.md)
+- [PART 2831—CONTRACT COST PRINCIPLES AND PROCEDURES](chapter-28-department-of-justice/part-2831-contract-cost-principles-and-procedures.md)
+- [PART 2832—CONTRACT FINANCING](chapter-28-department-of-justice/part-2832-contract-financing.md)
+- [PART 2833—PROTESTS, DISPUTES, AND APPEALS](chapter-28-department-of-justice/part-2833-protests-disputes-and-appeals.md)
+- [PART 2834—MAJOR SYSTEM ACQUISITION](chapter-28-department-of-justice/part-2834-major-system-acquisition.md)
+- [PART 2836—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS](chapter-28-department-of-justice/part-2836-construction-and-architect-engineer-contracts.md)
+- [PART 2837—SERVICE CONTRACTING](chapter-28-department-of-justice/part-2837-service-contracting.md)
+- [PART 2839—ACQUISITION OF INFORMATION TECHNOLOGY](chapter-28-department-of-justice/part-2839-acquisition-of-information-technology.md)
+- [PART 2841—ACQUISITION OF UTILITY SERVICES](chapter-28-department-of-justice/part-2841-acquisition-of-utility-services.md)
+- [PART 2842—CONTRACT ADMINISTRATION AND AUDIT SERVICES](chapter-28-department-of-justice/part-2842-contract-administration-and-audit-services.md)
+- [PART 2845—GOVERNMENT PROPERTY](chapter-28-department-of-justice/part-2845-government-property.md)
+- [PART 2846—QUALITY ASSURANCE](chapter-28-department-of-justice/part-2846-quality-assurance.md)
+- [PART 2848—VALUE ENGINEERING](chapter-28-department-of-justice/part-2848-value-engineering.md)
+- [PART 2849—TERMINATION OF CONTRACTS](chapter-28-department-of-justice/part-2849-termination-of-contracts.md)
+- [PART 2850—EXTRAORDINARY CONTRACTUAL ACTIONS AND THE SAFETY ACT](chapter-28-department-of-justice/part-2850-extraordinary-contractual-actions-and-the-safety-act.md)
+- [PART 2852—SOLICITATION PROVISIONS AND CONTRACT CLAUSES](chapter-28-department-of-justice/part-2852-solicitation-provisions-and-contract-clauses.md)
+- PARTS 2853-2899 [RESERVED]
+
+## CHAPTER 29—DEPARTMENT OF LABOR
+
+- [PART 2901—DEPARTMENT OF LABOR ACQUISITION REGULATION SYSTEM](chapter-29-department-of-labor/part-2901-department-of-labor-acquisition-regulation-system.md)
+- [PART 2902—DEFINITIONS OF WORDS AND TERMS](chapter-29-department-of-labor/part-2902-definitions-of-words-and-terms.md)
+- [PART 2903—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST](chapter-29-department-of-labor/part-2903-improper-business-practices-and-personal-conflicts-of.md)
+- [PART 2904—ADMINISTRATIVE AND INFORMATION MATTERS](chapter-29-department-of-labor/part-2904-administrative-and-information-matters.md)
+- [PART 2905—PUBLICIZING CONTRACT ACTIONS](chapter-29-department-of-labor/part-2905-publicizing-contract-actions.md)
+- PART 2906 [RESERVED]
+- [PART 2907—ACQUISITION PLANNING](chapter-29-department-of-labor/part-2907-acquisition-planning.md)
+- PART 2908 [RESERVED]
+- [PART 2909—CONTRACTOR QUALIFICATIONS](chapter-29-department-of-labor/part-2909-contractor-qualifications.md)
+- PART 2910 [RESERVED]
+- [PART 2911—DESCRIBING AGENCY NEEDS](chapter-29-department-of-labor/part-2911-describing-agency-needs.md)
+- PART 2912 [RESERVED]
+- PART 2913-2914 [RESERVED]
+- [PART 2915—CONTRACTING BY NEGOTIATION](chapter-29-department-of-labor/part-2915-contracting-by-negotiation.md)
+- PARTS 2916-2918 [RESERVED]
+- [PART 2919—SMALL BUSINESS PROGRAMS](chapter-29-department-of-labor/part-2919-small-business-programs.md)
+- PARTS 2920-2923 [RESERVED]
+- [PART 2924—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION](chapter-29-department-of-labor/part-2924-protection-of-privacy-and-freedom-of-information.md)
+- PARTS 2925-2926 [RESERVED]
+- PART 2927 [RESERVED]
+- [PART 2928—BONDS AND INSURANCE](chapter-29-department-of-labor/part-2928-bonds-and-insurance.md)
+- PARTS 2929-2931 [RESERVED]
+- [PART 2932—CONTRACT FINANCING](chapter-29-department-of-labor/part-2932-contract-financing.md)
+- [PART 2933—PROTESTS, DISPUTES, AND APPEALS](chapter-29-department-of-labor/part-2933-protests-disputes-and-appeals.md)
+- PARTS 2934-2936 [RESERVED]
+- [PART 2937—SERVICE CONTRACTING](chapter-29-department-of-labor/part-2937-service-contracting.md)
+- PART 2938 [RESERVED]
+- [PART 2939—ACQUISITION OF INFORMATION TECHNOLOGY](chapter-29-department-of-labor/part-2939-acquisition-of-information-technology.md)
+- PARTS 2940-2941 [RESERVED]
+- [PART 2942—CONTRACT ADMINISTRATION AND AUDIT SERVICES](chapter-29-department-of-labor/part-2942-contract-administration-and-audit-services.md)
+- [PART 2943—CONTRACT MODIFICATIONS](chapter-29-department-of-labor/part-2943-contract-modifications.md)
+- PART 2944 [RESERVED]
+- [PART 2945—GOVERNMENT PROPERTY](chapter-29-department-of-labor/part-2945-government-property.md)
+- PARTS 2946-2951 [RESERVED]
+- [PART 2952—SOLICITATION PROVISIONS AND CONTRACT CLAUSES](chapter-29-department-of-labor/part-2952-solicitation-provisions-and-contract-clauses.md)
+- PARTS 2953-2999 [RESERVED]
+
+## CHAPTER 30—DEPARTMENT OF HOMELAND SECURITY, HOMELAND SECURITY ACQUISITION REGULATION (HSAR)
+
+- PART 3000 [RESERVED]
+- [PART 3001—FEDERAL ACQUISITION REGULATIONS SYSTEM](chapter-30-department-of-homeland-security-homeland-security/part-3001-federal-acquisition-regulations-system.md)
+- [PART 3002—DEFINITIONS OF WORDS AND TERMS](chapter-30-department-of-homeland-security-homeland-security/part-3002-definitions-of-words-and-terms.md)
+- [PART 3003—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST](chapter-30-department-of-homeland-security-homeland-security/part-3003-improper-business-practices-and-personal-conflicts-of.md)
+- [PART 3004—ADMINISTRATIVE MATTERS](chapter-30-department-of-homeland-security-homeland-security/part-3004-administrative-matters.md)
+- [PART 3005—PUBLICIZING CONTRACT ACTIONS](chapter-30-department-of-homeland-security-homeland-security/part-3005-publicizing-contract-actions.md)
+- [PART 3006—COMPETITION REQUIREMENTS](chapter-30-department-of-homeland-security-homeland-security/part-3006-competition-requirements.md)
+- [PART 3007—ACQUISITION PLANNING](chapter-30-department-of-homeland-security-homeland-security/part-3007-acquisition-planning.md)
+- PART 3008—REQUIRED SOURCES OF SUPPLIES AND SERVICES [RESERVED]
+- [PART 3009—CONTRACTOR QUALIFICATIONS](chapter-30-department-of-homeland-security-homeland-security/part-3009-contractor-qualifications.md)
+- PART 3010—MARKET RESEARCH [RESERVED]
+- [PART 3011—DESCRIBING AGENCY NEEDS](chapter-30-department-of-homeland-security-homeland-security/part-3011-describing-agency-needs.md)
+- [PART 3012—ACQUISITION OF COMMERCIAL ITEMS](chapter-30-department-of-homeland-security-homeland-security/part-3012-acquisition-of-commercial-items.md)
+- PART 3013 [RESERVED]
+- PART 3014—SEALED BIDDING [RESERVED]
+- [PART 3015—CONTRACTING BY NEGOTIATION](chapter-30-department-of-homeland-security-homeland-security/part-3015-contracting-by-negotiation.md)
+- [PART 3016—TYPES OF CONTRACTS](chapter-30-department-of-homeland-security-homeland-security/part-3016-types-of-contracts.md)
+- [PART 3017—SPECIAL CONTRACTING METHODS](chapter-30-department-of-homeland-security-homeland-security/part-3017-special-contracting-methods.md)
+- [PART 3018—EMERGENCY ACQUISITIONS](chapter-30-department-of-homeland-security-homeland-security/part-3018-emergency-acquisitions.md)
+- [PART 3019—SMALL BUSINESS PROGRAMS](chapter-30-department-of-homeland-security-homeland-security/part-3019-small-business-programs.md)
+- PART 3020-3021 [RESERVED]
+- [PART 3022—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS](chapter-30-department-of-homeland-security-homeland-security/part-3022-application-of-labor-laws-to-government-acquisitions.md)
+- [PART 3023—ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE](chapter-30-department-of-homeland-security-homeland-security/part-3023-environment-energy-and-water-efficiency-renewable-energy.md)
+- [PART 3024—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION](chapter-30-department-of-homeland-security-homeland-security/part-3024-protection-of-privacy-and-freedom-of-information.md)
+- [PART 3025—FOREIGN ACQUISITION](chapter-30-department-of-homeland-security-homeland-security/part-3025-foreign-acquisition.md)
+- PART 3026—OTHER SOCIOECONOMIC PROGRAMS [RESERVED]
+- [PART 3027—PATENTS, DATA, AND COPYRIGHTS](chapter-30-department-of-homeland-security-homeland-security/part-3027-patents-data-and-copyrights.md)
+- [PART 3028—BONDS AND INSURANCE](chapter-30-department-of-homeland-security-homeland-security/part-3028-bonds-and-insurance.md)
+- PART 3029—TAXES [RESERVED]
+- [PART 3030—COST ACCOUNTING STANDARDS ADMINISTRATION](chapter-30-department-of-homeland-security-homeland-security/part-3030-cost-accounting-standards-administration.md)
+- [PART 3031—CONTRACT COST PRINCIPLES AND PROCEDURES](chapter-30-department-of-homeland-security-homeland-security/part-3031-contract-cost-principles-and-procedures.md)
+- [PART 3032—CONTRACT FINANCING](chapter-30-department-of-homeland-security-homeland-security/part-3032-contract-financing.md)
+- [PART 3033—PROTESTS, DISPUTES, AND APPEALS](chapter-30-department-of-homeland-security-homeland-security/part-3033-protests-disputes-and-appeals.md)
+- [PART 3034—MAJOR SYSTEM ACQUISITION](chapter-30-department-of-homeland-security-homeland-security/part-3034-major-system-acquisition.md)
+- [PART 3035—RESEARCH AND DEVELOPMENT CONTRACTING](chapter-30-department-of-homeland-security-homeland-security/part-3035-research-and-development-contracting.md)
+- [PART 3036—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS](chapter-30-department-of-homeland-security-homeland-security/part-3036-construction-and-architect-engineer-contracts.md)
+- [PART 3037—SERVICE CONTRACTING](chapter-30-department-of-homeland-security-homeland-security/part-3037-service-contracting.md)
+- PART 3038—FEDERAL SUPPLY SCHEDULE CONTRACTING [RESERVED]
+- PART 3039—ACQUISITION OF INFORMATION TECHNOLOGY [RESERVED]
+- PART 3040 [RESERVED]
+- PART 3041—ACQUISITION OF UTILITY SERVICES [RESERVED]
+- [PART 3042—CONTRACT ADMINISTRATION AND AUDIT SERVICES](chapter-30-department-of-homeland-security-homeland-security/part-3042-contract-administration-and-audit-services.md)
+- PART 3043—CONTRACT MODIFICATIONS [RESERVED]
+- PART 3044—SUBCONTRACTING POLICIES AND PROCEDURES [RESERVED]
+- [PART 3046—QUALITY ASSURANCE](chapter-30-department-of-homeland-security-homeland-security/part-3046-quality-assurance.md)
+- [PART 3047—TRANSPORTATION](chapter-30-department-of-homeland-security-homeland-security/part-3047-transportation.md)
+- PART 3048—VALUE ENGINEERING [RESERVED]
+- [PART 3049—TERMINATION OF CONTRACTS](chapter-30-department-of-homeland-security-homeland-security/part-3049-termination-of-contracts.md)
+- PART 3050—EXTRAORDINARY CONTRACTUAL ACTIONS [RESERVED]
+- PART 3051—USE OF GOVERNMENT SOURCES BY CONTRACTORS [RESERVED]
+- [PART 3052—SOLICITATION PROVISIONS AND CONTRACT CLAUSES](chapter-30-department-of-homeland-security-homeland-security/part-3052-solicitation-provisions-and-contract-clauses.md)
+- [PART 3053—FORMS](chapter-30-department-of-homeland-security-homeland-security/part-3053-forms.md)
+- PARTS 3054-3099 [RESERVED]
+
+## CHAPTER 34—DEPARTMENT OF EDUCATION ACQUISITION REGULATION
+
+- [PART 3401—ED ACQUISITION REGULATION SYSTEM](chapter-34-department-of-education-acquisition-regulation/part-3401-ed-acquisition-regulation-system.md)
+- [PART 3402—DEFINITIONS OF WORDS AND TERMS](chapter-34-department-of-education-acquisition-regulation/part-3402-definitions-of-words-and-terms.md)
+- [PART 3403—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST](chapter-34-department-of-education-acquisition-regulation/part-3403-improper-business-practices-and-personal-conflicts-of.md)
+- [PART 3404—ADMINISTRATIVE AND INFORMATION MATTERS](chapter-34-department-of-education-acquisition-regulation/part-3404-administrative-and-information-matters.md)
+- [PART 3405—PUBLICIZING CONTRACT ACTIONS](chapter-34-department-of-education-acquisition-regulation/part-3405-publicizing-contract-actions.md)
+- [PART 3406—COMPETITION REQUIREMENTS](chapter-34-department-of-education-acquisition-regulation/part-3406-competition-requirements.md)
+- [PART 3407—ACQUISITION PLANNING](chapter-34-department-of-education-acquisition-regulation/part-3407-acquisition-planning.md)
+- [PART 3408—REQUIRED SOURCES OF SUPPLIES AND SERVICES](chapter-34-department-of-education-acquisition-regulation/part-3408-required-sources-of-supplies-and-services.md)
+- [PART 3409—CONTRACTOR QUALIFICATIONS](chapter-34-department-of-education-acquisition-regulation/part-3409-contractor-qualifications.md)
+- [PART 3412—ACQUISITION OF COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES](chapter-34-department-of-education-acquisition-regulation/part-3412-acquisition-of-commercial-products-and-commercial-services.md)
+- [PART 3413—SIMPLIFIED ACQUISITION PROCEDURES](chapter-34-department-of-education-acquisition-regulation/part-3413-simplified-acquisition-procedures.md)
+- [PART 3414—SEALED BIDDING](chapter-34-department-of-education-acquisition-regulation/part-3414-sealed-bidding.md)
+- [PART 3415—CONTRACTING BY NEGOTIATION](chapter-34-department-of-education-acquisition-regulation/part-3415-contracting-by-negotiation.md)
+- [PART 3416—TYPES OF CONTRACTS](chapter-34-department-of-education-acquisition-regulation/part-3416-types-of-contracts.md)
+- [PART 3417—SPECIAL CONTRACTING METHODS](chapter-34-department-of-education-acquisition-regulation/part-3417-special-contracting-methods.md)
+- [PART 3419—SMALL BUSINESS PROGRAMS](chapter-34-department-of-education-acquisition-regulation/part-3419-small-business-programs.md)
+- [PART 3422—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS](chapter-34-department-of-education-acquisition-regulation/part-3422-application-of-labor-laws-to-government-acquisitions.md)
+- [PART 3424—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION](chapter-34-department-of-education-acquisition-regulation/part-3424-protection-of-privacy-and-freedom-of-information.md)
+- [PART 3425—FOREIGN ACQUISITION](chapter-34-department-of-education-acquisition-regulation/part-3425-foreign-acquisition.md)
+- [PART 3427—PATENTS, DATA, AND COPYRIGHTS](chapter-34-department-of-education-acquisition-regulation/part-3427-patents-data-and-copyrights.md)
+- [PART 3428—BONDS AND INSURANCE](chapter-34-department-of-education-acquisition-regulation/part-3428-bonds-and-insurance.md)
+- [PART 3430—COST ACCOUNTING STANDARDS ADMINISTRATION](chapter-34-department-of-education-acquisition-regulation/part-3430-cost-accounting-standards-administration.md)
+- [PART 3431—CONTRACT COST PRINCIPLES AND PROCEDURES](chapter-34-department-of-education-acquisition-regulation/part-3431-contract-cost-principles-and-procedures.md)
+- [PART 3432—CONTRACT FINANCING](chapter-34-department-of-education-acquisition-regulation/part-3432-contract-financing.md)
+- [PART 3433—PROTESTS, DISPUTES, AND APPEALS](chapter-34-department-of-education-acquisition-regulation/part-3433-protests-disputes-and-appeals.md)
+- [PART 3437—SERVICE CONTRACTING](chapter-34-department-of-education-acquisition-regulation/part-3437-service-contracting.md)
+- [PART 3439—ACQUISITION OF INFORMATION TECHNOLOGY](chapter-34-department-of-education-acquisition-regulation/part-3439-acquisition-of-information-technology.md)
+- [PART 3442—CONTRACT ADMINISTRATION AND AUDIT SERVICES](chapter-34-department-of-education-acquisition-regulation/part-3442-contract-administration-and-audit-services.md)
+- [PART 3443—CONTRACT MODIFICATIONS](chapter-34-department-of-education-acquisition-regulation/part-3443-contract-modifications.md)
+- [PART 3445—GOVERNMENT PROPERTY](chapter-34-department-of-education-acquisition-regulation/part-3445-government-property.md)
+- [PART 3447—TRANSPORTATION](chapter-34-department-of-education-acquisition-regulation/part-3447-transportation.md)
+- [PART 3452—SOLICITATION PROVISIONS AND CONTRACT CLAUSES](chapter-34-department-of-education-acquisition-regulation/part-3452-solicitation-provisions-and-contract-clauses.md)
+
+## CHAPTER 52—DEPARTMENT OF THE NAVY ACQUISITION REGULATIONS
+
+- PARTS 5200-5215 [RESERVED]
+- [PART 5231—CONTRACT COST PRINCIPLES AND PROCEDURES](chapter-52-department-of-the-navy-acquisition-regulations/part-5231-contract-cost-principles-and-procedures.md)
+- PARTS 5242-5299 [RESERVED]
+
+## CHAPTER 54—DEFENSE LOGISTICS AGENCY, DEPARTMENT OF DEFENSE
+
+- PARTS 5400-5415 [RESERVED]
+- [PART 5416—TYPES OF CONTRACTS](chapter-54-defense-logistics-agency-department-of-defense/part-5416-types-of-contracts.md)
+- [PART 5433—PROTESTS, DISPUTES AND APPEALS](chapter-54-defense-logistics-agency-department-of-defense/part-5433-protests-disputes-and-appeals.md)
+- [PART 5452—SOLICITATION PROVISIONS AND CONTRACT CLAUSES](chapter-54-defense-logistics-agency-department-of-defense/part-5452-solicitation-provisions-and-contract-clauses.md)
+- PARTS 5453-5499 [RESERVED]
+
+## CHAPTER 57—AFRICAN DEVELOPMENT FOUNDATION
+
+- PARTS 5700-5705 [RESERVED]
+- [PART 5706—COMPETITION REQUIREMENTS](chapter-57-african-development-foundation/part-5706-competition-requirements.md)
+- PARTS 5707-5799 [RESERVED]
+
+## CHAPTER 61—CIVILIAN BOARD OF CONTRACT APPEALS, GENERAL SERVICES ADMINISTRATION
+
+- [PART 6100—RULES OF PROCEDURE OF THE CIVILIAN BOARD OF CONTRACT APPEALS](chapter-61-civilian-board-of-contract-appeals-general-services/part-6100-rules-of-procedure-of-the-civilian-board-of-contract-appeals.md)
+- [PART 6101—CONTRACT DISPUTES](chapter-61-civilian-board-of-contract-appeals-general-services/part-6101-contract-disputes.md)
+- [PART 6102—CROP INSURANCE CASES](chapter-61-civilian-board-of-contract-appeals-general-services/part-6102-crop-insurance-cases.md)
+- [PART 6103—TRANSPORTATION RATE CASES](chapter-61-civilian-board-of-contract-appeals-general-services/part-6103-transportation-rate-cases.md)
+- [PART 6104—TRAVEL AND RELOCATION EXPENSES CASES](chapter-61-civilian-board-of-contract-appeals-general-services/part-6104-travel-and-relocation-expenses-cases.md)
+- [PART 6105—DECISIONS AUTHORIZED UNDER 31 U.S.C. 3529](chapter-61-civilian-board-of-contract-appeals-general-services/part-6105-decisions-authorized-under-31-u-s-c-3529.md)
+- [PART 6106—ARBITRATION OF PUBLIC ASSISTANCE ELIGIBILITY OR REPAYMENT](chapter-61-civilian-board-of-contract-appeals-general-services/part-6106-arbitration-of-public-assistance-eligibility-or-repayment.md)
+- [PART 6107—ADMINISTRATIVE FALSE CLAIMS ACT REFERRALS](chapter-61-civilian-board-of-contract-appeals-general-services/part-6107-administrative-false-claims-act-referrals.md)
+- PARTS 6108-6199 [RESERVED]
+
+## CHAPTER 99—COST ACCOUNTING STANDARDS BOARD, OFFICE OF FEDERAL PROCUREMENT POLICY, OFFICE OF MANAGEMENT AND BUDGET
+
+- [PART 9900—SCOPE OF CHAPTER](chapter-99-cost-accounting-standards-board-office-of-federal/part-9900-scope-of-chapter.md)
+- [PART 9901—RULES AND PROCEDURES](chapter-99-cost-accounting-standards-board-office-of-federal/part-9901-rules-and-procedures.md)
+- PART 9902 [RESERVED]
+- [PART 9903—CONTRACT COVERAGE](chapter-99-cost-accounting-standards-board-office-of-federal/part-9903-contract-coverage.md)
+- [PART 9904—COST ACCOUNTING STANDARDS](chapter-99-cost-accounting-standards-board-office-of-federal/part-9904-cost-accounting-standards.md)
+- [PART 9905—COST ACCOUNTING STANDARDS FOR EDUCATIONAL INSTITUTIONS](chapter-99-cost-accounting-standards-board-office-of-federal/part-9905-cost-accounting-standards-for-educational-institutions.md)
+- PARTS 9906-9999 [RESERVED]
